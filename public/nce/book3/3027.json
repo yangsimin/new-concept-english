@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "voaid": "3027",
+      "EndTiming": "5.1",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "不卖也不买",
+      "Sentence": "--- lesson 27  Nothing to sell and nothing to buy"
+    },
+    {
+      "voaid": "3027",
+      "EndTiming": "9.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.1",
+      "Sentence_cn": "据说每个人都靠出售某种东西来维持生活。",
+      "Sentence": "It has been said that everyone lives by selling something."
+    },
+    {
+      "voaid": "3027",
+      "EndTiming": "14.4",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.3",
+      "Sentence_cn": "根据这种说法，教师靠卖知识为生，",
+      "Sentence": "In the light of this statement, teachers live by selling knowledge,"
+    },
+    {
+      "voaid": "3027",
+      "EndTiming": "20.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "14.9",
+      "Sentence_cn": "哲学家靠卖智慧为生，牧师靠卖精神安慰为生。",
+      "Sentence": "philosophers by selling wisdom and priests by selling spiritual comfort."
+    },
+    {
+      "voaid": "3027",
+      "EndTiming": "27.4",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "20.9",
+      "Sentence_cn": "虽然物质产品的价值可以用金钱来衡量，",
+      "Sentence": "Though it may be possible to measure the value of material goods in terms of money,"
+    },
+    {
+      "voaid": "3027",
+      "EndTiming": "34.8",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "27.4",
+      "Sentence_cn": "但要估算别人为我们为所提供的服务的价值却是极其困难的。",
+      "Sentence": "it is extremely difficult to estimate the true value of the services which people perform for us."
+    },
+    {
+      "voaid": "3027",
+      "EndTiming": "41.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "35.5",
+      "Sentence_cn": "有时，我们为了挽救生命，愿意付出我们所占有的一切。",
+      "Sentence": "There are times when we would willingly give everything we possess to save our lives,"
+    },
+    {
+      "voaid": "3027",
+      "EndTiming": "48.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "41.5",
+      "Sentence_cn": "但就在外科大夫给我们提供了这种服务后，我们却可能为所支付的昂贵费用而抱怨。",
+      "Sentence": "yet we might grudge paying a surgeon a high fee for offering us precisely this service."
+    },
+    {
+      "voaid": "3027",
+      "EndTiming": "57.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "49.1",
+      "Sentence_cn": "社会上的情况就是如此，技术是必须付钱去买的，就像在商店里要花钱买商品一样。",
+      "Sentence": "The conditions of society are such that skills have to be paid for in the same way that goods are paid for at a shop."
+    },
+    {
+      "voaid": "3027",
+      "EndTiming": "59.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "57.5",
+      "Sentence_cn": "人人都有东西可以出售。",
+      "Sentence": "Everyone has something to sell."
+    },
+    {
+      "voaid": "3027",
+      "EndTiming": "64.7",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "60.7",
+      "Sentence_cn": "在这条普遍性的规律前面，好像只有流浪汉是个例外，",
+      "Sentence": "Tramps seem to be the only exception to this general rule."
+    },
+    {
+      "voaid": "3027",
+      "EndTiming": "71.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "65.2",
+      "Sentence_cn": "乞丐出售的几乎是他本人，以引起过路人的怜悯。",
+      "Sentence": "Beggars almost sell themselves as human beings to arouse the pity of passers-by."
+    },
+    {
+      "voaid": "3027",
+      "EndTiming": "73.8",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "71.7",
+      "Sentence_cn": "但真正的流浪汉并不是乞丐。",
+      "Sentence": "But real tramps are not beggars."
+    },
+    {
+      "voaid": "3027",
+      "EndTiming": "78.3",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "73.8",
+      "Sentence_cn": "他们既不出售任何东西，也不需要从别人那儿得到任何东西，",
+      "Sentence": "They have nothing to sell and require nothing from others."
+    },
+    {
+      "voaid": "3027",
+      "EndTiming": "83.8",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "78.8",
+      "Sentence_cn": "在追求独立自由的同时，他们并不牺牲为人的尊严。",
+      "Sentence": "In seeking independence, they do not sacrifice their human dignity."
+    },
+    {
+      "voaid": "3027",
+      "EndTiming": "89.5",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "84.1",
+      "Sentence_cn": "游浪汉可能会向你讨钱，但他从来不要你可怜他。",
+      "Sentence": "A tramp may ask you for money, but he will never ask you to feel sorry for him."
+    },
+    {
+      "voaid": "3027",
+      "EndTiming": "97.3",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "89.5",
+      "Sentence_cn": "他是故意地选择过那种生活的，并完全清楚以这种方式生活的后果。",
+      "Sentence": "He has deliberately chosen to lead the life he leads and is fully aware of the consequences."
+    },
+    {
+      "voaid": "3027",
+      "EndTiming": "107.7",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "97.8",
+      "Sentence_cn": "他可能从不知道下顿饭有无着落，但他不像有人那样被千万桩愁事所折磨。",
+      "Sentence": "He may never be sure where the next meal is coming from, but he is free from the thousands of anxieties which afflict other people."
+    },
+    {
+      "voaid": "3027",
+      "EndTiming": "115.4",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "108.3",
+      "Sentence_cn": "他几乎没有什么财产，这使他能够轻松自如地在各地奔波。",
+      "Sentence": "His few material possessions make it possible for him to move from place to place with ease."
+    },
+    {
+      "voaid": "3027",
+      "EndTiming": "123.6",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "116.2",
+      "Sentence_cn": "由于被迫在露天睡觉，他比我们中许多人都离大自然近得多。",
+      "Sentence": "By having to sleep in the open, he gets far closer to the world of nature than most of us ever do."
+    },
+    {
+      "voaid": "3027",
+      "EndTiming": "129.3",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "124.1",
+      "Sentence_cn": "为了生存，他可能会去打猎、乞讨，偶尔偷上一两回；",
+      "Sentence": "He may hunt, beg, or steal occasionally to keep himself alive;"
+    },
+    {
+      "voaid": "3027",
+      "EndTiming": "137.6",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "129.8",
+      "Sentence_cn": "确实需要的时候，他甚至可能干一点儿活，但他决不会牺牲自由。",
+      "Sentence": "he may even, in times of real need, do a little work; but he will never sacrifice his freedom."
+    },
+    {
+      "voaid": "3027",
+      "EndTiming": "143.6",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "138.1",
+      "Sentence_cn": "说起流浪汉，我们常常带有轻蔑并把他们与乞丐归为一类。",
+      "Sentence": "We often speak of tramps with contempt and put them in the same class as beggars,"
+    },
+    {
+      "voaid": "3027",
+      "EndTiming": "154.2",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "143.6",
+      "Sentence_cn": "但是，我们中有多少人能够坦率地说我们对流浪汉的简朴生活与无忧无虑的境况不感到有些羡慕呢?",
+      "Sentence": "but how many of us can honestly say that we have not felt a little envious of their simple way of life and their freedom from care?"
+    }
+  ],
+  "size": 24,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14593,14594,14595",
+    "title_cn": "不卖也不买",
+    "title": "Nothing to sell and nothing to buy"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_27.mp3"
+}

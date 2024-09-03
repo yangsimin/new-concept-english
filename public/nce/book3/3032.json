@@ -1,0 +1,219 @@
+{
+  "data": [
+    {
+      "voaid": "3032",
+      "EndTiming": "3.6",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "一艘沉船",
+      "Sentence": "--- lesson 32  A lost ship"
+    },
+    {
+      "voaid": "3032",
+      "EndTiming": "7.9",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.5",
+      "Sentence_cn": "打捞工作彻底失败了。",
+      "Sentence": "The salvage operation had been a complete failure."
+    },
+    {
+      "voaid": "3032",
+      "EndTiming": "15.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.3",
+      "Sentence_cn": "小船“埃尔科”号在巴伦支海搜寻了几个星期之后，正在返航途中。",
+      "Sentence": "The small ship, Elkor, which had been searching the Barents Sea for weeks, was on its way home."
+    },
+    {
+      "voaid": "3032",
+      "EndTiming": "22.1",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "15.7",
+      "Sentence_cn": "返航前，该船船长收到了大陆发来的电报，指示他们放弃这次搜寻。",
+      "Sentence": "A radio message from the mainland had been received by the ship's captain instructing him to give up the search."
+    },
+    {
+      "voaid": "3032",
+      "EndTiming": "26.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "22.8",
+      "Sentence_cn": "船长知道日后还会再作尝试，",
+      "Sentence": "The captain knew that another attempt would be made later,"
+    },
+    {
+      "voaid": "3032",
+      "EndTiming": "32.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "26.4",
+      "Sentence_cn": "因为他试图寻找的沉船上载有一批珍贵的金条。",
+      "Sentence": "for the sunken ship he was trying to find had been carrying a precious cargo of gold bullion."
+    },
+    {
+      "voaid": "3032",
+      "EndTiming": "38.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "33.1",
+      "Sentence_cn": "尽管船长接到了电报，他还是决定再试一试。",
+      "Sentence": "Despite the message, the captain of the Elkor decided to try once more."
+    },
+    {
+      "voaid": "3032",
+      "EndTiming": "46.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "39.1",
+      "Sentence_cn": "他们用结实的网把海床搜索了一遍。当一只箱子从海底被打捞上来时，甲板上人们激动不已。",
+      "Sentence": "The sea bed was scoured with powerful nets and there was tremendous excitement on board when a chest was raised from the bottom."
+    },
+    {
+      "voaid": "3032",
+      "EndTiming": "55.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "47.5",
+      "Sentence_cn": "船员们开始认为沉船找着了，但海底沉箱内的物品证明他们弄错了。",
+      "Sentence": "Though the crew were at first under the impression that the lost ship had been found, the contents of the chest proved them wrong."
+    },
+    {
+      "voaid": "3032",
+      "EndTiming": "60.9",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "55.5",
+      "Sentence_cn": "事实上，他们发现的是另一艘沉没多年的船。",
+      "Sentence": "What they had in fact found was a ship which had been sunk many years before."
+    },
+    {
+      "voaid": "3032",
+      "EndTiming": "66.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "61.1",
+      "Sentence_cn": "木箱内装有水手艾伦.菲尔丁的私人财物，",
+      "Sentence": "The chest contained the personal belongings of a seaman, Alan Fielding."
+    },
+    {
+      "voaid": "3032",
+      "EndTiming": "73.4",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "66.7",
+      "Sentence_cn": "其中有书箱、衣服、照片以及水手收到的妻子的来信。",
+      "Sentence": "There were books, clothing and photographs, together with letters which the seaman had once received from his wife."
+    },
+    {
+      "voaid": "3032",
+      "EndTiming": "79.1",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "74.0",
+      "Sentence_cn": "“埃尔科”号船长命令船员们尽量从沉船中打捞物品，",
+      "Sentence": "The captain of the Elkor ordered his men to salvage as much as possible from the wreck."
+    },
+    {
+      "voaid": "3032",
+      "EndTiming": "86.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "79.8",
+      "Sentence_cn": "但没发现什么值钱的东西，不过打捞出来的众多的物品还是引起了大家极大的兴趣。",
+      "Sentence": "Nothing of value was found, but the numerous items which were brought to the surface proved to be of great interest."
+    },
+    {
+      "voaid": "3032",
+      "EndTiming": "92.5",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "87.1",
+      "Sentence_cn": "从捞起的一门大炮来看，船长认为那艘船一定是艘巡洋舰。",
+      "Sentence": "From a heavy gun that was raised, the captain realized that the ship must have been a cruiser."
+    },
+    {
+      "voaid": "3032",
+      "EndTiming": "97.4",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "93.2",
+      "Sentence_cn": "另一只海底沉箱中装的是船上一位军官的财物，",
+      "Sentence": "In another chest, which contained the belongings of a ship's officer,"
+    },
+    {
+      "voaid": "3032",
+      "EndTiming": "103.7",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "98.0",
+      "Sentence_cn": "其中有一封写于1943年3月14日的信，但没有写完。",
+      "Sentence": "there was an unfinished letter which had been written on March 14th, 1943."
+    },
+    {
+      "voaid": "3032",
+      "EndTiming": "108.7",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "104.3",
+      "Sentence_cn": "从这封信中船长了解到沉船船名是“卡伦”号。",
+      "Sentence": "The captain learnt from the letter that the name of the lost ship was the Karen."
+    },
+    {
+      "voaid": "3032",
+      "EndTiming": "116.4",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "109.3",
+      "Sentence_cn": "打捞到的东西中最有价值的是船上的航海日志，其中有一部分仍然清晰可读。",
+      "Sentence": "The most valuable find of all was the ship's log book, parts of which it was still possible to read."
+    },
+    {
+      "voaid": "3032",
+      "EndTiming": "121.9",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "117.0",
+      "Sentence_cn": "据此，船长可以将所有的那些已经搞清的材料拼凑起来。",
+      "Sentence": "From this the captain was able to piece together all the information that had come to light."
+    },
+    {
+      "voaid": "3032",
+      "EndTiming": "128.4",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "122.7",
+      "Sentence_cn": "“卡伦”号当年在为其他船只护航驶往俄国的途中突然遭到敌方潜水艇鱼雷的袭击。",
+      "Sentence": "The Karen had been sailing in a convoy to Russia when she was torpedoed by an enemy submarine."
+    },
+    {
+      "voaid": "3032",
+      "EndTiming": "135.6",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "129.0",
+      "Sentence_cn": "这一说法在“埃尔科”号返航后得到国防部一位海军官员的证实。",
+      "Sentence": "This was later confirmed by a naval official at the Ministry of Defence after the Elkor had returned home."
+    },
+    {
+      "voaid": "3032",
+      "EndTiming": "139.4",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "136.1",
+      "Sentence_cn": "那次打捞到的所有物品均被送往军事博物馆。",
+      "Sentence": "All the items that were found were sent to the War Museum."
+    }
+  ],
+  "size": 23,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14608,14609",
+    "title_cn": "一艘沉船",
+    "title": "A lost ship"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_32.mp3"
+}

@@ -1,0 +1,237 @@
+{
+  "data": [
+    {
+      "voaid": "3011",
+      "EndTiming": "3.8",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "无罪",
+      "Sentence": "--- lesson 11  Not guilty"
+    },
+    {
+      "voaid": "3011",
+      "EndTiming": "7.2",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.0",
+      "Sentence_cn": "现在的海关官员往往相当宽容。",
+      "Sentence": "Customs Officers are quite tolerant these days,"
+    },
+    {
+      "voaid": "3011",
+      "EndTiming": "13.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "7.5",
+      "Sentence_cn": "但是，当你通过绿色通道，没有任何东西需要申报时，他们仍可以拦住你。",
+      "Sentence": "but they can still stop you when you are going through the Green Channel and have nothing to declare."
+    },
+    {
+      "voaid": "3011",
+      "EndTiming": "17.8",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "13.8",
+      "Sentence_cn": "甚至是最诚实的人也常弄得觉得有罪似的，",
+      "Sentence": "Even really honest people are often made to feel guilty."
+    },
+    {
+      "voaid": "3011",
+      "EndTiming": "28.7",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "18.2",
+      "Sentence_cn": "而老练的职业走私犯却即使在手提箱里藏着500只金表，却也处之泰然。",
+      "Sentence": "The hardened professional smuggler, on the other hand, is never troubled by such feelings, even if he has five hundred gold watches hidden in his suitcase."
+    },
+    {
+      "voaid": "3011",
+      "EndTiming": "37.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "29.3",
+      "Sentence_cn": "最近一次，我也出国归来，碰上一位特别好管闲事的年轻海关官员，他显然把我当成了走私犯。",
+      "Sentence": "When I returned from abroad recently, a particularly officious young Customs Officer clearly regarded me as a smuggler."
+    },
+    {
+      "voaid": "3011",
+      "EndTiming": "43.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "38.0",
+      "Sentence_cn": "“您有什么需要申报的吗?”他直盯着我的眼睛问。",
+      "Sentence": "'Have you anything to declare?' he asked, looking me in the eye."
+    },
+    {
+      "voaid": "3011",
+      "EndTiming": "46.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "43.8",
+      "Sentence_cn": "“没有。”我自信地回答说。",
+      "Sentence": "'No,' I answered confidently."
+    },
+    {
+      "voaid": "3011",
+      "EndTiming": "50.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "47.2",
+      "Sentence_cn": "“请打开这只手提箱好吗?”",
+      "Sentence": "'Would you mind unlocking this suitcase please?'"
+    },
+    {
+      "voaid": "3011",
+      "EndTiming": "53.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "50.0",
+      "Sentence_cn": "“好的。”我回答说。",
+      "Sentence": "'Not at all,' I answered."
+    },
+    {
+      "voaid": "3011",
+      "EndTiming": "56.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "53.4",
+      "Sentence_cn": "那位官员十分仔细地把箱子检查了一遍。",
+      "Sentence": "The Officer went through the case with great care."
+    },
+    {
+      "voaid": "3011",
+      "EndTiming": "62.3",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "57.1",
+      "Sentence_cn": "所有细心包装好的东西一会儿工夫就乱成一团。",
+      "Sentence": "All the things I had packed so carefully were soon in a dreadful mess."
+    },
+    {
+      "voaid": "3011",
+      "EndTiming": "67.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "63.0",
+      "Sentence_cn": "我相信那箱子再也关不上了。",
+      "Sentence": "I felt sure I would never be able to close the case again."
+    },
+    {
+      "voaid": "3011",
+      "EndTiming": "70.9",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "67.5",
+      "Sentence_cn": "突然，我看到官员脸上露出了得意的神色。",
+      "Sentence": "Suddenly, I saw the Officer's face light up."
+    },
+    {
+      "voaid": "3011",
+      "EndTiming": "77.6",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "71.5",
+      "Sentence_cn": "他在我的箱底发现了一只小瓶，高兴地一把抓了起来。",
+      "Sentence": "He had spotted a tiny bottle at the bottom of my case and he pounced on it with delight."
+    },
+    {
+      "voaid": "3011",
+      "EndTiming": "82.6",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "78.3",
+      "Sentence_cn": "“香水，嗯?”他讥讽地说道，",
+      "Sentence": "'Perfume, eh?' he asked sarcastically."
+    },
+    {
+      "voaid": "3011",
+      "EndTiming": "89.0",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "83.2",
+      "Sentence_cn": "“你刚才应该申报，香水要上进口税的。”",
+      "Sentence": "'You should have declared that. Perfume is not exempt from import duty.'"
+    },
+    {
+      "voaid": "3011",
+      "EndTiming": "93.5",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "89.6",
+      "Sentence_cn": "“不，这不是香水，”我说，",
+      "Sentence": "'But it isn't perfume,' I said."
+    },
+    {
+      "voaid": "3011",
+      "EndTiming": "97.2",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "93.5",
+      "Sentence_cn": "“是发胶。”接着我脸带微笑补充说：",
+      "Sentence": "'It's hair gel.' Then I added with a smile,"
+    },
+    {
+      "voaid": "3011",
+      "EndTiming": "100.4",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "97.8",
+      "Sentence_cn": "“这是一种我自己配制的奇特的混合物。”",
+      "Sentence": "'It's a strange mixture I make myself.'"
+    },
+    {
+      "voaid": "3011",
+      "EndTiming": "104.3",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "100.4",
+      "Sentence_cn": "果不出所料，他并不相信我。",
+      "Sentence": "As I expected, he did not believe me."
+    },
+    {
+      "voaid": "3011",
+      "EndTiming": "107.8",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "104.7",
+      "Sentence_cn": "“你就闻一闻吧！”我催促说。",
+      "Sentence": "'Try it!' I said encouragingly."
+    },
+    {
+      "voaid": "3011",
+      "EndTiming": "112.4",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "108.0",
+      "Sentence_cn": "海关官员拧开瓶盖，把瓶子放到鼻子底下。",
+      "Sentence": "The officer unscrewed the cap and put the bottle to his nostrils."
+    },
+    {
+      "voaid": "3011",
+      "EndTiming": "118.6",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "112.4",
+      "Sentence_cn": "一股怪味袭来，使他相信了我说的真话。",
+      "Sentence": "He was greeted by an unpleasant smell which convinced him that I was telling the truth."
+    },
+    {
+      "voaid": "3011",
+      "EndTiming": "125.5",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "118.6",
+      "Sentence_cn": "几分钟后，我终于被放行，手提划着宝贵的粉笔记号的行李，匆匆离去。",
+      "Sentence": "A few minutes later, I was able to hurry away with precious chalk marks on my baggage."
+    }
+  ],
+  "size": 25,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14554,14555,14556",
+    "title_cn": "无罪",
+    "title": "Not guilty"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_11.mp3"
+}

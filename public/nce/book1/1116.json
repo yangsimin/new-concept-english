@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "1116",
+      "EndTiming": "20.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "17.0",
+      "Sentence_cn": "你昨天见谁了吗？",
+      "Sentence": "Did you see anyone yesterday?"
+    },
+    {
+      "voaid": "1116",
+      "EndTiming": "22.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "20.1",
+      "Sentence_cn": "不，我没有见任何人。",
+      "Sentence": "No, I saw no one."
+    },
+    {
+      "voaid": "1116",
+      "EndTiming": "24.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "22.5",
+      "Sentence_cn": "你听到什么了吗？",
+      "Sentence": "Did you hear anything?"
+    },
+    {
+      "voaid": "1116",
+      "EndTiming": "26.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "24.5",
+      "Sentence_cn": "不，我什么都没有听见。",
+      "Sentence": "No, I heard nothing."
+    },
+    {
+      "voaid": "1116",
+      "EndTiming": "29.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "26.5",
+      "Sentence_cn": "有人和你说话吗？",
+      "Sentence": "Did anyone speak to you?"
+    },
+    {
+      "voaid": "1116",
+      "EndTiming": "32.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "29.2",
+      "Sentence_cn": "不，没有人和我说话。",
+      "Sentence": "No, no one spoke to me."
+    },
+    {
+      "voaid": "1116",
+      "EndTiming": "34.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "32.2",
+      "Sentence_cn": "你昨天去哪了吗？",
+      "Sentence": "Did you go anywhere yesterday?"
+    },
+    {
+      "voaid": "1116",
+      "EndTiming": "37.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "34.8",
+      "Sentence_cn": "不，我哪也没有去。",
+      "Sentence": "No, I went nowhere."
+    },
+    {
+      "voaid": "1116",
+      "EndTiming": "80.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "78.0",
+      "Sentence_cn": "你今天早上买什么东西了吗？",
+      "Sentence": "Did you buy anything this morning?"
+    },
+    {
+      "voaid": "1116",
+      "EndTiming": "86.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "82.0",
+      "Sentence_cn": "不，我什么也没有买。",
+      "Sentence": "No, I bought nothing."
+    },
+    {
+      "voaid": "1116",
+      "EndTiming": "90.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "87.0",
+      "Sentence_cn": "你昨天给谁写信了吗？",
+      "Sentence": "Did you write to anyone yesterday?"
+    },
+    {
+      "voaid": "1116",
+      "EndTiming": "95.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "92.0",
+      "Sentence_cn": "不，我没给谁写信。",
+      "Sentence": "No, I wrote to no one."
+    },
+    {
+      "voaid": "1116",
+      "EndTiming": "100.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "96.0",
+      "Sentence_cn": "有人去车站接你吗？",
+      "Sentence": "Did anyone meet you at the station?"
+    },
+    {
+      "voaid": "1116",
+      "EndTiming": "104.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "102.0",
+      "Sentence_cn": "不，没有人接我。",
+      "Sentence": "No, no one met me."
+    },
+    {
+      "voaid": "1116",
+      "EndTiming": "107.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "105.0",
+      "Sentence_cn": "发生什么事情了吗？",
+      "Sentence": "Did anything happen?"
+    },
+    {
+      "voaid": "1116",
+      "EndTiming": "112.5",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "110.0",
+      "Sentence_cn": "不，什么都没发生。",
+      "Sentence": "No, nothing happened."
+    },
+    {
+      "voaid": "1116",
+      "EndTiming": "116.0",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "113.0",
+      "Sentence_cn": "有人在我出去的时候来吗？",
+      "Sentence": "Did anyone come when I was out?"
+    },
+    {
+      "voaid": "1116",
+      "EndTiming": "121.5",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "118.0",
+      "Sentence_cn": "不，没有人来。",
+      "Sentence": "No, no one came."
+    },
+    {
+      "voaid": "1116",
+      "EndTiming": "124.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "122.0",
+      "Sentence_cn": "有人告诉你吗？",
+      "Sentence": "Did anybody tell you?"
+    },
+    {
+      "voaid": "1116",
+      "EndTiming": "129.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "126.0",
+      "Sentence_cn": "不，没有人告诉我。",
+      "Sentence": "No, nobody told me."
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14316",
+    "title_cn": "每一、无、若干和一些",
+    "title": "Every, no, any and some"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_116.mp3"
+}

@@ -1,0 +1,137 @@
+{
+  "data": [
+    {
+      "voaid": "4010",
+      "EndTiming": "3.3",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.8",
+      "Sentence_cn": "课文10  硅谷",
+      "Sentence": "--- Lesson 10 Silicon valley"
+    },
+    {
+      "voaid": "4010",
+      "EndTiming": "12.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "3.3",
+      "Sentence_cn": "除了无政府状态，计算机产业繁荣的基础是什么? ",
+      "Sentence": "What does the computer industry thrive on apart from anarchy?"
+    },
+    {
+      "voaid": "4010",
+      "EndTiming": "18.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "14.7",
+      "Sentence_cn": "技术的发展趋势有可能把硅谷重新推向未来。",
+      "Sentence": "Technology trends may push Silicon Valley back to the future."
+    },
+    {
+      "voaid": "4010",
+      "EndTiming": "41.2",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "19.2",
+      "Sentence_cn": "卡弗.米德 -- 集成电路的一位先驱，加州理工学院的计算机教授，注意到，现在有些计算机工作站使工程技术人员可以在他们的办公桌上设计、试验和生产芯片，就像一位编辑在苹果机上编出一份时事通讯一样。",
+      "Sentence": "Carver Mead, a pioneer in integrated circuits and a professor of computer science at the California Institute of Technology, notes there are now workstations that enable engineers to design, test and produce chips right on their desks, much the way an editor creates a newsletter on a Macintosh."
+    },
+    {
+      "voaid": "4010",
+      "EndTiming": "54.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "41.2",
+      "Sentence_cn": "由于制造一块芯片的时间已缩短至几天，费用也只有几百美元，因此，工程技术人员可能很块就可充分发挥他们的想像力，而不会因失败而造成经济上的损失。",
+      "Sentence": "As the time and cost of making a chip drop to a few days and a few hundred dollars, engineers may soon be free to let their imaginations soar without being penalized by expensive failures."
+    },
+    {
+      "voaid": "4010",
+      "EndTiming": "62.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "54.6",
+      "Sentence_cn": "米德预言发明者可以在办公室用一个周末的时间生产了完美的、功能很强的、按客户需求设计的芯片。",
+      "Sentence": "Mead predicts that inventors will be able to perfect powerful customized chips over a weekend at the office --"
+    },
+    {
+      "voaid": "4010",
+      "EndTiming": "72.2",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "62.5",
+      "Sentence": "spawning a new generation of garage start-ups and giving the U. S.  a jump on its foreign rivals in getting new products to market fast."
+    },
+    {
+      "voaid": "4010",
+      "EndTiming": "79.8",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "73.2",
+      "Sentence_cn": "“我们有更多的汽车间，那里有许多聪明人，”米德说。“我们确实是靠这种无政府状态发展起来的。”",
+      "Sentence": "'We've got more garages with smart people,' Mead observes. 'We really thrive on anarchy. '"
+    },
+    {
+      "voaid": "4010",
+      "EndTiming": "90.8",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "81.0",
+      "Sentence_cn": "靠的是亚洲人。硅谷许多公司中工程技术人员的大多数是东方人和亚裔美国人。",
+      "Sentence": "And on Asians. Already, orientals and Asian Americans constitute the majority of the engineering staffs at many Valley firms."
+    },
+    {
+      "voaid": "4010",
+      "EndTiming": "99.2",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "91.2",
+      "Sentence_cn": "中国、韩国、菲律宾和印度的工程师一批批地从加州的大学毕业。",
+      "Sentence": "And Chinese, Korean, Filipino and Indian engineers are graduating in droves from California's colleges."
+    },
+    {
+      "voaid": "4010",
+      "EndTiming": "111.8",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "99.2",
+      "Sentence_cn": "作为新掘起一代的带头人，亚裔发明家可以凭借他们在习惯和语言上的优势，与关键的太平洋沿岸市场建立起更加牢固的联系。",
+      "Sentence": "As the heads of next-generation start-ups, these Asian innovators can draw on customs and languages to forge tighter links with crucial Pacific Rim markets."
+    },
+    {
+      "voaid": "4010",
+      "EndTiming": "124.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "112.2",
+      "Sentence_cn": "比如说，亚历克斯.奥，一位来自香港的斯坦福大学博士，已经在台湾建厂，对日本在内存条市场上近似垄断的局面提出了挑战。",
+      "Sentence": "For instance, Alex Au, a Stanford Ph. D. from Hong Kong, has set up a Taiwan factory to challenge Japan's near lock on the memory-chip market."
+    },
+    {
+      "voaid": "4010",
+      "EndTiming": "136.7",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "124.6",
+      "Sentence_cn": "印度出生的N.达莫达.雷迪经营的小小的加州公司在堪萨斯城重新启用了美国电话电报公司的一家芯片工厂，并从密苏里州获取了财政上的支持。",
+      "Sentence": "India-born N. Damodar Reddy's tiny California company reopened an AT&T chip plant in Kansas City last spring with financing from the state of Missouri."
+    },
+    {
+      "voaid": "4010",
+      "EndTiming": "152.3",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "137.3",
+      "Sentence_cn": "在硅谷变成一个退休村之前，它很可能成为建立全球商业的一个教学场地。",
+      "Sentence": "Before it becomes a retirement village, Silicon Valley may prove a classroom for building a global business."
+    }
+  ],
+  "size": 14,
+  "title": {
+    "newCategoryid": 1154,
+    "newTitleId": "14724,14725,14726",
+    "title_cn": "硅谷",
+    "title": "Silicon valley"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/4_10.mp3"
+}

@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "voaid": "1138",
+      "EndTiming": "18.8",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "16.2",
+      "Sentence_cn": "如果你赢了很多钱你要会做什么？",
+      "Sentence": "What will you do if you win a lot of money?"
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "21.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "19.8",
+      "Sentence_cn": "待在最好的饭店。",
+      "Sentence": "Stay at the best hotels."
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "26.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "22.1",
+      "Sentence_cn": "如果我赢了很多钱，我将待在最好的饭店。",
+      "Sentence": "If I win a lot of money, I'll stay at the best hotels."
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "30.1",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "27.6",
+      "Sentence_cn": "如果他错过了公共汽车他将怎么办？",
+      "Sentence": "What will he do if he misses the bus?"
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "32.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "30.6",
+      "Sentence_cn": "坐出租车。",
+      "Sentence": "Take a taxi."
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "35.8",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "32.9",
+      "Sentence_cn": "如果他错过了汽车他将坐出租车。",
+      "Sentence": "If he misses the bus, he'll take a taxi."
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "40.7",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "37.6",
+      "Sentence_cn": "如果他没卖掉旧车他将怎么办？",
+      "Sentence": "What will he do if he doesn't sell his old car?"
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "43.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "41.4",
+      "Sentence_cn": "他将不会买新车。",
+      "Sentence": "He won't buy a new one."
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "47.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "43.9",
+      "Sentence_cn": "如果他不能卖了他的旧汽车，他将不买新车。",
+      "Sentence": "If he doesn't sell his old car, he won't buy a new one."
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "103.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "100.5",
+      "Sentence_cn": "如果他们支付你很多钱你会做什么？",
+      "Sentence": "What will you do if they offer you more money?"
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "106.3",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "105.0",
+      "Sentence_cn": "减少工作量。",
+      "Sentence": "Work less."
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "114.3",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "110.4",
+      "Sentence_cn": "如果他们支付我很多钱，我就减少我的工作。",
+      "Sentence": "If they offer me more money, I'll work less."
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "120.2",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "117.1",
+      "Sentence_cn": "如果她不打信他会怎样做？",
+      "Sentence": "What will he do if she doesn't type the letter?"
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "123.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "122.3",
+      "Sentence_cn": "自己打。",
+      "Sentence": "Type it himself."
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "132.6",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "128.8",
+      "Sentence_cn": "如果她不打信他会自己亲自打。",
+      "Sentence": "If she doesn't type the letter, he'll type it himself."
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "138.9",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "135.4",
+      "Sentence_cn": "如果他们早回家孩子们会做什么？",
+      "Sentence": "What will the children do if they come home early?"
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "141.4",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "140.3",
+      "Sentence_cn": "在花园玩。",
+      "Sentence": "Play in the garden."
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "150.4",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "146.6",
+      "Sentence_cn": "如果孩子们回家早，他们会在花园玩。",
+      "Sentence": "If the children come home early, they'll play in the garden."
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "155.5",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "152.5",
+      "Sentence_cn": "如果明天你生病了你会做什么？",
+      "Sentence": "What will you do if you are ill tomorrow?"
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "159.4",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "157.6",
+      "Sentence_cn": "我不会去工作。",
+      "Sentence": "I won't go to work."
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "167.7",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "164.0",
+      "Sentence_cn": "如果我明天生病了我将不会去上班。",
+      "Sentence": "If I am ill tomorrow, I won't go to work."
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "173.3",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "170.2",
+      "Sentence_cn": "如果你去参加聚会，你会做什么？",
+      "Sentence": "What will you do if you go to the party?"
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "175.7",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "174.2",
+      "Sentence_cn": "玩得愉快些。",
+      "Sentence": "Enjoy myself."
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "183.8",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "180.3",
+      "Sentence_cn": "如果我去了聚会，我会玩的很愉快。",
+      "Sentence": "If I go to the party, I'll enjoy myself."
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "187.6",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "185.2",
+      "Sentence_cn": "如果他问你会怎么做？",
+      "Sentence": "What will you do if he asks you?"
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "190.2",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "188.9",
+      "Sentence_cn": "和他说实话。",
+      "Sentence": "Tell him the truth."
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "198.6",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "195.4",
+      "Sentence_cn": "如果他问我，我会告诉他实话。",
+      "Sentence": "If he asks me, I'll tell him the truth."
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "203.2",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "200.8",
+      "Sentence_cn": "如果明天下雨，他们会做什么？",
+      "Sentence": "What will they do if it rains tomorrow?"
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "206.5",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "205.4",
+      "Sentence_cn": "呆在家里。",
+      "Sentence": "Stay at home."
+    },
+    {
+      "voaid": "1138",
+      "EndTiming": "214.0",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "210.7",
+      "Sentence_cn": "如果明天下雨，他们将呆在家里。",
+      "Sentence": "If it rains tomorrow, they'll stay at home."
+    }
+  ],
+  "size": 30,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14340",
+    "title_cn": "如果……",
+    "title": "If..."
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_138.mp3"
+}

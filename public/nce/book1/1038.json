@@ -1,0 +1,300 @@
+{
+  "data": [
+    {
+      "voaid": "1038",
+      "EndTiming": "24.1",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "20.8",
+      "Sentence_cn": "你打算做什么？",
+      "Sentence": "What are you going to do?"
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "26.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "24.2",
+      "Sentence_cn": "我打算刮胡子。",
+      "Sentence": "I'm going to shave."
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "33.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "30.3",
+      "Sentence_cn": "你现在做什么？",
+      "Sentence": "What are you doing now?"
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "36.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "33.3",
+      "Sentence_cn": "我现在刮胡子。",
+      "Sentence": "Now I'm shaving."
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "43.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "40.2",
+      "Sentence_cn": "你们俩打算做什么？",
+      "Sentence": "What are you both going to do?　"
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "47.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "43.6",
+      "Sentence_cn": "我们打算做作业。",
+      "Sentence": "We're going to do our homework.　"
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "54.2",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "50.8",
+      "Sentence_cn": "你们俩现在做什么？",
+      "Sentence": "What are you both doing now?"
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "57.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "54.3",
+      "Sentence_cn": "我们俩现在做作业。",
+      "Sentence": "Now we're doing our homework."
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "73.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "68.8",
+      "Sentence_cn": "你打算做什么？",
+      "Sentence": "What are you going to do?"
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "76.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "73.2",
+      "Sentence_cn": "我打算刮胡子。",
+      "Sentence": "I'm going to shave."
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "85.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "81.6",
+      "Sentence_cn": "你现在做什么？",
+      "Sentence": "What are you doing now?"
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "89.5",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "85.7",
+      "Sentence_cn": "我现在刮胡子。",
+      "Sentence": "Now I'm shaving."
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "98.2",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "94.1",
+      "Sentence_cn": "你们俩打算做什么？",
+      "Sentence": "What are you both going to do?　"
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "103.4",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "98.3",
+      "Sentence_cn": "我们打算做作业。",
+      "Sentence": "We're going to do our homework.　"
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "111.6",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "107.3",
+      "Sentence_cn": "你们俩现在做什么？",
+      "Sentence": "What are you both doing now?"
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "115.9",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "111.7",
+      "Sentence_cn": "我们俩现在做作业。",
+      "Sentence": "Now we're doing our homework."
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "127.8",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "122.9",
+      "Sentence_cn": "你们俩打算做什么？",
+      "Sentence": "What are you both going to do?"
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "133.1",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "127.9",
+      "Sentence_cn": "我们打算去听音乐。",
+      "Sentence": "We're going to listen to the stereo."
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "143.8",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "139.0",
+      "Sentence_cn": "你们俩现在做什么？",
+      "Sentence": "What are you both doing now?"
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "149.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "143.9",
+      "Sentence_cn": "我们正在听音乐。",
+      "Sentence": "Now we're listening to the stereo."
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "162.7",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "157.8",
+      "Sentence_cn": "你打算做什么？",
+      "Sentence": "What are you going to do?"
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "167.8",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "162.8",
+      "Sentence_cn": "我打算等公共汽车。",
+      "Sentence": "I'm going to wait for a bus."
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "176.5",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "172.2",
+      "Sentence_cn": "你现在做什么？",
+      "Sentence": "What are you doing now?"
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "181.5",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "176.6",
+      "Sentence_cn": "我正在等公共汽车。",
+      "Sentence": "Now I'm waiting for a bus."
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "190.7",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "186.3",
+      "Sentence_cn": "你打算做什么？",
+      "Sentence": "What are you going to do?"
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "196.5",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "190.8",
+      "Sentence_cn": "我打算给书架刷漆。",
+      "Sentence": "I'm going to paint this bookcase."
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "205.3",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "201.2",
+      "Sentence_cn": "你现在做什么？",
+      "Sentence": "What are you doing now?"
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "210.5",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "205.4",
+      "Sentence_cn": "我正在给书架刷漆。",
+      "Sentence": "Now I'm painting this bookcase.　"
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "221.1",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "216.5",
+      "Sentence_cn": "你打算做什么？",
+      "Sentence": "What are you going to do?"
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "226.8",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "221.2",
+      "Sentence_cn": "我打算刷盘子。",
+      "Sentence": "I'm going to wash the dishes.　"
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "235.7",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "231.5",
+      "Sentence_cn": "你正在做什么？",
+      "Sentence": "What are you doing now?"
+    },
+    {
+      "voaid": "1038",
+      "EndTiming": "240.5",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "235.8",
+      "Sentence_cn": "我正在刷盘子。",
+      "Sentence": "Now I'm washing the dishes."
+    }
+  ],
+  "size": 32,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14221",
+    "title_cn": "你准备做什么？你现在正在做什么？",
+    "title": "What are you going to do? What are you doing now?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_38.mp3"
+}

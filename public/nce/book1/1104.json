@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "voaid": "1104",
+      "EndTiming": "17.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "13.0",
+      "Sentence_cn": "他能回答所有的问题吗？",
+      "Sentence": "Look at picture A. Could he answer all the questions?"
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "19.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "17.7",
+      "Sentence_cn": "是的，他能。",
+      "Sentence": "Yes, he could."
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "22.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "19.3",
+      "Sentence_cn": "它们对他来说很简单。",
+      "Sentence": "They were easy enough for him to answer."
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "27.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "22.5",
+      "Sentence_cn": "他能回答所有的问题吗？",
+      "Sentence": "Picture B. Could he answer all the questions?"
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "29.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "27.6",
+      "Sentence_cn": "不，他不能。",
+      "Sentence": "No, he couldn't."
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "32.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "29.5",
+      "Sentence_cn": "它们对他来说很难回答。",
+      "Sentence": "They were too difficult for him to answer."
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "37.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "33.0",
+      "Sentence_cn": "他们能听到音乐吗？",
+      "Sentence": "Picture I. Could they hear the stereo?"
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "39.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "37.5",
+      "Sentence_cn": "是的，他们能。",
+      "Sentence": "Yes, they could."
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "41.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "39.5",
+      "Sentence_cn": "它声音大的足够他们能听见。",
+      "Sentence": "It was loud enough for them to hear."
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "46.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "42.0",
+      "Sentence_cn": "他们能听到音乐吗？",
+      "Sentence": "Picture J. Could they hear the stereo?"
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "48.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "46.5",
+      "Sentence_cn": "不，他们不能。",
+      "Sentence": "No, they couldn't."
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "51.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "48.5",
+      "Sentence_cn": "它的声音小的他们不能听见。",
+      "Sentence": "It was too low for them to hear."
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "117.5",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "112.0",
+      "Sentence_cn": "她能吃橘子吗？",
+      "Sentence": "Picture O. Could she eat the orange?"
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "122.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "120.0",
+      "Sentence_cn": "是的她能。",
+      "Sentence": "Yes, she could."
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "125.2",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "122.8",
+      "Sentence_cn": "它对她来说足够甜。",
+      "Sentence": "It was sweet enough for her to eat."
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "134.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "125.9",
+      "Sentence_cn": "她能吃橘子吗？",
+      "Sentence": "Picture P. Could she eat the orange"
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "137.4",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "134.8",
+      "Sentence_cn": "不，她不能。",
+      "Sentence": "No, she couldn't."
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "140.5",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "137.6",
+      "Sentence_cn": "它对她来说太酸了。",
+      "Sentence": "It was too sour for her to eat."
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "146.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "141.0",
+      "Sentence_cn": "他能买车吗？",
+      "Sentence": "Picture E. Could he buy the car?"
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "150.5",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "148.0",
+      "Sentence_cn": "是的，他能。",
+      "Sentence": "Yes, he could."
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "154.0",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "151.0",
+      "Sentence_cn": "它对他来说足够便宜。",
+      "Sentence": "It was cheap enough for him to buy."
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "160.0",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "155.0",
+      "Sentence_cn": "他能买车吗？",
+      "Sentence": "Picture F. Could he buy the car?"
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "165.0",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "163.0",
+      "Sentence_cn": "不，他不能。",
+      "Sentence": "No, he couldn't."
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "168.0",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "165.4",
+      "Sentence_cn": "它对他来说太昂贵。",
+      "Sentence": "It was too expensive for him to buy."
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "175.0",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "169.0",
+      "Sentence_cn": "他能爬过墙吗？",
+      "Sentence": "Picture K. Could he climb over the wall?"
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "180.0",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "178.0",
+      "Sentence_cn": "是的，他能。",
+      "Sentence": "Yes, he could."
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "183.0",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "180.5",
+      "Sentence_cn": "它对他来说足够矮。",
+      "Sentence": "It was low enough for him to climb."
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "190.0",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "184.0",
+      "Sentence_cn": "他能爬过墙吗？",
+      "Sentence": "Picture L. Could he climb the wall?"
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "194.7",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "192.0",
+      "Sentence_cn": "不，他不能。",
+      "Sentence": "No, he couldn't."
+    },
+    {
+      "voaid": "1104",
+      "EndTiming": "198.0",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "194.9",
+      "Sentence_cn": "它对他说太高了",
+      "Sentence": "It was too high for him to climb."
+    }
+  ],
+  "size": 30,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14304",
+    "title_cn": "太、非常、足够",
+    "title": "Too, very,  enough"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_104.mp3"
+}

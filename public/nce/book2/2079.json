@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "voaid": "2079",
+      "EndTiming": "4.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "乘飞机",
+      "Sentence": "--- Lesson 79  By air"
+    },
+    {
+      "voaid": "2079",
+      "EndTiming": "9.2",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.7",
+      "Sentence_cn": "我在幼年的时候，曾多次乘飞机旅行。",
+      "Sentence": "I used to travel by air a great deal when I was a boy."
+    },
+    {
+      "voaid": "2079",
+      "EndTiming": "17.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "9.8",
+      "Sentence_cn": "我的父母曾经住在南美洲，所以假期里我常从欧洲乘飞机到他们那里。",
+      "Sentence": "My parents used to live in South America and I used to fly there from Europe in the holidays."
+    },
+    {
+      "voaid": "2079",
+      "EndTiming": "24.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "18.0",
+      "Sentence_cn": "我总是由一位空中乘务员照管，从未遇到过不愉快的经历。",
+      "Sentence": "A flight attendant would take charge of me and I never had an unpleasant experience."
+    },
+    {
+      "voaid": "2079",
+      "EndTiming": "31.8",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "24.6",
+      "Sentence_cn": "我习惯了乘飞机旅行，只是有一次把我吓坏了。",
+      "Sentence": "I am used to travelling by air and only on one occasion have I ever felt frightened."
+    },
+    {
+      "voaid": "2079",
+      "EndTiming": "38.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "32.6",
+      "Sentence_cn": "起飞之后，我们在城市上空低低地飞行，然后慢慢爬高。",
+      "Sentence": "After taking off, we were flying low over the city and slowly gaining height,"
+    },
+    {
+      "voaid": "2079",
+      "EndTiming": "44.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "39.6",
+      "Sentence_cn": "这时飞机突然调转头来，飞回了机场。",
+      "Sentence": "when the plane suddenly turned round and flew back to the airport."
+    },
+    {
+      "voaid": "2079",
+      "EndTiming": "47.1",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "45.1",
+      "Sentence_cn": "在我们等待降落时，",
+      "Sentence": "While we were waiting to land,"
+    },
+    {
+      "voaid": "2079",
+      "EndTiming": "55.2",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "47.6",
+      "Sentence_cn": "一位空中乘务员告诉我们要保持镇静，待飞机一着陆，就马上不声不响地离开飞机。",
+      "Sentence": "a flight attendant told us to keep calm and to get off the plane quietly as soon as it had touched down."
+    },
+    {
+      "voaid": "2079",
+      "EndTiming": "62.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "55.9",
+      "Sentence_cn": "飞机上的人都很着急，大家都急于想知道究竟出了什么事。",
+      "Sentence": "Everybody on board was worried and we were curious to find out what had happened."
+    },
+    {
+      "voaid": "2079",
+      "EndTiming": "67.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "62.8",
+      "Sentence_cn": "后来我们才得知，飞机上坐了一位非常重要的人物。",
+      "Sentence": "Later we learnt that there was a very important person on board."
+    },
+    {
+      "voaid": "2079",
+      "EndTiming": "72.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "67.7",
+      "Sentence_cn": "有人报告警察，说飞机上安放了一枚炸弹。",
+      "Sentence": "The police had been told that a bomb had been planted on the plane."
+    },
+    {
+      "voaid": "2079",
+      "EndTiming": "77.4",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "73.0",
+      "Sentence_cn": "我们降落之后，飞机被彻底搜查了一遍。",
+      "Sentence": "After we had landed, the plane was searched thoroughly."
+    },
+    {
+      "voaid": "2079",
+      "EndTiming": "85.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "78.0",
+      "Sentence_cn": "幸运的是，什么也没有找到。5个小时后，我们又起飞了。",
+      "Sentence": "Fortunately, nothing was found and five hours later we were able to take off again."
+    }
+  ],
+  "size": 14,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14484,14485",
+    "title_cn": "乘飞机",
+    "title": "By air"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_79.mp3"
+}

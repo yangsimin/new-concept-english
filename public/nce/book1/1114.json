@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "voaid": "1114",
+      "EndTiming": "17.3",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "16.0",
+      "Sentence_cn": "我饿了。",
+      "Sentence": "I'm hungry."
+    },
+    {
+      "voaid": "1114",
+      "EndTiming": "18.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "17.5",
+      "Sentence_cn": "我也是。",
+      "Sentence": "So am I."
+    },
+    {
+      "voaid": "1114",
+      "EndTiming": "20.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "19.0",
+      "Sentence_cn": "我不累。",
+      "Sentence": "I'm not tired."
+    },
+    {
+      "voaid": "1114",
+      "EndTiming": "22.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "21.0",
+      "Sentence_cn": "我也是。",
+      "Sentence": "Neither am I."
+    },
+    {
+      "voaid": "1114",
+      "EndTiming": "24.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "22.5",
+      "Sentence_cn": "我想要一些咖啡。",
+      "Sentence": "I want some coffee."
+    },
+    {
+      "voaid": "1114",
+      "EndTiming": "25.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "24.5",
+      "Sentence_cn": "我也是。",
+      "Sentence": "So do I."
+    },
+    {
+      "voaid": "1114",
+      "EndTiming": "28.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "26.0",
+      "Sentence_cn": "我不想喝茶。",
+      "Sentence": "I don't want any tea."
+    },
+    {
+      "voaid": "1114",
+      "EndTiming": "30.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "28.1",
+      "Sentence_cn": "我也是。",
+      "Sentence": "Neither do I."
+    },
+    {
+      "voaid": "1114",
+      "EndTiming": "62.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "59.0",
+      "Sentence_cn": "昨天晚上我参加了个聚会。",
+      "Sentence": "I was at the party last night."
+    },
+    {
+      "voaid": "1114",
+      "EndTiming": "67.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "65.0",
+      "Sentence_cn": "我也是。",
+      "Sentence": "So was I."
+    },
+    {
+      "voaid": "1114",
+      "EndTiming": "70.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "67.5",
+      "Sentence_cn": "我今天早上不累。",
+      "Sentence": "I wasn't tired this morning."
+    },
+    {
+      "voaid": "1114",
+      "EndTiming": "75.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "72.0",
+      "Sentence_cn": "我也是。",
+      "Sentence": "Neither was I."
+    },
+    {
+      "voaid": "1114",
+      "EndTiming": "78.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "75.3",
+      "Sentence_cn": "我游泳很好。",
+      "Sentence": "I can swim very well."
+    },
+    {
+      "voaid": "1114",
+      "EndTiming": "82.2",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "80.0",
+      "Sentence_cn": "我也是。",
+      "Sentence": "So can I."
+    },
+    {
+      "voaid": "1114",
+      "EndTiming": "86.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "83.0",
+      "Sentence_cn": "我不会说汉语。",
+      "Sentence": "I can't speak Chinese."
+    },
+    {
+      "voaid": "1114",
+      "EndTiming": "90.5",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "88.0",
+      "Sentence_cn": "我也是。",
+      "Sentence": "Neither can I."
+    },
+    {
+      "voaid": "1114",
+      "EndTiming": "94.0",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "91.0",
+      "Sentence_cn": "我昨天晚上看见乔治了。",
+      "Sentence": "I saw George last night."
+    },
+    {
+      "voaid": "1114",
+      "EndTiming": "98.6",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "97.0",
+      "Sentence_cn": "我也是。",
+      "Sentence": "So did I."
+    },
+    {
+      "voaid": "1114",
+      "EndTiming": "103.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "99.0",
+      "Sentence_cn": "去年我没买新车。",
+      "Sentence": "I didn't buy a new car last year."
+    },
+    {
+      "voaid": "1114",
+      "EndTiming": "108.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "104.0",
+      "Sentence_cn": "我也是。",
+      "Sentence": "Neither did I."
+    },
+    {
+      "voaid": "1114",
+      "EndTiming": "111.0",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "108.3",
+      "Sentence_cn": "我感冒了。",
+      "Sentence": "I've got a cold."
+    },
+    {
+      "voaid": "1114",
+      "EndTiming": "115.0",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "113.0",
+      "Sentence_cn": "我也是。",
+      "Sentence": "So have I."
+    },
+    {
+      "voaid": "1114",
+      "EndTiming": "118.0",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "115.6",
+      "Sentence_cn": "我没有头痛。",
+      "Sentence": "I haven't got a headache."
+    },
+    {
+      "voaid": "1114",
+      "EndTiming": "122.0",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "120.0",
+      "Sentence_cn": "我也是。",
+      "Sentence": "Neither have I."
+    }
+  ],
+  "size": 24,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14314",
+    "title_cn": "我没有。",
+    "title": "I've got none."
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_114.mp3"
+}

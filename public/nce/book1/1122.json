@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "voaid": "1122",
+      "EndTiming": "16.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "14.0",
+      "Sentence_cn": "他不是那个技师吗？",
+      "Sentence": "Isn't he the mechanic?"
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "18.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "16.5",
+      "Sentence_cn": "是他修理你的汽车吗？",
+      "Sentence": "Didn't he repair your car?"
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "22.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "18.8",
+      "Sentence_cn": "是的，他就是修理我汽车的技师。",
+      "Sentence": "Yes, he's the mechanic who repaired my car."
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "25.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "23.0",
+      "Sentence_cn": "他们不是那些贼吗？",
+      "Sentence": "Aren't they the thieves?"
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "28.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "26.0",
+      "Sentence_cn": "警察不是要抓他们吗？",
+      "Sentence": "Didn't the police catch them?"
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "32.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "28.2",
+      "Sentence_cn": "是的，他们是警察要抓的贼。",
+      "Sentence": "Yes, they're the thieves whom the police caught."
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "35.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "33.0",
+      "Sentence_cn": "它不是那辆车吗？",
+      "Sentence": "Isn't that the car?"
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "37.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "35.2",
+      "Sentence_cn": "你去年没有卖掉它吗？",
+      "Sentence": "Didn't you sell it last year?"
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "41.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "37.2",
+      "Sentence_cn": "是的，那是我去年卖掉的那辆车。",
+      "Sentence": "Yes, that's the car which I sold last year."
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "90.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "88.0",
+      "Sentence_cn": "他们不是那些孩子吗？",
+      "Sentence": "Aren't they the children?"
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "93.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "90.5",
+      "Sentence_cn": "他们不是住在隔壁吗？",
+      "Sentence": "Don't they live next door?"
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "100.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "95.0",
+      "Sentence_cn": "是的，他们是住在隔壁的那些孩子。",
+      "Sentence": "Yes, they're the children Who live next door."
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "104.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "102.0",
+      "Sentence_cn": "那不是搬运工吗？",
+      "Sentence": "Isn't that the porter?"
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "107.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "104.2",
+      "Sentence_cn": "他不是帮你提箱了吗？",
+      "Sentence": "Didn't he carry your suitcase?"
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "115.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "109.0",
+      "Sentence_cn": "是的，他是帮我提箱子的门卫",
+      "Sentence": "Yes, he's the porter who carried my suitcase."
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "118.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "115.5",
+      "Sentence_cn": "他们不是那些窗户吗？",
+      "Sentence": "Aren't they the windows?"
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "122.0",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "119.0",
+      "Sentence_cn": "孩子们昨天不是打碎了它们吗？",
+      "Sentence": "Didn't the children break them yesterday?"
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "131.0",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "125.0",
+      "Sentence_cn": "是的，它们是那些孩子们昨天打碎的窗户。",
+      "Sentence": "Yes, they're the Windows which the Children broke yesterday."
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "133.5",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "131.5",
+      "Sentence_cn": "那不是那个硬币吗？",
+      "Sentence": "Isn't that the coin?"
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "137.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "134.0",
+      "Sentence_cn": "不是你在花园找到的吗？",
+      "Sentence": "Didn't you find it in the garden?"
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "145.0",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "140.0",
+      "Sentence_cn": "是的，那是我在花园找到的硬币。",
+      "Sentence": "Yes, that's the coin which I found in the garden."
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "148.5",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "146.0",
+      "Sentence_cn": "她不是那个女人吗？",
+      "Sentence": "Isn't she the woman?"
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "151.0",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "148.7",
+      "Sentence_cn": "不是你开车送她去伦敦的吗？",
+      "Sentence": "Didn't you drive her to London?"
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "160.0",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "153.1",
+      "Sentence_cn": "是的，她是那个我开车送到伦敦的女人。",
+      "Sentence": "Yes, she's the woman whom I drove to London."
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "163.0",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "160.5",
+      "Sentence_cn": "那不是那些书吗？",
+      "Sentence": "Aren't these the books?"
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "166.0",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "163.5",
+      "Sentence_cn": "不是你上周买的那些吗？",
+      "Sentence": "Didn't you buy them last week?"
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "174.5",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "170.0",
+      "Sentence_cn": "是的，他们是我上周买的那些书。",
+      "Sentence": "Yes, they're the books which I bought last week"
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "177.8",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "175.0",
+      "Sentence_cn": "他们不是那些人吗？",
+      "Sentence": "Aren't they the people?"
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "182.0",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "178.2",
+      "Sentence_cn": "你不是邀请他们去聚会的吗？",
+      "Sentence": "Didn't you invite them to your party?"
+    },
+    {
+      "voaid": "1122",
+      "EndTiming": "190.0",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "184.0",
+      "Sentence_cn": "是的，他们是我邀请去聚会的人。",
+      "Sentence": "Yes, they're the people whom I invited to my party."
+    }
+  ],
+  "size": 30,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14324",
+    "title_cn": "关系代词",
+    "title": "Who(whom), which and that"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_122.mp3"
+}

@@ -1,0 +1,291 @@
+{
+  "data": [
+    {
+      "voaid": "3051",
+      "EndTiming": "3.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "预测未来",
+      "Sentence": "--- lesson 51  Predicting the future"
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "8.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.6",
+      "Sentence_cn": "众所周知，预测未来是非常困难的。",
+      "Sentence": "Predicting the future is notoriously difficult."
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "21.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.2",
+      "Sentence_cn": "举个例子吧，在20世纪70年代中叶又有谁能想得到在20世纪末的时候，家庭用的计算机会像电视机一样普遍?",
+      "Sentence": "Who could have imagined, in the mid 1970s, for example, that by the end of the 20th century, computers would be as common in people's homes as TV sets?"
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "31.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "21.5",
+      "Sentence_cn": "在70年代，计算机已经相当普及了，但只用在大的公司，政府部门和大的组织之中，",
+      "Sentence": "In the 1970s, computers were common enough, but only in big business, government departments, and large organizations."
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "36.1",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "31.6",
+      "Sentence_cn": "它们被称为主机。",
+      "Sentence": "These were the so-called mainframe machines."
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "43.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "36.8",
+      "Sentence_cn": "计算机主机确实很大，常常占据了装有空调的多间房间，",
+      "Sentence": "Mainframe computers were very large indeed, often occupying whole air-conditioned rooms,"
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "49.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "43.6",
+      "Sentence_cn": "雇用专职的技师，而且得用专门编写的软件才能运行。",
+      "Sentence": "employing full-time technicians and run on specially-written software."
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "61.8",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "49.1",
+      "Sentence_cn": "虽然这种大计算机仍然存在，但是它们的许多功能已被体积小但功能齐全的个人电脑--即我们常说的PC机--所代替了。",
+      "Sentence": "Though these large machines still exist, many of their functions have been taken over by small powerful personal computers, commonly known as PCs."
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "70.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "61.8",
+      "Sentence_cn": "1975年，美国推出了一台被称为“牛郎星”的原始机型。",
+      "Sentence": "In 1975, a primitive machine called the Altair, was launched in the USA."
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "77.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "70.3",
+      "Sentence_cn": "严格地说起来，它可以被称为第一台“家用电脑”，而且它也指出了今后的方向。",
+      "Sentence": "It can properly be described as the first 'home computer' and it pointed the way to the future."
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "84.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "77.7",
+      "Sentence_cn": "70年代末，在牛郎星之后又出现了一种被称为“苹果”的机型。",
+      "Sentence": "This was followed, at the end of the 1970s, by a machine called an Apple."
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "93.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "84.5",
+      "Sentence_cn": "80年代初，计算机行业的王牌公司美国国际商用机器公司（IBM）生产出了世界上第一台个人电脑。",
+      "Sentence": "In the early 1980s, the computer giant, IBM produced the world's first Personal Computer."
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "102.4",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "93.2",
+      "Sentence_cn": "这种电脑采用了一种被称为磁盘操作系统（DOS）的工作程序，而这种程序是由当时规模不大的微软公司生产的。",
+      "Sentence": "This ran on an 'operating system' called DOS, produced by a then small company named Microsoft."
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "107.2",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "102.4",
+      "Sentence_cn": "IBM的个人电脑被大规模地模仿。",
+      "Sentence": "The IBM Personal Computer was widely copied."
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "119.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "107.8",
+      "Sentence_cn": "从那些简陋的初级阶段，我们看到了现在都已普及的、使用简便的家用电脑和多媒体的微机的发展。",
+      "Sentence": "From those humble beginnings, we have seen the development of the user-friendly home computers and multimedia machines which are in common use today."
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "131.9",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "119.7",
+      "Sentence_cn": "想一想这些发展的时间多么短，就更觉得英国人莱昂.巴格瑞特有着非凡的能力。",
+      "Sentence": "Considering how recent these developments are, it is even more remarkable that as long ago as the 1960s, an Englishman,Leon Bagrit, "
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "137.5",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "131.9",
+      "Sentence_cn": "他在60年代就能预言我们今天知道的计算机的一些用途。",
+      "Sentence": "was able to predict some of the uses of computers which we know today."
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "145.5",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "138.3",
+      "Sentence_cn": "巴格瑞特根本不接受计算机可以学会自己去“思考”和计算机可以“统治世界”这种想法，",
+      "Sentence": "Bagrit dismissed the idea that computers would learn to 'think' for themselves and would 'rule the world',"
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "148.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "145.5",
+      "Sentence_cn": "而这种想法是当时的人们都愿意相信的。",
+      "Sentence": "which people liked to believe in those days."
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "155.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "148.0",
+      "Sentence_cn": "巴格瑞特预示有一天计算机可以小到拿在手上，",
+      "Sentence": "Bagrit foresaw a time when computers would be small enough to hold in the hand,"
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "163.0",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "155.0",
+      "Sentence_cn": "计算机可以提供交通堵塞的信息，并建议可供选择的其他路线.",
+      "Sentence": "when they would be capable of providing information about traffic jams and suggesting alternative routes,"
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "168.2",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "163.0",
+      "Sentence_cn": "计算机在医院里可以帮助医生诊断病情。",
+      "Sentence": "when they would be used in hospitals to help doctors to diagnose illnesses,"
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "175.4",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "168.7",
+      "Sentence_cn": "计算机可以使办公室人员和会计免除那些枯燥、重复的劳动。",
+      "Sentence": "when they would relieve office workers and accountants of dull, repetitive clerical work."
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "179.8",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "176.2",
+      "Sentence_cn": "计算机的所有这些功能现在都变得很平常。",
+      "Sentence": "All these computer uses have become commonplace."
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "186.2",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "180.4",
+      "Sentence_cn": "当然了，莱昂.巴格瑞特根本没有可能预测到国际交互网--就是把计算机连结到电话线路上，",
+      "Sentence": "Of course, Leon Bagrit could not possibly have foreseen the development of the Internet,"
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "198.8",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "186.6",
+      "Sentence_cn": "以便和世界上任何一个地方的人立即进行联系的一个世界范围的通讯系统--的发展。",
+      "Sentence": "the worldwide system that enables us to communicate instantly with anyone in any part of the world by using computers linked to telephone networks."
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "206.9",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "199.6",
+      "Sentence_cn": "他也无法预测到我们可以利用国际交互网获取有关任何已知专题的信息，",
+      "Sentence": "Nor could he have foreseen how we could use the Internet to obtain information on every known subject,"
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "213.0",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "206.9",
+      "Sentence_cn": "以便在家里的屏幕上阅读，如果愿意的话甚至可以将其打印出来。",
+      "Sentence": "so we can read it on a screen in our homes and even print it as well if we want to."
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "220.7",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "213.8",
+      "Sentence_cn": "计算机已经变得体积越来越小，功能越来越多，价格越来越低，",
+      "Sentence": "Computers have become smaller and smaller, more and more powerful and cheaper and cheaper."
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "226.0",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "221.4",
+      "Sentence_cn": "这就是莱昂.巴格瑞特的预测非凡的地方。",
+      "Sentence": "This is what makes Leon Bagrit's predictions particularly remarkable."
+    },
+    {
+      "voaid": "3051",
+      "EndTiming": "235.4",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "226.0",
+      "Sentence_cn": "如果他或是像他的什么人今天还活着的话，他大概可以告诉我们下一个50年后会发生什么事情。",
+      "Sentence": "If he, or someone like him, were alive today, he might be able to tell us what to expect in the next fifty years."
+    }
+  ],
+  "size": 31,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14663,14664,14665",
+    "title_cn": "预测未来",
+    "title": "Predicting the future"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_51.mp3"
+}

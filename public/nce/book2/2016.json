@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "voaid": "2016",
+      "EndTiming": "4.3",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "彬彬有礼的要求",
+      "Sentence": "--- Lesson 16  A polite request"
+    },
+    {
+      "voaid": "2016",
+      "EndTiming": "11.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.3",
+      "Sentence_cn": "一旦你把汽车停错了地方，交通警很快就会发现。",
+      "Sentence": "If you park your car in the wrong place, a traffic policeman will soon find it."
+    },
+    {
+      "voaid": "2016",
+      "EndTiming": "16.3",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "12.0",
+      "Sentence_cn": "如果他没给你罚单就放你走了，算你走运。",
+      "Sentence": "You will be very lucky if he lets you go without a ticket."
+    },
+    {
+      "voaid": "2016",
+      "EndTiming": "20.7",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "17.0",
+      "Sentence_cn": "然而，情况并不都是这样，",
+      "Sentence": "However, this does not always happen."
+    },
+    {
+      "voaid": "2016",
+      "EndTiming": "25.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "21.5",
+      "Sentence_cn": "交通警有时也很客气。",
+      "Sentence": "Traffic police are sometimes very polite."
+    },
+    {
+      "voaid": "2016",
+      "EndTiming": "27.8",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "25.7",
+      "Sentence_cn": "有一次在瑞典度假，",
+      "Sentence": "During a holiday in Sweden,"
+    },
+    {
+      "voaid": "2016",
+      "EndTiming": "38.7",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "28.4",
+      "Sentence_cn": "我发现我的车上有这样一个字条：“先生，欢迎您光临我们的城市。这里是禁止停车区域。",
+      "Sentence": "I found this note on my car: 'sir, we welcome you to our city. This is an \"No Parking\" area."
+    },
+    {
+      "voaid": "2016",
+      "EndTiming": "46.2",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "38.7",
+      "Sentence_cn": "如果您对我们街上的标牌稍加注意，您在此会过得很愉快的。",
+      "Sentence": "You will enjoy your stay here if you pay attention to our street signs."
+    },
+    {
+      "voaid": "2016",
+      "EndTiming": "49.2",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "46.2",
+      "Sentence_cn": "谨此提请注意。”",
+      "Sentence": "This note is only a reminder.'"
+    },
+    {
+      "voaid": "2016",
+      "EndTiming": "55.2",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "49.2",
+      "Sentence_cn": "如果你收到这样的恳求，你是不会不遵照执行的！",
+      "Sentence": "If you receive a request like this, you cannot fail to obey it!"
+    }
+  ],
+  "size": 10,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14378,14379",
+    "title_cn": "彬彬有礼的要求",
+    "title": "A polite request"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_16.mp3"
+}

@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "voaid": "2013",
+      "EndTiming": "4.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "绿林少年",
+      "Sentence": "--- Lesson 13  The Greenwood Boys"
+    },
+    {
+      "voaid": "2013",
+      "EndTiming": "8.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.3",
+      "Sentence_cn": "“绿林少年”是一个流行歌曲演唱团。",
+      "Sentence": "The Greenwood Boys are a group of pop singers."
+    },
+    {
+      "voaid": "2013",
+      "EndTiming": "13.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "9.4",
+      "Sentence_cn": "目前他们正在全国各地巡回演出，",
+      "Sentence": "At present, they are visiting all parts of the country."
+    },
+    {
+      "voaid": "2013",
+      "EndTiming": "16.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "14.3",
+      "Sentence_cn": "明天就要到达此地。",
+      "Sentence": "They will be arriving here tomorrow."
+    },
+    {
+      "voaid": "2013",
+      "EndTiming": "24.4",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "17.3",
+      "Sentence_cn": "他们将乘火车来，镇上的大部分青年人将到车站迎接他们。",
+      "Sentence": "They will be coming by train and most of the young people in the town will be meeting them at the station."
+    },
+    {
+      "voaid": "2013",
+      "EndTiming": "29.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "25.1",
+      "Sentence_cn": "明晚他们将在工人俱乐部演出。",
+      "Sentence": "Tomorrow evening they will be singing at the Workers' Club."
+    },
+    {
+      "voaid": "2013",
+      "EndTiming": "33.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "29.9",
+      "Sentence_cn": "“绿林少年”准备在此逗留5天。",
+      "Sentence": "The Greenwood Boys will be staying for five days."
+    },
+    {
+      "voaid": "2013",
+      "EndTiming": "38.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "34.2",
+      "Sentence_cn": "在此期间，他们将演出5场。",
+      "Sentence": "During this time, they will give five performances."
+    },
+    {
+      "voaid": "2013",
+      "EndTiming": "42.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "39.1",
+      "Sentence_cn": "同往常一样，警察的日子将不好过，",
+      "Sentence": "As usual, the police will have a difficult time."
+    },
+    {
+      "voaid": "2013",
+      "EndTiming": "45.7",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "42.9",
+      "Sentence_cn": "他们将设法维持秩序。",
+      "Sentence": "They will be trying to keep order."
+    },
+    {
+      "voaid": "2013",
+      "EndTiming": "49.3",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "46.5",
+      "Sentence_cn": "每逢这种场合，情况都是这样。",
+      "Sentence": "It is always the same on these occasions."
+    }
+  ],
+  "size": 11,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14372,14373",
+    "title_cn": "绿林少年",
+    "title": "The Greenwood Boys"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_13.mp3"
+}

@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "voaid": "3008",
+      "EndTiming": "4.1",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "著名的修道院",
+      "Sentence": "--- lesson 8  A famous monastery"
+    },
+    {
+      "voaid": "3008",
+      "EndTiming": "9.6",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.2",
+      "Sentence_cn": "圣伯纳德大山口连接着瑞士与意大利，",
+      "Sentence": "The Great St. Bernard Pass connects Switzerland to Italy."
+    },
+    {
+      "voaid": "3008",
+      "EndTiming": "17.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "9.6",
+      "Sentence_cn": "海拔2,473米，是欧洲最高的山口。",
+      "Sentence": "At 2,473 metres, it is the highest mountain pass in Europe."
+    },
+    {
+      "voaid": "3008",
+      "EndTiming": "25.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "17.2",
+      "Sentence_cn": "11世纪建造的著名的圣伯纳德修道院位于离山口1英里远的地方。",
+      "Sentence": "The famous monastery of St.Bernard, which was founded in the eleventh century, lies about a mile away."
+    },
+    {
+      "voaid": "3008",
+      "EndTiming": "33.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "25.5",
+      "Sentence_cn": "几百年来，圣伯纳德修道院驯养的狗拯救了许多翻越这道山口的旅游者的生命。",
+      "Sentence": "For hundreds of years, St.Bernard dogs have saved the lives of travellers crossing the dangerous Pass."
+    },
+    {
+      "voaid": "3008",
+      "EndTiming": "41.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "33.3",
+      "Sentence_cn": "这些最先从亚洲引进的狗，待人友好，早在罗马时代就给人当看门狗了。",
+      "Sentence": "These friendly dogs, which were first brought from Asia, were used as watchdogs even in Roman times."
+    },
+    {
+      "voaid": "3008",
+      "EndTiming": "48.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "41.9",
+      "Sentence_cn": "如今由于在山里开挖了隧道，翻越山口已不那么危险了。",
+      "Sentence": "Now that a tunnel has been built through the mountains, the Pass is less dangerous,"
+    },
+    {
+      "voaid": "3008",
+      "EndTiming": "55.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "48.4",
+      "Sentence_cn": "但每年还要派狗到雪地里去帮助那些遇到困难的旅游者。",
+      "Sentence": "but each year, the dogs are still sent out into the snow whenever a traveller is in difficulty."
+    },
+    {
+      "voaid": "3008",
+      "EndTiming": "62.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "55.7",
+      "Sentence_cn": "尽管修通了隧道，但仍有一些人想冒险徒步跨越圣伯纳德山口。",
+      "Sentence": "Despite the new tunnel, there are still a few people who rashly attempt to cross the Pass on foot."
+    },
+    {
+      "voaid": "3008",
+      "EndTiming": "71.9",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "63.2",
+      "Sentence_cn": "夏天的几个月里，修道院十分忙碌，因为有成千上万的人驾车通过山口，顺道来修道院参观。",
+      "Sentence": "During the summer months, the monastery is very busy, for it is visited by thousands of people who cross the Pass in cars."
+    },
+    {
+      "voaid": "3008",
+      "EndTiming": "78.3",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "71.9",
+      "Sentence_cn": "由于来人太多，狗被关在专门的围栏里。",
+      "Sentence": "As there are so many people about, the dogs have to be kept in a special enclosure."
+    },
+    {
+      "voaid": "3008",
+      "EndTiming": "83.3",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "78.8",
+      "Sentence_cn": "然而到了冬天，修道院里的生活则是另一番景象。",
+      "Sentence": "In winter, however, life at the monastery is quite different."
+    },
+    {
+      "voaid": "3008",
+      "EndTiming": "90.6",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "83.3",
+      "Sentence_cn": "气温下降到零下30度，试图跨越山口的人寥寥无几。",
+      "Sentence": "The temperature drops to -30 degrees and very few people attempt to cross the Pass."
+    },
+    {
+      "voaid": "3008",
+      "EndTiming": "95.1",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "90.7",
+      "Sentence_cn": "修道士们喜欢冬天，而不太喜欢夏天。",
+      "Sentence": "The monks prefer winter to summer for they have more privacy."
+    },
+    {
+      "voaid": "3008",
+      "EndTiming": "101.6",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "95.1",
+      "Sentence_cn": "因为在冬天，他们可以更多地过无人打扰的生活。",
+      "Sentence": "The dogs have greater freedom, too, for they are allowed to wander outside their enclosure."
+    },
+    {
+      "voaid": "3008",
+      "EndTiming": "109.9",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "101.7",
+      "Sentence_cn": "狗也比较自由，被放出围栏，四处遛达。冬天常来修道院参观的只有一批批滑雪者。",
+      "Sentence": "The only regular visitors to the monastery in winter are parties of skiers who go there at Christmas and Easter."
+    },
+    {
+      "voaid": "3008",
+      "EndTiming": "119.0",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "109.9",
+      "Sentence_cn": "他们在圣诞节或复活节到那儿去。这些热爱高山清静环境的年轻人每年都受到圣伯纳德道院的热烈欢迎。",
+      "Sentence": "These young people, who love the peace of mountains, always receive a warm welcome at St.Bernard's monastery."
+    }
+  ],
+  "size": 17,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14546,14547",
+    "title_cn": "著名的修道院",
+    "title": "A famous monastery"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_8.mp3"
+}

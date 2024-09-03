@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "voaid": "2034",
+      "EndTiming": "4.1",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "破案“神速”",
+      "Sentence": "--- Lesson 34  Quick work"
+    },
+    {
+      "voaid": "2034",
+      "EndTiming": "8.2",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.8",
+      "Sentence_cn": "丹.鲁宾逊焦虑了整整一个星期。",
+      "Sentence": "Dan Robinson has been worried all week."
+    },
+    {
+      "voaid": "2034",
+      "EndTiming": "13.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.9",
+      "Sentence_cn": "上星期二他收到当地警察局的一封信，",
+      "Sentence": "Last Tuesday he received a letter from the local police."
+    },
+    {
+      "voaid": "2034",
+      "EndTiming": "17.9",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "14.0",
+      "Sentence_cn": "要他到警察局去一趟。",
+      "Sentence": "In the letter he was asked to call at the station."
+    },
+    {
+      "voaid": "2034",
+      "EndTiming": "22.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "18.6",
+      "Sentence_cn": "丹奇怪警察为什么找他，",
+      "Sentence": "Dan wondered why he was wanted by the police,"
+    },
+    {
+      "voaid": "2034",
+      "EndTiming": "28.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "23.1",
+      "Sentence_cn": "但昨天还是去了，结果他不再担心了。",
+      "Sentence": "but he went to the station yesterday and now he is not worried anymore."
+    },
+    {
+      "voaid": "2034",
+      "EndTiming": "36.8",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "29.5",
+      "Sentence_cn": "在警察局里，一位面带笑容的警察告诉他，他的自行车找到了。",
+      "Sentence": "At the station, he was told by a smiling policeman that his bicycle had been found."
+    },
+    {
+      "voaid": "2034",
+      "EndTiming": "47.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "37.5",
+      "Sentence_cn": "那位警察对他说，那辆自行车是5天前在400英里外的一个小村里发现的，",
+      "Sentence": "Five days ago, the policeman told him, the bicycle was picked up in a small village four hundred miles away."
+    },
+    {
+      "voaid": "2034",
+      "EndTiming": "51.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "48.0",
+      "Sentence_cn": "现在正用火车给他运回家来。",
+      "Sentence": "It is now being sent to his home by train."
+    },
+    {
+      "voaid": "2034",
+      "EndTiming": "56.2",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "52.2",
+      "Sentence_cn": "丹听到这个消息后，惊奇万分，",
+      "Sentence": "Dan was most surprised when he heard the news."
+    },
+    {
+      "voaid": "2034",
+      "EndTiming": "63.9",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "57.0",
+      "Sentence_cn": "但又感到非常好笑，因为他从未指望那辆自行车还能找到。",
+      "Sentence": "He was amused too, because he never expected the bicycle to be found."
+    },
+    {
+      "voaid": "2034",
+      "EndTiming": "70.4",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "64.7",
+      "Sentence_cn": "这是20年前丹还是一个15岁的孩子时被人偷走的！",
+      "Sentence": "It was stolen twenty years ago when Dan was a boy of fifteen!"
+    }
+  ],
+  "size": 12,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14407",
+    "title_cn": "破案“神速”",
+    "title": "Quick work"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_34.mp3"
+}

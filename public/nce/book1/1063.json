@@ -1,0 +1,210 @@
+{
+  "data": [
+    {
+      "voaid": "1063",
+      "EndTiming": "4.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "谢谢你，医生。",
+      "Sentence": "--- lesson 63  Thank you, doctor."
+    },
+    {
+      "voaid": "1063",
+      "EndTiming": "7.1",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.9",
+      "Sentence_cn": "吉米今天怎么样了？",
+      "Sentence": "How's Jimmy today?"
+    },
+    {
+      "voaid": "1063",
+      "EndTiming": "10.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "7.6",
+      "Sentence_cn": "他好些了。谢谢您，医生。",
+      "Sentence": "Better. Thank you,Doctor."
+    },
+    {
+      "voaid": "1063",
+      "EndTiming": "14.2",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "10.6",
+      "Sentence_cn": "我可以看看他吗，威廉斯夫人？",
+      "Sentence": "Can I see him please,Mrs. Williams?"
+    },
+    {
+      "voaid": "1063",
+      "EndTiming": "16.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "14.9",
+      "Sentence_cn": "当然可以，医生。",
+      "Sentence": "Certainly, doctor."
+    },
+    {
+      "voaid": "1063",
+      "EndTiming": "18.7",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "17.0",
+      "Sentence_cn": "上楼吧。",
+      "Sentence": "Come upstairs."
+    },
+    {
+      "voaid": "1063",
+      "EndTiming": "21.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "19.3",
+      "Sentence_cn": "你看上去很好，吉米。",
+      "Sentence": "You look very well,Jimmy."
+    },
+    {
+      "voaid": "1063",
+      "EndTiming": "23.8",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "22.3",
+      "Sentence_cn": "你现在好些了，",
+      "Sentence": "You are better now,"
+    },
+    {
+      "voaid": "1063",
+      "EndTiming": "26.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "23.8",
+      "Sentence_cn": "但你还不应该起床。",
+      "Sentence": "but you mustn't get up yet."
+    },
+    {
+      "voaid": "1063",
+      "EndTiming": "31.9",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "27.6",
+      "Sentence_cn": "你必须再卧床两天。",
+      "Sentence": "You must stay in bed for another two days."
+    },
+    {
+      "voaid": "1063",
+      "EndTiming": "36.9",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "31.9",
+      "Sentence_cn": "这孩子还不能去上学，威廉斯夫人，",
+      "Sentence": "The boy mustn't go to school yet, Mrs. Williams."
+    },
+    {
+      "voaid": "1063",
+      "EndTiming": "40.6",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "36.9",
+      "Sentence_cn": "而且不能吃油腻的食物。",
+      "Sentence": "And he mustn't eat rich food."
+    },
+    {
+      "voaid": "1063",
+      "EndTiming": "44.6",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "41.2",
+      "Sentence_cn": "他还发烧吗，医生？",
+      "Sentence": "Does he have a temperature, doctor?"
+    },
+    {
+      "voaid": "1063",
+      "EndTiming": "46.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "45.0",
+      "Sentence_cn": "不，他不发烧了。",
+      "Sentence": "No, he doesn't."
+    },
+    {
+      "voaid": "1063",
+      "EndTiming": "49.6",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "47.1",
+      "Sentence_cn": "他还必须卧床吗？",
+      "Sentence": "Must he stay in bed?"
+    },
+    {
+      "voaid": "1063",
+      "EndTiming": "55.1",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "49.8",
+      "Sentence_cn": "是的，他还必须卧床两天。",
+      "Sentence": "Yes.He must remain in bed for another two days."
+    },
+    {
+      "voaid": "1063",
+      "EndTiming": "60.3",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "55.1",
+      "Sentence_cn": "他每天可以起来两个小时，",
+      "Sentence": "He can get up for about two hours each day,"
+    },
+    {
+      "voaid": "1063",
+      "EndTiming": "64.3",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "60.3",
+      "Sentence_cn": "但您必须保持房间温暖。",
+      "Sentence": "but you must keep the room warm."
+    },
+    {
+      "voaid": "1063",
+      "EndTiming": "68.2",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "65.0",
+      "Sentence_cn": "威廉斯先生今晚去哪儿了？",
+      "Sentence": "Where's Mr. Williams this evening?"
+    },
+    {
+      "voaid": "1063",
+      "EndTiming": "71.3",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "68.8",
+      "Sentence_cn": "他在床上呢，医生。",
+      "Sentence": "He's in bed, doctor."
+    },
+    {
+      "voaid": "1063",
+      "EndTiming": "74.1",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "71.9",
+      "Sentence_cn": "您能看看他吗？",
+      "Sentence": "Can you see him please?"
+    },
+    {
+      "voaid": "1063",
+      "EndTiming": "78.0",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "74.1",
+      "Sentence_cn": "他也得了重感冒！",
+      "Sentence": "He has a bad cold, too!"
+    }
+  ],
+  "size": 22,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14250",
+    "title_cn": "谢谢你，医生。",
+    "title": "Thank you, doctor."
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_63.mp3"
+}

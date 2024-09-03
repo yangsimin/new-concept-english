@@ -1,0 +1,210 @@
+{
+  "data": [
+    {
+      "voaid": "1065",
+      "EndTiming": "4.6",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.2",
+      "Sentence_cn": "不是一个孩子",
+      "Sentence": "--- lesson 65  Not a baby"
+    },
+    {
+      "voaid": "1065",
+      "EndTiming": "9.1",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.2",
+      "Sentence_cn": "今晚你打算干什么，吉尔？",
+      "Sentence": "What are you going to do this evening. Jill?"
+    },
+    {
+      "voaid": "1065",
+      "EndTiming": "13.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.0",
+      "Sentence_cn": "我打算去看几个朋友，爸爸。",
+      "Sentence": "I'm going to meet some friends, Dad."
+    },
+    {
+      "voaid": "1065",
+      "EndTiming": "16.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "14.3",
+      "Sentence_cn": "你不准回家太晚，",
+      "Sentence": "You mustn't come home late."
+    },
+    {
+      "voaid": "1065",
+      "EndTiming": "21.1",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "17.3",
+      "Sentence_cn": "你必须在10点半到家。",
+      "Sentence": "You must be home at half past ten."
+    },
+    {
+      "voaid": "1065",
+      "EndTiming": "25.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "21.8",
+      "Sentence_cn": "这么早我到不了家，爸爸！",
+      "Sentence": "I can't get home so early, Dad!"
+    },
+    {
+      "voaid": "1065",
+      "EndTiming": "30.7",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "26.3",
+      "Sentence_cn": "我能带上前门的钥匙吗？",
+      "Sentence": "Can I have the key to the front door, please?"
+    },
+    {
+      "voaid": "1065",
+      "EndTiming": "33.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "31.3",
+      "Sentence_cn": "不行，你不能带。",
+      "Sentence": "No, you can't."
+    },
+    {
+      "voaid": "1065",
+      "EndTiming": "37.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "33.9",
+      "Sentence_cn": "吉尔都18岁了，汤姆。",
+      "Sentence": "Jill's eighteen years old, Tom."
+    },
+    {
+      "voaid": "1065",
+      "EndTiming": "40.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "38.1",
+      "Sentence_cn": "她不是小孩子了。",
+      "Sentence": "She's not a baby."
+    },
+    {
+      "voaid": "1065",
+      "EndTiming": "42.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "41.0",
+      "Sentence_cn": "把钥匙给她吧。",
+      "Sentence": "Give her the key."
+    },
+    {
+      "voaid": "1065",
+      "EndTiming": "46.3",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "43.2",
+      "Sentence_cn": "她总是早早回家的。",
+      "Sentence": "She always comes home early."
+    },
+    {
+      "voaid": "1065",
+      "EndTiming": "49.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "47.1",
+      "Sentence_cn": "那么，好吧！",
+      "Sentence": "Oh, all right!"
+    },
+    {
+      "voaid": "1065",
+      "EndTiming": "51.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "49.9",
+      "Sentence_cn": "拿去。",
+      "Sentence": "Here you are."
+    },
+    {
+      "voaid": "1065",
+      "EndTiming": "56.4",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "51.7",
+      "Sentence_cn": "但你不能超过11点1刻回家。",
+      "Sentence": "But you mustn't come home after a quarter past eleven."
+    },
+    {
+      "voaid": "1065",
+      "EndTiming": "58.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "56.9",
+      "Sentence_cn": "听见了吗？",
+      "Sentence": "Do you hear?"
+    },
+    {
+      "voaid": "1065",
+      "EndTiming": "60.2",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "58.8",
+      "Sentence_cn": "听见了，爸爸。",
+      "Sentence": "Yes. Dad."
+    },
+    {
+      "voaid": "1065",
+      "EndTiming": "62.2",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "61.0",
+      "Sentence_cn": "谢谢，妈妈。",
+      "Sentence": "Thanks, Mum."
+    },
+    {
+      "voaid": "1065",
+      "EndTiming": "65.9",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "62.9",
+      "Sentence_cn": "不用谢。再见。",
+      "Sentence": "That's all right. Goodbye."
+    },
+    {
+      "voaid": "1065",
+      "EndTiming": "68.3",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "66.7",
+      "Sentence_cn": "好好玩吧！",
+      "Sentence": "Enjoy yourself!"
+    },
+    {
+      "voaid": "1065",
+      "EndTiming": "72.1",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "68.9",
+      "Sentence_cn": "我们总是玩得很开心的，妈妈。",
+      "Sentence": "We always enjoy ourselves, Mum."
+    },
+    {
+      "voaid": "1065",
+      "EndTiming": "73.6",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "72.8",
+      "Sentence_cn": "再见。",
+      "Sentence": "Bye-bye."
+    }
+  ],
+  "size": 22,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14252,14253",
+    "title_cn": "不是一个孩子",
+    "title": "Not a baby"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_65.mp3"
+}

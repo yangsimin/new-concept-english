@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "voaid": "1140",
+      "EndTiming": "16.3",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "15.1",
+      "Sentence_cn": "你累了吗？",
+      "Sentence": "Are you tired?"
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "18.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "17.6",
+      "Sentence_cn": "他想知道什么？",
+      "Sentence": "What does he want to know?"
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "21.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "19.0",
+      "Sentence_cn": "他想知道你是否累了。",
+      "Sentence": "He wants to know if you are tired."
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "24.1",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "22.6",
+      "Sentence_cn": "为什么玛丽会晚？",
+      "Sentence": "Why is Mary late?"
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "26.9",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "25.6",
+      "Sentence_cn": "她想知道什么？",
+      "Sentence": "What does she want to know?"
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "30.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "27.9",
+      "Sentence_cn": "她想知道为什么玛丽会晚。",
+      "Sentence": "She wants to know why Mary is late."
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "33.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "31.8",
+      "Sentence_cn": "汤姆起来晚了吗？",
+      "Sentence": "Does Tom get up early?"
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "36.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "35.0",
+      "Sentence_cn": "他想知道什么？",
+      "Sentence": "What does he want to know?"
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "39.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "36.8",
+      "Sentence_cn": "他想知道是否汤姆会起来的晚。",
+      "Sentence": "He wants to know if Tom gets up early."
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "88.9",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "86.8",
+      "Sentence_cn": "汤姆在做作业吗？",
+      "Sentence": "Is Tom doing his homework?"
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "91.8",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "90.2",
+      "Sentence_cn": "她想知道什么？",
+      "Sentence": "What does she want to know?"
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "98.9",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "95.8",
+      "Sentence_cn": "她想知道是否汤姆在做作业.",
+      "Sentence": "She wants to know if Tom is doing his homework."
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "103.4",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "102.1",
+      "Sentence_cn": "你在做什么？",
+      "Sentence": "What are you cooking?"
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "106.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "105.6",
+      "Sentence_cn": "他想知道什么？",
+      "Sentence": "What does he want to know?"
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "113.4",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "110.9",
+      "Sentence_cn": "他想知道你在做什么？",
+      "Sentence": "He wants to know what you are cooking."
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "117.5",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "115.7",
+      "Sentence_cn": "汤姆什么时候到？",
+      "Sentence": "When does Tom arrive?"
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "120.5",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "118.9",
+      "Sentence_cn": "她想知道什么？",
+      "Sentence": "What does she want to know?"
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "128.3",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "125.5",
+      "Sentence_cn": "她想知道汤姆什么时候到。",
+      "Sentence": "She wants to know when Tom arrives."
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "132.5",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "130.1",
+      "Sentence_cn": "孩子们会早点睡觉吗？",
+      "Sentence": "Will the children go to bed early?"
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "135.4",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "134.1",
+      "Sentence_cn": "他想知道什么？",
+      "Sentence": "What does he want to know?"
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "142.4",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "138.7",
+      "Sentence_cn": "他想知道是否孩子会早点睡觉。",
+      "Sentence": "He wants to know if the children will go to bed early."
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "146.3",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "144.8",
+      "Sentence_cn": "你会什么时候洗澡？",
+      "Sentence": "When will you have a bath?"
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "149.3",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "147.8",
+      "Sentence_cn": "她想知道什么？",
+      "Sentence": "What does she want to know?"
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "156.7",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "153.7",
+      "Sentence_cn": "她想知道你什么时候洗澡。",
+      "Sentence": "She wants to know when you'll have a bath."
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "161.1",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "158.8",
+      "Sentence_cn": "汤姆睡得很早吗？",
+      "Sentence": "Did Tom go to bed early?"
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "164.4",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "163.2",
+      "Sentence_cn": "他想知道什么？",
+      "Sentence": "What does he want to know?"
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "171.5",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "168.3",
+      "Sentence_cn": "他想知道是否汤姆会早睡觉。",
+      "Sentence": "He wants to know if Tom went to bed early."
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "175.7",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "173.9",
+      "Sentence_cn": "汤姆什么时候睡的？",
+      "Sentence": "When did Tom go to bed?"
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "178.9",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "177.5",
+      "Sentence_cn": "她想知道什么？",
+      "Sentence": "What does she want to know?"
+    },
+    {
+      "voaid": "1140",
+      "EndTiming": "185.8",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "183.3",
+      "Sentence_cn": "她想知道汤姆什么时候睡的。",
+      "Sentence": "She wants to know when Tom went to bed."
+    }
+  ],
+  "size": 30,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14342",
+    "title_cn": "他想知道是否/为什么/什么/什么时候",
+    "title": "He wants to know if/why/what/when"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_140.mp3"
+}

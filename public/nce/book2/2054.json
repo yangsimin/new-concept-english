@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "voaid": "2054",
+      "EndTiming": "4.3",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "粘糊的手指",
+      "Sentence": "--- Lesson 54  Sticky fingers"
+    },
+    {
+      "voaid": "2054",
+      "EndTiming": "11.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.0",
+      "Sentence_cn": "早饭后，我送孩子们上学，然后就去了商店。",
+      "Sentence": "After breakfast, I sent the children to school and then I went to the shops."
+    },
+    {
+      "voaid": "2054",
+      "EndTiming": "15.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "11.3",
+      "Sentence_cn": "我回到家时，时间还早。",
+      "Sentence": "It was still early when I returned home."
+    },
+    {
+      "voaid": "2054",
+      "EndTiming": "21.7",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "15.1",
+      "Sentence_cn": "孩子们在上学，我丈夫在上班，家里清静得很。",
+      "Sentence": "The children were at school, my husband was at work and the house was quiet."
+    },
+    {
+      "voaid": "2054",
+      "EndTiming": "25.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "22.2",
+      "Sentence_cn": "于是我决定做些肉馅饼。",
+      "Sentence": "So I decided to make some meat pies."
+    },
+    {
+      "voaid": "2054",
+      "EndTiming": "34.8",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "26.3",
+      "Sentence_cn": "不一会儿我就忙着调拌起了黄油和面粉，很快我的手上就沾满了粘粘的面糊。",
+      "Sentence": "In a short time I was busy mixing butter and flour and my hands were soon covered with sticky pastry."
+    },
+    {
+      "voaid": "2054",
+      "EndTiming": "39.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "35.2",
+      "Sentence_cn": "恰恰在此时，电话铃响了。",
+      "Sentence": "At exactly that moment, the telephone rang."
+    },
+    {
+      "voaid": "2054",
+      "EndTiming": "42.8",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "40.2",
+      "Sentence_cn": "没有什么能比这更烦人了。",
+      "Sentence": "Nothing could have been more annoying."
+    },
+    {
+      "voaid": "2054",
+      "EndTiming": "52.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "43.2",
+      "Sentence_cn": "我用两个沾满面糊的手指捏起了话筒。当听出是海伦.贝茨的声音时，非常丧气。",
+      "Sentence": "I picked up the receiver between two sticky fingers and was dismayed when I recognized the voice of Helen Bates."
+    },
+    {
+      "voaid": "2054",
+      "EndTiming": "58.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "53.1",
+      "Sentence_cn": "我用了10分钟的时间才说服她过会儿再来电话。",
+      "Sentence": "It took me ten minutes to persuade her to ring back later."
+    },
+    {
+      "voaid": "2054",
+      "EndTiming": "61.4",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "58.6",
+      "Sentence_cn": "我终于挂上了话筒。",
+      "Sentence": "At last I hung up the receiver."
+    },
+    {
+      "voaid": "2054",
+      "EndTiming": "70.8",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "61.9",
+      "Sentence_cn": "真是糟糕透了！我的手指上、电话机上以及门的把手上，都沾上了面糊。",
+      "Sentence": "What a mess! There was pastry on my fingers, on the telephone, and on the doorknobs."
+    },
+    {
+      "voaid": "2054",
+      "EndTiming": "79.3",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "71.5",
+      "Sentence_cn": "我刚回到厨房，门铃又响了起来，响声足以把死人唤醒。",
+      "Sentence": "I had no sooner got back to the kitchen than the doorbell rang loud enough to wake the dead."
+    },
+    {
+      "voaid": "2054",
+      "EndTiming": "85.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "79.9",
+      "Sentence_cn": "这次是邮递员，他要我签收一封挂号信！",
+      "Sentence": "This time it was the postman and he wanted me to sign for a registered letter!"
+    }
+  ],
+  "size": 14,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14441,14442",
+    "title_cn": "粘糊的手指",
+    "title": "Sticky fingers"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_54.mp3"
+}

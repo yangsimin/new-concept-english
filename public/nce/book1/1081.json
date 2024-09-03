@@ -1,0 +1,219 @@
+{
+  "data": [
+    {
+      "voaid": "1081",
+      "EndTiming": "5.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.0",
+      "Sentence_cn": "烤牛肉和土豆",
+      "Sentence": "--- lesson 81  Roast beef and potatoes"
+    },
+    {
+      "voaid": "1081",
+      "EndTiming": "9.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.9",
+      "Sentence_cn": "你好，卡罗尔！汤姆在哪儿？",
+      "Sentence": "Hi, Carol! Where's Tom?"
+    },
+    {
+      "voaid": "1081",
+      "EndTiming": "11.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "9.3",
+      "Sentence_cn": "他在楼上。",
+      "Sentence": "He's upstairs."
+    },
+    {
+      "voaid": "1081",
+      "EndTiming": "13.9",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "11.6",
+      "Sentence_cn": "他正在洗澡。",
+      "Sentence": "He's having a bath."
+    },
+    {
+      "voaid": "1081",
+      "EndTiming": "15.4",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "13.9",
+      "Sentence_cn": "汤姆！",
+      "Sentence": "Tom!"
+    },
+    {
+      "voaid": "1081",
+      "EndTiming": "16.8",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "15.4",
+      "Sentence_cn": "什么事？",
+      "Sentence": "Yes?"
+    },
+    {
+      "voaid": "1081",
+      "EndTiming": "18.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "16.8",
+      "Sentence_cn": "萨姆来了。",
+      "Sentence": "Sam's here."
+    },
+    {
+      "voaid": "1081",
+      "EndTiming": "20.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "18.6",
+      "Sentence_cn": "我马上就好。",
+      "Sentence": "I'm nearly ready."
+    },
+    {
+      "voaid": "1081",
+      "EndTiming": "22.8",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "20.9",
+      "Sentence_cn": "你好，萨姆。",
+      "Sentence": "Hello, Sam."
+    },
+    {
+      "voaid": "1081",
+      "EndTiming": "24.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "22.8",
+      "Sentence_cn": "请抽烟。",
+      "Sentence": "Have a cigarette."
+    },
+    {
+      "voaid": "1081",
+      "EndTiming": "27.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "24.8",
+      "Sentence_cn": "不，谢谢，汤姆。",
+      "Sentence": "No, thanks, Tom."
+    },
+    {
+      "voaid": "1081",
+      "EndTiming": "29.8",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "27.0",
+      "Sentence_cn": "那么，来杯威士忌吧。",
+      "Sentence": "Have a glass of whisky then."
+    },
+    {
+      "voaid": "1081",
+      "EndTiming": "31.9",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "29.8",
+      "Sentence_cn": "好的，谢谢。",
+      "Sentence": "OK. Thanks."
+    },
+    {
+      "voaid": "1081",
+      "EndTiming": "34.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "31.9",
+      "Sentence_cn": "卡罗尔，饭好了吗？",
+      "Sentence": "Is dinner ready, Carol?"
+    },
+    {
+      "voaid": "1081",
+      "EndTiming": "36.9",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "34.5",
+      "Sentence_cn": "马上就好。",
+      "Sentence": "It's nearly ready."
+    },
+    {
+      "voaid": "1081",
+      "EndTiming": "40.9",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "36.9",
+      "Sentence_cn": "7点钟我们可以吃饭。",
+      "Sentence": "We can have dinner at seven o'clock."
+    },
+    {
+      "voaid": "1081",
+      "EndTiming": "44.7",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "40.9",
+      "Sentence_cn": "我和萨姆今天一起吃的午饭。",
+      "Sentence": "Sam and I had lunch together today."
+    },
+    {
+      "voaid": "1081",
+      "EndTiming": "47.3",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "44.7",
+      "Sentence_cn": "我们去了一家饭店。",
+      "Sentence": "We went to a restaurant."
+    },
+    {
+      "voaid": "1081",
+      "EndTiming": "49.4",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "47.3",
+      "Sentence_cn": "你们吃什么？",
+      "Sentence": "What did you have?"
+    },
+    {
+      "voaid": "1081",
+      "EndTiming": "53.1",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "49.4",
+      "Sentence_cn": "我们吃的是烤牛肉和土豆。",
+      "Sentence": "We had roast beef and potatoes."
+    },
+    {
+      "voaid": "1081",
+      "EndTiming": "54.6",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "53.1",
+      "Sentence_cn": "噢！",
+      "Sentence": "Oh!"
+    },
+    {
+      "voaid": "1081",
+      "EndTiming": "57.0",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "54.6",
+      "Sentence_cn": "怎么了，卡罗尔？",
+      "Sentence": "What's the matter, Carol?"
+    },
+    {
+      "voaid": "1081",
+      "EndTiming": "64.0",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "57.0",
+      "Sentence_cn": "唉，今晚你们又要吃烤牛肉和土豆了！",
+      "Sentence": "Well, you're going to have roast beef and potatoes again tonight!"
+    }
+  ],
+  "size": 23,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14271,14272",
+    "title_cn": "烤牛肉和土豆",
+    "title": "Roast beef and potatoes"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_81.mp3"
+}

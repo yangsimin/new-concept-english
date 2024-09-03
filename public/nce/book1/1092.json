@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "1092",
+      "EndTiming": "15.8",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "12.2",
+      "Sentence_cn": "昨天下雨了。",
+      "Sentence": "Look at t he 1st picture. It rained yesterday."
+    },
+    {
+      "voaid": "1092",
+      "EndTiming": "18.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "16.2",
+      "Sentence_cn": "是的，明天还会下雨。",
+      "Sentence": "Yes, and it'll rain again tomorrow."
+    },
+    {
+      "voaid": "1092",
+      "EndTiming": "23.9",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "19.6",
+      "Sentence_cn": "他昨天起床晚了。",
+      "Sentence": "The 4th picture. He got up late yesterday."
+    },
+    {
+      "voaid": "1092",
+      "EndTiming": "27.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "24.5",
+      "Sentence_cn": "是的，明天他还会晚起。",
+      "Sentence": "Yes, and he'll get up late again tomorrow."
+    },
+    {
+      "voaid": "1092",
+      "EndTiming": "33.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "28.4",
+      "Sentence_cn": "她昨天擦地板了。",
+      "Sentence": "The 13th picture. She swept the floor yesterday."
+    },
+    {
+      "voaid": "1092",
+      "EndTiming": "36.7",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "33.6",
+      "Sentence_cn": "是的，明天她也会擦地板。",
+      "Sentence": "Yes, and she'll sweep the floor again tomorrow."
+    },
+    {
+      "voaid": "1092",
+      "EndTiming": "82.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "78.2",
+      "Sentence_cn": "昨天下雪了。",
+      "Sentence": "The 2nd picture. It snowed yesterday."
+    },
+    {
+      "voaid": "1092",
+      "EndTiming": "88.5",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "85.5",
+      "Sentence_cn": "是的，明天还会下雪。",
+      "Sentence": "Yes, and it'll snow again tomorrow."
+    },
+    {
+      "voaid": "1092",
+      "EndTiming": "94.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "89.6",
+      "Sentence_cn": "他昨天工作完成的很晚。",
+      "Sentence": "The 6th picture. He finished work late yesterday."
+    },
+    {
+      "voaid": "1092",
+      "EndTiming": "101.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "98.3",
+      "Sentence_cn": "是的，明天他也会很晚完成工作。",
+      "Sentence": "Yes, and he'll finish work late again tomorrow."
+    },
+    {
+      "voaid": "1092",
+      "EndTiming": "108.2",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "103.1",
+      "Sentence_cn": "他们昨天修理了他的车。",
+      "Sentence": "The 15th picture. They repaired his car yesterday."
+    },
+    {
+      "voaid": "1092",
+      "EndTiming": "115.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "111.6",
+      "Sentence_cn": "是的，明天他们还会修理他的车。",
+      "Sentence": "Yes, and they'll repair his car again tomorrow."
+    },
+    {
+      "voaid": "1092",
+      "EndTiming": "120.5",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "116.1",
+      "Sentence_cn": "她昨天给他打了电话。",
+      "Sentence": "The 10th picture. She telephoned him yesterday."
+    },
+    {
+      "voaid": "1092",
+      "EndTiming": "128.2",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "124.7",
+      "Sentence_cn": "是的，明天她也会给他打电话。",
+      "Sentence": "Yes, and she'll telephone him again tomorrow."
+    },
+    {
+      "voaid": "1092",
+      "EndTiming": "133.9",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "129.3",
+      "Sentence_cn": "他们昨天开车回家很晚。",
+      "Sentence": "The 8th picture. They drove home late yesterday."
+    },
+    {
+      "voaid": "1092",
+      "EndTiming": "140.5",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "137.1",
+      "Sentence_cn": "是的，他们明天还要开车回家很晚。",
+      "Sentence": "Yes, and they'll drive home late again tomorrow."
+    },
+    {
+      "voaid": "1092",
+      "EndTiming": "145.9",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "141.6",
+      "Sentence_cn": "他昨天刮脸了。",
+      "Sentence": "The 11th picture. He had a shave yesterday."
+    },
+    {
+      "voaid": "1092",
+      "EndTiming": "152.8",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "149.8",
+      "Sentence_cn": "是的，明天他还要刮脸。",
+      "Sentence": "Yes, and he'll have a shave again tomorrow."
+    },
+    {
+      "voaid": "1092",
+      "EndTiming": "158.5",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "153.9",
+      "Sentence_cn": "他昨天有个约会。",
+      "Sentence": "The 16th picture. He made an appointment yesterday."
+    },
+    {
+      "voaid": "1092",
+      "EndTiming": "165.4",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "162.0",
+      "Sentence_cn": "是的，明天他还要有个约会。",
+      "Sentence": "Yes, and he'll make an appointment again tomorrow."
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14289",
+    "title_cn": "什么时候要……？",
+    "title": "When will ...?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_92.mp3"
+}

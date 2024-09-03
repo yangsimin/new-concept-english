@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "voaid": "1015",
+      "EndTiming": "5.1",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "请出示你们的护照。",
+      "Sentence": "--- lesson 15  Your passports, please."
+    },
+    {
+      "voaid": "1015",
+      "EndTiming": "8.1",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.7",
+      "Sentence_cn": "你们是瑞典人吗？",
+      "Sentence": "Are you Swedish?"
+    },
+    {
+      "voaid": "1015",
+      "EndTiming": "10.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.5",
+      "Sentence_cn": "不，我们不是瑞典人。",
+      "Sentence": "No, we are not."
+    },
+    {
+      "voaid": "1015",
+      "EndTiming": "12.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "10.8",
+      "Sentence_cn": "我们是丹麦人。",
+      "Sentence": "We are Danish."
+    },
+    {
+      "voaid": "1015",
+      "EndTiming": "15.8",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "13.2",
+      "Sentence_cn": "你们的朋友也是丹麦人吗？",
+      "Sentence": "Are your friends Danish, too?"
+    },
+    {
+      "voaid": "1015",
+      "EndTiming": "19.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "15.8",
+      "Sentence_cn": "不，他们不是丹麦人。",
+      "Sentence": "No, they aren't."
+    },
+    {
+      "voaid": "1015",
+      "EndTiming": "21.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "19.0",
+      "Sentence_cn": "他们是挪威人。",
+      "Sentence": "They are Norwegian."
+    },
+    {
+      "voaid": "1015",
+      "EndTiming": "24.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "22.6",
+      "Sentence_cn": "请出示你们的护照。",
+      "Sentence": "Your passports, please."
+    },
+    {
+      "voaid": "1015",
+      "EndTiming": "27.7",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "24.7",
+      "Sentence_cn": "给您。",
+      "Sentence": "Here they are."
+    },
+    {
+      "voaid": "1015",
+      "EndTiming": "29.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "27.7",
+      "Sentence_cn": "这些是你们的箱子吗？",
+      "Sentence": "Are these your cases?"
+    },
+    {
+      "voaid": "1015",
+      "EndTiming": "32.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "30.3",
+      "Sentence_cn": "不，不是。",
+      "Sentence": "No, they aren't."
+    },
+    {
+      "voaid": "1015",
+      "EndTiming": "35.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "32.7",
+      "Sentence_cn": "我们的箱子是棕色的。",
+      "Sentence": "Our cases are brown."
+    },
+    {
+      "voaid": "1015",
+      "EndTiming": "38.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "35.0",
+      "Sentence_cn": "在这儿呢。",
+      "Sentence": "Here they are."
+    },
+    {
+      "voaid": "1015",
+      "EndTiming": "39.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "38.0",
+      "Sentence_cn": "你们是来旅游的吗？",
+      "Sentence": "Are you tourists?"
+    },
+    {
+      "voaid": "1015",
+      "EndTiming": "42.4",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "40.3",
+      "Sentence_cn": "是的，我们是来旅游的。",
+      "Sentence": "Yes, we are."
+    },
+    {
+      "voaid": "1015",
+      "EndTiming": "45.9",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "43.0",
+      "Sentence_cn": "你们的朋友也是来旅游的吗？",
+      "Sentence": "Are your friends tourists too?"
+    },
+    {
+      "voaid": "1015",
+      "EndTiming": "48.3",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "46.5",
+      "Sentence_cn": "是的，他们也是。",
+      "Sentence": "Yes, they are."
+    },
+    {
+      "voaid": "1015",
+      "EndTiming": "50.2",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "49.0",
+      "Sentence_cn": "好了。",
+      "Sentence": "That's fine."
+    },
+    {
+      "voaid": "1015",
+      "EndTiming": "52.8",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "50.7",
+      "Sentence_cn": "非常感谢。",
+      "Sentence": "Thank you very much."
+    }
+  ],
+  "size": 19,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14195",
+    "title_cn": "请出示你们的护照。",
+    "title": "Your passports, please."
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_15.mp3"
+}

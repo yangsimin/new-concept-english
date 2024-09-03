@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "voaid": "1039",
+      "EndTiming": "4.3",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "别摔了！",
+      "Sentence": "--- lesson 39  Don't drop it!"
+    },
+    {
+      "voaid": "1039",
+      "EndTiming": "9.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.1",
+      "Sentence_cn": "你打算如何处理那花瓶，彭妮？",
+      "Sentence": "What are you going to do with that vase, Penny?"
+    },
+    {
+      "voaid": "1039",
+      "EndTiming": "14.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.3",
+      "Sentence_cn": "我打算把它放在这张桌子上，萨姆。",
+      "Sentence": "I'm going to put it on this table, Sam."
+    },
+    {
+      "voaid": "1039",
+      "EndTiming": "16.2",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "15.0",
+      "Sentence_cn": "不要放在那儿，",
+      "Sentence": "Don't do that."
+    },
+    {
+      "voaid": "1039",
+      "EndTiming": "18.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "17.1",
+      "Sentence_cn": "把它给我。",
+      "Sentence": "Give it to me."
+    },
+    {
+      "voaid": "1039",
+      "EndTiming": "22.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "19.3",
+      "Sentence_cn": "你打算怎么办？",
+      "Sentence": "What are you going to do with it?"
+    },
+    {
+      "voaid": "1039",
+      "EndTiming": "27.7",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "22.9",
+      "Sentence_cn": "我准备把它放在这儿，放在窗前。",
+      "Sentence": "I'm going to put it here, in front of the window."
+    },
+    {
+      "voaid": "1039",
+      "EndTiming": "29.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "28.5",
+      "Sentence_cn": "小心点！",
+      "Sentence": "Be careful!"
+    },
+    {
+      "voaid": "1039",
+      "EndTiming": "31.7",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "30.1",
+      "Sentence_cn": "别摔了！",
+      "Sentence": "Don't drop it!"
+    },
+    {
+      "voaid": "1039",
+      "EndTiming": "35.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "32.6",
+      "Sentence_cn": "别放在那儿，萨姆。",
+      "Sentence": "Don't put it there, Sam."
+    },
+    {
+      "voaid": "1039",
+      "EndTiming": "38.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "35.5",
+      "Sentence_cn": "放在这儿，这个架子上。",
+      "Sentence": "Put it here, on this shelf."
+    },
+    {
+      "voaid": "1039",
+      "EndTiming": "43.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "39.4",
+      "Sentence_cn": "放好了！这是只漂亮的花瓶。",
+      "Sentence": "There we are! It's a lovely vase."
+    },
+    {
+      "voaid": "1039",
+      "EndTiming": "47.1",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "43.9",
+      "Sentence_cn": "那些花也很漂亮啊。",
+      "Sentence": "Those flowers are lovely, too."
+    }
+  ],
+  "size": 13,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14222",
+    "title_cn": "别摔了！",
+    "title": "Don't drop it!"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_39.mp3"
+}

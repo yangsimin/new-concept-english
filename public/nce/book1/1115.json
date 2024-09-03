@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "voaid": "1115",
+      "EndTiming": "5.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.7",
+      "Sentence_cn": "敲敲门！",
+      "Sentence": "--- lesson 115  Knock, Knock!"
+    },
+    {
+      "voaid": "1115",
+      "EndTiming": "8.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.4",
+      "Sentence_cn": "家里没有人吗？",
+      "Sentence": "Isn't there anyone at home?"
+    },
+    {
+      "voaid": "1115",
+      "EndTiming": "11.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "9.6",
+      "Sentence_cn": "海伦，我再敲一次。",
+      "Sentence": "I'll knock again, Helen."
+    },
+    {
+      "voaid": "1115",
+      "EndTiming": "14.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "12.5",
+      "Sentence_cn": "毫无动静，",
+      "Sentence": "Everything's very quiet."
+    },
+    {
+      "voaid": "1115",
+      "EndTiming": "18.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "15.4",
+      "Sentence_cn": "肯定家里没有人。",
+      "Sentence": "I'm sure there's no one at home."
+    },
+    {
+      "voaid": "1115",
+      "EndTiming": "20.7",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "18.6",
+      "Sentence_cn": "但这是不可能的。",
+      "Sentence": "But that's impossible."
+    },
+    {
+      "voaid": "1115",
+      "EndTiming": "24.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "21.4",
+      "Sentence_cn": "卡罗尔和汤姆请我们来吃午饭。",
+      "Sentence": "Carol and Tom invited us to lunch."
+    },
+    {
+      "voaid": "1115",
+      "EndTiming": "27.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "25.6",
+      "Sentence_cn": "从窗子往里看看。",
+      "Sentence": "Look through the window."
+    },
+    {
+      "voaid": "1115",
+      "EndTiming": "29.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "28.1",
+      "Sentence_cn": "你能看见什么吗？",
+      "Sentence": "Can you see anything?"
+    },
+    {
+      "voaid": "1115",
+      "EndTiming": "32.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "30.7",
+      "Sentence_cn": "什么也看不见。",
+      "Sentence": "Nothing at all."
+    },
+    {
+      "voaid": "1115",
+      "EndTiming": "35.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "32.8",
+      "Sentence_cn": "让我们到后门去试试。",
+      "Sentence": "Let's try the back door."
+    },
+    {
+      "voaid": "1115",
+      "EndTiming": "39.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "36.0",
+      "Sentence_cn": "瞧！大家都在花园里。",
+      "Sentence": "Look! Everyone's in the garden."
+    },
+    {
+      "voaid": "1115",
+      "EndTiming": "43.3",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "40.0",
+      "Sentence_cn": "你好，海伦。你好，吉姆。",
+      "Sentence": "Hello, Helen. Hello, Jim."
+    },
+    {
+      "voaid": "1115",
+      "EndTiming": "47.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "44.1",
+      "Sentence_cn": "大家都想在花园里吃午饭。",
+      "Sentence": "Everybody wants to have lunch in the garden."
+    },
+    {
+      "voaid": "1115",
+      "EndTiming": "50.6",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "48.1",
+      "Sentence_cn": "这外面挺暖和。",
+      "Sentence": "It's nice and warm out here."
+    },
+    {
+      "voaid": "1115",
+      "EndTiming": "54.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "51.5",
+      "Sentence_cn": "来喝点什么。",
+      "Sentence": "Come and have something to drink."
+    },
+    {
+      "voaid": "1115",
+      "EndTiming": "56.1",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "54.9",
+      "Sentence_cn": "谢谢，卡罗尔。",
+      "Sentence": "Thanks, Carol."
+    },
+    {
+      "voaid": "1115",
+      "EndTiming": "60.0",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "56.8",
+      "Sentence_cn": "给我一杯啤酒好吗？",
+      "Sentence": "May I have a glass of beer please?"
+    },
+    {
+      "voaid": "1115",
+      "EndTiming": "63.5",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "60.5",
+      "Sentence_cn": "啤酒？一点都不剩了。",
+      "Sentence": "Beer? There's none left."
+    },
+    {
+      "voaid": "1115",
+      "EndTiming": "66.6",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "63.9",
+      "Sentence_cn": "你可以喝点柠檬水。",
+      "Sentence": "You can have some lemonade."
+    },
+    {
+      "voaid": "1115",
+      "EndTiming": "68.2",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "67.1",
+      "Sentence_cn": "柠檬水！",
+      "Sentence": "Lemonade!"
+    },
+    {
+      "voaid": "1115",
+      "EndTiming": "70.5",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "68.7",
+      "Sentence_cn": "吉姆，别信她的。",
+      "Sentence": "Don't believe her, Jim."
+    },
+    {
+      "voaid": "1115",
+      "EndTiming": "72.2",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "70.7",
+      "Sentence_cn": "她只是在开玩笑。",
+      "Sentence": "She's only joking."
+    },
+    {
+      "voaid": "1115",
+      "EndTiming": "73.8",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "72.6",
+      "Sentence_cn": "喝点啤酒吧！",
+      "Sentence": "Have some beer!"
+    }
+  ],
+  "size": 24,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14315",
+    "title_cn": "敲敲门！",
+    "title": "Knock, knock!"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_115.mp3"
+}

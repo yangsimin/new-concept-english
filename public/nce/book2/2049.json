@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "voaid": "2049",
+      "EndTiming": "4.8",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "美梦告终",
+      "Sentence": "--- Lesson 49  The end of a dream"
+    },
+    {
+      "voaid": "2049",
+      "EndTiming": "14.1",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.1",
+      "Sentence_cn": "德黑兰的一个年轻人由于对睡地板感到厌倦，于是积蓄多年买了一张真正的床。",
+      "Sentence": "Tired of sleeping on the floor, a young man in Teheran saved up for years to buy a real bed."
+    },
+    {
+      "voaid": "2049",
+      "EndTiming": "23.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "14.1",
+      "Sentence_cn": "他平生第一次自豪地拥有了一张既有弹簧又带床垫的床。",
+      "Sentence": "For the first time in his life, he became the proud owner of a bed which had springs and a mattress."
+    },
+    {
+      "voaid": "2049",
+      "EndTiming": "31.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "23.6",
+      "Sentence_cn": "由于天气很热，他便把床搬到了他的屋顶上。",
+      "Sentence": "Because the weather was very hot, he carried the bed on to the roof of his house."
+    },
+    {
+      "voaid": "2049",
+      "EndTiming": "40.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "31.4",
+      "Sentence_cn": "头两天晚上，他睡得非常好。但第三天晚上起了风暴。",
+      "Sentence": "He slept very well for the first two nights, but on the third night, a storm blew up."
+    },
+    {
+      "voaid": "2049",
+      "EndTiming": "49.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "41.2",
+      "Sentence_cn": "一阵大风把床从屋顶上刮了下来，把它摔碎在下面的院子里。",
+      "Sentence": "A gust of wind swept the bed off the roof and sent it crashing into the courtyard below."
+    },
+    {
+      "voaid": "2049",
+      "EndTiming": "54.7",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "49.0",
+      "Sentence_cn": "那年轻人直到床撞到地上才醒了过来。",
+      "Sentence": "The young man did not wake up until the bed had struck the ground."
+    },
+    {
+      "voaid": "2049",
+      "EndTiming": "62.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "54.7",
+      "Sentence_cn": "尽管床摔成了碎片，但年轻人却奇迹地没有受伤。",
+      "Sentence": "Although the bed was smashed to pieces, the man was miraculously unhurt."
+    },
+    {
+      "voaid": "2049",
+      "EndTiming": "66.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "62.0",
+      "Sentence_cn": "他醒来时，仍然躺在床垫上。",
+      "Sentence": "When he woke up, he was still on the mattress."
+    },
+    {
+      "voaid": "2049",
+      "EndTiming": "71.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "66.4",
+      "Sentence_cn": "年轻人看了一眼周围的碎木片和碎金属片，",
+      "Sentence": "Glancing at the bits of wood and metal that lay around him,"
+    },
+    {
+      "voaid": "2049",
+      "EndTiming": "77.3",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "72.2",
+      "Sentence_cn": "伤心地捡起了床垫，把它拿进了屋。",
+      "Sentence": "the man sadly picked up the mattress and carried it into his house."
+    },
+    {
+      "voaid": "2049",
+      "EndTiming": "83.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "77.8",
+      "Sentence_cn": "他把床垫往地板上一放，很快又睡着了。",
+      "Sentence": "After he had put it on the floor, he promptly went to sleep again."
+    }
+  ],
+  "size": 12,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14431,14432",
+    "title_cn": "美梦告终",
+    "title": "The end of a dream"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_49.mp3"
+}

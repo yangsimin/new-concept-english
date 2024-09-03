@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "voaid": "1133",
+      "EndTiming": "5.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "爆炸性新闻！",
+      "Sentence": "--- lesson 133  Sensational news!"
+    },
+    {
+      "voaid": "1133",
+      "EndTiming": "9.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.9",
+      "Sentence_cn": "您刚拍完一部新电影吗，马什小姐？",
+      "Sentence": "Have you just made a new film, Miss Marsh?"
+    },
+    {
+      "voaid": "1133",
+      "EndTiming": "12.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.2",
+      "Sentence_cn": "是的，我刚拍完。",
+      "Sentence": "Yes, I have."
+    },
+    {
+      "voaid": "1133",
+      "EndTiming": "15.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "13.0",
+      "Sentence_cn": "您准备再拍一部吗？",
+      "Sentence": "Are you going to make  another? "
+    },
+    {
+      "voaid": "1133",
+      "EndTiming": "17.7",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "15.7",
+      "Sentence_cn": "不，我不准备拍了。",
+      "Sentence": "No, I'm not."
+    },
+    {
+      "voaid": "1133",
+      "EndTiming": "20.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "18.1",
+      "Sentence_cn": "我准备退休了。",
+      "Sentence": "I'm going to retire."
+    },
+    {
+      "voaid": "1133",
+      "EndTiming": "23.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "21.1",
+      "Sentence_cn": "我感觉累得很。",
+      "Sentence": "I feel very tired."
+    },
+    {
+      "voaid": "1133",
+      "EndTiming": "29.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "24.0",
+      "Sentence_cn": "我早就不想再拍片子了。",
+      "Sentence": "I don't want to make another film for a long time."
+    },
+    {
+      "voaid": "1133",
+      "EndTiming": "33.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "30.5",
+      "Sentence_cn": "我们买份报纸吧。莉兹。",
+      "Sentence": "Let's buy a newspaper, Liz."
+    },
+    {
+      "voaid": "1133",
+      "EndTiming": "44.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "34.2",
+      "Sentence_cn": "你听这段：“卡伦.马什：爆炸性新闻！由本报记者艾伦.琼斯报导。",
+      "Sentence": "Listen to this! 'Karen Marsh:Sensational News!By our reporter,Alan Jones."
+    },
+    {
+      "voaid": "1133",
+      "EndTiming": "50.3",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "45.6",
+      "Sentence_cn": "卡伦.马什今天到达伦敦机场。",
+      "Sentence": "Karen Marsh arrived at London Airport today."
+    },
+    {
+      "voaid": "1133",
+      "EndTiming": "56.5",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "51.1",
+      "Sentence_cn": "她穿着一身蓝色的套装和一件貂皮大衣。",
+      "Sentence": "She was wearing a blue dress and a mink coat."
+    },
+    {
+      "voaid": "1133",
+      "EndTiming": "61.9",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "57.1",
+      "Sentence_cn": "她告诉我她刚拍完一部新片子。",
+      "Sentence": "She told me she had just made a new film."
+    },
+    {
+      "voaid": "1133",
+      "EndTiming": "67.4",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "62.8",
+      "Sentence_cn": "她说她不准备再拍电影了。",
+      "Sentence": "she said she was not going to make another."
+    },
+    {
+      "voaid": "1133",
+      "EndTiming": "71.9",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "68.2",
+      "Sentence_cn": "她说她准备退休。",
+      "Sentence": "She said she was going to retire."
+    },
+    {
+      "voaid": "1133",
+      "EndTiming": "83.1",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "72.7",
+      "Sentence_cn": "她告诉记者她感到很疲劳，早就不想再拍电影了。”",
+      "Sentence": "She told reporters she felt very tired and didn't want to make another film for a long time.'"
+    },
+    {
+      "voaid": "1133",
+      "EndTiming": "85.6",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "83.9",
+      "Sentence_cn": "我很想知道为什么。",
+      "Sentence": "I wonder why!"
+    }
+  ],
+  "size": 17,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14335",
+    "title_cn": "爆炸性新闻！",
+    "title": "Sensational news!"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_133.mp3"
+}

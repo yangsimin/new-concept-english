@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "voaid": "1001",
+      "EndTiming": "4.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": " 对不起！",
+      "Sentence": "lesson 1 Excuse me!"
+    },
+    {
+      "voaid": "1001",
+      "EndTiming": "5.9",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.9",
+      "Sentence_cn": "对不起",
+      "Sentence": "Excuse me!"
+    },
+    {
+      "voaid": "1001",
+      "EndTiming": "7.3",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "6.4",
+      "Sentence_cn": "什么事儿？",
+      "Sentence": "Yes?"
+    },
+    {
+      "voaid": "1001",
+      "EndTiming": "10.2",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "8.0",
+      "Sentence_cn": "这是您的手提包吗？",
+      "Sentence": "Is this your handbag?"
+    },
+    {
+      "voaid": "1001",
+      "EndTiming": "11.8",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "11.0",
+      "Sentence_cn": "对不起，请再说一遍。",
+      "Sentence": "Pardon?"
+    },
+    {
+      "voaid": "1001",
+      "EndTiming": "15.3",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "12.6",
+      "Sentence_cn": "这是您的手提包吗？",
+      "Sentence": "Is this your handbag?"
+    },
+    {
+      "voaid": "1001",
+      "EndTiming": "17.7",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "16.0",
+      "Sentence_cn": "是的，是我的。",
+      "Sentence": "Yes, it is."
+    },
+    {
+      "voaid": "1001",
+      "EndTiming": "20.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "18.6",
+      "Sentence_cn": "非常感谢！",
+      "Sentence": "Thank you very much."
+    }
+  ],
+  "size": 8,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14180,14181",
+    "title_cn": "对不起！",
+    "title": "Excuse me!"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_1.mp3"
+}

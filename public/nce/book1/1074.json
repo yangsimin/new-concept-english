@@ -1,0 +1,210 @@
+{
+  "data": [
+    {
+      "voaid": "1074",
+      "EndTiming": "8.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.3",
+      "Sentence_cn": "他今天早上为什么会切到自己？",
+      "Sentence": "Why did he cut himself this morning?"
+    },
+    {
+      "voaid": "1074",
+      "EndTiming": "13.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "10.3",
+      "Sentence_cn": "因为他刮胡子刮得太匆忙了。",
+      "Sentence": "Because he shaved hurriedly."
+    },
+    {
+      "voaid": "1074",
+      "EndTiming": "20.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "14.2",
+      "Sentence_cn": "他拿了什么？",
+      "Sentence": "What did he take?"
+    },
+    {
+      "voaid": "1074",
+      "EndTiming": "25.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "23.1",
+      "Sentence_cn": "他拿了蛋糕。",
+      "Sentence": "He took a cake."
+    },
+    {
+      "voaid": "1074",
+      "EndTiming": "27.4",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "25.6",
+      "Sentence_cn": "他拿蛋糕做什么？",
+      "Sentence": "What did he do with it?"
+    },
+    {
+      "voaid": "1074",
+      "EndTiming": "32.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "29.5",
+      "Sentence_cn": "他很快就吃了。",
+      "Sentence": "He ate it quickly."
+    },
+    {
+      "voaid": "1074",
+      "EndTiming": "39.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "32.8",
+      "Sentence_cn": "一百零三张图片。你给了他什么？",
+      "Sentence": "Picture 103. What did you give him?"
+    },
+    {
+      "voaid": "1074",
+      "EndTiming": "45.1",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "41.6",
+      "Sentence_cn": "我给了他一杯水。",
+      "Sentence": "I gave him a glass of water."
+    },
+    {
+      "voaid": "1074",
+      "EndTiming": "47.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "45.1",
+      "Sentence_cn": "他把水怎么样了？",
+      "Sentence": "What did he do with it?"
+    },
+    {
+      "voaid": "1074",
+      "EndTiming": "52.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "49.3",
+      "Sentence_cn": "他大口的喝了。",
+      "Sentence": "He drank it thirstily."
+    },
+    {
+      "voaid": "1074",
+      "EndTiming": "60.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "53.0",
+      "Sentence_cn": "一百零四张图片。你什么时候见她的？",
+      "Sentence": "Picture 104. When did you meet her?"
+    },
+    {
+      "voaid": "1074",
+      "EndTiming": "66.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "62.4",
+      "Sentence_cn": "我前天见到她的。",
+      "Sentence": "I met her the day before yesterday?"
+    },
+    {
+      "voaid": "1074",
+      "EndTiming": "68.5",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "66.4",
+      "Sentence_cn": "他怎样和你打招呼的？",
+      "Sentence": "How did she greet you?"
+    },
+    {
+      "voaid": "1074",
+      "EndTiming": "74.2",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "71.5",
+      "Sentence_cn": "她热情地和我打招呼。",
+      "Sentence": "She greeted me warmly."
+    },
+    {
+      "voaid": "1074",
+      "EndTiming": "83.4",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "75.5",
+      "Sentence_cn": "一百零五张图片。你们俩为什么回家这么晚？",
+      "Sentence": "Look at picture 105. Why did you both arrive home late?"
+    },
+    {
+      "voaid": "1074",
+      "EndTiming": "89.2",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "85.9",
+      "Sentence_cn": "因为公共汽车开得很慢。",
+      "Sentence": "Because the bus went slowly."
+    },
+    {
+      "voaid": "1074",
+      "EndTiming": "98.7",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "90.2",
+      "Sentence_cn": "一百零六张图片。今早录入员做了什么？",
+      "Sentence": "Look at picture 106. What did the keyboard operators do this morning?"
+    },
+    {
+      "voaid": "1074",
+      "EndTiming": "103.8",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "101.6",
+      "Sentence_cn": "他们十分努力地工作。",
+      "Sentence": "They worked very hard."
+    },
+    {
+      "voaid": "1074",
+      "EndTiming": "113.4",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "104.0",
+      "Sentence_cn": "一百零七张图片。你们昨夜玩得怎么样？",
+      "Sentence": "Look at picture 107. How did you enjoy yourselves last night?"
+    },
+    {
+      "voaid": "1074",
+      "EndTiming": "119.1",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "115.3",
+      "Sentence_cn": "我们昨夜玩得十分开心。",
+      "Sentence": "We enjoyed ourselves very much."
+    },
+    {
+      "voaid": "1074",
+      "EndTiming": "126.3",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "119.7",
+      "Sentence_cn": "他今天下午游泳游得怎么样？",
+      "Sentence": "Look at picture 108. How did he swim this afternoon?"
+    },
+    {
+      "voaid": "1074",
+      "EndTiming": "130.9",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "128.3",
+      "Sentence_cn": "他游得很好。",
+      "Sentence": "He swam very well."
+    }
+  ],
+  "size": 22,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14264",
+    "title_cn": "他们干了什么？",
+    "title": "What did they do?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_74.mp3"
+}

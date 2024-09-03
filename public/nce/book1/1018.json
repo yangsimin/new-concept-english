@@ -1,0 +1,372 @@
+{
+  "data": [
+    {
+      "voaid": "1018",
+      "EndTiming": "17.1",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "15.7",
+      "Sentence_cn": "他们是做什么的？",
+      "Sentence": "What are their jobs?"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "18.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "17.4",
+      "Sentence_cn": "他们是技工吗？",
+      "Sentence": "Are they mechanics?"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "20.9",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "19.4",
+      "Sentence_cn": "他们不是技工。",
+      "Sentence": "They aren't mechanics."
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "22.9",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "21.3",
+      "Sentence_cn": "他们是销售员。",
+      "Sentence": "They're sales reps.　"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "28.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "26.6",
+      "Sentence_cn": "他们是做什么的？",
+      "Sentence": "What are their jobs?"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "30.7",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "28.8",
+      "Sentence_cn": "他们是电脑录入员吗？",
+      "Sentence": "Are they keyboard operators?　"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "33.7",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "31.6",
+      "Sentence_cn": "他们不是电脑录入员．",
+      "Sentence": "They aren't keyboard operators."
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "35.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "34.0",
+      "Sentence_cn": "他们是护士。",
+      "Sentence": "They're nurses."
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "40.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "39.4",
+      "Sentence_cn": "他们是做什么的",
+      "Sentence": "What are their jobs?"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "42.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "41.3",
+      "Sentence_cn": "他们是邮递员吗？",
+      "Sentence": "Are they postmen?　"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "44.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "43.2",
+      "Sentence_cn": "他们不是邮递员。",
+      "Sentence": "They aren't postmen."
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "46.1",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "45.1",
+      "Sentence_cn": "他们是送奶工。",
+      "Sentence": "They're milkmen.　"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "105.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "103.6",
+      "Sentence_cn": "他们是做什么的？",
+      "Sentence": "What are their jobs?"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "107.2",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "106.0",
+      "Sentence_cn": "他们是警察吗？",
+      "Sentence": "Are they policewomen?　"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "111.3",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "109.7",
+      "Sentence_cn": "他们不是警察．",
+      "Sentence": "They aren't policewomen."
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "113.6",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "112.0",
+      "Sentence_cn": "他们是空姐．",
+      "Sentence": "They're air hostesses.　"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "120.6",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "119.2",
+      "Sentence_cn": "他们是做什么的？",
+      "Sentence": "What are their jobs?"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "123.3",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "121.6",
+      "Sentence_cn": "他们是海关关员吗？",
+      "Sentence": "Are they Customs officers?　"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "127.4",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "125.4",
+      "Sentence_cn": "他们不是海关关员．",
+      "Sentence": "They aren't Customs officers."
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "129.4",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "128.0",
+      "Sentence_cn": "他们是工程师．",
+      "Sentence": "They're engineers.　"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "137.5",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "136.2",
+      "Sentence_cn": "他们是做什么的？",
+      "Sentence": "What are their jobs?"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "139.6",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "138.2",
+      "Sentence_cn": "他们是理发师。",
+      "Sentence": "Are they hairdressers?　"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "143.7",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "142.1",
+      "Sentence_cn": "他们不是理发师。",
+      "Sentence": "They aren't hairdressers."
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "146.1",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "144.4",
+      "Sentence_cn": "他们是出租车司机。",
+      "Sentence": "They're taxi drivers.　"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "152.9",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "151.6",
+      "Sentence_cn": "他们是做什么的？",
+      "Sentence": "What are their jobs?"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "154.6",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "153.3",
+      "Sentence_cn": "他们是工程师吗？",
+      "Sentence": "Are they engineers?　"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "158.4",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "156.7",
+      "Sentence_cn": "他们不是工程师。",
+      "Sentence": "They aren't engineers."
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "160.5",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "159.3",
+      "Sentence_cn": "他们是老师。",
+      "Sentence": "They're teachers.　"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "167.4",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "165.9",
+      "Sentence_cn": "他们是做什么的？",
+      "Sentence": "What are their jobs?"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "169.0",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "167.8",
+      "Sentence_cn": "他们是警察吗？",
+      "Sentence": "Are they policewomen?　"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "173.3",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "171.6",
+      "Sentence_cn": "他们不是警察。",
+      "Sentence": "They aren't policewomen."
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "175.4",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "174.0",
+      "Sentence_cn": "他们是家庭主妇。",
+      "Sentence": "They're housewives.　"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "182.8",
+      "Paraid": "1",
+      "IdIndex": "33",
+      "Timing": "181.5",
+      "Sentence_cn": "他们是做什么的？",
+      "Sentence": "What are their jobs?"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "184.3",
+      "Paraid": "1",
+      "IdIndex": "34",
+      "Timing": "183.4",
+      "Sentence_cn": "他们是送奶工吗？",
+      "Sentence": "Are they milkmen?"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "188.9",
+      "Paraid": "1",
+      "IdIndex": "35",
+      "Timing": "187.3",
+      "Sentence_cn": "他们不是送奶工。",
+      "Sentence": "They aren't milkmen."
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "191.0",
+      "Paraid": "1",
+      "IdIndex": "36",
+      "Timing": "189.6",
+      "Sentence_cn": "他们是理发师。",
+      "Sentence": "They're hairdressers."
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "198.1",
+      "Paraid": "1",
+      "IdIndex": "37",
+      "Timing": "196.7",
+      "Sentence_cn": "他们是做什么的？",
+      "Sentence": "What are their jobs?"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "200.2",
+      "Paraid": "1",
+      "IdIndex": "38",
+      "Timing": "199.1",
+      "Sentence_cn": "他们是护士吗？",
+      "Sentence": "Are they nurses?　"
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "204.6",
+      "Paraid": "1",
+      "IdIndex": "39",
+      "Timing": "203.1",
+      "Sentence_cn": "他们不是护士。",
+      "Sentence": "They aren't nurses."
+    },
+    {
+      "voaid": "1018",
+      "EndTiming": "207.4",
+      "Paraid": "1",
+      "IdIndex": "40",
+      "Timing": "205.2",
+      "Sentence_cn": "他们是电脑录入员。",
+      "Sentence": "They're keyboard operators.　"
+    }
+  ],
+  "size": 40,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14198",
+    "title_cn": "他们是做什么的？",
+    "title": "What are their jobs?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_18.mp3"
+}

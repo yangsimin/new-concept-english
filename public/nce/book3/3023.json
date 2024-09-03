@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "voaid": "3023",
+      "EndTiming": "5.6",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "各有所爱",
+      "Sentence": "--- lesson 23  One man's meat is another man's poison"
+    },
+    {
+      "voaid": "3023",
+      "EndTiming": "13.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.4",
+      "Sentence_cn": "在决定什么能吃而什么不能吃的时候，人们往往变得不合情理。",
+      "Sentence": "People become quite illogical when they try to decide what can be eaten and what cannot be eaten."
+    },
+    {
+      "voaid": "3023",
+      "EndTiming": "21.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "13.5",
+      "Sentence_cn": "比如，如果你住在地中海地区，你会把章鱼视作是美味佳肴，",
+      "Sentence": "If you lived in the Mediterranean, for instance, you would consider octopus a great delicacy."
+    },
+    {
+      "voaid": "3023",
+      "EndTiming": "26.9",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "21.7",
+      "Sentence_cn": "同时不能理解为什么有人一见章鱼就恶心。",
+      "Sentence": "You would not be able to understand why some people find it repulsive."
+    },
+    {
+      "voaid": "3023",
+      "EndTiming": "38.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "27.2",
+      "Sentence_cn": "另一方面，你一想到动物油炸土豆就会反胃，但这在北方许多国家却是一种普通的烹饪方法。",
+      "Sentence": "On the other hand, your stomach would turn at the idea of frying potatoes in animal fat -- the normally accepted practice in many northern countries."
+    },
+    {
+      "voaid": "3023",
+      "EndTiming": "47.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "39.3",
+      "Sentence_cn": "不无遗憾的是， 我们中的大部分人，生来就只吃某几种食品，而且一辈子都这样。",
+      "Sentence": "The sad truth is that most of us have been brought up to eat certain foods and we stick to them all our lives."
+    },
+    {
+      "voaid": "3023",
+      "EndTiming": "53.8",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "48.1",
+      "Sentence_cn": "没有一种生物所受到的赞美和厌恶会超过花园里常见的蜗牛了。",
+      "Sentence": "No creature has received more praise and abuse than the common garden snail."
+    },
+    {
+      "voaid": "3023",
+      "EndTiming": "59.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "54.3",
+      "Sentence_cn": "蜗牛加酒烧煮后，便成了世界上许多地方的一道珍奇的名菜。",
+      "Sentence": "Cooked in wine, snails are a great luxury in various parts of the world."
+    },
+    {
+      "voaid": "3023",
+      "EndTiming": "67.8",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "59.9",
+      "Sentence_cn": "有不计其数的人们从小就知道蜗牛可做菜。",
+      "Sentence": "There are countless people who, ever since their early years, have learned to associate snails with food."
+    },
+    {
+      "voaid": "3023",
+      "EndTiming": "73.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "68.5",
+      "Sentence_cn": "但我的朋友罗伯特却住在一个厌恶蜗牛的国家中。",
+      "Sentence": "My friend, Robert, lives in a country where snails are despised."
+    },
+    {
+      "voaid": "3023",
+      "EndTiming": "78.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "74.1",
+      "Sentence_cn": "他住在大城市里的一所公寓里，没有自己的花园。",
+      "Sentence": "As his flat is in a large town, he has no garden of his own."
+    },
+    {
+      "voaid": "3023",
+      "EndTiming": "86.3",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "79.1",
+      "Sentence_cn": "多年来，他一直让我把我园子里的蜗牛收集起来给他捎去。",
+      "Sentence": "For years he has been asking me to collect snails from my garden and take them to him."
+    },
+    {
+      "voaid": "3023",
+      "EndTiming": "89.3",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "86.3",
+      "Sentence_cn": "一开始，他的这一想法没有引起我多大兴趣。",
+      "Sentence": "The idea never appealed to me very much,"
+    },
+    {
+      "voaid": "3023",
+      "EndTiming": "92.4",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "89.6",
+      "Sentence_cn": "后来有一天，一场大雨后，",
+      "Sentence": "but one day, after heavy shower,"
+    },
+    {
+      "voaid": "3023",
+      "EndTiming": "102.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "92.9",
+      "Sentence_cn": "我在花园里漫无目的地散步，突然注意到许许多多蜗牛在我的一些心爱的花木上慢悠悠地蠕动着。",
+      "Sentence": "I happened to be walking in my garden when I noticed a huge number of snails taking a stroll on some of my prize plants."
+    },
+    {
+      "voaid": "3023",
+      "EndTiming": "110.2",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "102.4",
+      "Sentence_cn": "我一时冲动，逮了几十只，装进一只纸袋里，带着去找罗伯特。",
+      "Sentence": "Acting on a sudden impulse, I collected several dozen, put them in a paper bag, and took them to Robert."
+    },
+    {
+      "voaid": "3023",
+      "EndTiming": "116.2",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "110.9",
+      "Sentence_cn": "罗伯特见到我很高兴，对我的薄礼也感到满意。",
+      "Sentence": "Robert was delighted to see me and equally pleased with my little gift."
+    },
+    {
+      "voaid": "3023",
+      "EndTiming": "123.6",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "116.8",
+      "Sentence_cn": "我把纸袋放在门厅里，与罗伯特一起进了起居室，在那里聊了好几个钟头。",
+      "Sentence": "I left the bag in the hall and Robert and I went into the living room where we talked for a couple of hours."
+    },
+    {
+      "voaid": "3023",
+      "EndTiming": "130.7",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "124.3",
+      "Sentence_cn": "我把蜗牛的事已忘得一干二净，罗伯特突然提出一定要我留下来吃晚饭，这才提醒了我。",
+      "Sentence": "I had forgotten all about the snails when Robert suddenly said that I must stay to dinner."
+    },
+    {
+      "voaid": "3023",
+      "EndTiming": "135.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "131.3",
+      "Sentence_cn": "蜗牛当然是道主菜。",
+      "Sentence": "Snails would, of course, be the main dish."
+    },
+    {
+      "voaid": "3023",
+      "EndTiming": "141.0",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "135.0",
+      "Sentence_cn": "我并不喜欢这个主意，所以我勉强跟着罗伯特走出了起居室。",
+      "Sentence": "I did not fancy the idea and I reluctantly followed Robert out of the room."
+    },
+    {
+      "voaid": "3023",
+      "EndTiming": "146.1",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "141.4",
+      "Sentence_cn": "使我们惊愕的是门厅里到处爬满了蜗牛：",
+      "Sentence": "To our dismay, we saw that there were snails everywhere:"
+    },
+    {
+      "voaid": "3023",
+      "EndTiming": "151.8",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "146.1",
+      "Sentence_cn": "它们从纸袋里逃了出来，爬得满厅都是！",
+      "Sentence": "they had escaped from the paper bag and had taken complete possession of the hall!"
+    },
+    {
+      "voaid": "3023",
+      "EndTiming": "155.8",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "152.3",
+      "Sentence_cn": "从那以后，我再也不能看一眼蜗牛了。",
+      "Sentence": "I have never been able to look at a snail since then."
+    }
+  ],
+  "size": 24,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14583,14584,14585",
+    "title_cn": "各有所爱",
+    "title": "One man's meat is another man's poison"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_23.mp3"
+}

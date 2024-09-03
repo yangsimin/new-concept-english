@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "voaid": "2059",
+      "EndTiming": "4.4",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "进来还是出去？",
+      "Sentence": "--- Lesson 59  In or out?"
+    },
+    {
+      "voaid": "2059",
+      "EndTiming": "11.2",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.4",
+      "Sentence_cn": "我家的狗雷克斯，过去常坐在大门外面叫。",
+      "Sentence": "Our dog, Rex, used to sit outside our front gate and bark."
+    },
+    {
+      "voaid": "2059",
+      "EndTiming": "18.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "11.9",
+      "Sentence_cn": "每当它想到花园里来时，便汪汪叫个不停，直到有人把门打开。",
+      "Sentence": "Every time he wanted to come into the garden he would bark until someone opened the gate."
+    },
+    {
+      "voaid": "2059",
+      "EndTiming": "22.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "18.6",
+      "Sentence_cn": "由于邻居们对狗叫很有意见，",
+      "Sentence": "As the neighbours complained of the noise,"
+    },
+    {
+      "voaid": "2059",
+      "EndTiming": "29.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "22.5",
+      "Sentence_cn": "所以我丈夫花了几个星期的时间训练它用脚爪按住门闩把自己放进来。",
+      "Sentence": "my husband spent weeks training him to press his paw on the latch to let himself in."
+    },
+    {
+      "voaid": "2059",
+      "EndTiming": "34.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "30.2",
+      "Sentence_cn": "雷克斯很快成了开门的专家。",
+      "Sentence": "Rex soon became an expert at opening the gate."
+    },
+    {
+      "voaid": "2059",
+      "EndTiming": "42.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "34.2",
+      "Sentence_cn": "然而上星期我正要出去买东西时，发现它正呆在花园里边靠门的地方。",
+      "Sentence": "However, when I was going out shopping last week, I noticed him in the garden near the gate."
+    },
+    {
+      "voaid": "2059",
+      "EndTiming": "47.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "43.0",
+      "Sentence_cn": "这次它叫着让人把它放出去！",
+      "Sentence": "This time he was barking so that someone would let him out!"
+    },
+    {
+      "voaid": "2059",
+      "EndTiming": "52.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "48.1",
+      "Sentence_cn": "从那以后，它养成了另外一种坏习惯。",
+      "Sentence": "Since then, he has developed another bad habit."
+    },
+    {
+      "voaid": "2059",
+      "EndTiming": "60.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "52.8",
+      "Sentence_cn": "它从外面把门一打开，就走进花园，等着门自动关上。",
+      "Sentence": "As soon as he opens the gate from the outside, he comes into the garden and waits until the gate shuts."
+    },
+    {
+      "voaid": "2059",
+      "EndTiming": "65.3",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "61.0",
+      "Sentence_cn": "这之后他就坐下汪汪叫起来，直到有人来把它放出去。",
+      "Sentence": "Then he sits and barks until someone lets him out."
+    },
+    {
+      "voaid": "2059",
+      "EndTiming": "72.6",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "65.6",
+      "Sentence_cn": "出去之后，它又马上把自己放进来，接着再开始叫。",
+      "Sentence": "After this he immediately lets himself in and begins barking again."
+    },
+    {
+      "voaid": "2059",
+      "EndTiming": "81.5",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "73.3",
+      "Sentence_cn": "昨天，我丈夫把大门卸了下来，雷克斯很生气，此后我们便再也没有见到它。",
+      "Sentence": "Yesterday my husband removed the gate and Rex got so annoyed we have not seen him since."
+    }
+  ],
+  "size": 13,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14451,14452",
+    "title_cn": "进来还是出去？",
+    "title": "In or out?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_59.mp3"
+}

@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "voaid": "1004",
+      "EndTiming": "21.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "20.2",
+      "Sentence_cn": "这是你的钢笔吗？",
+      "Sentence": "Is this your pen?"
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "23.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "22.4",
+      "Sentence_cn": "是的，它是。",
+      "Sentence": "Yes, it is."
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "30.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "28.6",
+      "Sentence_cn": "这是你的铅笔吗？",
+      "Sentence": "Is this your pencil?"
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "31.9",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "30.7",
+      "Sentence_cn": "是的，它是。",
+      "Sentence": "Yes, it is."
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "37.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "36.1",
+      "Sentence_cn": "这是你的书吗？",
+      "Sentence": "Is this your book?"
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "39.3",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "37.9",
+      "Sentence_cn": "是的，它是。",
+      "Sentence": "Yes, it is.　"
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "84.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "82.8",
+      "Sentence_cn": "这是你的表吗？",
+      "Sentence": "Is this your watch?"
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "88.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "86.7",
+      "Sentence_cn": "是的，它是。",
+      "Sentence": "Yes, it is."
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "95.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "93.4",
+      "Sentence_cn": "这是你的大衣吗？",
+      "Sentence": "Is this your coat?"
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "99.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "97.5",
+      "Sentence_cn": "不，不是。",
+      "Sentence": "No, it isn't."
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "106.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "104.9",
+      "Sentence_cn": "这是你的连衣裙吗？",
+      "Sentence": "Is this your dress?"
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "109.8",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "108.2",
+      "Sentence_cn": "是的，它是。",
+      "Sentence": "Yes, it is."
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "116.7",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "115.0",
+      "Sentence_cn": "这是你的裙子吗？",
+      "Sentence": "Is this your skirt?"
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "119.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "118.1",
+      "Sentence_cn": "不，不是。",
+      "Sentence": "No, it isn't."
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "126.1",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "124.3",
+      "Sentence_cn": "这是你的衬衣吗？",
+      "Sentence": "Is this your shirt?"
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "129.3",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "127.7",
+      "Sentence_cn": "是的，它是。",
+      "Sentence": "Yes, it is."
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "135.3",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "133.8",
+      "Sentence_cn": "这是你的汽车吗？",
+      "Sentence": "Is this your car?"
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "138.4",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "136.6",
+      "Sentence_cn": "是的，它是。",
+      "Sentence": "Yes, It is."
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "145.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "143.4",
+      "Sentence_cn": "这是你的房子吗？",
+      "Sentence": "Is this your house?"
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "148.1",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "146.6",
+      "Sentence_cn": "不，不是。",
+      "Sentence": "No, it isn't.　"
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "155.3",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "153.4",
+      "Sentence_cn": "这是你的制服吗？",
+      "Sentence": "Is this your suit?"
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "159.0",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "157.3",
+      "Sentence_cn": "是的，它是。",
+      "Sentence": "Yes, it is."
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "166.0",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "164.1",
+      "Sentence_cn": "这是你的学校吗？",
+      "Sentence": "Is this your school?"
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "169.7",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "168.0",
+      "Sentence_cn": "不，不是。",
+      "Sentence": "No, it isn't."
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "176.9",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "175.0",
+      "Sentence_cn": "这位是你的老师吗？",
+      "Sentence": "Is this your teacher?"
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "180.3",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "178.6",
+      "Sentence_cn": "是的，它是。",
+      "Sentence": "Yes, it is."
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "186.7",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "185.3",
+      "Sentence_cn": "这位是你的儿子吗?",
+      "Sentence": "Is this your son?"
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "191.1",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "189.1",
+      "Sentence_cn": "不，不是。",
+      "Sentence": "No, it isn't."
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "198.5",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "196.8",
+      "Sentence_cn": "这位是你的女儿吗？",
+      "Sentence": "Is this your daughter?"
+    },
+    {
+      "voaid": "1004",
+      "EndTiming": "202.2",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "200.5",
+      "Sentence_cn": "是的，它是。",
+      "Sentence": "Yes, it is."
+    }
+  ],
+  "size": 30,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14184",
+    "title_cn": "这是你的……吗？",
+    "title": "Is this your ... ?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_4.mp3"
+}

@@ -1,0 +1,309 @@
+{
+  "data": [
+    {
+      "voaid": "3052",
+      "EndTiming": "4.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "实事求是",
+      "Sentence": "--- lesson 52  Mud is mud"
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "11.9",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.5",
+      "Sentence_cn": "我的堂兄哈里在他的书房里一直摆着一只形状古怪的大瓶子。",
+      "Sentence": "My cousin, Harry, keeps a large curiously-shaped bottle on permanent display in his study."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "16.4",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "12.3",
+      "Sentence_cn": "尽管那只瓶子呈淡绿色，",
+      "Sentence": "Despite the fact that the bottle is tinted a delicate shade of green,"
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "23.7",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "16.8",
+      "Sentence_cn": "但细心的客人很快就会发现瓶里装的是一种看上去黏稠，颜色发灰的东西。",
+      "Sentence": "an observant visitor would soon notice that it is filled with what looks like a thick, greyish substance."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "30.4",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "23.7",
+      "Sentence_cn": "要是你问哈里瓶里装着什么，他会告诉你是香水泥。",
+      "Sentence": "If you were to ask Harry what was in the bottle, he would tell you that it contained perfumed mud."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "39.7",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "30.4",
+      "Sentence_cn": "如果你表示怀疑或惊奇，他会立即请你闻一闻，然后取出一些抹在你的皮肤上。",
+      "Sentence": "If you expressed doubt or surprise, he would immediately invite you to smell it and then to rub some into your skin."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "44.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "39.9",
+      "Sentence_cn": "这一简单的试验会消除你可能存有的一切疑虑。",
+      "Sentence": "This brief experiment would dispel any further doubts you might have."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "48.1",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "44.6",
+      "Sentence_cn": "瓶里装的的确是香水泥。",
+      "Sentence": "The bottle really does contain perfumed mud."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "56.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "48.1",
+      "Sentence_cn": "哈里如何得到这种稀奇古怪的东西的，这里有个有趣的故事，而且他挺爱把它讲给别人听。",
+      "Sentence": "How Harry came into the possession of this outlandish stuff makes an interesting story which he is fond of relating."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "64.3",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "56.4",
+      "Sentence_cn": "此外，得到这瓶香水泥还治好了他多年的一个坏习惯。",
+      "Sentence": "Furthermore, the acquisition of this bottle cured him of a bad habit he had been developing for years."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "75.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "64.9",
+      "Sentence_cn": "哈里曾认为走进一家名贵化妆品商店，荒唐地提出要买一种根本不存在的商品是件很开心的事儿。",
+      "Sentence": "Harry used to consider it a great joke to go into expensive cosmetic shops and make outrageous requests for goods that do not exist."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "79.1",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "75.8",
+      "Sentence_cn": "他会当场编造出一些稀奇古怪的货名。",
+      "Sentence": "He would invent fanciful names on the spot."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "88.7",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "79.6",
+      "Sentence_cn": "他走进商店后，会提出要一种名叫“香影”的新型香水或什么“不溶浴皂”。",
+      "Sentence": "On entering a shop, he would ask for a new perfume called 'Scented Shadow' or for 'insoluble bath cubes'."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "95.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "88.7",
+      "Sentence_cn": "要是女售货员告诉他从未听说过这些东西，他会装出十分遗憾和不安的样子。",
+      "Sentence": "If a shop assistant told him she had not heard of it, he would pretend to be considerably put out."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "108.9",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "96.0",
+      "Sentence_cn": "他爱听售货员说他想像出来的那种东西暂时脱销，于是他就煞有介事地许诺改天再来光顾。当然，他再也不会来了。",
+      "Sentence": "He loved to be told that one of his imaginary products was temporarily out of stock and he would faithfully promise to call again at some future date, but of course he never did."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "115.2",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "109.1",
+      "Sentence_cn": "我实在想像不出哈里在这些表演中是怎样装出一本正经的样子的。",
+      "Sentence": "How Harry managed to keep a straight face during these performances is quite beyond me."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "120.9",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "115.2",
+      "Sentence_cn": "毋须暗示哈里就会向你讲起他买下那瓶珍贵香水泥的经过。",
+      "Sentence": "Harry does not need to be prompted to explain how he bought his precious bottle of mud."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "127.8",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "121.3",
+      "Sentence_cn": "一天，他去伦敦一家高级商店要买一种叫“密诺莱特”的东西，",
+      "Sentence": "One day, he went to an exclusive shop in London and asked for 'Myrolite',"
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "135.5",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "128.5",
+      "Sentence_cn": "店员露出诧异的神色。哈里又慢慢地，一字一顿地说了一遍这个词，",
+      "Sentence": "the shop assistant looked puzzled and Harry repeated the word, slowly stressing each syllable."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "138.8",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "135.5",
+      "Sentence_cn": "那个女售货员还是迷惑不解地摇了摇头。",
+      "Sentence": "When the woman shook her head in bewilderment,"
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "148.3",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "138.8",
+      "Sentence_cn": "哈里便进一步解释“密诺莱特”是一种质地坚硬、状似琥珀的东西，可以用来除去雀斑。",
+      "Sentence": "Harry went on to explain that 'myrolite' was a hard, amber-like substance which could be used to remove freckles."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "155.0",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "149.0",
+      "Sentence_cn": "他的解释显然对女售货员有些启示。她一个货架接着一个货架地寻找，",
+      "Sentence": "This explanation evidently conveyed something to the woman who searched shelf after shelf."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "162.0",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "155.5",
+      "Sentence_cn": "拿出各种各样稀奇古怪的化妆品，但没有一样能够符合哈里的要求。",
+      "Sentence": "She produced all sorts of weird concoctions, but none of them met with Harry's requirements."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "169.1",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "162.7",
+      "Sentence_cn": "哈里装出不高兴的样子时，女售货员答应为他定货。",
+      "Sentence": "When Harry put on his act of being mildly annoyed, the assistant promised to order some for him."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "175.4",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "169.7",
+      "Sentence_cn": "哈里为他的骗术而感到洋洋得意，又提出要买香水泥。",
+      "Sentence": "Intoxicated by his success, Harry then asked for perfumed mud."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "179.9",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "176.1",
+      "Sentence_cn": "他原想女售货员会惊奇地望着他，不知所措，",
+      "Sentence": "He expected the assistant to look at him in blank astonishment."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "184.0",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "180.3",
+      "Sentence_cn": "没料到这回该轮到他自己吃惊了。",
+      "Sentence": "However, it was his turn to be surprised,"
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "193.2",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "184.3",
+      "Sentence_cn": "因为那女售货员听完哈里的话后，马上眼睛一亮，拿出几瓶东西放在柜台上让哈里挑选。",
+      "Sentence": "for the woman's eyes immediately lit up and she fetched several bottles which she placed on the counter for Harry to inspect."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "196.6",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "193.3",
+      "Sentence_cn": "哈里只好认输。",
+      "Sentence": "For once, Harry had to admit defeat."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "202.4",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "196.9",
+      "Sentence_cn": "他挑出一个看上去最小的瓶子，谨慎地问了价。",
+      "Sentence": "He picked up what seemed to be the smallest bottle and discreetly asked the price."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "211.7",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "202.4",
+      "Sentence_cn": "他庆幸自己只破费了20英镑便得以脱身。他把那宝贵的瓶子放在腋下夹着，溜之大吉。",
+      "Sentence": "He was glad to get away with a mere twenty pounds and he beat a hasty retreat, clutching the precious bottle under his arm."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "218.9",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "212.4",
+      "Sentence_cn": "从那以后，他认识到自己发明的小小恶作剧是要付出很大代价的。",
+      "Sentence": "From then on, Harry decided that this little game he had invented might prove to be expensive."
+    },
+    {
+      "voaid": "3052",
+      "EndTiming": "228.1",
+      "Paraid": "1",
+      "IdIndex": "33",
+      "Timing": "219.5",
+      "Sentence_cn": "在他书房的书柜里摆着那瓶形状古怪的香水泥就是他第一次也是最后一次购买的稀有化妆品。",
+      "Sentence": "The curious bottle, which now adorns the bookcase in his study, was his first and last purchase of rare cosmetics."
+    }
+  ],
+  "size": 33,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14666,14667,14668",
+    "title_cn": "实事求是",
+    "title": "Mud is mud"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_52.mp3"
+}

@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "1087",
+      "EndTiming": "4.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "车祸",
+      "Sentence": "--- lesson 87  A car crash"
+    },
+    {
+      "voaid": "1087",
+      "EndTiming": "6.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.8",
+      "Sentence_cn": "我的汽车修好了吗？",
+      "Sentence": "Is my car ready yet?"
+    },
+    {
+      "voaid": "1087",
+      "EndTiming": "9.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "7.5",
+      "Sentence_cn": "我不知道，先生。",
+      "Sentence": "I don't know. sir."
+    },
+    {
+      "voaid": "1087",
+      "EndTiming": "12.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "9.7",
+      "Sentence_cn": "您的汽车牌号是多少？",
+      "Sentence": "What's the number of your car?"
+    },
+    {
+      "voaid": "1087",
+      "EndTiming": "18.4",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "12.8",
+      "Sentence_cn": "是 LFZ312G。",
+      "Sentence": "It is LFZ 312G."
+    },
+    {
+      "voaid": "1087",
+      "EndTiming": "21.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "19.2",
+      "Sentence_cn": "您什么时候送来的？",
+      "Sentence": "When did you bring it to us?"
+    },
+    {
+      "voaid": "1087",
+      "EndTiming": "25.3",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "22.2",
+      "Sentence_cn": "3天前。",
+      "Sentence": "I brought it here three days ago."
+    },
+    {
+      "voaid": "1087",
+      "EndTiming": "28.8",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "26.0",
+      "Sentence_cn": "啊，是的，我现在记起来了。",
+      "Sentence": "Ah, yes, I remember now."
+    },
+    {
+      "voaid": "1087",
+      "EndTiming": "32.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "29.7",
+      "Sentence_cn": "你们的机械师修好了吗？",
+      "Sentence": "Have your mechanics finished yet?"
+    },
+    {
+      "voaid": "1087",
+      "EndTiming": "35.7",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "33.0",
+      "Sentence_cn": "没有，他们还在修呢。",
+      "Sentence": "No, they're still working on it."
+    },
+    {
+      "voaid": "1087",
+      "EndTiming": "40.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "36.3",
+      "Sentence_cn": "我们到车库去看一下吧。",
+      "Sentence": "Let's go into the garage and have a look at it."
+    },
+    {
+      "voaid": "1087",
+      "EndTiming": "43.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "41.4",
+      "Sentence_cn": "这难道不是您的车吗？",
+      "Sentence": "Isn't that your car?"
+    },
+    {
+      "voaid": "1087",
+      "EndTiming": "47.1",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "44.1",
+      "Sentence_cn": "唔，这曾是我的车。",
+      "Sentence": "Well, it was my car."
+    },
+    {
+      "voaid": "1087",
+      "EndTiming": "49.9",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "47.8",
+      "Sentence_cn": "难说您没有出车祸吗？",
+      "Sentence": "Didn't you have a crash?"
+    },
+    {
+      "voaid": "1087",
+      "EndTiming": "51.6",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "50.5",
+      "Sentence_cn": "是啊。",
+      "Sentence": "That's right."
+    },
+    {
+      "voaid": "1087",
+      "EndTiming": "55.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "52.3",
+      "Sentence_cn": "我把汽车撞在电线杆上了。",
+      "Sentence": "I drove it into a lamp-post."
+    },
+    {
+      "voaid": "1087",
+      "EndTiming": "58.0",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "55.7",
+      "Sentence_cn": "你们的机械师能修好吗？",
+      "Sentence": "Can your mechanics repair it?"
+    },
+    {
+      "voaid": "1087",
+      "EndTiming": "61.7",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "58.8",
+      "Sentence_cn": "啊，他们正设法修呢，先生。",
+      "Sentence": "Well, they're trying to repair it,sir."
+    },
+    {
+      "voaid": "1087",
+      "EndTiming": "64.3",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "62.3",
+      "Sentence_cn": "不过说实在的，",
+      "Sentence": "But to tell you the truth."
+    },
+    {
+      "voaid": "1087",
+      "EndTiming": "66.6",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "64.6",
+      "Sentence_cn": "您需要一辆新车了！",
+      "Sentence": "you need a new car!"
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14281,14282",
+    "title_cn": "车祸",
+    "title": "A car crash"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_87.mp3"
+}

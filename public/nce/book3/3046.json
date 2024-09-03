@@ -1,0 +1,327 @@
+{
+  "data": [
+    {
+      "voaid": "3046",
+      "EndTiming": "4.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "自己动手",
+      "Sentence": "--- lesson 46  Do it yourself"
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "13.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.5",
+      "Sentence_cn": "现在我们自己动手做事的热情很高，结果对于专业工人的依赖越来越少了。",
+      "Sentence": "So great is our passion for doing things for ourselves, that we are becoming increasingly less dependent on specialized labour."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "21.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "14.4",
+      "Sentence_cn": "由于出版了不计其数的教人自己动手做事的书报杂志，没有人再能说对某事一无所知。",
+      "Sentence": "No one can plead ignorance of a subject any longer, for there are countless do-it-yourself publications."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "30.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "22.2",
+      "Sentence_cn": "新婚夫妇找来合适的工具和材料，喜气洋洋地开始布置新房。",
+      "Sentence": "Armed with the right tools and materials, newlyweds gaily embark on the task of decorating their own homes."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "39.3",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "30.5",
+      "Sentence_cn": "特别是男人，常利用空闲时间安装壁炉、布置花园、建造车库、制作家具。",
+      "Sentence": "Men, particularly, spend hours of their leisure time installing their own fireplaces, laying out their own gardens;"
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "48.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "39.8",
+      "Sentence_cn": "有些热衷于自己动手的人甚至自己组装电脑。",
+      "Sentence": "building garages and making furniture. Some really keen enthusiasts go so far as to build their own computers."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "56.2",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "49.1",
+      "Sentence_cn": "为了满足自己动手热的需要，商店不仅为初学者提供专门的咨询服务，",
+      "Sentence": "Shops cater for the do-it-yourself craze not only by running special advisory services for novices,"
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "62.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "56.2",
+      "Sentence_cn": "而且为顾客准备了各种零件，供他们买回家去安装。",
+      "Sentence": "but by offering consumers bits and pieces which they can assemble at home."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "71.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "62.0",
+      "Sentence_cn": "这些东西为人们潜在的创造力提供了一个绝妙的用武之地。但不幸的是，我们并非人人都是能工巧匠。",
+      "Sentence": "Such things provide an excellent outlet for pent up creative energy, but unfortunately not all of us are born handymen."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "78.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "72.0",
+      "Sentence_cn": "妻子常常认为她们的丈夫无比聪明能干。",
+      "Sentence": "Some wives tend to believe that their husbands are infinitely resourceful and can fix anything."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "88.2",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "79.2",
+      "Sentence_cn": "甚至那些连一枚钉子都钉不直的男人都被认为是天生的电工、木匠、水管工和机械师。",
+      "Sentence": "Even men who can hardly drive a nail in straight are supposed to be born electricians, carpenters, plumbers and mechanics."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "96.5",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "88.6",
+      "Sentence_cn": "每当电灯保险丝烧断、家具榫头松动、管道堵塞、吸尘器不动时，",
+      "Sentence": "When lights fuse, furniture gets rickety, pipes get clogged, or vacuum cleaners fail to operate,"
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "101.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "97.0",
+      "Sentence_cn": "有些妻子认为丈夫总有办法。",
+      "Sentence": "some woman assume that their husbands will somehow put things right."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "113.6",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "101.7",
+      "Sentence_cn": "自己动手的例子中最糟糕的是，有时甚至是男人尽管接连失败却还误以为自己什么都行，",
+      "Sentence": "The worst thing about the do-it-yourself game is that sometimes even men live under the delusion that they can do anything, even when they have repeatedly been proved wrong."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "117.2",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "114.2",
+      "Sentence_cn": "原因就是要面子。",
+      "Sentence": "It is a question of pride as much as anything else."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "122.9",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "117.9",
+      "Sentence_cn": "今年春天，妻子让我请人检查一下我家的割草机。",
+      "Sentence": "Last spring my wife suggested that I call in a man to look at our lawn mower."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "131.2",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "122.9",
+      "Sentence_cn": "那台割草机去年夏天就坏了，尽管我答应修，但一直没抽出时间，",
+      "Sentence": "It had broken down the previous summer, and though I promised to repair it, I had never got round to it."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "137.1",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "132.1",
+      "Sentence_cn": "我不愿听妻子的建议，说我自己会修。",
+      "Sentence": "I would not hear of the suggestion and said that I would fix it myself."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "143.7",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "137.6",
+      "Sentence_cn": "一个星期六的下午，我把割草机拉到了花园里，仔细检查了一番。",
+      "Sentence": "One Saturday afternoon, I hauled the machine into the garden and had a close look at it."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "148.7",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "144.2",
+      "Sentence_cn": "在我看来，只需稍加调整即可。",
+      "Sentence": "As far as I could see, it needed only a minor adjustment:"
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "157.2",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "149.0",
+      "Sentence_cn": "这儿紧紧螺丝，那儿固定一下，再加几滴油，就会像新的一样了。",
+      "Sentence": "a turn of a screw here, a little tightening up there, a drop of oil and it would be as good as new."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "162.1",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "157.7",
+      "Sentence_cn": "事实上，修理工作远不是那么简单。",
+      "Sentence": "Inevitably the repair job was not quite so simple."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "168.3",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "162.7",
+      "Sentence_cn": "修完后割草机还是纹丝不动。于是，我决定把它拆开。",
+      "Sentence": "The mower firmly refused to mow, so I decided to dismantle it."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "175.0",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "168.8",
+      "Sentence_cn": "一会儿工夫，割草机便被拆成一个个金属零件，乱七八糟地堆在花园里。",
+      "Sentence": "The garden was soon littered with chunks of metal which had once made up a lawn mower."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "178.3",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "175.6",
+      "Sentence_cn": "但我却非常高兴，",
+      "Sentence": "But I was extremely pleased with myself."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "181.1",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "178.9",
+      "Sentence_cn": "因为我找到了毛病所在。",
+      "Sentence": "I had traced the cause of the trouble."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "186.0",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "181.7",
+      "Sentence_cn": "驱动轮子的链条断了一节。",
+      "Sentence": "One of the links in the chain that drives the wheels had snapped."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "196.6",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "186.3",
+      "Sentence_cn": "我买来一根新链条后，面临的就是如何把这些令人眼花缭乱的拼板重新组装起来。",
+      "Sentence": "After buying a new chain I was faced with the insurmountable task of putting the confusing jigsaw puzzle together again."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "204.5",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "197.2",
+      "Sentence_cn": "等我装完后，那台割草机仍然一动不动，对此我倒并不感到吃惊。",
+      "Sentence": "I was not surprised to find that the machine still refused to work after I had reassembled it,"
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "214.1",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "204.8",
+      "Sentence_cn": "原因很简单，因为还剩下几个形状奇特的零件似乎哪里也装不上去。",
+      "Sentence": "for the simple reason that I was left with several curiously shaped bits of metal which did not seem to fit anywhere."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "216.4",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "214.7",
+      "Sentence_cn": "我无可奈何，只好罢休。",
+      "Sentence": "I gave up in despair."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "219.4",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "217.1",
+      "Sentence_cn": "几个星期过去了，草长了起来。",
+      "Sentence": "The weeks passed and the grass grew."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "228.0",
+      "Paraid": "1",
+      "IdIndex": "33",
+      "Timing": "220.1",
+      "Sentence_cn": "妻子喋喋不休让我想点办法。我告诉她，要么买一台新割草机，要么让草长下去。",
+      "Sentence": "When my wife nagged me to do something about it, I told her that either I would have to buy a new mower or let the grass grow."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "232.8",
+      "Paraid": "1",
+      "IdIndex": "34",
+      "Timing": "228.8",
+      "Sentence_cn": "不用说，我家现在已被丛林包围。",
+      "Sentence": "Needless to say our house is now surrounded by a jungle."
+    },
+    {
+      "voaid": "3046",
+      "EndTiming": "239.8",
+      "Paraid": "1",
+      "IdIndex": "35",
+      "Timing": "233.5",
+      "Sentence_cn": "深草丛中的某个地方有一台正在生锈的割草机，那就是我曾答应某日要修理的割草机。",
+      "Sentence": "Buried somewhere in deep grass there is a rusting lawn mower which I have promised to repair one day."
+    }
+  ],
+  "size": 35,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14646,14647,14648",
+    "title_cn": "自己动手",
+    "title": "Do it yourself"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_46.mp3"
+}

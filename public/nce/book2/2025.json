@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "voaid": "2025",
+      "EndTiming": "5.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "英国人讲的是英语吗？",
+      "Sentence": "--- Lesson 25  Do the English speak English?"
+    },
+    {
+      "voaid": "2025",
+      "EndTiming": "9.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.7",
+      "Sentence_cn": "我终于到了伦敦。",
+      "Sentence": "I arrived in London at last."
+    },
+    {
+      "voaid": "2025",
+      "EndTiming": "14.4",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.0",
+      "Sentence_cn": "火车站很大，又黑又暗。",
+      "Sentence": "The railway station was big, black and dark."
+    },
+    {
+      "voaid": "2025",
+      "EndTiming": "20.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "15.2",
+      "Sentence_cn": "我不知道去饭店的路该怎么走，于是向一个搬运工打听。",
+      "Sentence": "I did not know the way to my hotel, so I asked a porter."
+    },
+    {
+      "voaid": "2025",
+      "EndTiming": "27.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "21.2",
+      "Sentence_cn": "我的英语讲得不但非常认真，而且咬字也非常清楚。",
+      "Sentence": "I not only spoke English very carefully, but very clearly as well."
+    },
+    {
+      "voaid": "2025",
+      "EndTiming": "31.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "28.3",
+      "Sentence_cn": "然而搬运工却不明白我的话。",
+      "Sentence": "The porter, however, could not understand me."
+    },
+    {
+      "voaid": "2025",
+      "EndTiming": "38.3",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "32.3",
+      "Sentence_cn": "我把问话重复了很多遍。他终于听懂了。",
+      "Sentence": "I repeated my question several times and at last he understood."
+    },
+    {
+      "voaid": "2025",
+      "EndTiming": "43.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "39.1",
+      "Sentence_cn": "他回答了，但他讲得既不慢也不清楚。",
+      "Sentence": "he answered me, but he spoke neither slowly nor clearly."
+    },
+    {
+      "voaid": "2025",
+      "EndTiming": "47.6",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "44.7",
+      "Sentence_cn": "“我是个外国人，”我说。",
+      "Sentence": "'I am a foreigner,' I said."
+    },
+    {
+      "voaid": "2025",
+      "EndTiming": "53.2",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "48.4",
+      "Sentence_cn": "于是他说得慢了，可我还是听不懂。",
+      "Sentence": "Then he spoke slowly, but I could not understand him."
+    },
+    {
+      "voaid": "2025",
+      "EndTiming": "57.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "54.0",
+      "Sentence_cn": "我的老师从来不那样讲英语！",
+      "Sentence": "My teacher never spoke English like that!"
+    },
+    {
+      "voaid": "2025",
+      "EndTiming": "61.7",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "58.3",
+      "Sentence_cn": "我和搬运工相视一笑。",
+      "Sentence": "The porter and I looked at each other and smiled."
+    },
+    {
+      "voaid": "2025",
+      "EndTiming": "65.5",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "62.5",
+      "Sentence_cn": "接着，他说了点什么，这回我听懂了。",
+      "Sentence": "Then he said something and I understood it."
+    },
+    {
+      "voaid": "2025",
+      "EndTiming": "69.4",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "66.2",
+      "Sentence_cn": "“ 您会很快学会英语的！”他说。",
+      "Sentence": "'You'll soon learn English!' he said."
+    },
+    {
+      "voaid": "2025",
+      "EndTiming": "76.5",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "70.2",
+      "Sentence_cn": "我感到奇怪。在英国，人们各自说着一种不同的语言。",
+      "Sentence": "I wonder. In England, each person speaks a different language."
+    },
+    {
+      "voaid": "2025",
+      "EndTiming": "82.7",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "77.1",
+      "Sentence_cn": "英国人之间相互听得懂，可我却不懂他们的话！",
+      "Sentence": "The English understand each other, but I don't understand them!"
+    },
+    {
+      "voaid": "2025",
+      "EndTiming": "85.7",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "83.5",
+      "Sentence_cn": "他们说的是英语吗？",
+      "Sentence": "Do they speak English?"
+    }
+  ],
+  "size": 17,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14394,14395",
+    "title_cn": "英国人讲的是英语吗？",
+    "title": "Do the English speak English?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_25.mp3"
+}

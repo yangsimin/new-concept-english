@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "voaid": "1056",
+      "EndTiming": "18.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "15.1",
+      "Sentence_cn": "她早上经常做什么？",
+      "Sentence": "What does she often do in the morning?"
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "21.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "18.1",
+      "Sentence_cn": "她经常在早上打扫橱柜。",
+      "Sentence": "She often dusts the cupboard in the morning."
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "27.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "24.4",
+      "Sentence_cn": "她早上经常做什么？",
+      "Sentence": "What does she always do in the morning?"
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "30.9",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "27.7",
+      "Sentence_cn": "她经常在早上铺床。",
+      "Sentence": "She always makes the bed in the morning."
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "37.1",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "33.9",
+      "Sentence_cn": "他早上通常做什么？",
+      "Sentence": "What does he always do in the morning?"
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "40.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "37.2",
+      "Sentence_cn": "他早上通常刮脸。",
+      "Sentence": "He always shaves in the morning."
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "54.2",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "49.5",
+      "Sentence_cn": "她早上经常做什么？",
+      "Sentence": "What does she often do in the morning?"
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "59.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "54.3",
+      "Sentence_cn": "她经常在早上打扫橱柜。",
+      "Sentence": "She often dusts the cupboard in the morning."
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "68.7",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "64.1",
+      "Sentence_cn": "她早上经常做什么？",
+      "Sentence": "What does she always do in the morning?"
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "73.3",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "68.8",
+      "Sentence_cn": "她经常在早上铺床。",
+      "Sentence": "She always makes the bed in the morning."
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "82.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "77.7",
+      "Sentence_cn": "他早上通常做什么？",
+      "Sentence": "What does he always do in the morning?"
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "87.4",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "82.7",
+      "Sentence_cn": "他早上通常刮脸。",
+      "Sentence": "He always shaves in the morning."
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "96.2",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "91.2",
+      "Sentence_cn": "他们晚上有时候做什么？",
+      "Sentence": "What do they sometimes do in the evening?"
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "102.4",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "96.3",
+      "Sentence_cn": "他们有时候在晚上听音乐。",
+      "Sentence": "They sometimes listen to the stereo in the evening."
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "112.4",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "107.2",
+      "Sentence_cn": "他每天经常做什么？",
+      "Sentence": "What does he always do every day?"
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "118.1",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "112.5",
+      "Sentence_cn": "他经常每天擦黑板，",
+      "Sentence": "He always cleans the blackboard every day."
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "128.1",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "123.1",
+      "Sentence_cn": "他们总是在晚上做什么？",
+      "Sentence": "What do they always do at night?"
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "133.7",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "128.2",
+      "Sentence_cn": "他们晚上总是睡觉。",
+      "Sentence": "They always go to bed at night."
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "144.7",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "138.9",
+      "Sentence_cn": "她总是每天做什么？",
+      "Sentence": "What does she usually do every day?"
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "150.3",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "144.8",
+      "Sentence_cn": "她总是每天都刷盘子。",
+      "Sentence": "She usually washes the dishes every day."
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "159.8",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "154.9",
+      "Sentence_cn": "他们总是在下午做什么？",
+      "Sentence": "What do they usually do in the afternoon?"
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "165.1",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "159.9",
+      "Sentence_cn": "他们总是在下午打信。",
+      "Sentence": "They usually type letters in the afternoon."
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "176.0",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "170.1",
+      "Sentence_cn": "这只猫每天做什么？",
+      "Sentence": "What does the cats usually do every day?"
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "181.4",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "176.1",
+      "Sentence_cn": "它们每天总是喝牛奶。",
+      "Sentence": "It usually drinks milk every day."
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "192.5",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "186.8",
+      "Sentence_cn": "他们在晚上有时候做什么？",
+      "Sentence": "What do they sometimes do in the evening?"
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "198.7",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "192.6",
+      "Sentence_cn": "他们在晚上总是看电视，",
+      "Sentence": "They sometimes watch television in the evening."
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "209.3",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "203.6",
+      "Sentence_cn": "她经常在下午做什么？",
+      "Sentence": "What does she always do at noon?"
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "214.7",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "209.4",
+      "Sentence_cn": "她经常在下午吃午餐。",
+      "Sentence": "She always eats her lunch at noon."
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "224.7",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "219.8",
+      "Sentence_cn": "他经常在晚上做什么？",
+      "Sentence": "What does he often do in the evening?"
+    },
+    {
+      "voaid": "1056",
+      "EndTiming": "230.6",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "224.8",
+      "Sentence_cn": "他经常在晚上读报纸。",
+      "Sentence": "He often reads his newspaper in the evening."
+    }
+  ],
+  "size": 30,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14241",
+    "title_cn": "他们通常做什么？",
+    "title": "What do they usually do?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_56.mp3"
+}

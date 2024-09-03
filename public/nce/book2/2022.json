@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "voaid": "2022",
+      "EndTiming": "4.6",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "玻璃信封",
+      "Sentence": "--- Lesson 22  A glass envelope"
+    },
+    {
+      "voaid": "2022",
+      "EndTiming": "13.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.5",
+      "Sentence_cn": "我的女儿简从未想过会接到荷兰一位同龄姑娘的来信。",
+      "Sentence": "My daughter, Jane, never dreamed of receiving a letter from a girl of her own age in Holland."
+    },
+    {
+      "voaid": "2022",
+      "EndTiming": "24.4",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "14.6",
+      "Sentence_cn": "去年，当我们横渡英吉利海峡时，简把写有她姓名和住址的一张纸条装进了一只瓶子，",
+      "Sentence": "Last year, we were travelling across the Channel and Jane put a piece of paper with her name and address on it into a bottle."
+    },
+    {
+      "voaid": "2022",
+      "EndTiming": "27.8",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "25.2",
+      "Sentence_cn": "又将瓶子扔进了大海。",
+      "Sentence": "She threw the bottle into the sea."
+    },
+    {
+      "voaid": "2022",
+      "EndTiming": "30.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "28.4",
+      "Sentence_cn": "此后她就再没去想那只瓶子。",
+      "Sentence": "She never thought of it again,"
+    },
+    {
+      "voaid": "2022",
+      "EndTiming": "36.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "31.3",
+      "Sentence_cn": "但10个月以后，她收到了荷兰一位姑娘的来信。",
+      "Sentence": "but ten months later, she received a letter from a girl in Holland."
+    },
+    {
+      "voaid": "2022",
+      "EndTiming": "40.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "37.2",
+      "Sentence_cn": "现在这两位姑娘定期通信了。",
+      "Sentence": "Both girls write to each other regularly now."
+    },
+    {
+      "voaid": "2022",
+      "EndTiming": "45.8",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "41.3",
+      "Sentence_cn": "然而她们还是决定利用邮局。",
+      "Sentence": "However, they have decided to use the post office."
+    },
+    {
+      "voaid": "2022",
+      "EndTiming": "52.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "46.7",
+      "Sentence_cn": "这样会稍微多花点钱，但肯定是快得多了。",
+      "Sentence": "Letters will cost a little more, but they will certainly travel faster."
+    }
+  ],
+  "size": 9,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14389",
+    "title_cn": "玻璃信封",
+    "title": "A glass envelope"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_22.mp3"
+}

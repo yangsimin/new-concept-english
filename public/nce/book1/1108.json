@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "voaid": "1108",
+      "EndTiming": "18.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "16.0",
+      "Sentence_cn": "这个警察很高。",
+      "Sentence": "This policeman is tall."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "20.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "18.7",
+      "Sentence_cn": "但是那个更高。",
+      "Sentence": "But that one is taller."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "24.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "21.0",
+      "Sentence_cn": "他是我见过最高的警察。",
+      "Sentence": "He is the tallest policeman I have ever seen."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "27.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "25.0",
+      "Sentence_cn": "这个女人很矮。",
+      "Sentence": "This woman is short."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "29.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "27.0",
+      "Sentence_cn": "但是那个更矮。",
+      "Sentence": "But that one is shorter."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "33.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "29.7",
+      "Sentence_cn": "她是我见过最矮的女人。",
+      "Sentence": "She is the shortest woman I have ever seen."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "36.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "33.5",
+      "Sentence_cn": "这些小汽车很便宜。",
+      "Sentence": "These cars are cheap."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "38.5",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "36.5",
+      "Sentence_cn": "但是那些更便宜。",
+      "Sentence": "But those cars are cheaper."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "42.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "38.8",
+      "Sentence_cn": "他们是我见过的最便宜的汽车。",
+      "Sentence": "They are the cheapest cars I have ever seen."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "86.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "83.0",
+      "Sentence_cn": "这把刀很锋利。",
+      "Sentence": "This knife is sharp."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "92.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "89.0",
+      "Sentence_cn": "但那把刀更锋利。",
+      "Sentence": "But that one is sharper."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "95.5",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "92.1",
+      "Sentence_cn": "它是我见过的最锋利的刀。",
+      "Sentence": "It is the sharpest knife I have ever seen."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "98.5",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "96.0",
+      "Sentence_cn": "这个女孩很漂亮。",
+      "Sentence": "This girl is pretty."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "104.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "101.0",
+      "Sentence_cn": "但是那个更漂亮。",
+      "Sentence": "But that one is prettier."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "108.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "104.5",
+      "Sentence_cn": "她是我见过最漂亮的女孩。",
+      "Sentence": "She is the prettiest girl I have ever seen."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "113.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "109.0",
+      "Sentence_cn": "这些办公室助理很懒。",
+      "Sentence": "These office assistants are lazy."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "119.5",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "116.0",
+      "Sentence_cn": "但是那些办公室助理更懒。",
+      "Sentence": "But those office assistants are lazier."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "125.0",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "120.0",
+      "Sentence_cn": "他们是我见过的最懒的办公室助理。",
+      "Sentence": "They are the laziest office assistants I have ever seen."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "128.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "126.0",
+      "Sentence_cn": "这个教堂很大。",
+      "Sentence": "This church is big."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "133.5",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "131.0",
+      "Sentence_cn": "但是那个更大。",
+      "Sentence": "But that one is bigger."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "137.0",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "133.7",
+      "Sentence_cn": "它是我见过的最大的教堂。",
+      "Sentence": "It is the biggest church I have ever seen."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "140.0",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "138.0",
+      "Sentence_cn": "这套试卷很简单。",
+      "Sentence": "This test is easy."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "146.0",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "143.0",
+      "Sentence_cn": "但那套试卷更简单。",
+      "Sentence": "But that one is easier."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "150.0",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "143.1",
+      "Sentence_cn": "它是我见过的最简单的试卷。",
+      "Sentence": "It is the easiest test I have ever seen."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "152.5",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "150.5",
+      "Sentence_cn": "这把刀很钝。",
+      "Sentence": "This knife is blunt."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "158.5",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "155.0",
+      "Sentence_cn": "是那个更钝些。",
+      "Sentence": "But that one is blunter."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "162.0",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "158.7",
+      "Sentence_cn": "它是我见过的最钝的刀。",
+      "Sentence": "It is the bluntest knife I have ever seen."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "165.5",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "163.0",
+      "Sentence_cn": "这个男孩很瘦。",
+      "Sentence": "This boy is thin."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "170.5",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "168.0",
+      "Sentence_cn": "但是那个更瘦。",
+      "Sentence": "But that one is thinner."
+    },
+    {
+      "voaid": "1108",
+      "EndTiming": "174.0",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "170.8",
+      "Sentence_cn": "他是我见过的最瘦的男孩。",
+      "Sentence": "He is the thinnest boy I have ever seen."
+    }
+  ],
+  "size": 30,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14308",
+    "title_cn": "比一比",
+    "title": "How do they compare?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_108.mp3"
+}

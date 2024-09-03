@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "voaid": "1117",
+      "EndTiming": "5.7",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "汤米的早餐",
+      "Sentence": "--- lesson 117  Tommy's breakfast"
+    },
+    {
+      "voaid": "1117",
+      "EndTiming": "11.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.4",
+      "Sentence_cn": "今天早晨我丈夫走进饭厅时，",
+      "Sentence": "When my husband was going into the dining room this morning,"
+    },
+    {
+      "voaid": "1117",
+      "EndTiming": "15.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "12.3",
+      "Sentence_cn": "把一些硬币掉在地上了。",
+      "Sentence": "he dropped some coins on the floor."
+    },
+    {
+      "voaid": "1117",
+      "EndTiming": "19.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "16.4",
+      "Sentence_cn": "到处都是硬币。",
+      "Sentence": "There were coins everywhere."
+    },
+    {
+      "voaid": "1117",
+      "EndTiming": "24.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "19.7",
+      "Sentence_cn": "我们虽然找了，但没有把它们全部找到。",
+      "Sentence": "We looked for them, but we could not find them all."
+    },
+    {
+      "voaid": "1117",
+      "EndTiming": "35.3",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "25.2",
+      "Sentence_cn": "正当我们吃早饭时，我们的小男孩汤米在地上找到了两枚小硬币。",
+      "Sentence": "While we were having breakfast, our little boy, Tommy, found two small coins on the floor."
+    },
+    {
+      "voaid": "1117",
+      "EndTiming": "39.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "36.1",
+      "Sentence_cn": "他把这两枚硬币全都放进了嘴里。",
+      "Sentence": "He put them both into his mouth."
+    },
+    {
+      "voaid": "1117",
+      "EndTiming": "45.8",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "40.0",
+      "Sentence_cn": "我们俩都试图把这两枚硬币拿出来，但太迟了。",
+      "Sentence": "We both tried to get the coins, but it was too late."
+    },
+    {
+      "voaid": "1117",
+      "EndTiming": "50.7",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "46.5",
+      "Sentence_cn": "汤米已经把硬币咽了下去！",
+      "Sentence": "Tommy had already swallowed them!"
+    },
+    {
+      "voaid": "1117",
+      "EndTiming": "60.9",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "51.5",
+      "Sentence_cn": "那天下午的晚些时候，当我正做家务时，我丈夫从办公室打来电话。",
+      "Sentence": "Later that morning, when I was doing the housework, My husband phoned me from the office."
+    },
+    {
+      "voaid": "1117",
+      "EndTiming": "64.2",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "61.6",
+      "Sentence_cn": "“汤米怎么样？”他问。",
+      "Sentence": "'How's Tommy?' he asked."
+    },
+    {
+      "voaid": "1117",
+      "EndTiming": "67.9",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "65.0",
+      "Sentence_cn": "“我不知道”，我回答说，",
+      "Sentence": "'I don't know,' I answered,"
+    },
+    {
+      "voaid": "1117",
+      "EndTiming": "73.3",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "68.7",
+      "Sentence_cn": "“今天上午汤米去了3次厕所了，",
+      "Sentence": "'Tommy's been to the toilet three times this morning,"
+    },
+    {
+      "voaid": "1117",
+      "EndTiming": "77.3",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "73.9",
+      "Sentence_cn": "但我还没看到硬币！”",
+      "Sentence": "but I haven't had any change yet!'"
+    }
+  ],
+  "size": 14,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14317,14318",
+    "title_cn": "汤米的早餐",
+    "title": "Tommy's breakfast"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_117.mp3"
+}

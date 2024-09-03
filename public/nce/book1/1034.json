@@ -1,0 +1,335 @@
+{
+  "data": [
+    {
+      "voaid": "1034",
+      "EndTiming": "26.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "17.0",
+      "Sentence_cn": "数字220231",
+      "Sentence": "Number 220,231."
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "34.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "28.0",
+      "Sentence_cn": "厨师们在做什么？他们在刷盘子吗？",
+      "Sentence": "What are the cooks doing? Are they washing dishes?"
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "40.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "35.0",
+      "Sentence_cn": "不，他们没在刷盘子。他们在做饭。",
+      "Sentence": "No, they aren't washing dishes.  They're cooking.　"
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "53.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "41.5",
+      "Sentence_cn": "数字331342",
+      "Sentence": "Number 331,342."
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "62.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "58.0",
+      "Sentence_cn": "孩子们在做什么？他们在哭吗？",
+      "Sentence": "What are the children doing?  Are they crying?　"
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "67.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "63.0",
+      "Sentence_cn": "不，他们没在哭。他们在睡觉。",
+      "Sentence": "No, they aren't crying.  They're sleeping.　"
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "81.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "68.5",
+      "Sentence_cn": "数字442453",
+      "Sentence": "Number 442,453."
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "88.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "83.5",
+      "Sentence_cn": "那些男人在做什么？他们在做饭吗？",
+      "Sentence": "What are the men doing? Are they cooking?　"
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "92.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "88.5",
+      "Sentence_cn": "不，他们没在做饭。他们在刮胡子。",
+      "Sentence": "No, they aren't cooking. They're shaving.　"
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "190.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "180.0",
+      "Sentence_cn": "数字553564",
+      "Sentence": "Number553, 564."
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "198.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "194.0",
+      "Sentence_cn": "孩子们在做什么？他们在睡觉吗？",
+      "Sentence": "What are the children doing? Are they sleeping?"
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "206.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "201.0",
+      "Sentence_cn": "不，他们没在睡觉。他们在哭。",
+      "Sentence": "No, they aren't sleeping. They're crying."
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "219.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "209.0",
+      "Sentence_cn": "数字664675",
+      "Sentence": "Number 664, 675."
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "226.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "221.0",
+      "Sentence_cn": "那些狗在做什么？他们在喝牛奶吗？",
+      "Sentence": "What are the dogs doing? Are they drinking milk?　"
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "234.5",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "228.0",
+      "Sentence_cn": "不，他们没在喝牛奶。他们在啃骨头。",
+      "Sentence": "No, they aren't drinking milk. They're eating bones.　"
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "247.5",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "236.5",
+      "Sentence_cn": " 数字775786",
+      "Sentence": "Number775, 786."
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "256.3",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "250.5",
+      "Sentence_cn": "那些女人在做什么？她们在给房间通风吗？",
+      "Sentence": "What are the women doing?  Are they airing the room?　"
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "264.4",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "258.0",
+      "Sentence_cn": "不，她们没在给房间通风。她们在打信。",
+      "Sentence": "No, they aren't airing the room. They're typing letters.　"
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "276.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "266.0",
+      "Sentence_cn": "数字886897",
+      "Sentence": "Number886, 897."
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "284.7",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "279.5",
+      "Sentence_cn": "孩子们在做什么？他们在看画吗？",
+      "Sentence": "What are the children doing?  Are they looking at a picture?　"
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "295.0",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "288.5",
+      "Sentence_cn": "不。他们没在看画。他们在做作业。",
+      "Sentence": "No, they aren't looking at a picture.  They're doing their homework.　"
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "307.0",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "296.5",
+      "Sentence_cn": "数字997998",
+      "Sentence": "Number 997, 998."
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "316.0",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "311.0",
+      "Sentence_cn": "那些女人在做什么？她们在擦地板吗？",
+      "Sentence": "What are the women doing? Are they sweeping the floor?　"
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "325.5",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "319.5",
+      "Sentence_cn": "不，他们没在擦地板。他们在刷盘子。",
+      "Sentence": "No, they aren't sweeping the floor. They're washing dishes.　"
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "331.0",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "327.6",
+      "Sentence_cn": " 数字1000001",
+      "Sentence": "Number 1,000,001."
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "339.0",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "334.0",
+      "Sentence_cn": "那些鸟在做什么？它们正坐在树上吗？",
+      "Sentence": "What are the birds doing? Are they sitting on a tree?　"
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "348.5",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "342.0",
+      "Sentence_cn": "不，他们没坐在树上。他们正飞过河。",
+      "Sentence": "No, they aren't sitting on a tree.They're flying over the river.　"
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "356.0",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "350.5",
+      "Sentence": "Number 1,000,000."
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "366.5",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "359.5",
+      "Sentence_cn": "那个男人和那个女人在做什么？他们在等公共汽车吗？",
+      "Sentence": "What are the man and the women doing? Are they waiting for a bus?"
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "377.0",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "370.0",
+      "Sentence_cn": "他们没在等公共汽车。不，他们正在走过桥。",
+      "Sentence": "No, they aren't waiting for a bus. They're walking over the bridge."
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "385.0",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "379.5",
+      "Sentence_cn": "数字1500000",
+      "Sentence": "Number 1,500,000."
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "394.0",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "386.5",
+      "Sentence_cn": "那个男人和那个女人在做什么？他们正走过桥吗？",
+      "Sentence": "What are the man and the woman doing? Are they walking over the bridge?"
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "404.5",
+      "Paraid": "1",
+      "IdIndex": "33",
+      "Timing": "397.5",
+      "Sentence_cn": "不，他们没正过桥。他们正在等公共汽车。",
+      "Sentence": "No, they aren't walking over the bridge.  They're waiting for a bus."
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "410.0",
+      "Paraid": "1",
+      "IdIndex": "34",
+      "Timing": "406.5",
+      "Sentence_cn": "数字2000000",
+      "Sentence": "Number 2,000,000."
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "418.5",
+      "Paraid": "1",
+      "IdIndex": "35",
+      "Timing": "412.5",
+      "Sentence_cn": "那个男孩和那个女孩在做什么？他们在爬树吗？",
+      "Sentence": "What are the boy and the girl doing? Are they climbing a tree?"
+    },
+    {
+      "voaid": "1034",
+      "EndTiming": "427.5",
+      "Paraid": "1",
+      "IdIndex": "36",
+      "Timing": "421.0",
+      "Sentence_cn": "不，他们没在爬树。他们正从墙上跳下来。",
+      "Sentence": "No, they aren't climbing a tree. They're jumping off the wall."
+    }
+  ],
+  "size": 36,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14216",
+    "title_cn": "他们在做什么？",
+    "title": "What are they doing?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_34.mp3"
+}

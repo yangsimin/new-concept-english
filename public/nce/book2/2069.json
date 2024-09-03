@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "voaid": "2069",
+      "EndTiming": "4.4",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "并非谋杀！",
+      "Sentence": "--- Lesson 69  But not murder!"
+    },
+    {
+      "voaid": "2069",
+      "EndTiming": "9.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.1",
+      "Sentence_cn": "我第3次接受驾驶执照考试。",
+      "Sentence": "I was being tested for a driving licence for the third time."
+    },
+    {
+      "voaid": "2069",
+      "EndTiming": "16.3",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "9.5",
+      "Sentence_cn": "按照要求在车辆拥挤的路上驾驶，我圆满地完成了。",
+      "Sentence": "I had been asked to drive in heavy traffic and had done so successfully."
+    },
+    {
+      "voaid": "2069",
+      "EndTiming": "23.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "16.7",
+      "Sentence_cn": "在接到把车开出城的指令后，我开始有了信心。",
+      "Sentence": "After having been instructed to drive out of town, I began to acquire confidence."
+    },
+    {
+      "voaid": "2069",
+      "EndTiming": "30.3",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "24.3",
+      "Sentence_cn": "确信我已通过考试，所以我几乎开始喜欢起这次考试。",
+      "Sentence": "Sure that I had passed, I was almost beginning to enjoy my test."
+    },
+    {
+      "voaid": "2069",
+      "EndTiming": "36.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "30.3",
+      "Sentence_cn": "主考人对我的驾驶想必是满意的，因为他微笑着说：",
+      "Sentence": "The examiner must have been pleased with my performance, for he smiled and said,"
+    },
+    {
+      "voaid": "2069",
+      "EndTiming": "40.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "37.4",
+      "Sentence_cn": "“埃姆斯先生，只剩1项了。",
+      "Sentence": "'Just one more thing, Mr.Eames."
+    },
+    {
+      "voaid": "2069",
+      "EndTiming": "46.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "40.4",
+      "Sentence_cn": "让我们假设一个小孩子突然在你前面穿过马路。",
+      "Sentence": "Let us suppose that a child suddenly crosses the road in front of you."
+    },
+    {
+      "voaid": "2069",
+      "EndTiming": "52.6",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "46.4",
+      "Sentence_cn": "我一敲车窗，你必须把车停在5英尺之内。”",
+      "Sentence": "As soon as I tap on the window, you must stop within five feet.'"
+    },
+    {
+      "voaid": "2069",
+      "EndTiming": "58.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "53.0",
+      "Sentence_cn": "我继续往前开着。过了一会儿，主考人砰砰地敲了起来。",
+      "Sentence": "I continued driving and after some time, the examiner tapped loudly."
+    },
+    {
+      "voaid": "2069",
+      "EndTiming": "65.2",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "58.6",
+      "Sentence_cn": "虽然声音听得很清楚，但我过了好一会儿才作出反应。",
+      "Sentence": "Though the sound could be heard clearly, it took me a long time to react."
+    },
+    {
+      "voaid": "2069",
+      "EndTiming": "71.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "65.8",
+      "Sentence_cn": "我突然用力踩紧刹车踏板，结果我俩的身体都向前冲去。",
+      "Sentence": "I suddenly pressed the brake pedal hard and we were both thrown forward."
+    },
+    {
+      "voaid": "2069",
+      "EndTiming": "74.4",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "71.8",
+      "Sentence_cn": "主考人伤心地看着我。",
+      "Sentence": "The examiner looked at me sadly."
+    },
+    {
+      "voaid": "2069",
+      "EndTiming": "82.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "75.1",
+      "Sentence_cn": "“埃姆斯先生，”他以悲伤的声调说，“你刚刚把那个小孩压死了！”",
+      "Sentence": "'Mr.Eames,' he said, in a mournful voice, 'you have just killed that child!'"
+    }
+  ],
+  "size": 14,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14468",
+    "title_cn": "并非谋杀！",
+    "title": "But not murder!"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_69.mp3"
+}

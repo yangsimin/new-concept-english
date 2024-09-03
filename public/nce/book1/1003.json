@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "voaid": "1003",
+      "EndTiming": "3.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "对不起，先生。",
+      "Sentence": "lesson 3 Sorry sir."
+    },
+    {
+      "voaid": "1003",
+      "EndTiming": "7.9",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.7",
+      "Sentence_cn": "请把我的大衣和伞拿给我。",
+      "Sentence": "My coat and my umbrella please."
+    },
+    {
+      "voaid": "1003",
+      "EndTiming": "10.4",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.2",
+      "Sentence_cn": "这是我（寄存东西）的牌子。",
+      "Sentence": "Here is my ticket."
+    },
+    {
+      "voaid": "1003",
+      "EndTiming": "12.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "10.9",
+      "Sentence_cn": "谢谢，先生。 ",
+      "Sentence": "Thank you, sir."
+    },
+    {
+      "voaid": "1003",
+      "EndTiming": "14.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "13.0",
+      "Sentence_cn": "是5号。 ",
+      "Sentence": "Number five."
+    },
+    {
+      "voaid": "1003",
+      "EndTiming": "18.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "14.9",
+      "Sentence_cn": "这是您的伞和大衣 ",
+      "Sentence": "Here's your umbrella and your coat."
+    },
+    {
+      "voaid": "1003",
+      "EndTiming": "21.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "18.9",
+      "Sentence_cn": "这不是我的伞。 ",
+      "Sentence": "This is not my umbrella."
+    },
+    {
+      "voaid": "1003",
+      "EndTiming": "23.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "22.5",
+      "Sentence_cn": "对不起，先生。",
+      "Sentence": "Sorry sir."
+    },
+    {
+      "voaid": "1003",
+      "EndTiming": "26.6",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "24.6",
+      "Sentence_cn": "这把伞是您的吗？ ",
+      "Sentence": "Is this your umbrella?"
+    },
+    {
+      "voaid": "1003",
+      "EndTiming": "29.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "27.4",
+      "Sentence_cn": "不，不是！ ",
+      "Sentence": "No, it isn't."
+    },
+    {
+      "voaid": "1003",
+      "EndTiming": "31.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "29.4",
+      "Sentence_cn": "这把是吗？ ",
+      "Sentence": "Is this it?"
+    },
+    {
+      "voaid": "1003",
+      "EndTiming": "34.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "31.9",
+      "Sentence_cn": "是，是这把 ",
+      "Sentence": "Yes, it is."
+    },
+    {
+      "voaid": "1003",
+      "EndTiming": "36.7",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "34.7",
+      "Sentence_cn": "非常感谢。 ",
+      "Sentence": "Thank you very much."
+    }
+  ],
+  "size": 13,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14183",
+    "title_cn": "对不起，先生。",
+    "title": "Sorry, sir."
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_3.mp3"
+}

@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "voaid": "1135",
+      "EndTiming": "5.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "最新消息",
+      "Sentence": "--- lesson 135  The latest report"
+    },
+    {
+      "voaid": "1135",
+      "EndTiming": "9.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.8",
+      "Sentence_cn": "马什小姐，您真的准备退休吗？",
+      "Sentence": "Are you really going to retire, Miss Marsh?"
+    },
+    {
+      "voaid": "1135",
+      "EndTiming": "11.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.1",
+      "Sentence_cn": "有可能退。",
+      "Sentence": "I may."
+    },
+    {
+      "voaid": "1135",
+      "EndTiming": "14.2",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "11.6",
+      "Sentence_cn": "我还拿不定主意。",
+      "Sentence": "I can't make up my mind."
+    },
+    {
+      "voaid": "1135",
+      "EndTiming": "18.7",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "14.9",
+      "Sentence_cn": "我得问一下我的未婚夫。",
+      "Sentence": "I will have to ask my future husband."
+    },
+    {
+      "voaid": "1135",
+      "EndTiming": "22.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "19.2",
+      "Sentence_cn": "他不会再让我拍电影了。",
+      "Sentence": "He won't let me make another film."
+    },
+    {
+      "voaid": "1135",
+      "EndTiming": "26.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "23.3",
+      "Sentence_cn": "您的未婚夫，马什小姐？",
+      "Sentence": "Your future husband, Miss Marsh?"
+    },
+    {
+      "voaid": "1135",
+      "EndTiming": "30.5",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "26.8",
+      "Sentence_cn": "是的，让我把他给你们介绍一下。",
+      "Sentence": "Yes. Let me introduce him to you."
+    },
+    {
+      "voaid": "1135",
+      "EndTiming": "33.8",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "31.0",
+      "Sentence_cn": "他叫卡洛斯。",
+      "Sentence": "His name is Carlos."
+    },
+    {
+      "voaid": "1135",
+      "EndTiming": "38.2",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "34.3",
+      "Sentence_cn": "下星期我们就要结婚了。",
+      "Sentence": "We're going to get married next week."
+    },
+    {
+      "voaid": "1135",
+      "EndTiming": "40.3",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "39.1",
+      "Sentence_cn": "看啊，莉兹！",
+      "Sentence": "Look, Liz!"
+    },
+    {
+      "voaid": "1135",
+      "EndTiming": "44.8",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "40.7",
+      "Sentence_cn": "这又有一篇关于卡伦.马什的报道。",
+      "Sentence": "Here's another report about Karen Marsh."
+    },
+    {
+      "voaid": "1135",
+      "EndTiming": "50.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "45.4",
+      "Sentence_cn": "你听，“卡伦.马什:最新消息。",
+      "Sentence": "Listen:\"Karen Marsh: The latest."
+    },
+    {
+      "voaid": "1135",
+      "EndTiming": "58.9",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "50.7",
+      "Sentence_cn": "今天在伦敦旅馆，马什小姐告诉记者她可能要退休。",
+      "Sentence": "At her London Hotel today Miss Marsh told reporters she might retire."
+    },
+    {
+      "voaid": "1135",
+      "EndTiming": "63.7",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "59.7",
+      "Sentence_cn": "她说她还拿不定主意。",
+      "Sentence": "She said she couldn't make up her mind."
+    },
+    {
+      "voaid": "1135",
+      "EndTiming": "69.4",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "64.1",
+      "Sentence_cn": "她说她得问问她的未婚夫。",
+      "Sentence": "She said she would have to ask her future husband."
+    },
+    {
+      "voaid": "1135",
+      "EndTiming": "77.0",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "70.2",
+      "Sentence_cn": "她说她的未婚夫不会再让她拍电影。",
+      "Sentence": "She said her future husband would not let her make another film."
+    },
+    {
+      "voaid": "1135",
+      "EndTiming": "86.7",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "77.8",
+      "Sentence_cn": "然后她把我们介绍给卡洛斯，并告诉我们说他们下星期结婚。”",
+      "Sentence": "Then she introduced us to Carlos and told us they would get married next week.\""
+    },
+    {
+      "voaid": "1135",
+      "EndTiming": "92.2",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "87.6",
+      "Sentence_cn": "凯特，这真是条轰动的消息，是不是？",
+      "Sentence": "That's sensational news,isn't it, Kate?"
+    },
+    {
+      "voaid": "1135",
+      "EndTiming": "95.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "93.0",
+      "Sentence_cn": "当然啦。",
+      "Sentence": "It certainly is."
+    },
+    {
+      "voaid": "1135",
+      "EndTiming": "98.9",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "95.4",
+      "Sentence_cn": "他将是她的第6个丈夫！",
+      "Sentence": "He'll be her sixth husband!"
+    }
+  ],
+  "size": 21,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14337",
+    "title_cn": "最新消息",
+    "title": "The latest report"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_135.mp3"
+}

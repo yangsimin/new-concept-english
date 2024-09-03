@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "voaid": "3007",
+      "EndTiming": "3.7",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "残钞鉴别组",
+      "Sentence": "--- lesson 7   Mutilated ladies"
+    },
+    {
+      "voaid": "3007",
+      "EndTiming": "5.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.0",
+      "Sentence_cn": "这种事情在你身上出现过吗?",
+      "Sentence": "Has it ever happened to you?"
+    },
+    {
+      "voaid": "3007",
+      "EndTiming": "13.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "5.7",
+      "Sentence_cn": "你有没有把裤子塞进洗衣机，然后又想起在裤子的后兜有一张大面值的纸币?",
+      "Sentence": "Have you ever put your trousers in the washing machine and then remembered there was a large bank note in your back pocket?"
+    },
+    {
+      "voaid": "3007",
+      "EndTiming": "19.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "14.3",
+      "Sentence_cn": "当你把裤子抢救出来时，你有没有发现那张纸币已经变得比白纸还白?",
+      "Sentence": "When you rescued your trousers, did you find the note was whiter than white?"
+    },
+    {
+      "voaid": "3007",
+      "EndTiming": "26.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "19.8",
+      "Sentence_cn": "当英国人犯这种错误时，他们不必感到绝望（而许多国家的人都有这种绝望的感觉）。",
+      "Sentence": "People who live in Britain needn't despair when they made mistakes like this (and a lot of people do)!"
+    },
+    {
+      "voaid": "3007",
+      "EndTiming": "32.7",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "27.1",
+      "Sentence_cn": "对英国人来说，值得庆幸的是英国银行有一个残钞鉴别组，",
+      "Sentence": "Fortunately for them, the Bank of England has a team called Mutilated Ladies"
+    },
+    {
+      "voaid": "3007",
+      "EndTiming": "38.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "32.7",
+      "Sentence_cn": "负责处理那些把钱塞进机器或塞给狗的人提出的索赔要求。",
+      "Sentence": "which deals with claims from people who fed their money to a machine or to their dog."
+    },
+    {
+      "voaid": "3007",
+      "EndTiming": "42.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "39.0",
+      "Sentence_cn": "看起来，狗很喜欢咀嚼钱币。",
+      "Sentence": "Dogs, it seems, love to chew up money!"
+    },
+    {
+      "voaid": "3007",
+      "EndTiming": "49.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "42.7",
+      "Sentence_cn": "最近的一个案例与简.巴特林有关，她的未婚夫约翰拥有一家生意兴隆的家具店。",
+      "Sentence": "A recent case concerns Jane Butlin whose fiancé, John, runs a successful furniture business."
+    },
+    {
+      "voaid": "3007",
+      "EndTiming": "58.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "49.9",
+      "Sentence_cn": "有一天约翰的生意很好，他把一只装有3,000 英镑的钱包放进微波炉内保存。",
+      "Sentence": "John had a very good day and put his wallet containing $3,000 into the microwave oven for safekeeping."
+    },
+    {
+      "voaid": "3007",
+      "EndTiming": "61.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "59.2",
+      "Sentence_cn": "然后，他和简一起去骑马。",
+      "Sentence": "Then he and Jane went horse-riding."
+    },
+    {
+      "voaid": "3007",
+      "EndTiming": "71.3",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "61.9",
+      "Sentence_cn": "回家后，简用微波炉煮了晚饭，无意之中把她未婚夫的钱包也一起煮了。",
+      "Sentence": "When they got home, Jane cooked their dinner in the microwave oven and without realizing it, cooked her fiancé's wallet as well."
+    },
+    {
+      "voaid": "3007",
+      "EndTiming": "78.8",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "72.0",
+      "Sentence_cn": "可以想像他们发现一只煮得很好看的钱包，钞票已化成灰时的沮丧心情。",
+      "Sentence": "Imagine their dismay when they found a beautifully-cooked wallet and notes turned to ash!"
+    },
+    {
+      "voaid": "3007",
+      "EndTiming": "90.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "79.5",
+      "Sentence_cn": "约翰去找银行经理，经理把约翰的钱包和纸币的残留物送到英国银行在纽卡斯尔的一个专门部门--残钞鉴别组。",
+      "Sentence": "John went to see his bank manager who sent the remains of wallet and the money to the special department of the Bank of England in Newcastle: the Mutilate Ladies!"
+    },
+    {
+      "voaid": "3007",
+      "EndTiming": "95.7",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "91.0",
+      "Sentence_cn": "他们鉴定了这些残留物。约翰拿回了他损失的全部数额。",
+      "Sentence": "They examined the remains and John got all his money back."
+    },
+    {
+      "voaid": "3007",
+      "EndTiming": "104.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "96.4",
+      "Sentence_cn": "“只要有东西可供识别，我们会把钱还给人家的，”银行的一位女发言人说。",
+      "Sentence": "'So long as there's something to identify, we will give people their money back,' said a spokeswoman for the Bank."
+    },
+    {
+      "voaid": "3007",
+      "EndTiming": "111.6",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "104.3",
+      "Sentence_cn": "“去年，我们对21，000 起索赔要求支付了150万英镑。”",
+      "Sentence": "'Last year, we paid $1.5m on 21,000 claims.'"
+    }
+  ],
+  "size": 17,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14544,14545",
+    "title_cn": "残钞鉴别组",
+    "title": "Mutilated ladies"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_7.mp3"
+}

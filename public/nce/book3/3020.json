@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "voaid": "3020",
+      "EndTiming": "3.6",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "飞行员的先驱",
+      "Sentence": "--- lesson 20  Pioneer pilots"
+    },
+    {
+      "voaid": "3020",
+      "EndTiming": "14.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.3",
+      "Sentence_cn": "1908年，诺斯克利夫勋爵拿出1,000英镑，作为对第一个飞越英吉利海峡的人的奖励。",
+      "Sentence": "In 1908 Lord Northcliffe offered a prize of £1,000 to the first man who would fly across the English Channel."
+    },
+    {
+      "voaid": "3020",
+      "EndTiming": "19.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "15.3",
+      "Sentence_cn": "然而一年多过去了才有人出来尝试。",
+      "Sentence": "Over a year passed before the first attempt was made."
+    },
+    {
+      "voaid": "3020",
+      "EndTiming": "30.9",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "19.6",
+      "Sentence_cn": "1909年7月19日凌晨，休伯特.莱瑟姆驾驶“安特瓦特4号”飞机从法国海岸起飞，",
+      "Sentence": "On July 19th, 1909, in the early morning, Hubert Latham took off from the French coast in his plane the 'Antoinette IV'."
+    },
+    {
+      "voaid": "3020",
+      "EndTiming": "40.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "30.9",
+      "Sentence_cn": "但他只在海峡上空飞行了7英里，引擎就发生了故障，他只好降落在海面上。",
+      "Sentence": "He had travelled only seven miles across the Channel when his engine failed and he was forced to land on the sea."
+    },
+    {
+      "voaid": "3020",
+      "EndTiming": "45.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "40.0",
+      "Sentence_cn": "“安特瓦特”号飞机在海上漂浮，后来有船经过，莱瑟姆方才获救。",
+      "Sentence": "The 'Antoinette' floated on the water until Latham was picked up by a ship."
+    },
+    {
+      "voaid": "3020",
+      "EndTiming": "53.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "46.4",
+      "Sentence_cn": "两天之后，路易斯.布莱里奥驾驶一名为“11号”的飞机来到加来附近。",
+      "Sentence": "Two days later, Louis Bleriot arrived near Calais with a plane called 'No. XI'."
+    },
+    {
+      "voaid": "3020",
+      "EndTiming": "60.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "53.5",
+      "Sentence_cn": "布莱里奥从1905年起便开始研制飞机，“11号”飞机是他制作的最新型号。",
+      "Sentence": "Bleriot had been making planes since 1905 and this was his latest model."
+    },
+    {
+      "voaid": "3020",
+      "EndTiming": "68.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "61.2",
+      "Sentence_cn": "一周以前，他曾成功地进行了一次26英里的陆上飞行。",
+      "Sentence": "A week before, he had completed a successful overland flight during which he covered twenty-six miles."
+    },
+    {
+      "voaid": "3020",
+      "EndTiming": "72.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "68.5",
+      "Sentence_cn": "但是莱瑟姆不肯轻易罢休。",
+      "Sentence": "Latham, however, did not give up easily."
+    },
+    {
+      "voaid": "3020",
+      "EndTiming": "78.8",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "72.5",
+      "Sentence_cn": "同一天，他驾驶一架新的“安特瓦特”号飞机来到了加来附近。",
+      "Sentence": "He, too, arrived near Calais on the same day with a new 'Antoinette'."
+    },
+    {
+      "voaid": "3020",
+      "EndTiming": "83.1",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "78.8",
+      "Sentence_cn": "看来会有一场激烈的飞越英吉利海峡的竞争。",
+      "Sentence": "It looked as if there would be an exciting race across the Channel."
+    },
+    {
+      "voaid": "3020",
+      "EndTiming": "87.8",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "83.2",
+      "Sentence_cn": "两天飞机都打算在7月25日起飞，",
+      "Sentence": "Both planes were going to take off on July 25th,"
+    },
+    {
+      "voaid": "3020",
+      "EndTiming": "90.6",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "88.2",
+      "Sentence_cn": "但莱瑟姆那天起床晚了。",
+      "Sentence": "but Latham failed to get up early enough,"
+    },
+    {
+      "voaid": "3020",
+      "EndTiming": "99.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "90.6",
+      "Sentence_cn": "布莱里奥凌晨4点15分作了一次短距离试飞，半小时后便正式出发了。",
+      "Sentence": "After making a short test flight at 4:15 a.m., Bleriot set off half an hour later."
+    },
+    {
+      "voaid": "3020",
+      "EndTiming": "103.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "99.0",
+      "Sentence_cn": "他这次伟大的飞行持续了37分钟。",
+      "Sentence": "His great flight lasted thirty-seven minutes."
+    },
+    {
+      "voaid": "3020",
+      "EndTiming": "109.3",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "103.4",
+      "Sentence_cn": "当他在多佛着陆后，第一个迎接他的是当地一名警察。",
+      "Sentence": "When he landed near Dover, the first person to greet him was a local policeman."
+    },
+    {
+      "voaid": "3020",
+      "EndTiming": "117.7",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "109.8",
+      "Sentence_cn": "莱瑟姆一周以后也作了一次尝试，飞到离多佛不到半英里的地方。这次他又遭厄运，",
+      "Sentence": "Latham made another attempt a week later and got within half a mile of Dover, but he was unlucky again."
+    },
+    {
+      "voaid": "3020",
+      "EndTiming": "123.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "117.7",
+      "Sentence_cn": "因引擎故障第二次降落在海面上。",
+      "Sentence": "His engine failed and he landed on the sea for the second time."
+    }
+  ],
+  "size": 19,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14575,14576",
+    "title_cn": "飞行员的先驱",
+    "title": "Pioneer pilots"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_20.mp3"
+}

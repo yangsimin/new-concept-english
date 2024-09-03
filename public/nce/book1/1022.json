@@ -1,0 +1,300 @@
+{
+  "data": [
+    {
+      "voaid": "1022",
+      "EndTiming": "18.6",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "12.3",
+      "Sentence_cn": "请看1001和1002。",
+      "Sentence": "Numbers 1,001 and 1,002."
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "21.6",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "20.1",
+      "Sentence_cn": "请给我一个茶杯。",
+      "Sentence": "Give me a cup please."
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "26.7",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "23.4",
+      "Sentence_cn": "哪一个？这个脏的吗？",
+      "Sentence": "Which one? This dirty one?　　"
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "30.8",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "27.6",
+      "Sentence_cn": "不，不是这个脏的。是干净的那个。",
+      "Sentence": "No, not this dirty one. That clean one.　"
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "39.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "32.9",
+      "Sentence_cn": "请看1003和1004。",
+      "Sentence": "Numbers 1.003 and 1,004."
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "43.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "42.4",
+      "Sentence_cn": "请给我一个玻璃杯。",
+      "Sentence": "Give me a glass please.　"
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "47.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "44.8",
+      "Sentence_cn": "哪一个？（装）满的那个吗？",
+      "Sentence": "Which one? That full one?　"
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "52.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "48.5",
+      "Sentence_cn": "不，不是满的那个。是这个空的。",
+      "Sentence": "No, not that full one. This empty one.　"
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "60.7",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "54.8",
+      "Sentence_cn": "请看1005和1006。",
+      "Sentence": "Numbers 1,005 and 1,006."
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "64.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "62.2",
+      "Sentence_cn": "请给我一个瓶子。",
+      "Sentence": "Give me a bottle please.　"
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "66.9",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "64.9",
+      "Sentence_cn": "哪一个？这个大的吗？",
+      "Sentence": "Which one? This large one?　"
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "71.3",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "67.2",
+      "Sentence_cn": "不，不是这个大的。是那个小的。",
+      "Sentence": "No, not this large one. That small one.　"
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "160.9",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "154.8",
+      "Sentence_cn": "请看1007和1008。",
+      "Sentence": "Numbers 1,007 and 1,008."
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "165.4",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "163.4",
+      "Sentence_cn": "请给我一个盒子。",
+      "Sentence": "Give me a box please.　"
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "169.2",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "166.7",
+      "Sentence_cn": "哪一个？那个小的吗？",
+      "Sentence": "Which one? That little one?　"
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "176.5",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "172.0",
+      "Sentence_cn": "不，不是那个小的。是这个大的。",
+      "Sentence": "No, not that little one. This big one.　"
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "185.0",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "179.2",
+      "Sentence_cn": "请看1009和1010。",
+      "Sentence": "Numbers 1,009 and 1,010."
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "191.2",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "189.1",
+      "Sentence_cn": "请给我一个罐子。",
+      "Sentence": "Give me a tin please.　"
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "195.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "192.5",
+      "Sentence_cn": "哪一个？这个新的吗？",
+      "Sentence": "Which one? This new one?　"
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "202.2",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "197.8",
+      "Sentence_cn": "不，不是这个新的。是那个旧的。",
+      "Sentence": "No, not this new one. That old one.　"
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "211.3",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "204.6",
+      "Sentence_cn": "请看1011和1012。",
+      "Sentence": "Numbers 1,011 and 1,012."
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "216.3",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "214.3",
+      "Sentence_cn": "请给我一把刀。",
+      "Sentence": "Give me a knife please."
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "219.9",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "217.5",
+      "Sentence_cn": "哪一个？那把钝的吗？",
+      "Sentence": "Which one? That blunt one?　"
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "226.9",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "222.4",
+      "Sentence_cn": "不，不是那把钝的。是这个尖利的。",
+      "Sentence": "No, not that blunt one. This sharp one.　"
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "236.3",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "229.5",
+      "Sentence_cn": "请看1013和1014。",
+      "Sentence": "Numbers 1,013 and 1,014."
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "241.3",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "239.0",
+      "Sentence_cn": "请给我一个匙。",
+      "Sentence": "Give me a spoon please.　"
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "245.1",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "242.4",
+      "Sentence_cn": "哪一个？这个新的吗？",
+      "Sentence": "Which one? This new one?　"
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "252.4",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "247.8",
+      "Sentence_cn": "不，不是这个新的。是那个旧的。",
+      "Sentence": "No, not this new one. That old one.　"
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "261.0",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "254.5",
+      "Sentence_cn": "请看1015和1016。",
+      "Sentence": "Numbers 1,015 and 1,016."
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "266.2",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "264.2",
+      "Sentence_cn": "请给我一把叉子。",
+      "Sentence": "Give me a fork please.　"
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "269.7",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "267.0",
+      "Sentence_cn": "哪一个？那把小的吗？",
+      "Sentence": "Which one? That small one?　"
+    },
+    {
+      "voaid": "1022",
+      "EndTiming": "277.5",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "273.0",
+      "Sentence_cn": "不，不是那把小的。是这把大的。",
+      "Sentence": "No, not that small one. This large one.　"
+    }
+  ],
+  "size": 32,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14202,14203",
+    "title_cn": "给我/他/她/我们/他们一…… 哪一……？",
+    "title": "Give me/him/her/us/them a ... Which one?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_22.mp3"
+}

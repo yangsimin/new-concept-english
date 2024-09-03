@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "voaid": "1094",
+      "EndTiming": "15.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "11.5",
+      "Sentence_cn": "你下周要去雅典吗？",
+      "Sentence": "Look at number 2. Will you go to Athens next week?"
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "19.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "16.6",
+      "Sentence_cn": "不，我下周不会去雅典，",
+      "Sentence": "No, I shan't go to Athens next week,"
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "21.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "19.5",
+      "Sentence_cn": "我会去北京。",
+      "Sentence": "I shall go to Beijing."
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "28.1",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "23.0",
+      "Sentence_cn": "你和简这周会飞去柏林吗？",
+      "Sentence": "Number 1. Will you and Jane fly to Berlin this week?"
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "31.7",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "28.7",
+      "Sentence_cn": "不，我们下周不会去柏林。",
+      "Sentence": "No, we shan't fly to Berlin this week."
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "33.7",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "32.2",
+      "Sentence_cn": "我们会飞去雅典。",
+      "Sentence": "We shall fly to Athens."
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "39.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "35.0",
+      "Sentence_cn": "萨姆下个月前往孟买吗？",
+      "Sentence": "Number 3. Will Sam leave for Bombay next month?"
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "43.8",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "40.8",
+      "Sentence_cn": "不，他下个月不会前往孟买。",
+      "Sentence": "No, he won't leave for Bombay next month."
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "45.8",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "44.4",
+      "Sentence_cn": "他会前往柏林。",
+      "Sentence": "He will leave for Berlin."
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "104.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "98.7",
+      "Sentence_cn": "潘妮明年回日内瓦吗？",
+      "Sentence": "Number 4. Will Penny return to Geneva next year?"
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "111.8",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "108.5",
+      "Sentence_cn": "不，她明年不回日内瓦。",
+      "Sentence": "No, she won't return to Geneva next year."
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "114.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "112.4",
+      "Sentence_cn": "她将回孟买。",
+      "Sentence": "She will return to Bombay."
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "120.8",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "115.4",
+      "Sentence_cn": "你明天要飞往伦敦吗？",
+      "Sentence": "Number 5. Will you fly to London tomorrow?"
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "126.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "124.0",
+      "Sentence_cn": "不，我明天不会飞往伦敦。",
+      "Sentence": "No, I shan't fly to London tomorrow."
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "129.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "127.3",
+      "Sentence_cn": "我会要飞往日内瓦。",
+      "Sentence": "I shall fly to Geneva."
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "135.2",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "130.1",
+      "Sentence_cn": "你和汤姆明年去马德里吗？",
+      "Sentence": "Number 6. Will you and Tom go to Madrid next year?"
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "141.5",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "138.6",
+      "Sentence_cn": "不，我们明年不会去马德里。",
+      "Sentence": "No, we shan't go to Madrid next year."
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "143.7",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "142.3",
+      "Sentence_cn": "我们将去伦敦。",
+      "Sentence": "We shall go to London."
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "151.8",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "145.3",
+      "Sentence_cn": "汤姆下下个星期会从莫斯科回来吗？",
+      "Sentence": "Number 7. Will Tom arrive from Moscow the week after next?"
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "160.5",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "156.7",
+      "Sentence_cn": "不，他下下个星期不会从莫斯科回来.",
+      "Sentence": "No, he won't arrive from Moscow the week after next."
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "162.9",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "161.1",
+      "Sentence_cn": "他将从马德里回来。",
+      "Sentence": "He will arrive from Madrid."
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "170.4",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "164.3",
+      "Sentence_cn": "爱丽丝和玛丽下个月将呆在纽约吗？",
+      "Sentence": "Number 8. Will Alice and Mary stay in New York next month?"
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "178.8",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "175.5",
+      "Sentence_cn": "不，他们下个月不会呆在纽约。",
+      "Sentence": "No, they won't stay in New York next month."
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "181.3",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "179.5",
+      "Sentence_cn": "他们会呆在莫斯科。",
+      "Sentence": "They will stay in Moscow."
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "187.5",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "182.5",
+      "Sentence_cn": "你明天要飞往巴黎吗？",
+      "Sentence": "Number 9. Will you fly to Paris tomorrow?"
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "195.0",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "191.8",
+      "Sentence_cn": "不，我明天不会飞往巴黎。",
+      "Sentence": "No, I shan't fly to Paris tomorrow."
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "197.5",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "195.8",
+      "Sentence_cn": "我会飞往纽约。",
+      "Sentence": "I shall fly to New York."
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "205.0",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "198.9",
+      "Sentence_cn": "汤姆和乔治明年会去罗马。",
+      "Sentence": "Number 10. Will Tom and George go to Rome next year?"
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "212.4",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "209.3",
+      "Sentence_cn": "不，他们明年不会去罗马。",
+      "Sentence": "No, they won't go to Rome next year."
+    },
+    {
+      "voaid": "1094",
+      "EndTiming": "214.6",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "213.0",
+      "Sentence_cn": "他们会去巴黎。",
+      "Sentence": "They will go to Paris."
+    }
+  ],
+  "size": 30,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14291,14292",
+    "title_cn": "你过去/将在什么时候去……？",
+    "title": "When did you/will you go to ...?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_94.mp3"
+}

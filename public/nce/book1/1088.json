@@ -1,0 +1,300 @@
+{
+  "data": [
+    {
+      "voaid": "1088",
+      "EndTiming": "16.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "14.1",
+      "Sentence_cn": "去年你买了新车吗？",
+      "Sentence": "Did you buy a new car last year?"
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "19.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "16.8",
+      "Sentence_cn": "是的，去年我买了新车。",
+      "Sentence": "Yes, I bought a new car last year."
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "21.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "20.1",
+      "Sentence_cn": "萨姆呢？",
+      "Sentence": "What about Sam?"
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "23.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "21.7",
+      "Sentence_cn": "他还没买新车呢。",
+      "Sentence": "He hasn't bought a new car yet."
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "27.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "25.1",
+      "Sentence_cn": "昨天你找到你的钢笔了吗？",
+      "Sentence": "Did you find your pen yesterday?"
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "29.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "27.4",
+      "Sentence_cn": "是的，昨天我找到了钢笔。",
+      "Sentence": "Yes, I found my pen yesterday."
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "31.2",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "30.2",
+      "Sentence_cn": "潘妮呢？",
+      "Sentence": "What about Penny?"
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "33.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "32.1",
+      "Sentence_cn": "她还没有找到他的钢笔。",
+      "Sentence": "She hasn't found her pen yet."
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "37.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "35.3",
+      "Sentence_cn": "你去年买了一台新电视机吗?",
+      "Sentence": "Did you get a new television set last year?"
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "41.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "38.4",
+      "Sentence_cn": "是的，我去年买了一台新的电视机。",
+      "Sentence": "Yes, I got a new television set last year."
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "43.9",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "42.2",
+      "Sentence_cn": "萨姆和潘妮呢？",
+      "Sentence": "What about Sam and Penny?"
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "46.8",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "44.4",
+      "Sentence_cn": "他们还没买新电视机。",
+      "Sentence": "They haven't got a new television set yet."
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "106.8",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "104.7",
+      "Sentence_cn": "你八点吃早饭了吗？",
+      "Sentence": "Did you have breakfast at 8.0 o'clock?"
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "113.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "110.2",
+      "Sentence_cn": "是的，我八点吃了早饭。",
+      "Sentence": "Yes, I had breakfast at 8.0 o'clock."
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "115.1",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "113.9",
+      "Sentence_cn": "你妈妈呢？",
+      "Sentence": "What about your mother?"
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "120.7",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "118.9",
+      "Sentence_cn": "她还没有吃早饭。",
+      "Sentence": "She hasn't had breakfast yet."
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "124.8",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "122.2",
+      "Sentence_cn": "今天下午你很早离开办公室吗?",
+      "Sentence": "Did you leave the office early this afternoon?"
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "131.8",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "128.5",
+      "Sentence_cn": "是的，今天下午我很早离开办公室。",
+      "Sentence": "Yes, I left the office early this afternoon."
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "133.7",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "132.5",
+      "Sentence_cn": "老板呢？",
+      "Sentence": "What about the boss?"
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "139.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "137.2",
+      "Sentence_cn": "他还没离开办公室。",
+      "Sentence": "He hasn't left the office yet."
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "144.4",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "140.4",
+      "Sentence_cn": "你昨天晚上听到这个消息吗？",
+      "Sentence": "Did you hear the news last night?"
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "148.4",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "146.0",
+      "Sentence_cn": "是的，我昨晚听到这个消息。",
+      "Sentence": "Yes, I heard the news last night."
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "151.0",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "149.7",
+      "Sentence_cn": "弗兰克呢？",
+      "Sentence": "What about Frank?"
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "156.8",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "155.2",
+      "Sentence_cn": "他还没有听到这个消息。",
+      "Sentence": "He hasn't heard the news yet."
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "160.0",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "158.3",
+      "Sentence_cn": "今天早上你整理床了吗？",
+      "Sentence": "Did you make your bed this morning?"
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "165.6",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "163.2",
+      "Sentence_cn": "是的，今天早上我整理床了。",
+      "Sentence": "Yes, I made my bed this morning."
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "168.3",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "166.5",
+      "Sentence_cn": "苏珊和简呢？",
+      "Sentence": "What about Susan and Jane?"
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "174.5",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "172.6",
+      "Sentence_cn": "他们还没整理床铺。",
+      "Sentence": "They haven't made their beds yet."
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "177.8",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "176.1",
+      "Sentence_cn": "你昨天遇见哈利了吗?",
+      "Sentence": "Did you meet Harry yesterday?"
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "184.0",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "181.9",
+      "Sentence_cn": "是的，我昨天遇见哈利了。",
+      "Sentence": "Yes, I met Harry yesterday."
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "186.5",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "185.2",
+      "Sentence_cn": "你的妻子呢？",
+      "Sentence": "What about your wife?"
+    },
+    {
+      "voaid": "1088",
+      "EndTiming": "191.3",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "189.6",
+      "Sentence_cn": "她还没遇见哈利。",
+      "Sentence": "She hasn't met Harry yet."
+    }
+  ],
+  "size": 32,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14283",
+    "title_cn": "你已经……了吗？",
+    "title": "Have you ... yet?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_88.mp3"
+}

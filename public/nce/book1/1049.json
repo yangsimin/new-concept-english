@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "voaid": "1049",
+      "EndTiming": "4.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "在肉店",
+      "Sentence": "--- lesson 49  At the butcher's"
+    },
+    {
+      "voaid": "1049",
+      "EndTiming": "9.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.3",
+      "Sentence_cn": "您今天要买点肉吗，伯德夫人？",
+      "Sentence": "Do you want any meat today. Mrs. Bird?"
+    },
+    {
+      "voaid": "1049",
+      "EndTiming": "11.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "9.8",
+      "Sentence_cn": "是的，我买一点。",
+      "Sentence": "Yes, please."
+    },
+    {
+      "voaid": "1049",
+      "EndTiming": "15.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "11.9",
+      "Sentence_cn": "您要牛肉还是要羔羊肉？",
+      "Sentence": "Do you want beef or lamb?"
+    },
+    {
+      "voaid": "1049",
+      "EndTiming": "17.1",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "15.6",
+      "Sentence_cn": "请给我牛肉。",
+      "Sentence": "Beef, please."
+    },
+    {
+      "voaid": "1049",
+      "EndTiming": "20.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "17.9",
+      "Sentence_cn": "这羔羊肉很好。",
+      "Sentence": "This lamb's very good."
+    },
+    {
+      "voaid": "1049",
+      "EndTiming": "24.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "20.9",
+      "Sentence_cn": "我喜欢羔羊肉，可我丈夫不喜欢。",
+      "Sentence": "I like lamb, but my husband doesn't."
+    },
+    {
+      "voaid": "1049",
+      "EndTiming": "27.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "25.3",
+      "Sentence_cn": "来点牛排吗？",
+      "Sentence": "What about some steak?"
+    },
+    {
+      "voaid": "1049",
+      "EndTiming": "30.6",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "28.3",
+      "Sentence_cn": "这块很好。",
+      "Sentence": "This is a nice piece."
+    },
+    {
+      "voaid": "1049",
+      "EndTiming": "33.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "31.3",
+      "Sentence_cn": "就请给我那块吧。",
+      "Sentence": "Give me that piece, please."
+    },
+    {
+      "voaid": "1049",
+      "EndTiming": "37.4",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "34.3",
+      "Sentence_cn": "再来一磅绞肉。",
+      "Sentence": "And a pound of mince, too."
+    },
+    {
+      "voaid": "1049",
+      "EndTiming": "41.8",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "37.7",
+      "Sentence_cn": "您要买只鸡吗，伯德夫人？",
+      "Sentence": "Do you want a chicken,Mrs. Bird?"
+    },
+    {
+      "voaid": "1049",
+      "EndTiming": "44.4",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "42.7",
+      "Sentence_cn": "这些鸡很好。",
+      "Sentence": "They're very nice."
+    },
+    {
+      "voaid": "1049",
+      "EndTiming": "46.3",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "45.0",
+      "Sentence_cn": "不要了，谢谢。",
+      "Sentence": "No, thank you."
+    },
+    {
+      "voaid": "1049",
+      "EndTiming": "52.1",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "47.2",
+      "Sentence_cn": "我丈夫喜欢牛排，但他不喜欢鸡。",
+      "Sentence": "My husband likes steak, but he doesn't like chicken."
+    },
+    {
+      "voaid": "1049",
+      "EndTiming": "60.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "52.9",
+      "Sentence_cn": "说老实话，伯德夫人，我也不喜欢鸡。",
+      "Sentence": "To tell you the truth, Mrs.Bird, I don't like chicken either!"
+    }
+  ],
+  "size": 16,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14233",
+    "title_cn": "在肉店",
+    "title": "At the butcher's"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_49.mp3"
+}

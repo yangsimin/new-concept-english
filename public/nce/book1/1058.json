@@ -1,0 +1,300 @@
+{
+  "data": [
+    {
+      "voaid": "1058",
+      "EndTiming": "19.4",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "16.3",
+      "Sentence_cn": "他总是每天都做什么？",
+      "Sentence": "What does he usually do every day?"
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "23.6",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "19.5",
+      "Sentence_cn": "他总是每天7点刮脸。",
+      "Sentence": "He usually shaves at 7.0o'clock every day."
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "26.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "23.7",
+      "Sentence_cn": "他今天做了什么？",
+      "Sentence": "What is he doing today?"
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "30.1",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "26.6",
+      "Sentence_cn": "他今天在8点在刮脸。",
+      "Sentence": "He is shaving at 8.0 o'clock today."
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "37.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "34.2",
+      "Sentence_cn": "她总是每天早上做什么？",
+      "Sentence": "What does she usually do in the morning?"
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "40.3",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "37.3",
+      "Sentence_cn": "她总是每天早晨喝茶。",
+      "Sentence": "She usually drinks tea in the morning."
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "42.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "40.4",
+      "Sentence_cn": "她今天早上做了什么？",
+      "Sentence": "What is she doing this morning?"
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "45.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "42.7",
+      "Sentence_cn": "她今天早上喝了咖啡。",
+      "Sentence": "She is drinking coffee this morning."
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "53.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "50.3",
+      "Sentence_cn": "他们通常在下午做什么？",
+      "Sentence": "What do they usually do in the afternoon?"
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "57.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "53.4",
+      "Sentence_cn": "他们总是下午在花园玩。",
+      "Sentence": "They usually play in the garden in the afternoon."
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "59.7",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "57.1",
+      "Sentence_cn": "他们今天下午做了什么？",
+      "Sentence": "What are they doing this afternoon?"
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "62.9",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "59.8",
+      "Sentence_cn": "他们今天下午在河里游泳。",
+      "Sentence": "They are swimming in the river this afternoon."
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "77.5",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "73.2",
+      "Sentence_cn": "他总是每天都做什么？",
+      "Sentence": "What does he usually do every day?"
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "82.4",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "77.6",
+      "Sentence_cn": "他总是每天7点刮脸。",
+      "Sentence": "He usually shaves at 7.0o'clock every day."
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "85.9",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "82.5",
+      "Sentence_cn": "他今天做了什么？",
+      "Sentence": "What is he doing today?"
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "90.8",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "86.0",
+      "Sentence_cn": "他今天在8点在刮脸。",
+      "Sentence": "He is shaving at 8.0 o'clock today."
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "100.2",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "95.6",
+      "Sentence_cn": "她总是每天早上做什么？",
+      "Sentence": "What does she usually do in the morning?"
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "105.1",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "100.3",
+      "Sentence_cn": "她总是每天早晨喝茶。",
+      "Sentence": "She usually drinks tea in the morning."
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "109.2",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "105.2",
+      "Sentence_cn": "她今天早上做了什么？",
+      "Sentence": "What is she doing this morning?"
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "113.7",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "109.3",
+      "Sentence_cn": "她今天早上喝了咖啡。",
+      "Sentence": "She is drinking coffee this morning."
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "122.8",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "118.0",
+      "Sentence_cn": "他们通常在下午做什么？",
+      "Sentence": "What do they usually do in the afternoon?"
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "128.2",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "122.9",
+      "Sentence_cn": "他们总是下午在花园玩。",
+      "Sentence": "They usually play in the garden in the afternoon."
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "132.0",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "128.3",
+      "Sentence_cn": "他们今天下午做了什么？",
+      "Sentence": "What are they doing this afternoon?"
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "137.0",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "132.1",
+      "Sentence_cn": "他们今天下午在河里游泳。",
+      "Sentence": "They are swimming in the river this afternoon."
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "146.1",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "141.9",
+      "Sentence_cn": "你总是在晚上做什么？",
+      "Sentence": "What do you usually do in the evening?"
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "150.6",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "146.2",
+      "Sentence_cn": "我总是在晚上做晚餐。",
+      "Sentence": "I usually cook a meal in the evening."
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "154.3",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "150.7",
+      "Sentence_cn": "你今天晚上做了什么？",
+      "Sentence": "What are you doing this evening?"
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "158.5",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "154.4",
+      "Sentence_cn": "我今天晚上看书了。",
+      "Sentence": "I am reading a book this evening."
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "167.5",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "163.7",
+      "Sentence_cn": "你们总是在晚上做什么？",
+      "Sentence": "What do you all usually do at night?"
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "171.4",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "167.6",
+      "Sentence_cn": "我们总是在晚上看电视。",
+      "Sentence": "We usually watch television at night."
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "175.1",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "171.5",
+      "Sentence_cn": "你们今天晚上做了什么？",
+      "Sentence": "What are you all doing tonight?"
+    },
+    {
+      "voaid": "1058",
+      "EndTiming": "179.5",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "175.2",
+      "Sentence_cn": "我们今天晚上听了音乐。",
+      "Sentence": "We are listening to the stereo tonight."
+    }
+  ],
+  "size": 32,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14243",
+    "title_cn": "几点钟？",
+    "title": "What's the time?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_58.mp3"
+}

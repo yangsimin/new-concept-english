@@ -1,0 +1,372 @@
+{
+  "data": [
+    {
+      "voaid": "1008",
+      "EndTiming": "21.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "20.1",
+      "Sentence_cn": "他是做什么的？",
+      "Sentence": "What's his job?"
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "26.6",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "22.7",
+      "Sentence_cn": "他是警察还是出租车司机？",
+      "Sentence": "Is he a policeman or a taxi driver?"
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "29.3",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "27.6",
+      "Sentence_cn": "他不是出租车司机。",
+      "Sentence": "He isn't a taxi driver."
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "31.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "29.7",
+      "Sentence_cn": "他是警察。",
+      "Sentence": "He's a policeman."
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "37.8",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "36.3",
+      "Sentence_cn": "她是做什么的？",
+      "Sentence": "What's her job?"
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "42.7",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "39.1",
+      "Sentence_cn": "她是警察还是空姐？",
+      "Sentence": "Is she a policewoman or an air hostess?"
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "46.2",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "44.0",
+      "Sentence_cn": "她不是空姐。",
+      "Sentence": "She isn't an air hostess."
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "48.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "46.7",
+      "Sentence_cn": "她是警察。",
+      "Sentence": "She's a policewoman."
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "54.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "53.4",
+      "Sentence_cn": "他是做什么的？",
+      "Sentence": "What's his job?"
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "60.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "56.2",
+      "Sentence_cn": "他是出租车司机还是警察？",
+      "Sentence": "Is he a taxi driver or a policeman?"
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "62.9",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "61.3",
+      "Sentence_cn": "他不是警察。",
+      "Sentence": "He isn't a policeman."
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "65.3",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "63.7",
+      "Sentence_cn": "他是出租车司机。",
+      "Sentence": "He's a taxi driver．"
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "140.2",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "138.5",
+      "Sentence_cn": "她是做什么的?",
+      "Sentence": "What's her job?"
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "145.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "141.5",
+      "Sentence_cn": "她是空姐还是警察？",
+      "Sentence": "Is she an air hostess or a policewoman?"
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "149.7",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "147.9",
+      "Sentence_cn": "她不是警察。",
+      "Sentence": "She isn't a policewoman."
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "152.6",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "150.5",
+      "Sentence_cn": "她是空姐。",
+      "Sentence": "She's an air hostess."
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "160.7",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "159.1",
+      "Sentence_cn": "他是做什么的？",
+      "Sentence": "What's his job?"
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "165.5",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "161.9",
+      "Sentence_cn": "他是邮递员还是送奶工？",
+      "Sentence": "Is he a postman or a milkman?"
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "170.3",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "168.6",
+      "Sentence_cn": "他不是送奶工。",
+      "Sentence": "He isn't a milkman."
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "172.3",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "170.8",
+      "Sentence_cn": "他是邮递员。",
+      "Sentence": "He's a postman."
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "180.0",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "178.1",
+      "Sentence_cn": "她是做什么的？",
+      "Sentence": "What's her job?"
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "184.8",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "181.2",
+      "Sentence_cn": "她是护士还是家庭主妇？",
+      "Sentence": "Is she a nurse or a housewife?"
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "189.5",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "187.7",
+      "Sentence_cn": "她不是家庭主妇。",
+      "Sentence": "She isn't a housewife."
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "191.4",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "189.9",
+      "Sentence_cn": "她是护士。",
+      "Sentence": "She's a nurse."
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "199.3",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "197.9",
+      "Sentence_cn": "他是做什么的？",
+      "Sentence": "What's his job?"
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "203.4",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "200.3",
+      "Sentence_cn": "他是机械师还是理发师？",
+      "Sentence": "Is he a mechanic or a hairdresser?"
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "208.3",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "206.5",
+      "Sentence_cn": "他不是理发师。",
+      "Sentence": "He isn't a hairdresser."
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "210.2",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "208.7",
+      "Sentence_cn": "他是机械师。",
+      "Sentence": "He's a mechanic."
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "217.9",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "216.0",
+      "Sentence_cn": "他是做什么的？",
+      "Sentence": "What's his job?"
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "222.6",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "219.3",
+      "Sentence_cn": "他是理发师还是机械师？",
+      "Sentence": "Is he a hairdresser or a mechanic?"
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "226.6",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "224.9",
+      "Sentence_cn": "他不是机械师。",
+      "Sentence": "He isn't a mechanic."
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "228.9",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "227.1",
+      "Sentence_cn": "他是理发师。",
+      "Sentence": "He's a hairdresser."
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "236.6",
+      "Paraid": "1",
+      "IdIndex": "33",
+      "Timing": "234.7",
+      "Sentence_cn": "她是做什么的？",
+      "Sentence": "What's her job?"
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "241.3",
+      "Paraid": "1",
+      "IdIndex": "34",
+      "Timing": "237.6",
+      "Sentence_cn": "她是家庭主妇还是护士？",
+      "Sentence": "Is she a housewife or a nurse?"
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "246.3",
+      "Paraid": "1",
+      "IdIndex": "35",
+      "Timing": "244.3",
+      "Sentence_cn": "她不是护士。",
+      "Sentence": "She isn't a nurse."
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "248.6",
+      "Paraid": "1",
+      "IdIndex": "36",
+      "Timing": "246.8",
+      "Sentence_cn": "她是家庭主妇。",
+      "Sentence": "She's a housewife."
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "256.5",
+      "Paraid": "1",
+      "IdIndex": "37",
+      "Timing": "254.8",
+      "Sentence_cn": "他是做什么的？",
+      "Sentence": "What's his job?"
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "260.8",
+      "Paraid": "1",
+      "IdIndex": "38",
+      "Timing": "257.5",
+      "Sentence_cn": "他是送奶工还是邮递员？",
+      "Sentence": "Is he a milkman or a postman?"
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "265.6",
+      "Paraid": "1",
+      "IdIndex": "39",
+      "Timing": "263.9",
+      "Sentence_cn": "他不是邮递员。",
+      "Sentence": "He isn't a postman."
+    },
+    {
+      "voaid": "1008",
+      "EndTiming": "267.7",
+      "Paraid": "1",
+      "IdIndex": "40",
+      "Timing": "266.0",
+      "Sentence_cn": "他是送奶工。",
+      "Sentence": "He's a milkman."
+    }
+  ],
+  "size": 40,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14188",
+    "title_cn": "你是做什么工作的？",
+    "title": "What's your job?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_8.mp3"
+}

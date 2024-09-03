@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "voaid": "1057",
+      "EndTiming": "5.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "很不平常的一天",
+      "Sentence": "--- lesson 57  An unusual day"
+    },
+    {
+      "voaid": "1057",
+      "EndTiming": "7.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.8",
+      "Sentence_cn": "现在是8点钟。",
+      "Sentence": "It is eight o'clock."
+    },
+    {
+      "voaid": "1057",
+      "EndTiming": "12.7",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.5",
+      "Sentence_cn": "孩子们每天都乘小汽车去上学，",
+      "Sentence": "The children go to school by car every day,"
+    },
+    {
+      "voaid": "1057",
+      "EndTiming": "17.8",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "13.2",
+      "Sentence_cn": "而今天，他们正步行上学。",
+      "Sentence": "but today, they are going to school on foot."
+    },
+    {
+      "voaid": "1057",
+      "EndTiming": "25.4",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "18.6",
+      "Sentence_cn": "现在是10点钟。上午，索耶夫人通常是呆在家里的，",
+      "Sentence": "It is ten o'clock. Mrs. Sawyer usually stays at home in the morning,"
+    },
+    {
+      "voaid": "1057",
+      "EndTiming": "30.2",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "26.1",
+      "Sentence_cn": "但今天上午，她正去商店买东西。",
+      "Sentence": "but this morning, she is going to the shops."
+    },
+    {
+      "voaid": "1057",
+      "EndTiming": "32.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "31.1",
+      "Sentence_cn": "现在是4点钟。",
+      "Sentence": "It is four o'clock."
+    },
+    {
+      "voaid": "1057",
+      "EndTiming": "39.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "33.5",
+      "Sentence_cn": "下午，索耶夫人通常是在客厅里喝茶，",
+      "Sentence": "In the afternoon, Mrs. Sawyer usually drinks tea in the living room."
+    },
+    {
+      "voaid": "1057",
+      "EndTiming": "45.6",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "40.4",
+      "Sentence_cn": "但今天下午，她正在花园里喝茶。",
+      "Sentence": "But this afternoon, she is drinking tea in the garden."
+    },
+    {
+      "voaid": "1057",
+      "EndTiming": "48.2",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "46.5",
+      "Sentence_cn": "现在是6点钟。",
+      "Sentence": "It is six o'clock."
+    },
+    {
+      "voaid": "1057",
+      "EndTiming": "53.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "49.1",
+      "Sentence_cn": "晚上，孩子们通常是做作业，",
+      "Sentence": "In the evening, the children usually do their homework,"
+    },
+    {
+      "voaid": "1057",
+      "EndTiming": "58.3",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "54.2",
+      "Sentence_cn": "而今天晚上，他们没做作业。",
+      "Sentence": "but this evening, they are not doing their homework."
+    },
+    {
+      "voaid": "1057",
+      "EndTiming": "63.2",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "59.1",
+      "Sentence_cn": "此刻，他们正在花园里玩。",
+      "Sentence": "At the moment, they are playing in the garden."
+    },
+    {
+      "voaid": "1057",
+      "EndTiming": "65.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "64.1",
+      "Sentence_cn": "现在是9点钟。",
+      "Sentence": "It is nine o'clock."
+    },
+    {
+      "voaid": "1057",
+      "EndTiming": "71.2",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "66.7",
+      "Sentence_cn": "索耶先生通常是在晚上看报，",
+      "Sentence": "Mr. Sawyer usually reads his newspaper at night."
+    },
+    {
+      "voaid": "1057",
+      "EndTiming": "75.6",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "72.0",
+      "Sentence_cn": "但今天晚上他没看报。",
+      "Sentence": "But he's not reading his newspaper tonight."
+    },
+    {
+      "voaid": "1057",
+      "EndTiming": "80.4",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "76.4",
+      "Sentence_cn": "此刻，他正在看一本有趣的书。",
+      "Sentence": "At the moment, he's reading an interesting book."
+    }
+  ],
+  "size": 17,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14242",
+    "title_cn": "不平常的一天",
+    "title": "An unusual day"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_57.mp3"
+}

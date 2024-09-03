@@ -1,0 +1,14 @@
+# Required secrets 
+
+AWS_ACCESS_KEY_ID # for cloudfront 
+AWS_SECRET_ACCESS_KEY # for cloudfront
+SSH_PRIVATE_KEY # for destination server
+
+# Required variables
+
+REMOTE_HOST # for destination server
+REMOTE_USER # for destination server
+DISTRIBUTION # cloudfront distribution ID
+INVALIDATE_PATHS # invalidation path (probably want /*)
+AWS_REGION # us-east-1
+REMOTE_TARGET # target directory on destination server

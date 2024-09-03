@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "voaid": "1095",
+      "EndTiming": "4.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "请把车票拿出来。",
+      "Sentence": "--- lesson 95  Tickets, please."
+    },
+    {
+      "voaid": "1095",
+      "EndTiming": "8.2",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.0",
+      "Sentence_cn": "买两张到伦敦的往返票。",
+      "Sentence": "Two return tickets to London,please."
+    },
+    {
+      "voaid": "1095",
+      "EndTiming": "11.8",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.9",
+      "Sentence_cn": "下一班火车什么时候开？",
+      "Sentence": "What time will the next train leave?"
+    },
+    {
+      "voaid": "1095",
+      "EndTiming": "15.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "12.6",
+      "Sentence_cn": "8点19分。",
+      "Sentence": "At nineteen minutes past eight."
+    },
+    {
+      "voaid": "1095",
+      "EndTiming": "17.3",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "16.1",
+      "Sentence_cn": "在哪个站台？",
+      "Sentence": "Which platform?"
+    },
+    {
+      "voaid": "1095",
+      "EndTiming": "21.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "18.0",
+      "Sentence_cn": "2号站台。过天桥。",
+      "Sentence": "Platform Two. Over the bridge."
+    },
+    {
+      "voaid": "1095",
+      "EndTiming": "24.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "21.9",
+      "Sentence_cn": "下一班火车什么时候开？",
+      "Sentence": "What time will the next train leave?"
+    },
+    {
+      "voaid": "1095",
+      "EndTiming": "27.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "25.4",
+      "Sentence_cn": "8点19分。",
+      "Sentence": "At eight nineteen."
+    },
+    {
+      "voaid": "1095",
+      "EndTiming": "30.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "28.1",
+      "Sentence_cn": "我们的时间还很宽裕。",
+      "Sentence": "We've got plenty of time."
+    },
+    {
+      "voaid": "1095",
+      "EndTiming": "34.2",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "31.3",
+      "Sentence_cn": "现在才7点57分。",
+      "Sentence": "It's only three minutes to eight."
+    },
+    {
+      "voaid": "1095",
+      "EndTiming": "37.2",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "35.0",
+      "Sentence_cn": "让我们去喝点东西吧，",
+      "Sentence": "Let's go and have a drink."
+    },
+    {
+      "voaid": "1095",
+      "EndTiming": "41.5",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "38.0",
+      "Sentence_cn": "车站旁有一个酒吧。",
+      "Sentence": "There's a bar next door to the station."
+    },
+    {
+      "voaid": "1095",
+      "EndTiming": "46.3",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "42.5",
+      "Sentence_cn": "肯，我们现在最好回到车站去。",
+      "Sentence": "We had better go back to the station now, Ken."
+    },
+    {
+      "voaid": "1095",
+      "EndTiming": "48.6",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "47.2",
+      "Sentence_cn": "请把车票拿出来。",
+      "Sentence": "Tickets, please."
+    },
+    {
+      "voaid": "1095",
+      "EndTiming": "53.3",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "49.4",
+      "Sentence_cn": "我们要乘8点19分的车去伦敦。",
+      "Sentence": "We want to catch the eight nineteen to London."
+    },
+    {
+      "voaid": "1095",
+      "EndTiming": "56.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "54.0",
+      "Sentence_cn": "你们刚好错过了那班车。",
+      "Sentence": "You've just missed it!"
+    },
+    {
+      "voaid": "1095",
+      "EndTiming": "60.7",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "56.9",
+      "Sentence_cn": "什么！现在只有8点15分。",
+      "Sentence": "What! It's only eight fifteen."
+    },
+    {
+      "voaid": "1095",
+      "EndTiming": "63.1",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "61.4",
+      "Sentence_cn": "对不起，先生，",
+      "Sentence": "I'm sorry, sir."
+    },
+    {
+      "voaid": "1095",
+      "EndTiming": "66.2",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "63.5",
+      "Sentence_cn": "那个钟慢了10分钟。",
+      "Sentence": "That clock's ten minutes slow."
+    },
+    {
+      "voaid": "1095",
+      "EndTiming": "68.9",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "67.1",
+      "Sentence_cn": "下一班车是什么时候？",
+      "Sentence": "When's the next train?"
+    },
+    {
+      "voaid": "1095",
+      "EndTiming": "71.8",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "69.7",
+      "Sentence_cn": "5个小时以后！",
+      "Sentence": "In five hours' time!"
+    }
+  ],
+  "size": 21,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14293,14294",
+    "title_cn": "请把车票拿出来。",
+    "title": "Tickets, please."
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_95.mp3"
+}

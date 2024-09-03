@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "voaid": "1069",
+      "EndTiming": "4.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.3",
+      "Sentence_cn": "汽车比赛",
+      "Sentence": "--- lesson 69  The car race"
+    },
+    {
+      "voaid": "1069",
+      "EndTiming": "10.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.2",
+      "Sentence_cn": "在我们镇子附近每年都有一场汽车比赛。",
+      "Sentence": "There is a car race near our town every year."
+    },
+    {
+      "voaid": "1069",
+      "EndTiming": "17.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "11.2",
+      "Sentence_cn": "1995年举行了一次盛大的比赛。",
+      "Sentence": "In 1995, there was a very big race."
+    },
+    {
+      "voaid": "1069",
+      "EndTiming": "20.8",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "17.9",
+      "Sentence_cn": "许许多多人都去了赛场。",
+      "Sentence": "There were hundreds of people there."
+    },
+    {
+      "voaid": "1069",
+      "EndTiming": "24.9",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "21.5",
+      "Sentence_cn": "我和我的妻子也去了。",
+      "Sentence": "My wife and I were at the race."
+    },
+    {
+      "voaid": "1069",
+      "EndTiming": "29.8",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "25.7",
+      "Sentence_cn": "我们的朋友朱莉和杰克也去了。",
+      "Sentence": "Our friends Julie and Jack were there, too."
+    },
+    {
+      "voaid": "1069",
+      "EndTiming": "33.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "30.6",
+      "Sentence_cn": "你可以在人群中看到我们。",
+      "Sentence": "You can see us in the crowd."
+    },
+    {
+      "voaid": "1069",
+      "EndTiming": "37.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "34.3",
+      "Sentence_cn": "我们站在左面。",
+      "Sentence": "We are standing on the left."
+    },
+    {
+      "voaid": "1069",
+      "EndTiming": "41.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "38.0",
+      "Sentence_cn": "参加比赛的有20辆汽车。",
+      "Sentence": "There were twenty cars in the race."
+    },
+    {
+      "voaid": "1069",
+      "EndTiming": "54.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "42.3",
+      "Sentence_cn": "有英国、法国、德国、意大利、美国和日本的汽车。",
+      "Sentence": "There were English cars, French cars, German cars. Italian cars. American cars and Japanese cars."
+    },
+    {
+      "voaid": "1069",
+      "EndTiming": "58.4",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "55.6",
+      "Sentence_cn": "比赛的结尾是激动人心的。",
+      "Sentence": "It was an exciting finish."
+    },
+    {
+      "voaid": "1069",
+      "EndTiming": "61.9",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "59.3",
+      "Sentence_cn": "获胜者是比利.斯图尔特。",
+      "Sentence": "The winner was Billy Stewart."
+    },
+    {
+      "voaid": "1069",
+      "EndTiming": "65.8",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "62.7",
+      "Sentence_cn": "他在第15号车里，",
+      "Sentence": "He was in car number fifteen."
+    },
+    {
+      "voaid": "1069",
+      "EndTiming": "71.1",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "66.4",
+      "Sentence_cn": "其他5辆汽车跟在他后面。",
+      "Sentence": "Five other cars were just behind him."
+    },
+    {
+      "voaid": "1069",
+      "EndTiming": "75.1",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "71.1",
+      "Sentence_cn": "回家的途中,我妻子对我说:",
+      "Sentence": "On the way home, my wife said to me,"
+    },
+    {
+      "voaid": "1069",
+      "EndTiming": "80.9",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "75.8",
+      "Sentence_cn": "“别开得这样快！你可不是比利.斯图尔特！”",
+      "Sentence": "'Don't drive so quickly! You're not Billy Stewart!'"
+    }
+  ],
+  "size": 16,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14258",
+    "title_cn": "汽车比赛",
+    "title": "The car race"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_69.mp3"
+}

@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "voaid": "1028",
+      "EndTiming": "23.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "17.5",
+      "Sentence_cn": "请看1120。",
+      "Sentence": "Number 1,120."
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "29.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "26.0",
+      "Sentence_cn": "梳妆台上有书吗？",
+      "Sentence": "Are there any books on the dressing table?"
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "34.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "30.0",
+      "Sentence_cn": "不，没有书。有一些香烟。",
+      "Sentence": "No, there aren't any books. There are some cigarettes．　"
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "36.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "35.0",
+      "Sentence_cn": "在哪儿呢？",
+      "Sentence": "Where are they?　"
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "39.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "37.0",
+      "Sentence_cn": "在那个盒子附近。",
+      "Sentence": "They're near that box.　"
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "47.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "41.0",
+      "Sentence_cn": "请看5560。",
+      "Sentence": "Number 5,560."
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "53.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "50.0",
+      "Sentence_cn": "地板上有领带吗？",
+      "Sentence": "Are there any ties on the floor?　"
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "58.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "53.8",
+      "Sentence_cn": "不，没有领带。有一些鞋。",
+      "Sentence": "No, there aren't any ties. There are some shoes.　"
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "60.2",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "59.0",
+      "Sentence_cn": "在哪儿呢？",
+      "Sentence": "Where are they?　"
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "62.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "60.7",
+      "Sentence_cn": "在床附近。",
+      "Sentence": "They're near the bed.　"
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "71.7",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "65.0",
+      "Sentence_cn": "请看8890。",
+      "Sentence": "Number 8,890."
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "77.7",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "74.3",
+      "Sentence_cn": "碗橱上有玻璃杯吗？",
+      "Sentence": "Are there any glasses on the cupboard?　"
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "82.8",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "78.5",
+      "Sentence_cn": "不，没有玻璃杯。有一些瓶子。",
+      "Sentence": "No, there aren't any glasses. There are some bottles.　"
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "86.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "84.5",
+      "Sentence_cn": "在哪儿呢？",
+      "Sentence": "Where are they?　"
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "88.4",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "86.5",
+      "Sentence_cn": "在那些罐子附近。",
+      "Sentence": "They're near those tins.　"
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "200.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "193.1",
+      "Sentence_cn": "请看9999。",
+      "Sentence": "Number 9,999."
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "206.8",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "202.9",
+      "Sentence_cn": "架子上有报纸吗？",
+      "Sentence": "Are there any newspapers on the shelf?　"
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "215.4",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "209.0",
+      "Sentence_cn": "不，没有报纸。有一些票。",
+      "Sentence": "No, there aren't any newspapers. There are some tickets.　"
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "218.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "216.2",
+      "Sentence_cn": "在哪儿呢？",
+      "Sentence": "Where are they?　"
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "222.8",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "220.0",
+      "Sentence_cn": "在手提包里。",
+      "Sentence": "They're in that handbag.　"
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "232.0",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "225.0",
+      "Sentence_cn": "请看6670。",
+      "Sentence": "Number 6,670."
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "239.2",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "235.4",
+      "Sentence_cn": "桌子上有叉子吗？",
+      "Sentence": "Are there any forks on the table?　"
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "247.5",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "242.0",
+      "Sentence_cn": "不，没有叉子。　有一些刀。",
+      "Sentence": "No, there aren't any forks. There are some knives."
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "250.0",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "248.5",
+      "Sentence_cn": "在哪儿呢？",
+      "Sentence": "Where are they?　"
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "254.0",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "252.0",
+      "Sentence_cn": "在盒子里。",
+      "Sentence": "They're in that box.　"
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "260.0",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "256.3",
+      "Sentence_cn": "请看10001。",
+      "Sentence": "Number 10,001."
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "264.5",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "261.5",
+      "Sentence_cn": "电视机上有茶杯吗？",
+      "Sentence": "Are there any cups on the television?　"
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "272.0",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "267.0",
+      "Sentence_cn": "不，没有茶杯。有一些玻璃杯。",
+      "Sentence": "No, there aren't any cups.  There are some glasses.　"
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "274.3",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "273.0",
+      "Sentence_cn": "在哪儿呢？",
+      "Sentence": "Where are they?　"
+    },
+    {
+      "voaid": "1028",
+      "EndTiming": "279.5",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "277.2",
+      "Sentence_cn": "在那些瓶子附近。",
+      "Sentence": "They're near those bottles.　"
+    }
+  ],
+  "size": 30,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14209",
+    "title_cn": "它们在哪里？",
+    "title": "Where are they?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_28.mp3"
+}

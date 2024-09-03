@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "voaid": "1099",
+      "EndTiming": "3.4",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.7",
+      "Sentence_cn": "啊哟！",
+      "Sentence": "--- lesson 99  Ow!"
+    },
+    {
+      "voaid": "1099",
+      "EndTiming": "5.1",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.3",
+      "Sentence_cn": "啊哟！",
+      "Sentence": "Ow!"
+    },
+    {
+      "voaid": "1099",
+      "EndTiming": "8.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "5.8",
+      "Sentence_cn": "怎么了，安迪？",
+      "Sentence": "What's the matter, Andy?"
+    },
+    {
+      "voaid": "1099",
+      "EndTiming": "11.9",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "8.7",
+      "Sentence_cn": "我滑了一跤，从楼梯上摔下来了。",
+      "Sentence": "I slipped and fell downstairs."
+    },
+    {
+      "voaid": "1099",
+      "EndTiming": "14.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "12.2",
+      "Sentence_cn": "你摔伤了没有？",
+      "Sentence": "Have you hurt yourself?"
+    },
+    {
+      "voaid": "1099",
+      "EndTiming": "20.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "14.9",
+      "Sentence_cn": "是啊，摔伤了。我想我把背摔坏了。",
+      "Sentence": "Yes, I have. I think that I've hurt my back."
+    },
+    {
+      "voaid": "1099",
+      "EndTiming": "23.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "20.9",
+      "Sentence_cn": "试试站起来。",
+      "Sentence": "Try and stand up."
+    },
+    {
+      "voaid": "1099",
+      "EndTiming": "25.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "23.6",
+      "Sentence_cn": "你能站起来吗？",
+      "Sentence": "Can you stand up?"
+    },
+    {
+      "voaid": "1099",
+      "EndTiming": "28.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "25.9",
+      "Sentence_cn": "来，让我帮你。",
+      "Sentence": "Here. Let me help you."
+    },
+    {
+      "voaid": "1099",
+      "EndTiming": "31.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "29.3",
+      "Sentence_cn": "对不起，露西，",
+      "Sentence": "I'm sorry, Lucy."
+    },
+    {
+      "voaid": "1099",
+      "EndTiming": "34.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "31.7",
+      "Sentence_cn": "恐怕我站不起来。",
+      "Sentence": "I'm afraid that I can't get up."
+    },
+    {
+      "voaid": "1099",
+      "EndTiming": "39.6",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "35.4",
+      "Sentence_cn": "我想最好请医生来给你看一下。",
+      "Sentence": "I think that the doctor had better see you."
+    },
+    {
+      "voaid": "1099",
+      "EndTiming": "42.8",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "40.4",
+      "Sentence_cn": "我去给卡特医生打电话。",
+      "Sentence": "I'll phone Dr. Carter."
+    },
+    {
+      "voaid": "1099",
+      "EndTiming": "47.9",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "43.7",
+      "Sentence_cn": "医生说他马上就来。",
+      "Sentence": "The doctor says that he will come at once."
+    },
+    {
+      "voaid": "1099",
+      "EndTiming": "53.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "48.6",
+      "Sentence_cn": "安迪，我看你需要做一次X光透视。",
+      "Sentence": "I'm sure that you need an X-ray, Andy."
+    }
+  ],
+  "size": 15,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14299",
+    "title_cn": "啊哟！",
+    "title": "Ow!"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_99.mp3"
+}

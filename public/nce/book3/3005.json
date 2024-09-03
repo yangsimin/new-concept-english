@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "voaid": "3005",
+      "EndTiming": "2.8",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "确切数字",
+      "Sentence": "--- lesson 5  The facts"
+    },
+    {
+      "voaid": "3005",
+      "EndTiming": "11.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "3.5",
+      "Sentence_cn": "报刊杂志的编辑常常为了向读者提供成立一些关紧要的事实和统计数字而走向极端。",
+      "Sentence": "Editors of newspapers and magazines often go to extremes to provide their readers with unimportant facts and statistics."
+    },
+    {
+      "voaid": "3005",
+      "EndTiming": "21.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "11.5",
+      "Sentence_cn": "去年，一位记者受一家有名的杂志的委托写一篇关于非洲某个新成立共和国总统府的文章。",
+      "Sentence": "Last year a journalist had been instructed by a well-known magazine to write an article on the president's palace in a new African republic."
+    },
+    {
+      "voaid": "3005",
+      "EndTiming": "27.9",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "21.6",
+      "Sentence_cn": "稿子寄来后，编辑看第一句话就拒绝予以发表。",
+      "Sentence": "When the article arrived, the editor read the first sentence and then refused to publish it."
+    },
+    {
+      "voaid": "3005",
+      "EndTiming": "35.4",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "28.7",
+      "Sentence_cn": "文章的开头是这样的：“几百级台阶通向环绕总统的高墙。”",
+      "Sentence": "The article began: 'Hundreds of steps lead to the high wall which surrounds the president's palace'."
+    },
+    {
+      "voaid": "3005",
+      "EndTiming": "45.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "36.1",
+      "Sentence_cn": "编辑立即给那位记者发去传真，要求他核实一下台阶的确切数字和围墙的高度。",
+      "Sentence": "The editor at once sent the journalist a fax instructing him to find out the exact number of steps and the height of the wall."
+    },
+    {
+      "voaid": "3005",
+      "EndTiming": "50.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "45.7",
+      "Sentence_cn": "记者立即出发去核实这些重要的事实，",
+      "Sentence": "The journalist immediately set out to obtain these important facts,"
+    },
+    {
+      "voaid": "3005",
+      "EndTiming": "58.1",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "50.5",
+      "Sentence_cn": "但过了好长时间不见他把数字寄来，在此期间，编辑等得不耐烦了，因为杂志马上要付印。",
+      "Sentence": "but he took a long time to send them. Meanwhile, the editor was getting impatient, for the magazine would soon go to press."
+    },
+    {
+      "voaid": "3005",
+      "EndTiming": "63.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "58.1",
+      "Sentence_cn": "他给记者先后发去两份传真，但对方毫无反应。",
+      "Sentence": "He sent the journalist two more faxes, but received no reply."
+    },
+    {
+      "voaid": "3005",
+      "EndTiming": "70.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "63.5",
+      "Sentence_cn": "于是他又发了一份传真，通知那位记者说，若再不迅速答复，将被解雇。",
+      "Sentence": "He sent yet another fax informing the journalist that if he did not reply soon he would be fired."
+    },
+    {
+      "voaid": "3005",
+      "EndTiming": "79.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "70.5",
+      "Sentence_cn": "但记者还是没有回复。编辑无奈，勉强按原样发稿了。",
+      "Sentence": "When the journalist again failed to reply, the editor reluctantly published the article as it had originally been written."
+    },
+    {
+      "voaid": "3005",
+      "EndTiming": "84.5",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "79.4",
+      "Sentence_cn": "一周之后，编辑终于接到了记者的传真。",
+      "Sentence": "A week later, the editor at last received a fax from the journalist."
+    },
+    {
+      "voaid": "3005",
+      "EndTiming": "90.7",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "85.1",
+      "Sentence_cn": "那个可怜的记者不仅被捕了，而且还被送进了监狱。",
+      "Sentence": "Not only had the poor man been arrested, but he had been sent to prison as well."
+    },
+    {
+      "voaid": "3005",
+      "EndTiming": "98.3",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "91.1",
+      "Sentence_cn": "不过，他终于获准发回了一份传真。在传真中他告诉编辑，",
+      "Sentence": "However, he had at last been allowed to send a fax in which he informed the editor"
+    },
+    {
+      "voaid": "3005",
+      "EndTiming": "108.3",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "98.3",
+      "Sentence_cn": "就在他数通向15英尺高的总统府围墙的1，084级台阶时，被抓了起来。",
+      "Sentence": "that he had been arrested while counting the 1,084 steps leading to the fifteen-foot wall which surrounded the president's palace."
+    }
+  ],
+  "size": 15,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14539,14540,14541",
+    "title_cn": "确切数字",
+    "title": "The facts"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_5.mp3"
+}

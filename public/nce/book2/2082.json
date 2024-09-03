@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "voaid": "2082",
+      "EndTiming": "5.1",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "是妖还是鱼？",
+      "Sentence": "--- Lesson 82  Monster or fish?"
+    },
+    {
+      "voaid": "2082",
+      "EndTiming": "11.2",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.6",
+      "Sentence_cn": "渔夫和水手们有时声称自己看到过海里的妖怪。",
+      "Sentence": "Fishermen and sailors sometimes claim to have seen monsters in the sea."
+    },
+    {
+      "voaid": "2082",
+      "EndTiming": "16.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "11.3",
+      "Sentence_cn": "虽然人们常常对水手们讲的故事付诸一笑，",
+      "Sentence": "Though people have often laughed at stories told by seamen,"
+    },
+    {
+      "voaid": "2082",
+      "EndTiming": "26.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "16.0",
+      "Sentence_cn": "但现在看来，人们有时看到的这些“妖怪”很多不过是些奇怪的鱼。",
+      "Sentence": "it is now known that many of these 'monsters' which have at times been sighted are simply strange fish."
+    },
+    {
+      "voaid": "2082",
+      "EndTiming": "33.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "26.0",
+      "Sentence_cn": "一些异常的生物偶尔会被冲到岸上来，但它们在海上却极少能被捕到。",
+      "Sentence": "Occasionally, unusual creatures are washed to the shore, but they are rarely caught out at sea."
+    },
+    {
+      "voaid": "2082",
+      "EndTiming": "40.8",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "34.1",
+      "Sentence_cn": "然而不久前，在马达加斯加附近的海里却捕到了一条奇怪的鱼。",
+      "Sentence": "Some time ago, however, a peculiar fish was caught near Madagascar."
+    },
+    {
+      "voaid": "2082",
+      "EndTiming": "49.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "41.5",
+      "Sentence_cn": "一条小渔船被一条咬住钩的强壮的大鱼拖到了几英里以外的海面上。",
+      "Sentence": "A small fishing boat was carried miles out to sea by the powerful fish as it pulled on the line."
+    },
+    {
+      "voaid": "2082",
+      "EndTiming": "59.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "49.8",
+      "Sentence_cn": "那位渔民意识到这根本不是一条普通的鱼，于是千方百计不让它受到丝毫伤害。",
+      "Sentence": "Realizing that this was no ordinary fish, the fisherman made every effort not to damage it in any way."
+    },
+    {
+      "voaid": "2082",
+      "EndTiming": "67.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "60.0",
+      "Sentence_cn": "当终于把它弄上岸后，人们发现它身长超过了13英尺。",
+      "Sentence": "When it was eventually brought to shore, it was found to be over thirteen feet long."
+    },
+    {
+      "voaid": "2082",
+      "EndTiming": "76.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "68.0",
+      "Sentence_cn": "它长着一个像马一样的头，有着大的蓝眼睛和闪闪发光的银色皮肤，还有一条鲜红色的尾巴。",
+      "Sentence": "It had a head like a horse, big blue eyes, shining silver skin, and a bright red tail."
+    },
+    {
+      "voaid": "2082",
+      "EndTiming": "86.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "76.4",
+      "Sentence_cn": "此鱼叫桨鱼，被送进了博物馆，现正接受一位科学家的检查。",
+      "Sentence": "The fish, which has since been sent to a museum where it is being examined by a scientist, is called an oarfish."
+    },
+    {
+      "voaid": "2082",
+      "EndTiming": "95.1",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "87.2",
+      "Sentence_cn": "人们很少能看到活着的这类动物，因为它们生活在600英尺深的水下。",
+      "Sentence": "Such creatures have rarely been seen alive by man as they live at a depth of six hundred feet."
+    }
+  ],
+  "size": 12,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14490,14491",
+    "title_cn": "是妖还是鱼？",
+    "title": "Monster or fish?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_82.mp3"
+}

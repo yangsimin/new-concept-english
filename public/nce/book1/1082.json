@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "voaid": "1082",
+      "EndTiming": "19.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "14.0",
+      "Sentence_cn": "他们打算干什么？",
+      "Sentence": "Look at number 760. What are they going to do?"
+    },
+    {
+      "voaid": "1082",
+      "EndTiming": "22.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "19.5",
+      "Sentence_cn": "他们打算吃早餐。",
+      "Sentence": "They are going to have breakfast."
+    },
+    {
+      "voaid": "1082",
+      "EndTiming": "26.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "22.5",
+      "Sentence_cn": "他们在干什么？",
+      "Sentence": "Number 870. What are they doing?"
+    },
+    {
+      "voaid": "1082",
+      "EndTiming": "28.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "26.7",
+      "Sentence_cn": "他们在吃午餐。",
+      "Sentence": "They are having lunch"
+    },
+    {
+      "voaid": "1082",
+      "EndTiming": "33.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "29.0",
+      "Sentence_cn": "他们应该做什么？",
+      "Sentence": "Number 980. What must they do?"
+    },
+    {
+      "voaid": "1082",
+      "EndTiming": "35.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "34.0",
+      "Sentence_cn": "他们应该喝茶。",
+      "Sentence": "They must have tea."
+    },
+    {
+      "voaid": "1082",
+      "EndTiming": "40.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "36.0",
+      "Sentence_cn": "他们做什么了？",
+      "Sentence": "Number 1,010. What did they do?"
+    },
+    {
+      "voaid": "1082",
+      "EndTiming": "42.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "40.7",
+      "Sentence_cn": "他们吃饭了。",
+      "Sentence": "They had dinner."
+    },
+    {
+      "voaid": "1082",
+      "EndTiming": "100.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "93.5",
+      "Sentence_cn": "他们应该做什么？",
+      "Sentence": "Number 1,020. What must they do?"
+    },
+    {
+      "voaid": "1082",
+      "EndTiming": "104.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "102.0",
+      "Sentence_cn": "他们应该吃饭。",
+      "Sentence": "They must have a meal."
+    },
+    {
+      "voaid": "1082",
+      "EndTiming": "112.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "105.0",
+      "Sentence_cn": "汤姆准备做什么？",
+      "Sentence": "Number 1,030. What is Tom going to do?"
+    },
+    {
+      "voaid": "1082",
+      "EndTiming": "117.5",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "114.5",
+      "Sentence_cn": "他准备游泳。",
+      "Sentence": "He is going to have a swim."
+    },
+    {
+      "voaid": "1082",
+      "EndTiming": "126.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "118.5",
+      "Sentence_cn": "他在干什么？",
+      "Sentence": "Number 1,040. What is he doing?"
+    },
+    {
+      "voaid": "1082",
+      "EndTiming": "130.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "126.8",
+      "Sentence_cn": "他正在洗澡。",
+      "Sentence": "He is having a bath."
+    },
+    {
+      "voaid": "1082",
+      "EndTiming": "138.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "131.0",
+      "Sentence_cn": "他做什么了？",
+      "Sentence": "Number 1,050. What did he do?"
+    },
+    {
+      "voaid": "1082",
+      "EndTiming": "143.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "141.0",
+      "Sentence_cn": "他理发了。",
+      "Sentence": "He had a haircut."
+    },
+    {
+      "voaid": "1082",
+      "EndTiming": "151.0",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "144.0",
+      "Sentence_cn": "他们正在干什么？",
+      "Sentence": "Number 1,060. What are they doing?"
+    },
+    {
+      "voaid": "1082",
+      "EndTiming": "157.0",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "154.0",
+      "Sentence_cn": "他们正在上课。",
+      "Sentence": "They are having a lesson."
+    },
+    {
+      "voaid": "1082",
+      "EndTiming": "164.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "157.6",
+      "Sentence_cn": "他们做了什么？",
+      "Sentence": "Number 1,070. What did they do?"
+    },
+    {
+      "voaid": "1082",
+      "EndTiming": "169.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "167.0",
+      "Sentence_cn": "他们举行了聚会。",
+      "Sentence": "They had a party."
+    },
+    {
+      "voaid": "1082",
+      "EndTiming": "176.0",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "170.0",
+      "Sentence_cn": "他们应该做什么？",
+      "Sentence": "Number 1,080. What must they do?"
+    },
+    {
+      "voaid": "1082",
+      "EndTiming": "182.0",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "179.0",
+      "Sentence_cn": "他们应该度假。",
+      "Sentence": "They must have a holiday."
+    },
+    {
+      "voaid": "1082",
+      "EndTiming": "191.0",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "184.0",
+      "Sentence_cn": "他们打算干什么？",
+      "Sentence": "Number 1,090. What are they going to do?"
+    },
+    {
+      "voaid": "1082",
+      "EndTiming": "198.0",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "194.0",
+      "Sentence_cn": "他们准备好好玩玩。",
+      "Sentence": "They are going to have a good time"
+    }
+  ],
+  "size": 24,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14273,14274",
+    "title_cn": "我吃（喝、从事）了……",
+    "title": "I had..."
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_82.mp3"
+}

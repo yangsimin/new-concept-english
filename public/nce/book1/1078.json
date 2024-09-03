@@ -1,0 +1,372 @@
+{
+  "data": [
+    {
+      "voaid": "1078",
+      "EndTiming": "17.3",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "15.0",
+      "Sentence_cn": "现在是八点。",
+      "Sentence": "It's eight o'clock."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "19.2",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "17.7",
+      "Sentence_cn": "你什么时候见他？",
+      "Sentence": "When did you see him?"
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "21.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "20.1",
+      "Sentence_cn": "半个小时前。",
+      "Sentence": "Half an hour ago."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "24.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "22.0",
+      "Sentence_cn": "我七点半见他的。",
+      "Sentence": "I saw him at half past seven."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "27.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "25.6",
+      "Sentence_cn": "今天是星期五。",
+      "Sentence": "It's Friday."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "29.2",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "27.3",
+      "Sentence_cn": "她什么时候去的伦敦？",
+      "Sentence": "When did she go to London?"
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "31.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "29.8",
+      "Sentence_cn": "前天。",
+      "Sentence": "The day before yesterday."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "34.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "32.0",
+      "Sentence_cn": "他星期三去的伦敦",
+      "Sentence": "She went to London on Wednesday."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "38.2",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "36.7",
+      "Sentence_cn": "现在是六月。",
+      "Sentence": "It's June."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "40.7",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "38.4",
+      "Sentence_cn": "琼斯什么时候买的那辆车？",
+      "Sentence": "When did Mr. Jones buy that car?"
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "42.8",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "41.2",
+      "Sentence_cn": "上个月。",
+      "Sentence": "Last month."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "45.4",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "43.2",
+      "Sentence_cn": "他五月买的那辆车。",
+      "Sentence": "He bought it in May."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "92.4",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "90.4",
+      "Sentence_cn": "今年是1988年。",
+      "Sentence": "It's 1988."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "94.9",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "92.7",
+      "Sentence_cn": "你什么时候刷的房间？",
+      "Sentence": "When did you paint this room?"
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "97.2",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "95.6",
+      "Sentence_cn": "去年。",
+      "Sentence": "Last year."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "103.5",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "100.0",
+      "Sentence_cn": "我是1987年刷的。",
+      "Sentence": "I painted it in 1987."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "106.5",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "104.4",
+      "Sentence_cn": "今天是一月五号。",
+      "Sentence": "It's the fifth of January."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "108.5",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "106.9",
+      "Sentence_cn": "她什么时候见的他？",
+      "Sentence": "When did she meet him?"
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "110.9",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "109.4",
+      "Sentence_cn": "两个月前。",
+      "Sentence": "Two months ago."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "117.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "113.0",
+      "Sentence_cn": "她是十一月五号见得他。",
+      "Sentence": "She met him on the fifth of November."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "120.0",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "118.0",
+      "Sentence_cn": "现在是十一点十五。",
+      "Sentence": "It's a quarter past eleven."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "123.0",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "120.3",
+      "Sentence_cn": "他们是什么时候到达的？",
+      "Sentence": "When did they arrive?"
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "126.0",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "124.0",
+      "Sentence_cn": "半个小时前。",
+      "Sentence": "Half an hour ago."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "133.0",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "128.0",
+      "Sentence_cn": "他们是十点四十五到达的。",
+      "Sentence": "They arrived at a quarter to eleven."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "137.5",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "136.0",
+      "Sentence_cn": "今天是星期日。",
+      "Sentence": "It's Sunday."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "140.0",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "138.0",
+      "Sentence_cn": "他是什么时候丢失他的钢笔的？",
+      "Sentence": "When did he lose his pen?"
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "143.0",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "141.0",
+      "Sentence_cn": "昨天",
+      "Sentence": "Yesterday."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "149.0",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "145.0",
+      "Sentence_cn": "他星期六丢的。",
+      "Sentence": "He lost it on Saturday."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "151.2",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "149.5",
+      "Sentence_cn": "现在是三月。",
+      "Sentence": "It's March."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "154.0",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "151.5",
+      "Sentence_cn": "你什么时候叫的医生？",
+      "Sentence": "When did you call the doctor?"
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "157.0",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "155.0",
+      "Sentence_cn": "上上个月。",
+      "Sentence": "The month before last."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "164.0",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "160.0",
+      "Sentence_cn": "我是一月份打电话给医生的。",
+      "Sentence": "I called the doctor in January."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "168.0",
+      "Paraid": "1",
+      "IdIndex": "33",
+      "Timing": "165.0",
+      "Sentence_cn": "今年是1988年。",
+      "Sentence": "It's 1988."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "171.0",
+      "Paraid": "1",
+      "IdIndex": "34",
+      "Timing": "168.5",
+      "Sentence_cn": "他们什么时候买这个房子的？",
+      "Sentence": "When did they buy this house?"
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "174.0",
+      "Paraid": "1",
+      "IdIndex": "35",
+      "Timing": "171.5",
+      "Sentence_cn": "前年",
+      "Sentence": "The year before last."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "180.5",
+      "Paraid": "1",
+      "IdIndex": "36",
+      "Timing": "174.2",
+      "Sentence_cn": "他们是1986年买的。",
+      "Sentence": "They bought it in 1986."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "183.0",
+      "Paraid": "1",
+      "IdIndex": "37",
+      "Timing": "181.0",
+      "Sentence_cn": "今天是八月一号。",
+      "Sentence": "It's August the first."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "186.0",
+      "Paraid": "1",
+      "IdIndex": "38",
+      "Timing": "183.5",
+      "Sentence_cn": "她什么时候和他谈话的？",
+      "Sentence": "When did she speak to him?"
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "188.0",
+      "Paraid": "1",
+      "IdIndex": "39",
+      "Timing": "186.5",
+      "Sentence_cn": "一个月前。",
+      "Sentence": "A month ago."
+    },
+    {
+      "voaid": "1078",
+      "EndTiming": "195.0",
+      "Paraid": "1",
+      "IdIndex": "40",
+      "Timing": "191.0",
+      "Sentence_cn": "她在七月一日和他谈话的。",
+      "Sentence": "She spoke to him on July the first."
+    }
+  ],
+  "size": 40,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14268",
+    "title_cn": "你什么时候……？",
+    "title": "When did you...?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_78.mp3"
+}

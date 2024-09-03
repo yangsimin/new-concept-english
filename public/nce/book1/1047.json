@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "voaid": "1047",
+      "EndTiming": "4.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.7",
+      "Sentence_cn": "一杯咖啡",
+      "Sentence": "--- lesson 47  A cup of coffee"
+    },
+    {
+      "voaid": "1047",
+      "EndTiming": "8.1",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.7",
+      "Sentence_cn": "你喜欢咖啡吗，安？",
+      "Sentence": "Do you like coffee, Ann?"
+    },
+    {
+      "voaid": "1047",
+      "EndTiming": "10.7",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.8",
+      "Sentence_cn": "是的，我喜欢。",
+      "Sentence": "Yes, I do."
+    },
+    {
+      "voaid": "1047",
+      "EndTiming": "13.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "11.6",
+      "Sentence_cn": "你想要一杯吗？",
+      "Sentence": "Do you want a cup?"
+    },
+    {
+      "voaid": "1047",
+      "EndTiming": "16.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "14.0",
+      "Sentence_cn": "好的，请来一杯，克里斯廷。",
+      "Sentence": "Yes, please, Christine."
+    },
+    {
+      "voaid": "1047",
+      "EndTiming": "19.8",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "17.5",
+      "Sentence_cn": "你要放些糖吗？",
+      "Sentence": "Do you want any sugar?"
+    },
+    {
+      "voaid": "1047",
+      "EndTiming": "22.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "20.6",
+      "Sentence_cn": "好的，请放一些。",
+      "Sentence": "Yes, please."
+    },
+    {
+      "voaid": "1047",
+      "EndTiming": "25.1",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "22.9",
+      "Sentence_cn": "要放些牛奶吗？",
+      "Sentence": "Do you want any milk?"
+    },
+    {
+      "voaid": "1047",
+      "EndTiming": "27.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "26.0",
+      "Sentence_cn": "不了，谢谢。",
+      "Sentence": "No, thank you."
+    },
+    {
+      "voaid": "1047",
+      "EndTiming": "30.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "27.7",
+      "Sentence_cn": "我不喜欢咖啡中放牛奶，",
+      "Sentence": "I don't like milk in my coffee."
+    },
+    {
+      "voaid": "1047",
+      "EndTiming": "34.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "31.4",
+      "Sentence_cn": "我喜欢清咖啡。",
+      "Sentence": "I like black coffee."
+    },
+    {
+      "voaid": "1047",
+      "EndTiming": "37.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "34.9",
+      "Sentence_cn": "你喜欢饼干吗？",
+      "Sentence": "Do you like biscuits?"
+    },
+    {
+      "voaid": "1047",
+      "EndTiming": "39.3",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "37.7",
+      "Sentence_cn": "是的，我喜欢。",
+      "Sentence": "Yes. I do."
+    },
+    {
+      "voaid": "1047",
+      "EndTiming": "41.7",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "40.2",
+      "Sentence_cn": "你想要一块吗？",
+      "Sentence": "Do you want one?"
+    },
+    {
+      "voaid": "1047",
+      "EndTiming": "43.8",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "42.4",
+      "Sentence_cn": "好的，请来一块。",
+      "Sentence": "Yes, please."
+    }
+  ],
+  "size": 15,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14231",
+    "title_cn": "一杯咖啡",
+    "title": "A cup of coffee"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_47.mp3"
+}

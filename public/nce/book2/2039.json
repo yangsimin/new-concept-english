@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "voaid": "2039",
+      "EndTiming": "4.7",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.7",
+      "Sentence_cn": "我是否痊愈？",
+      "Sentence": "--- Lesson 39  Am I all right?"
+    },
+    {
+      "voaid": "2039",
+      "EndTiming": "14.2",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.3",
+      "Sentence_cn": "当约翰.吉尔伯特住院的时候，他问医生他的手术是否成功，",
+      "Sentence": "While John Gilbert was in hospital, he asked his doctor to tell him whether his operation had been successful,"
+    },
+    {
+      "voaid": "2039",
+      "EndTiming": "17.8",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "14.2",
+      "Sentence_cn": "但医生拒绝告诉他。",
+      "Sentence": "but the doctor refused to do so."
+    },
+    {
+      "voaid": "2039",
+      "EndTiming": "23.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "17.8",
+      "Sentence_cn": "第二天，这位病人要了一部床头电话。",
+      "Sentence": "The following day, the patient asked for a bedside telephone."
+    },
+    {
+      "voaid": "2039",
+      "EndTiming": "31.4",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "23.3",
+      "Sentence_cn": "当房里只剩他一个人时，他挂通了医院的交换台，要求与米灵顿医生讲话。",
+      "Sentence": "When he was alone, he telephoned the hospital exchange and asked for Doctor Millington."
+    },
+    {
+      "voaid": "2039",
+      "EndTiming": "42.3",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "31.4",
+      "Sentence_cn": "当这位医生接过电话时，吉尔伯特先生说他想询问一个病人的情况，是一位名叫约翰.吉尔伯特的先生。",
+      "Sentence": "When the doctor answered the phone, Mr.Gilbert said he was inquiring about a certain patient, a Mr.John Gilbert."
+    },
+    {
+      "voaid": "2039",
+      "EndTiming": "50.8",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "42.4",
+      "Sentence_cn": "他问吉尔伯特先生的手术中否成功，医生告诉他手术很成功。",
+      "Sentence": "He asked if Mr.Gilbert's operation had been successful and the doctor told him that it had been."
+    },
+    {
+      "voaid": "2039",
+      "EndTiming": "55.8",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "50.8",
+      "Sentence_cn": "然后他又问吉尔伯特先生什么时候可以回家，",
+      "Sentence": "He then asked when Mr.Gilbert would be allowed to go home"
+    },
+    {
+      "voaid": "2039",
+      "EndTiming": "62.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "56.2",
+      "Sentence_cn": "医生说他在医院还必须再住上两个星期。",
+      "Sentence": "and the doctor told him that he would have to stay in hospital for another two weeks."
+    },
+    {
+      "voaid": "2039",
+      "EndTiming": "69.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "62.5",
+      "Sentence_cn": "之后，米灵顿医生问打电话的人是否是病人的亲属。",
+      "Sentence": "Then Dr.Millington asked the caller if he was a relative of the patient."
+    },
+    {
+      "voaid": "2039",
+      "EndTiming": "75.4",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "69.7",
+      "Sentence_cn": "“不是，”病人回答说，“我就是约翰.吉尔伯特先生。”",
+      "Sentence": "'No,' the patient answered, 'I am Mr.John Gilbert.'"
+    }
+  ],
+  "size": 11,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14414,14415",
+    "title_cn": "我是否痊愈？",
+    "title": "Am I all right?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_39.mp3"
+}

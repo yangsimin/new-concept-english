@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "voaid": "2093",
+      "EndTiming": "4.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "崇高的礼物",
+      "Sentence": "--- Lesson 93  A noble gift"
+    },
+    {
+      "voaid": "2093",
+      "EndTiming": "17.6",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.8",
+      "Sentence_cn": "世界上最著名的纪念碑之一的自由女神雕像是在19世纪时由法国人民赠送给美国的。",
+      "Sentence": "One of the most famous monuments in the world, the Statue of Liberty, was presented to the United States of America in the nineteenth century by the people of France."
+    },
+    {
+      "voaid": "2093",
+      "EndTiming": "27.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "18.2",
+      "Sentence_cn": "这座由雕像家奥古斯特.巴索尔地设计的巨大雕像是用10年时间雕像刻成的。",
+      "Sentence": "The great statue, which was designed by the sculptor Auguste Bartholdi, took ten years to complete."
+    },
+    {
+      "voaid": "2093",
+      "EndTiming": "36.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "27.1",
+      "Sentence_cn": "这座雕像的主体是用铜制成的，由艾菲尔特制的金属框架支撑着。",
+      "Sentence": "The actual figure was made of copper supported by a metal framework which had been especially constructed by Eiffel."
+    },
+    {
+      "voaid": "2093",
+      "EndTiming": "45.7",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "37.1",
+      "Sentence_cn": "在雕像被运往美国之前，必须为它选好一块场地，同时必须建造一个基座。",
+      "Sentence": "Before it could be transported to the United States, a site had to be found for it and a pedestal had to be built."
+    },
+    {
+      "voaid": "2093",
+      "EndTiming": "51.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "46.4",
+      "Sentence_cn": "场地选在了纽约港入口处的一个鸟上。",
+      "Sentence": "The site chosen was an island at the entrance of New York Harbour."
+    },
+    {
+      "voaid": "2093",
+      "EndTiming": "60.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "51.8",
+      "Sentence_cn": "到1884年，一座高度达151英尺的雕像在巴黎竖立起来了。",
+      "Sentence": "By 1884, a statue which was 151 feet tall had been erected in Paris."
+    },
+    {
+      "voaid": "2093",
+      "EndTiming": "65.5",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "60.2",
+      "Sentence_cn": "第二年，它被拆成若干小块，运到美国。",
+      "Sentence": "The following year, it was taken to pieces and sent to America."
+    },
+    {
+      "voaid": "2093",
+      "EndTiming": "79.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "66.4",
+      "Sentence_cn": "到1886年10月底，这座雕像被重新组装起来，由巴索尔地正式赠送给美国人民。",
+      "Sentence": "By the end of October 1886, the statue had been put together again and it was officially presented to the American people by Bartholdi."
+    },
+    {
+      "voaid": "2093",
+      "EndTiming": "92.7",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "80.1",
+      "Sentence_cn": "从那时起，这座伟大的纪念碑对通过纽约港进入美国定居的千百万人来说就一直是自由的象征。",
+      "Sentence": "Ever since then, the great monument has been a symbol of liberty for the millions of people who have passed through New York Harbour to make their homes in America."
+    }
+  ],
+  "size": 10,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14511",
+    "title_cn": "崇高的礼物",
+    "title": "A noble gift"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_93.mp3"
+}

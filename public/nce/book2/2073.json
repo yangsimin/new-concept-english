@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "voaid": "2073",
+      "EndTiming": "4.4",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "纪录保持者",
+      "Sentence": "--- Lesson 73  The record-holder"
+    },
+    {
+      "voaid": "2073",
+      "EndTiming": "9.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.0",
+      "Sentence_cn": "逃学的孩子们都缺乏想像力。",
+      "Sentence": "Children who play truant from school are unimaginative."
+    },
+    {
+      "voaid": "2073",
+      "EndTiming": "21.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "9.3",
+      "Sentence_cn": "他们通常能够做到的，至多也就是安静地钓上一天鱼，或在电影院里坐上8个小时，一遍遍地看同一部电影。",
+      "Sentence": "A quiet day's fishing, or eight hours in a cinema seeing the same film over and over again, is usually as far as they get."
+    },
+    {
+      "voaid": "2073",
+      "EndTiming": "30.8",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "21.4",
+      "Sentence_cn": "而有那么一个小男孩，他在逃学期间旅行了1,600英里，从而使上述所有逃学的孩子们都相形见绌了。",
+      "Sentence": "They have all been put to shame by a boy who, while playing truant, travelled 1,600 miles."
+    },
+    {
+      "voaid": "2073",
+      "EndTiming": "38.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "31.1",
+      "Sentence_cn": "他搭便车到了多佛，天快黑时钻进了一条船，想找个地方睡觉。",
+      "Sentence": "He hitchhiked to Dover and, towards evening, went into a boat to find somewhere to sleep."
+    },
+    {
+      "voaid": "2073",
+      "EndTiming": "48.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "38.5",
+      "Sentence_cn": "第二天早上他醒来时，发现船在这段时间已经到了加莱。",
+      "Sentence": "When he woke up next morning, he discovered that the boat had, in the meantime, travelled to Calais."
+    },
+    {
+      "voaid": "2073",
+      "EndTiming": "51.8",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "48.8",
+      "Sentence_cn": "当男孩从船里爬出来时，谁也没有发现他。",
+      "Sentence": "No one noticed the boy as he crept off."
+    },
+    {
+      "voaid": "2073",
+      "EndTiming": "56.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "52.4",
+      "Sentence_cn": "从那里他又搭上卡车到了巴黎。",
+      "Sentence": "From there, he hitchhiked to Paris in a lorry."
+    },
+    {
+      "voaid": "2073",
+      "EndTiming": "64.7",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "56.6",
+      "Sentence_cn": "司机给了他几块饼干和一杯咖啡，就把他丢在了城外。",
+      "Sentence": "The driver gave him a few biscuits and a cup of coffee and left him just outside the city."
+    },
+    {
+      "voaid": "2073",
+      "EndTiming": "77.2",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "64.9",
+      "Sentence_cn": "男孩截住的下一辆车，没有像他希望的那样把他带到巴黎市中心，而是把他带到了法国和西班牙边界上的佩皮尼昂。",
+      "Sentence": "The next car the boy stopped did not take him into the centre of Paris as he hoped it would, but to Perpignan on the French-Spanish border."
+    },
+    {
+      "voaid": "2073",
+      "EndTiming": "84.4",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "78.0",
+      "Sentence_cn": "他在那儿被一个警察抓住了，之后被当局送回了英国。",
+      "Sentence": "There he was picked up by a policeman and sent back to England by the local authorities."
+    },
+    {
+      "voaid": "2073",
+      "EndTiming": "91.5",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "84.4",
+      "Sentence_cn": "他无疑为成千上万梦想逃避上学的孩子们创造了一项纪录。",
+      "Sentence": "He has surely set up a record for the thousands of children who dream of evading school."
+    }
+  ],
+  "size": 12,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14473,14474",
+    "title_cn": "纪录保持者",
+    "title": "The record-holder"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_73.mp3"
+}

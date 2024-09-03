@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "voaid": "1030",
+      "EndTiming": "23.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "20.0",
+      "Sentence_cn": "打开你的桌子。",
+      "Sentence": "Open your desk."
+    },
+    {
+      "voaid": "1030",
+      "EndTiming": "32.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "29.0",
+      "Sentence_cn": "戴上你的手表。",
+      "Sentence": "Put on your watch.　"
+    },
+    {
+      "voaid": "1030",
+      "EndTiming": "40.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "37.0",
+      "Sentence_cn": "打开灯。",
+      "Sentence": "Turn on the light.　"
+    },
+    {
+      "voaid": "1030",
+      "EndTiming": "100.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "94.0",
+      "Sentence_cn": "合上你的手提包。",
+      "Sentence": "Shut your handbag.　"
+    },
+    {
+      "voaid": "1030",
+      "EndTiming": "113.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "106.5",
+      "Sentence_cn": "脱下你的鞋子。",
+      "Sentence": "Take off your shoes.　"
+    },
+    {
+      "voaid": "1030",
+      "EndTiming": "126.8",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "120.5",
+      "Sentence_cn": "关上水龙头。",
+      "Sentence": "Turn off the tap.　"
+    },
+    {
+      "voaid": "1030",
+      "EndTiming": "140.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "134.0",
+      "Sentence_cn": "打扫卧室。",
+      "Sentence": "Sweep the bedroom.　"
+    },
+    {
+      "voaid": "1030",
+      "EndTiming": "152.5",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "147.0",
+      "Sentence_cn": "擦窗户。",
+      "Sentence": "Clean the windows.　"
+    },
+    {
+      "voaid": "1030",
+      "EndTiming": "165.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "160.5",
+      "Sentence_cn": "给碗橱掸灰。",
+      "Sentence": "Dust the cupboard.　"
+    },
+    {
+      "voaid": "1030",
+      "EndTiming": "178.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "172.0",
+      "Sentence_cn": "清空手提箱。",
+      "Sentence": "Empty the suitcase.　"
+    },
+    {
+      "voaid": "1030",
+      "EndTiming": "192.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "186.0",
+      "Sentence_cn": "读这份杂志。",
+      "Sentence": "Read this magazine.　"
+    },
+    {
+      "voaid": "1030",
+      "EndTiming": "205.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "199.0",
+      "Sentence_cn": "削铅笔。",
+      "Sentence": "Sharpen these pencils.　"
+    }
+  ],
+  "size": 12,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14211",
+    "title_cn": "我应该做什么？",
+    "title": "What must I do?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_30.mp3"
+}

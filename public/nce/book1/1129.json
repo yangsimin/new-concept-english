@@ -1,0 +1,210 @@
+{
+  "data": [
+    {
+      "voaid": "1129",
+      "EndTiming": "5.4",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "时速70英里",
+      "Sentence": "--- lesson 129  Seventy miles an hour"
+    },
+    {
+      "voaid": "1129",
+      "EndTiming": "7.6",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.2",
+      "Sentence_cn": "瞧，加里！",
+      "Sentence": "Look, Gary!"
+    },
+    {
+      "voaid": "1129",
+      "EndTiming": "10.9",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.0",
+      "Sentence_cn": "那个警察正朝你挥手呢。",
+      "Sentence": "That policeman's waving to you."
+    },
+    {
+      "voaid": "1129",
+      "EndTiming": "13.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "11.4",
+      "Sentence_cn": "他要你停下来。",
+      "Sentence": "He wants you to stop."
+    },
+    {
+      "voaid": "1129",
+      "EndTiming": "17.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "14.2",
+      "Sentence_cn": "你认为你现在是在哪儿？",
+      "Sentence": "Where do you think you are?"
+    },
+    {
+      "voaid": "1129",
+      "EndTiming": "19.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "17.7",
+      "Sentence_cn": "在赛车道上吗？",
+      "Sentence": "On a race track?"
+    },
+    {
+      "voaid": "1129",
+      "EndTiming": "24.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "19.8",
+      "Sentence_cn": "你刚才一定是以每小时70英里的速度开车。",
+      "Sentence": "You must have been driving at seventy miles an hour."
+    },
+    {
+      "voaid": "1129",
+      "EndTiming": "26.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "25.1",
+      "Sentence_cn": "我不会开得那么快的。",
+      "Sentence": "I can't have been."
+    },
+    {
+      "voaid": "1129",
+      "EndTiming": "31.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "27.7",
+      "Sentence_cn": "我是以每小时80英里的速度赶上你的。",
+      "Sentence": "I was doing eighty when I overtook you."
+    },
+    {
+      "voaid": "1129",
+      "EndTiming": "34.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "32.0",
+      "Sentence_cn": "难道你没看见限速牌吗？",
+      "Sentence": "Didn't you see the speed limit?"
+    },
+    {
+      "voaid": "1129",
+      "EndTiming": "37.9",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "35.4",
+      "Sentence_cn": "恐怕我没有看见，警官。",
+      "Sentence": "I'm afraid I didn't, officer."
+    },
+    {
+      "voaid": "1129",
+      "EndTiming": "40.4",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "38.4",
+      "Sentence_cn": "我一定思想开小差了。",
+      "Sentence": "I must have been dreaming."
+    },
+    {
+      "voaid": "1129",
+      "EndTiming": "43.6",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "41.1",
+      "Sentence_cn": "警官，他思想没有开小差。",
+      "Sentence": "He wasn't dreaming, officer."
+    },
+    {
+      "voaid": "1129",
+      "EndTiming": "47.9",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "43.9",
+      "Sentence_cn": "我刚才正告诉他开慢点。",
+      "Sentence": "I was telling him to drive slowly."
+    },
+    {
+      "voaid": "1129",
+      "EndTiming": "51.2",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "48.5",
+      "Sentence_cn": "所以我才没看见那牌子。",
+      "Sentence": "That's why I didn't see the sign."
+    },
+    {
+      "voaid": "1129",
+      "EndTiming": "54.5",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "52.0",
+      "Sentence_cn": "让我看一看你的驾驶执照。",
+      "Sentence": "Let me see your driving licence."
+    },
+    {
+      "voaid": "1129",
+      "EndTiming": "57.7",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "55.2",
+      "Sentence_cn": "这次我就不罚你款了。",
+      "Sentence": "I won't charge you this time."
+    },
+    {
+      "voaid": "1129",
+      "EndTiming": "61.2",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "58.3",
+      "Sentence_cn": "但你最好不要再开得这样快。",
+      "Sentence": "But you'd better not do it again!"
+    },
+    {
+      "voaid": "1129",
+      "EndTiming": "65.8",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "61.9",
+      "Sentence_cn": "谢谢您。我以后一定会多加注意。",
+      "Sentence": "Thank you. I'll certainly be more careful."
+    },
+    {
+      "voaid": "1129",
+      "EndTiming": "70.1",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "66.6",
+      "Sentence_cn": "加里，我刚才叫你开慢点吧。",
+      "Sentence": "I told you to drive slowly, Gary."
+    },
+    {
+      "voaid": "1129",
+      "EndTiming": "74.5",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "70.6",
+      "Sentence_cn": "你总是叫我开慢点，亲爱的。",
+      "Sentence": "You always tell me to drive slowly, darling."
+    },
+    {
+      "voaid": "1129",
+      "EndTiming": "80.2",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "74.9",
+      "Sentence_cn": "好啦，下次你最好还是听从我的劝告吧！",
+      "Sentence": "Well, next time you'd better take my advice!"
+    }
+  ],
+  "size": 22,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14331",
+    "title_cn": "时速70英里",
+    "title": "Seventy miles an hour"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_129.mp3"
+}

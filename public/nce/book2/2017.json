@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "voaid": "2017",
+      "EndTiming": "4.4",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.8",
+      "Sentence_cn": "青春常驻",
+      "Sentence": "--- Lesson 17  Always young"
+    },
+    {
+      "voaid": "2017",
+      "EndTiming": "7.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.2",
+      "Sentence_cn": "我的姑姑詹妮弗是位演员，",
+      "Sentence": "My aunt Jennifer is an actress."
+    },
+    {
+      "voaid": "2017",
+      "EndTiming": "11.9",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.5",
+      "Sentence_cn": "她至少也有35岁了。",
+      "Sentence": "She must be at least thirty-five years old."
+    },
+    {
+      "voaid": "2017",
+      "EndTiming": "17.8",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "12.7",
+      "Sentence_cn": "尽管如此，她却常在舞台上扮演小姑娘。",
+      "Sentence": "In spite of this, she often appears on the stage as a young girl."
+    },
+    {
+      "voaid": "2017",
+      "EndTiming": "22.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "18.6",
+      "Sentence_cn": "詹妮弗很快又要参加一个新剧的演出。",
+      "Sentence": "Jennifer will have to take part in a new play soon."
+    },
+    {
+      "voaid": "2017",
+      "EndTiming": "26.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "23.0",
+      "Sentence_cn": "这一次，她将扮演一个17岁的少女。",
+      "Sentence": "This time, she will be a girl of seventeen."
+    },
+    {
+      "voaid": "2017",
+      "EndTiming": "34.3",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "27.3",
+      "Sentence_cn": "演出时她必须穿一条鲜红色的裙子和黑色的长筒袜。",
+      "Sentence": "In the play, she must appear in a bright red dress and long black stockings."
+    },
+    {
+      "voaid": "2017",
+      "EndTiming": "42.8",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "35.1",
+      "Sentence_cn": "去年在演另一个剧时，她不得不穿短袜和一件鲜艳的橘红色的衣服。",
+      "Sentence": "Last year in another play, she had to wear short socks and a bright, orange-coloured dress."
+    },
+    {
+      "voaid": "2017",
+      "EndTiming": "54.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "43.6",
+      "Sentence_cn": "一旦有人问起她有多大年纪，她总是回答：“亲爱的，长成大人真可怕啊！”",
+      "Sentence": "If anyone ever asks her how old she is, she always answers,“Darling, it must be terrible to be grown up!”"
+    }
+  ],
+  "size": 9,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14380,14381",
+    "title_cn": "青春常驻",
+    "title": "Always young"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_17.mp3"
+}

@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "1077",
+      "EndTiming": "5.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "要命的牙痛",
+      "Sentence": "--- lesson 77  Terrible toothache"
+    },
+    {
+      "voaid": "1077",
+      "EndTiming": "8.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.9",
+      "Sentence_cn": "早上好，克罗夫特先生。",
+      "Sentence": "Good morning. Mr.Croft."
+    },
+    {
+      "voaid": "1077",
+      "EndTiming": "11.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "9.5",
+      "Sentence_cn": "早上好，护士。",
+      "Sentence": "Good morning, nurse."
+    },
+    {
+      "voaid": "1077",
+      "EndTiming": "15.2",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "11.9",
+      "Sentence_cn": "我想见牙科医生。",
+      "Sentence": "I want to see the dentist,please."
+    },
+    {
+      "voaid": "1077",
+      "EndTiming": "18.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "15.7",
+      "Sentence_cn": "您约好了吗？",
+      "Sentence": "Do you have an appointment?"
+    },
+    {
+      "voaid": "1077",
+      "EndTiming": "20.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "19.1",
+      "Sentence_cn": "没有。",
+      "Sentence": "No, I don't."
+    },
+    {
+      "voaid": "1077",
+      "EndTiming": "22.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "21.1",
+      "Sentence_cn": "急吗？",
+      "Sentence": "Is it urgent?"
+    },
+    {
+      "voaid": "1077",
+      "EndTiming": "25.1",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "23.2",
+      "Sentence_cn": "是的，",
+      "Sentence": "Yes, it is."
+    },
+    {
+      "voaid": "1077",
+      "EndTiming": "27.8",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "25.8",
+      "Sentence_cn": "很急。",
+      "Sentence": "It's very urgent."
+    },
+    {
+      "voaid": "1077",
+      "EndTiming": "30.2",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "28.6",
+      "Sentence_cn": "我难受极了，",
+      "Sentence": "I feel awful."
+    },
+    {
+      "voaid": "1077",
+      "EndTiming": "33.9",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "31.0",
+      "Sentence_cn": "牙痛得要命。",
+      "Sentence": "I have a terrible toothache."
+    },
+    {
+      "voaid": "1077",
+      "EndTiming": "40.4",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "34.7",
+      "Sentence_cn": "您在4月24日星期一上午10点钟来行吗？",
+      "Sentence": "Can you come at 10 a.m.on Monday, April 24th?"
+    },
+    {
+      "voaid": "1077",
+      "EndTiming": "45.3",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "41.1",
+      "Sentence_cn": "我必须现在就见牙科医生，护士。",
+      "Sentence": "I must see the dentist now,nurse."
+    },
+    {
+      "voaid": "1077",
+      "EndTiming": "50.1",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "46.2",
+      "Sentence_cn": "牙科医生这会儿很忙。",
+      "Sentence": "The dentist is very busy at the moment."
+    },
+    {
+      "voaid": "1077",
+      "EndTiming": "53.3",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "50.5",
+      "Sentence_cn": "您下午两点钟来行吗？",
+      "Sentence": "Can you come at 2 p.m.?"
+    },
+    {
+      "voaid": "1077",
+      "EndTiming": "56.2",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "53.4",
+      "Sentence_cn": "那就太晚了。",
+      "Sentence": "That's very late."
+    },
+    {
+      "voaid": "1077",
+      "EndTiming": "59.7",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "57.1",
+      "Sentence_cn": "牙科医生现在就不能给我看一下吗？",
+      "Sentence": "Can the dentist see me now?"
+    },
+    {
+      "voaid": "1077",
+      "EndTiming": "64.3",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "60.1",
+      "Sentence_cn": "恐怕不能，克罗夫特先生。",
+      "Sentence": "I'm afraid that he can't,Mr. Croft."
+    },
+    {
+      "voaid": "1077",
+      "EndTiming": "68.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "64.8",
+      "Sentence_cn": "您就不能等到今天下午吗？",
+      "Sentence": "Can't you wait till this afternoon?"
+    },
+    {
+      "voaid": "1077",
+      "EndTiming": "73.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "68.8",
+      "Sentence_cn": "我倒是可以等。可是我的牙痛等不了啊！",
+      "Sentence": "I can wait, but my toothache can't!"
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14267",
+    "title_cn": "要命的牙痛",
+    "title": "Terrible toothache"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_77.mp3"
+}

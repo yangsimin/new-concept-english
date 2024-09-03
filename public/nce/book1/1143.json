@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "voaid": "1143",
+      "EndTiming": "5.6",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "林中散步",
+      "Sentence": "--- lesson 143  A walk through the woods"
+    },
+    {
+      "voaid": "1143",
+      "EndTiming": "13.1",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.2",
+      "Sentence_cn": "我住在一个由美丽的树林环绕的古老小镇上。",
+      "Sentence": "I live in a very old town which is surrounded by beautiful woods."
+    },
+    {
+      "voaid": "1143",
+      "EndTiming": "16.3",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "13.9",
+      "Sentence_cn": "这是一个著名的风景胜地。",
+      "Sentence": "It is a famous beauty spot."
+    },
+    {
+      "voaid": "1143",
+      "EndTiming": "26.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "17.2",
+      "Sentence_cn": "每适星期天，有许许多人从城里来观赏我们的小镇，并在树林中散步。",
+      "Sentence": "On Sundays, hundreds of people come from the city to see our town and to walk through the woods."
+    },
+    {
+      "voaid": "1143",
+      "EndTiming": "33.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "27.3",
+      "Sentence_cn": "游客已被告知要保持树林的整洁。",
+      "Sentence": "Visitors have been asked to keep the woods clean and tidy."
+    },
+    {
+      "voaid": "1143",
+      "EndTiming": "37.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "33.8",
+      "Sentence_cn": "树下都已设置了废物筐，",
+      "Sentence": "Litter baskets have been placed under the trees,"
+    },
+    {
+      "voaid": "1143",
+      "EndTiming": "42.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "38.0",
+      "Sentence_cn": "但是人们仍到处扔垃圾。",
+      "Sentence": "but people still throw their rubbish everywhere."
+    },
+    {
+      "voaid": "1143",
+      "EndTiming": "48.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "43.0",
+      "Sentence_cn": "上星期三我到树林里去散步。",
+      "Sentence": "Last Wednesday, I went for a walk in the woods."
+    },
+    {
+      "voaid": "1143",
+      "EndTiming": "53.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "49.2",
+      "Sentence_cn": "我所见到的一切使我非常难过。",
+      "Sentence": "What I saw made me very sad."
+    },
+    {
+      "voaid": "1143",
+      "EndTiming": "60.3",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "54.0",
+      "Sentence_cn": "我数了一下，有7辆旧汽车和3上旧冰箱。",
+      "Sentence": "I counted seven old cars and three old refrigerators."
+    },
+    {
+      "voaid": "1143",
+      "EndTiming": "63.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "61.2",
+      "Sentence_cn": "废物筐是空的，",
+      "Sentence": "The litter baskets were empty"
+    },
+    {
+      "voaid": "1143",
+      "EndTiming": "76.5",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "64.2",
+      "Sentence_cn": "而满地都是纸片、烟头、旧轮胎，空瓶子和生锈的空罐头盒。",
+      "Sentence": "and the ground was covered with pieces of paper, cigarette ends, old tyres, empty bottles and rusty tins."
+    },
+    {
+      "voaid": "1143",
+      "EndTiming": "81.7",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "77.2",
+      "Sentence_cn": "在垃圾堆中我发现了一块牌子，上面写着：",
+      "Sentence": "Among the rubbish, I found a sign which said,"
+    },
+    {
+      "voaid": "1143",
+      "EndTiming": "88.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "82.6",
+      "Sentence_cn": "“凡在此树林里丢弃垃圾者，将依法处置。” ---制作人:lintelite",
+      "Sentence": "'Anyone who leaves litter in these woods will be prosecuted!'"
+    }
+  ],
+  "size": 14,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14346,14347",
+    "title_cn": "林中散步",
+    "title": "A walk through the woods"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_143.mp3"
+}

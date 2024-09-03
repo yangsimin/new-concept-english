@@ -1,0 +1,364 @@
+{
+  "data": [
+    {
+      "voaid": "1032",
+      "EndTiming": "24.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "19.0",
+      "Sentence": "Number 20,000."
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "28.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "26.0",
+      "Sentence_cn": "尼古拉在铺床吗？",
+      "Sentence": "Is Nicola making the bed?　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "31.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "29.0",
+      "Sentence_cn": "不，她没在铺床。",
+      "Sentence": "No, she isn't making the bed.　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "34.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "32.7",
+      "Sentence_cn": "她在做什么？",
+      "Sentence": "What's she doing?　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "36.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "35.0",
+      "Sentence_cn": "她在打一封信。",
+      "Sentence": "She's typing a letter.　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "43.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "39.0",
+      "Sentence": "Number 90,000."
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "47.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "44.3",
+      "Sentence_cn": "杰克在穿衬衫吗？",
+      "Sentence": "Is Jack putting on his shirt?　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "51.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "48.2",
+      "Sentence_cn": "不，他没在穿衬衫。",
+      "Sentence": "No, he isn't putting on his shirt.　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "53.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "51.6",
+      "Sentence_cn": "他在做什么？",
+      "Sentence": "What's he doing?　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "55.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "53.5",
+      "Sentence_cn": "他在看杂志。",
+      "Sentence": "He's reading a magazine.　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "63.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "58.0",
+      "Sentence": "Number 70,000."
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "67.7",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "65.0",
+      "Sentence_cn": "狗在喝牛奶吗？",
+      "Sentence": "Is the dog drinking its milk?　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "71.4",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "68.3",
+      "Sentence_cn": "不，它没有喝牛奶。",
+      "Sentence": "No, it isn't drinking its milk.　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "74.4",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "72.7",
+      "Sentence_cn": "它在做什么？",
+      "Sentence": "What's it doing?　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "76.3",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "74.8",
+      "Sentence_cn": "它在啃骨头。",
+      "Sentence": "It's eating a bone.　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "171.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "166.0",
+      "Sentence": "Number 80,000."
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "177.0",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "173.0",
+      "Sentence_cn": "你姐姐在倒空篮子吗？",
+      "Sentence": "Is your sister emptying the basket?　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "183.5",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "179.5",
+      "Sentence_cn": "不，她没在倒空篮子。",
+      "Sentence": "No, she isn't emptying the basket.　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "186.5",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "184.5",
+      "Sentence_cn": "她在做什么？",
+      "Sentence": "What's she doing?　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "192.3",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "190.0",
+      "Sentence_cn": "她在看一张图片。",
+      "Sentence": "She's looking at a picture.　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "202.0",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "195.5",
+      "Sentence": "Number 600,000."
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "209.5",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "206.0",
+      "Sentence_cn": "蒂姆在刷牙吗？",
+      "Sentence": "Is Tim cleaning his teeth?　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "216.8",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "213.0",
+      "Sentence_cn": "不，他没在刷牙。",
+      "Sentence": "No, he isn't cleaning his teeth.　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "220.0",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "218.3",
+      "Sentence_cn": "他在做什么？",
+      "Sentence": "What's he doing?　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "225.5",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "223.0",
+      "Sentence_cn": "他在削铅笔。",
+      "Sentence": "He's sharpening a pencil.　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "233.5",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "228.5",
+      "Sentence": "Number 400,000."
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "240.0",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "237.5",
+      "Sentence_cn": "猫在吃东西吗?",
+      "Sentence": "Is the cat eating?　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "246.6",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "243.0",
+      "Sentence_cn": "不，它没在吃东西。",
+      "Sentence": "No, it isn't eating."
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "248.6",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "247.2",
+      "Sentence_cn": "它在做什么？",
+      "Sentence": "What's it doing?　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "254.0",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "252.0",
+      "Sentence_cn": "它在喝牛奶。",
+      "Sentence": "It's drinking its milk.　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "260.5",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "256.5",
+      "Sentence": "Number 60,000."
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "267.0",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "263.5",
+      "Sentence_cn": "沙莉在给梳妆台掸灰吗？",
+      "Sentence": "Is Sally dusting the dressing table?　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "274.5",
+      "Paraid": "1",
+      "IdIndex": "33",
+      "Timing": "270.5",
+      "Sentence_cn": "不，她没在给梳妆台掸灰。",
+      "Sentence": "No, she isn't dusting the dressing table.　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "278.5",
+      "Paraid": "1",
+      "IdIndex": "34",
+      "Timing": "277.2",
+      "Sentence_cn": "她在做什么？",
+      "Sentence": "What's she doing?　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "284.5",
+      "Paraid": "1",
+      "IdIndex": "35",
+      "Timing": "282.4",
+      "Sentence_cn": "她在关门。",
+      "Sentence": "She's shutting the door.　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "291.5",
+      "Paraid": "1",
+      "IdIndex": "36",
+      "Timing": "287.5",
+      "Sentence": "Number 40,000."
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "297.5",
+      "Paraid": "1",
+      "IdIndex": "37",
+      "Timing": "293.5",
+      "Sentence_cn": "里查德先生在开灯吗？",
+      "Sentence": "Is Mr. Richards turning on the light?　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "304.5",
+      "Paraid": "1",
+      "IdIndex": "38",
+      "Timing": "300.8",
+      "Sentence_cn": "不，他没在开灯。",
+      "Sentence": "No, he isn't turning on the light.　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "307.0",
+      "Paraid": "1",
+      "IdIndex": "39",
+      "Timing": "305.3",
+      "Sentence_cn": "他在做什么？",
+      "Sentence": "What's he doing?　"
+    },
+    {
+      "voaid": "1032",
+      "EndTiming": "312.0",
+      "Paraid": "1",
+      "IdIndex": "40",
+      "Timing": "309.8",
+      "Sentence_cn": "他在开窗户。",
+      "Sentence": "He's opening the window.　"
+    }
+  ],
+  "size": 40,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14213",
+    "title_cn": "他/她/它正在做什么？",
+    "title": "What's he/she/it doing?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_32.mp3"
+}

@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "voaid": "1121",
+      "EndTiming": "5.7",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "戴帽子的男士",
+      "Sentence": "--- lesson 121  The man in a hat"
+    },
+    {
+      "voaid": "1121",
+      "EndTiming": "11.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.5",
+      "Sentence_cn": "半小时以前我在这里买了两本很贵的辞典，",
+      "Sentence": "I bought two expensive dictionaries here half an hour ago,"
+    },
+    {
+      "voaid": "1121",
+      "EndTiming": "15.8",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "12.6",
+      "Sentence_cn": "但是我忘了拿走。",
+      "Sentence": "but I forgot to take them with me."
+    },
+    {
+      "voaid": "1121",
+      "EndTiming": "18.1",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "16.5",
+      "Sentence_cn": "是谁接待您的，先生？",
+      "Sentence": "Who served you, sir?"
+    },
+    {
+      "voaid": "1121",
+      "EndTiming": "22.3",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "19.0",
+      "Sentence_cn": "站在柜台后面的那位女士。",
+      "Sentence": "The lady who is standing behind the counter."
+    },
+    {
+      "voaid": "1121",
+      "EndTiming": "25.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "23.0",
+      "Sentence_cn": "您买的是两本什么书？",
+      "Sentence": "Which books did you buy?"
+    },
+    {
+      "voaid": "1121",
+      "EndTiming": "28.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "25.8",
+      "Sentence_cn": "就是柜台上的那两本。",
+      "Sentence": "The books which are on the counter."
+    },
+    {
+      "voaid": "1121",
+      "EndTiming": "33.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "29.2",
+      "Sentence_cn": "卡罗琳，半小时前你接待过这位先生吗？",
+      "Sentence": "Did you serve this gentleman half an hour ago, Caroline?"
+    },
+    {
+      "voaid": "1121",
+      "EndTiming": "38.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "34.3",
+      "Sentence_cn": "他说他就是买这两本书的人。",
+      "Sentence": "He says he's the man who bought these books."
+    },
+    {
+      "voaid": "1121",
+      "EndTiming": "40.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "38.8",
+      "Sentence_cn": "我记不起来了。",
+      "Sentence": "I can't remember."
+    },
+    {
+      "voaid": "1121",
+      "EndTiming": "45.8",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "41.5",
+      "Sentence_cn": "我接待的那个人戴着一顶帽子。",
+      "Sentence": "The man who I served was wearing a hat."
+    },
+    {
+      "voaid": "1121",
+      "EndTiming": "51.3",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "46.6",
+      "Sentence_cn": "先生，您有帽子吗？有的，我有帽子。",
+      "Sentence": "Have you got a hat, sir? Yes, I have."
+    },
+    {
+      "voaid": "1121",
+      "EndTiming": "54.4",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "52.2",
+      "Sentence_cn": "请您把帽子戴上好吗？",
+      "Sentence": "Would you put it on, please? "
+    },
+    {
+      "voaid": "1121",
+      "EndTiming": "55.9",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "54.9",
+      "Sentence_cn": "好吧。",
+      "Sentence": "All right."
+    },
+    {
+      "voaid": "1121",
+      "EndTiming": "60.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "56.7",
+      "Sentence_cn": "卡罗琳，这就是你接待过的那个人吗？",
+      "Sentence": "Is this the man that you served, Caroline?"
+    },
+    {
+      "voaid": "1121",
+      "EndTiming": "64.6",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "60.8",
+      "Sentence_cn": "是他。我现在认出他来了。",
+      "Sentence": "Yes.I recognize him now."
+    }
+  ],
+  "size": 16,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14323",
+    "title_cn": "戴帽子的男士",
+    "title": "The man in a hat"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_121.mp3"
+}

@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "voaid": "1134",
+      "EndTiming": "20.1",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "18.8",
+      "Sentence_cn": "我累了。",
+      "Sentence": "I'm tired."
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "22.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "21.2",
+      "Sentence_cn": "他说了什么？",
+      "Sentence": "What did he say?"
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "24.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "23.2",
+      "Sentence_cn": "他说他累了。",
+      "Sentence": "He said he was tired."
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "27.2",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "26.2",
+      "Sentence_cn": "我在看书。",
+      "Sentence": "I'm reading."
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "29.1",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "28.0",
+      "Sentence_cn": "她告诉你什么了？",
+      "Sentence": "What did she tell you?"
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "32.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "30.5",
+      "Sentence_cn": "她说她在看书。",
+      "Sentence": "She told me she was reading."
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "35.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "34.0",
+      "Sentence_cn": "我想离开。",
+      "Sentence": "I want to leave."
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "37.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "36.1",
+      "Sentence_cn": "他说什么？",
+      "Sentence": "What did he say?"
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "39.7",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "37.9",
+      "Sentence_cn": "他说他想离开了。",
+      "Sentence": "He said he wanted to leave."
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "43.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "41.1",
+      "Sentence_cn": "我不想去电影院。",
+      "Sentence": "I don't want to go to the cinema."
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "45.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "44.2",
+      "Sentence_cn": "她告诉你什么了？",
+      "Sentence": "What did she tell you?"
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "49.4",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "46.6",
+      "Sentence_cn": "她告诉我她不想去电影院。",
+      "Sentence": "She told me she didn't want to go to the cinema."
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "102.9",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "101.6",
+      "Sentence_cn": "它太贵了。",
+      "Sentence": "It's expensive."
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "105.3",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "104.4",
+      "Sentence_cn": "他说什么？",
+      "Sentence": "What did he say?"
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "110.3",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "108.5",
+      "Sentence_cn": "他曾说它太贵了。",
+      "Sentence": "He said it was expensive."
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "113.7",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "112.4",
+      "Sentence_cn": "汤姆在等你。",
+      "Sentence": "Tom is waiting for you."
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "116.2",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "114.9",
+      "Sentence_cn": "她告诉你什么？",
+      "Sentence": "What did she tell you?"
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "123.2",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "120.8",
+      "Sentence_cn": "她告诉我说汤姆在等我。",
+      "Sentence": "She told me Tom was waiting for me."
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "126.8",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "125.0",
+      "Sentence_cn": "爱丽丝感觉很累。",
+      "Sentence": "Alice feels tired."
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "128.9",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "128.0",
+      "Sentence_cn": "他说了什么？",
+      "Sentence": "What did he say?"
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "134.7",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "132.4",
+      "Sentence_cn": "他说爱丽丝感觉很累。",
+      "Sentence": "He said Alice felt tired."
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "138.0",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "136.7",
+      "Sentence_cn": "这事不急。",
+      "Sentence": "It isn't urgent."
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "140.3",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "139.2",
+      "Sentence_cn": "她告诉你什么？",
+      "Sentence": "What did she tell you?"
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "146.8",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "144.8",
+      "Sentence_cn": "她告诉我，这事不急。",
+      "Sentence": "She told me it wasn't urgent."
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "150.2",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "148.8",
+      "Sentence_cn": "我不是在开玩笑。",
+      "Sentence": "I'm not joking."
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "152.3",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "151.4",
+      "Sentence_cn": "他说什么？",
+      "Sentence": "What did he say?"
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "158.5",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "156.4",
+      "Sentence_cn": "他说他不是在开玩笑。",
+      "Sentence": "He said he wasn't joking."
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "161.5",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "159.9",
+      "Sentence_cn": "孩子们还不饿。",
+      "Sentence": "The children aren't hungry."
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "163.6",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "162.4",
+      "Sentence_cn": "她告诉你什么？",
+      "Sentence": "What did she tell you?"
+    },
+    {
+      "voaid": "1134",
+      "EndTiming": "170.4",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "168.1",
+      "Sentence_cn": "她说孩子们还不饿。",
+      "Sentence": "She told me the children weren't hungry."
+    }
+  ],
+  "size": 30,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14336",
+    "title_cn": "他曾说他…… 他曾告诉我说他……",
+    "title": "He said (that) he ... He told me (that) he ..."
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_134.mp3"
+}

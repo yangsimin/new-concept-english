@@ -1,0 +1,219 @@
+{
+  "data": [
+    {
+      "voaid": "4031",
+      "EndTiming": "4.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.8",
+      "Sentence_cn": "课文31  雕塑家的语言",
+      "Sentence": "--- Lesson 31 The sculptor speaks"
+    },
+    {
+      "voaid": "4031",
+      "EndTiming": "15.2",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.3",
+      "Sentence_cn": "你必须具备什么才能欣赏雕塑? ",
+      "Sentence": "What do you have to be able to do to appreciate sculpture?"
+    },
+    {
+      "voaid": "4031",
+      "EndTiming": "24.7",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "17.4",
+      "Sentence_cn": "对雕塑的鉴赏力取决于对立体的反应能力。",
+      "Sentence": "Appreciation of sculpture depends upon the ability to respond to form in 3 dimensions."
+    },
+    {
+      "voaid": "4031",
+      "EndTiming": "31.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "25.6",
+      "Sentence_cn": "雕塑被说成是所有艺术中最难的艺术，可能就是这个道理。",
+      "Sentence": "That is perhaps why sculpture has been described as the most difficult of all arts;"
+    },
+    {
+      "voaid": "4031",
+      "EndTiming": "40.8",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "32.2",
+      "Sentence_cn": "欣赏雕塑品当然比欣赏平面的艺术品要难。",
+      "Sentence": "certainly it is more difficult than the arts which involve appreciation of flat forms, shape in only two dimensions."
+    },
+    {
+      "voaid": "4031",
+      "EndTiming": "46.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "42.0",
+      "Sentence_cn": "形盲”的人数比“色盲”的人数要多得多。",
+      "Sentence": "Many more people are 'form-blind' than colour-blind."
+    },
+    {
+      "voaid": "4031",
+      "EndTiming": "57.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "48.5",
+      "Sentence_cn": "正在学看东西的儿童起初只会分辨二维形态，不会判断距离和深度。",
+      "Sentence": "The child learning to see, first distinguishes only two-dimensional shape; it cannot judge distances, depths."
+    },
+    {
+      "voaid": "4031",
+      "EndTiming": "71.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "58.0",
+      "Sentence_cn": "慢慢地，由于自身安全和实际需要，儿童必须发展（部分通过触觉）粗略判断三维空间距离的能力。",
+      "Sentence": "Later, for its personal safety and practical needs, it has to develop (partly by means of touch) the ability to judge roughly 3-dimensonal distances."
+    },
+    {
+      "voaid": "4031",
+      "EndTiming": "78.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "71.9",
+      "Sentence_cn": "但是。大部分人在满足了实际需要后，就不再继续发展这种能力了。",
+      "Sentence": "But having satisfied the requirements of practical necessity, most people go no further."
+    },
+    {
+      "voaid": "4031",
+      "EndTiming": "84.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "79.1",
+      "Sentence_cn": "虽然他们对平面形的感觉能达到相当准确的程度，",
+      "Sentence": "Though they may attain considerable accuracy in the perception of flat form,"
+    },
+    {
+      "voaid": "4031",
+      "EndTiming": "94.2",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "85.1",
+      "Sentence_cn": "但他们没有在智力和感情上进一步努力去理解存在于空间的整个形态。",
+      "Sentence": "they do not make the further intellectual and emotional effort needed to comprehend form in its full spatial existence."
+    },
+    {
+      "voaid": "4031",
+      "EndTiming": "97.7",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "95.3",
+      "Sentence_cn": "而雕塑家就必须做到这一点。",
+      "Sentence": "This is what the sculptor must do."
+    },
+    {
+      "voaid": "4031",
+      "EndTiming": "106.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "98.0",
+      "Sentence_cn": "他必须勤于想像并且利用形体在空间中的完整性。",
+      "Sentence": "He must strive continually to think of and use, form in its full spatial completeness."
+    },
+    {
+      "voaid": "4031",
+      "EndTiming": "119.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "106.0",
+      "Sentence_cn": "可以说，当他想像一个物体时，不管其大小如何，他脑子里得到的是一个立体的概念，就好像完全握在自己手心里一样。",
+      "Sentence": "He gets the solid shape as it were, inside his head -- he thinks of it, whatever its size, as if he were holding it completely enclosed in the hollow of his hand."
+    },
+    {
+      "voaid": "4031",
+      "EndTiming": "126.6",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "120.7",
+      "Sentence_cn": "他的大脑能从物体周围的各个角度勾画出其复杂的形象，",
+      "Sentence": "He mentally visualizes a complex form from all round itself;"
+    },
+    {
+      "voaid": "4031",
+      "EndTiming": "137.9",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "127.3",
+      "Sentence_cn": "他看物体的一边时，便知道另一边是个什么样子。他把自身和物体重心、质量、重量融为一体。",
+      "Sentence": "he knows while he looks at one side what the other side is like; he identifies himself with its centre of gravity, its mass, its weight;"
+    },
+    {
+      "voaid": "4031",
+      "EndTiming": "143.7",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "138.5",
+      "Sentence_cn": "他能意识到物体的体积，那就是它的形状有空气中所占的空间。",
+      "Sentence": "he realizes its volume as the space that the shape displaces in the air."
+    },
+    {
+      "voaid": "4031",
+      "EndTiming": "154.0",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "144.8",
+      "Sentence_cn": "因此，敏锐的雕塑观赏者也必须学会把形体作为形体来感觉，不要靠描述和印象去想象。",
+      "Sentence": "And the sensitive observer of sculpture must also learn to feel shape simply as shape, not as description or reminiscence."
+    },
+    {
+      "voaid": "4031",
+      "EndTiming": "163.8",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "154.5",
+      "Sentence_cn": "以鸟蛋为例。观赏者必须感觉到它是一个单一的实体形态，而完全不靠它的食用意义",
+      "Sentence": "He must, for example, perceive an egg as a simple single solid shape quite apart from its significance as food,"
+    },
+    {
+      "voaid": "4031",
+      "EndTiming": "168.1",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "164.6",
+      "Sentence_cn": "或它会变成鸟这样的文字概念来感觉。",
+      "Sentence": "or from the literary idea that it will become a bird."
+    },
+    {
+      "voaid": "4031",
+      "EndTiming": "177.8",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "169.1",
+      "Sentence_cn": "对于其他实体，如，贝壳、核桃、李子、梨子、蝌蚪、蘑菇、",
+      "Sentence": "And so with solids such as a shell, a nut, a plum, a pear, a tadpole, a mushroom,"
+    },
+    {
+      "voaid": "4031",
+      "EndTiming": "190.3",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "178.2",
+      "Sentence_cn": "山峰、肾脏、胡萝卜、树干、鸟儿、花蕾、云雀、瓢虫、芦苇以及骨头也应这样来感觉。",
+      "Sentence": "a mountain peak, a kidney, a carrot, a tree-trunk, a bird, a bud, a lark, a ladybird, a bulrush, a bone."
+    },
+    {
+      "voaid": "4031",
+      "EndTiming": "206.6",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "191.4",
+      "Sentence_cn": "从这些形体出发，观赏者可进一步观察更为复杂的形体或若干形体的组合。",
+      "Sentence": "From these he can go on to appreciate more complex forms or combinations of several forms."
+    }
+  ],
+  "size": 23,
+  "title": {
+    "newCategoryid": 1154,
+    "newTitleId": "14790,14791,14792",
+    "title_cn": "雕塑家的语言",
+    "title": "The sculptor speaks"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/4_31.mp3"
+}

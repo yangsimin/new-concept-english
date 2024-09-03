@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "voaid": "1120",
+      "EndTiming": "19.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "16.0",
+      "Sentence_cn": "你读了这本书吗？",
+      "Sentence": "Did you read the book?"
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "23.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "19.3",
+      "Sentence_cn": "是的，但是我先看了电影。",
+      "Sentence": "Yes, but I saw the film first."
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "26.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "23.2",
+      "Sentence_cn": "我在看了电影以后读了这本书。",
+      "Sentence": "I read the book after I had seen the film."
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "30.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "28.5",
+      "Sentence_cn": "你去看医生了吗？",
+      "Sentence": "Did you go to the doctor?"
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "34.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "30.8",
+      "Sentence_cn": "是的，但是我先预约了。",
+      "Sentence": "Yes, but I made an appointment first."
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "38.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "35.0",
+      "Sentence_cn": "我先预约然后去看了医生。",
+      "Sentence": "I went to the doctor after I had made an appointment."
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "42.7",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "40.0",
+      "Sentence_cn": "老板离开办公室了吗？",
+      "Sentence": "Did the boss leave the office?"
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "46.5",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "43.0",
+      "Sentence_cn": "是的，但是他先完成了工作。",
+      "Sentence": "Yes, but he finished his work first."
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "51.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "47.0",
+      "Sentence_cn": "他完成了工作以后离开了办公室。",
+      "Sentence": "He left the office after he had finished his work."
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "109.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "106.0",
+      "Sentence_cn": "你妻子出去了吗？",
+      "Sentence": "Did your wife go out?"
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "115.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "110.0",
+      "Sentence_cn": "是的，但是她先做完了家务。",
+      "Sentence": "Yes, but she finished the housework first."
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "122.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "118.0",
+      "Sentence_cn": "她做完家务以后出了门。",
+      "Sentence": "She went out after she had finished the housework."
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "127.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "123.0",
+      "Sentence_cn": "你的老师给你发练习本了吗？",
+      "Sentence": "Did your teacher give you your exercise book?"
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "132.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "128.0",
+      "Sentence_cn": "是的，他先改正了错误。",
+      "Sentence": "Yes, but he corrected it first."
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "141.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "135.0",
+      "Sentence_cn": "他改正了以后发给我练习本。",
+      "Sentence": "He gave me my exercise book after he had corrected it."
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "145.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "142.0",
+      "Sentence_cn": "你妹妹去度假了吗？",
+      "Sentence": "Did your sister go on holiday?"
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "151.0",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "146.0",
+      "Sentence_cn": "是的，但是她先参加了考试。",
+      "Sentence": "Yes, but she took the examination first."
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "160.0",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "155.0",
+      "Sentence_cn": "她参加完考试后去度假了。",
+      "Sentence": "She went on holiday after she had taken the examination."
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "164.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "161.0",
+      "Sentence_cn": "你买了新车吗？",
+      "Sentence": "Did you buy a new car?"
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "169.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "165.0",
+      "Sentence_cn": "是的，但是我先卖了旧车。",
+      "Sentence": "Yes, but I sold my old one first."
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "178.0",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "173.0",
+      "Sentence_cn": "卖了旧车以后我卖了新车。",
+      "Sentence": "I bought a new car after I had sold my old one."
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "182.0",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "179.0",
+      "Sentence_cn": "你妈妈擦地板了吗？",
+      "Sentence": "Did your mother sweep the floor?"
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "187.0",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "183.0",
+      "Sentence_cn": "是的，但是她先清理了橱柜。",
+      "Sentence": "Yes, but she dusted the cupboard first."
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "196.0",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "191.0",
+      "Sentence_cn": "清理了橱柜后她擦了地板。",
+      "Sentence": "She swept the floor after she had dusted the cupboard."
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "200.0",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "197.0",
+      "Sentence_cn": "你喝了牛奶吗？",
+      "Sentence": "Did you drink the milk?"
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "205.0",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "201.0",
+      "Sentence_cn": "是的，但是我先把它煮沸了。",
+      "Sentence": "Yes, but I boiled it first."
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "213.0",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "209.0",
+      "Sentence_cn": "牛奶煮沸后我才喝。",
+      "Sentence": "I drank the milk after I had boiled it."
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "218.0",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "216.0",
+      "Sentence_cn": "孩子们上床睡觉了吗？",
+      "Sentence": "Did the children go to bed?"
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "224.0",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "219.5",
+      "Sentence_cn": "是的，但是他们先洗了澡。",
+      "Sentence": "Yes, but they had a bath first."
+    },
+    {
+      "voaid": "1120",
+      "EndTiming": "232.0",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "226.0",
+      "Sentence_cn": "孩子们洗完澡后上床睡觉了。",
+      "Sentence": "The children went to bed after they had had a bath."
+    }
+  ],
+  "size": 30,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14322",
+    "title_cn": "事情已经发生了。",
+    "title": "It had already happened."
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_120.mp3"
+}

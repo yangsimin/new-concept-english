@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "voaid": "2005",
+      "EndTiming": "4.1",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "无错号之虞",
+      "Sentence": "--- Lesson 5 No wrong numbers"
+    },
+    {
+      "voaid": "2005",
+      "EndTiming": "13.6",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.0",
+      "Sentence_cn": "詹姆斯·斯科特先生在锡尔伯里有一个汽车修理部，现在他刚在平赫斯特买了另一个汽车修理部。",
+      "Sentence": "Mr. James Scott has a garage in Silbury and now he has just bought another garage in Pinhurst. "
+    },
+    {
+      "voaid": "2005",
+      "EndTiming": "17.7",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "14.3",
+      "Sentence_cn": "平赫斯特离锡尔伯里只有5英里，",
+      "Sentence": "Pinhurst is only five miles from Silbury, "
+    },
+    {
+      "voaid": "2005",
+      "EndTiming": "22.7",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "18.5",
+      "Sentence_cn": "但詹姆斯·斯科特先生未能为他新的汽车修理部搞到一部电话机，",
+      "Sentence": "but Mr. Scott cannot get a telephone for his new garage, "
+    },
+    {
+      "voaid": "2005",
+      "EndTiming": "26.3",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "22.7",
+      "Sentence_cn": "所以他买了12只鸽子。",
+      "Sentence": "so he has just bought twelve pigeons. "
+    },
+    {
+      "voaid": "2005",
+      "EndTiming": "32.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "27.1",
+      "Sentence_cn": "昨天，一只鸽子把第一封信从平赫斯特带到锡尔伯里。",
+      "Sentence": "Yesterday, a pigeon carried the first message from Pinhurst to Silbury. "
+    },
+    {
+      "voaid": "2005",
+      "EndTiming": "36.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "33.7",
+      "Sentence_cn": "这只鸟只用了3分钟就飞完了全程。",
+      "Sentence": "The bird covered the distance in three minutes. "
+    },
+    {
+      "voaid": "2005",
+      "EndTiming": "48.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "37.3",
+      "Sentence_cn": "到目前为止，斯科特先生从一个汽车修理部向另一个发送了大量索取备件的信件和其他紧急函件。",
+      "Sentence": "Up to now, Mr. Scott has sent a great many requests for spare parts and other urgent messages from one garage to the other. "
+    },
+    {
+      "voaid": "2005",
+      "EndTiming": "54.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "48.6",
+      "Sentence_cn": "就这样，他开始自己的私人“电话”业务。",
+      "Sentence": "In this way, he has begun his own private 'telephone' service. "
+    }
+  ],
+  "size": 9,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14358,14359",
+    "title_cn": "无错号之虞",
+    "title": "No wrong numbers"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_5.mp3"
+}

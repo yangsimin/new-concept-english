@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "1020",
+      "EndTiming": "22.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "18.0",
+      "Sentence_cn": "看那男孩的鞋。脏吗？",
+      "Sentence": "Look at that boy's shoes. Are they dirty?"
+    },
+    {
+      "voaid": "1020",
+      "EndTiming": "25.2",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "22.8",
+      "Sentence_cn": "不脏，是干净的。",
+      "Sentence": "They're not dirty. They're clean."
+    },
+    {
+      "voaid": "1020",
+      "EndTiming": "34.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "31.3",
+      "Sentence_cn": "看那些邮递员，他们冷吗？",
+      "Sentence": "Look at those postmen. Are they cold?"
+    },
+    {
+      "voaid": "1020",
+      "EndTiming": "38.1",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "35.5",
+      "Sentence_cn": "他们不冷，他们热。",
+      "Sentence": "They're not cold. They're hot."
+    },
+    {
+      "voaid": "1020",
+      "EndTiming": "48.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "44.7",
+      "Sentence_cn": "看那些理发师，他们瘦吗？",
+      "Sentence": "Look at those hairdressers. Are they thin?"
+    },
+    {
+      "voaid": "1020",
+      "EndTiming": "52.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "49.5",
+      "Sentence_cn": "不瘦，他们胖。",
+      "Sentence": "They're not thin. They're fat.　"
+    },
+    {
+      "voaid": "1020",
+      "EndTiming": "122.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "118.0",
+      "Sentence_cn": "看那些鞋，他们小吗？",
+      "Sentence": "Look at those shoes. Are they small?　"
+    },
+    {
+      "voaid": "1020",
+      "EndTiming": "128.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "125.0",
+      "Sentence_cn": "不小，他们大。",
+      "Sentence": "They're not small. They're big.　　"
+    },
+    {
+      "voaid": "1020",
+      "EndTiming": "140.6",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "137.3",
+      "Sentence_cn": "看那些商店，关门了吗？",
+      "Sentence": "Look at those shops. Are they shut?　"
+    },
+    {
+      "voaid": "1020",
+      "EndTiming": "146.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "142.8",
+      "Sentence_cn": "没关门，在营业。",
+      "Sentence": "They're not shut. They're open.　"
+    },
+    {
+      "voaid": "1020",
+      "EndTiming": "156.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "153.2",
+      "Sentence_cn": "看那些箱子，他们重吗？",
+      "Sentence": "Look at those cases. Are they heavy?　"
+    },
+    {
+      "voaid": "1020",
+      "EndTiming": "162.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "159.4",
+      "Sentence_cn": "不重，他们轻。",
+      "Sentence": "They're not heavy. They're light.　"
+    },
+    {
+      "voaid": "1020",
+      "EndTiming": "175.1",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "170.2",
+      "Sentence_cn": "看爷爷和奶奶，他们年轻吗？",
+      "Sentence": "Look at grandmother and grandfather. Are they young?　"
+    },
+    {
+      "voaid": "1020",
+      "EndTiming": "180.6",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "177.6",
+      "Sentence_cn": "不年轻，他们老了。",
+      "Sentence": "They're not young. They're old.　"
+    },
+    {
+      "voaid": "1020",
+      "EndTiming": "192.7",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "189.4",
+      "Sentence_cn": "看那些帽子，是新的吗？",
+      "Sentence": "Look at those hats. Are they new?　"
+    },
+    {
+      "voaid": "1020",
+      "EndTiming": "198.5",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "195.5",
+      "Sentence_cn": "不是新的，他们是旧的。",
+      "Sentence": "They're not new. They're old.　"
+    },
+    {
+      "voaid": "1020",
+      "EndTiming": "210.7",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "206.7",
+      "Sentence_cn": "看那些警察，他们矮吗？",
+      "Sentence": "Look at those policemen. Are they short?　"
+    },
+    {
+      "voaid": "1020",
+      "EndTiming": "216.3",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "213.0",
+      "Sentence_cn": "他们不矮，他们高。",
+      "Sentence": "They're not short. They're tall.　"
+    },
+    {
+      "voaid": "1020",
+      "EndTiming": "226.9",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "223.5",
+      "Sentence_cn": "看那些长裤，长吗？",
+      "Sentence": "Look at those trousers. Are they long?　"
+    },
+    {
+      "voaid": "1020",
+      "EndTiming": "232.5",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "229.4",
+      "Sentence_cn": "不长，它们短。",
+      "Sentence": "They're not long. They're short.　"
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14200",
+    "title_cn": "看看他们/它们！",
+    "title": "Look at them!"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_20.mp3"
+}

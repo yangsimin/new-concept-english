@@ -1,0 +1,317 @@
+{
+  "data": [
+    {
+      "voaid": "4023",
+      "EndTiming": "4.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "1.0",
+      "Sentence": "--- Lesson 23 Bird flight"
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "15.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.2",
+      "Sentence_cn": "作者描述的鸟类飞行的两种主要类型是什么? ",
+      "Sentence": "What are the two main types of bird flight described by the author?"
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "22.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "18.1",
+      "Sentence_cn": "没有任何两种鸟的飞行方式是相同的。",
+      "Sentence": "No two sorts of birds practise quite the same sort of flight;"
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "28.7",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "23.5",
+      "Sentence_cn": "鸟的飞行方式千差万别，但大体上可分为两类。",
+      "Sentence": "the varieties are infinite; but two classes may be roughly seen."
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "31.7",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "29.4",
+      "Sentence_cn": "任何一艘横度太平洋的轮船",
+      "Sentence": "Any ship that crosses the Pacific"
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "36.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "31.7",
+      "Sentence_cn": "都会有一种小信天翁伴随飞行许多天。",
+      "Sentence": "is accompanied for many days by the smaller albatross,"
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "39.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "37.0",
+      "Sentence_cn": "它们随船飞行一小时",
+      "Sentence": "which may keep company with the vessel for an hour"
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "44.1",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "40.2",
+      "Sentence_cn": "也难得见其扇动一下翅膀。",
+      "Sentence": "without visible or more than occasional movement of wing."
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "49.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "45.7",
+      "Sentence_cn": "沿船体的上升的气流",
+      "Sentence": "The currents of air that the walls of the ship direct upwards,"
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "53.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "50.2",
+      "Sentence_cn": "和沿航线向前的气流",
+      "Sentence": "as well as in the line of its course,"
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "57.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "53.8",
+      "Sentence_cn": "给这种巨翼大鸟",
+      "Sentence": "are enough to give the great bird with its immense wings"
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "59.9",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "57.5",
+      "Sentence_cn": "以足够的浮力和推力。",
+      "Sentence": "sufficient sustenance and progress."
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "63.9",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "59.9",
+      "Sentence_cn": "信天翁是滑翔飞行的鸟类之王，",
+      "Sentence": "The albatross is the king of the gliders,"
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "68.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "64.2",
+      "Sentence_cn": "它能自如地驾驭空气，",
+      "Sentence": "the class of fliers which harness the air to their purpose,"
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "70.6",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "68.3",
+      "Sentence_cn": "但必须顺气流飞行。",
+      "Sentence": "but must yield to its opposition."
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "75.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "71.5",
+      "Sentence_cn": "与滑翔鸟相对的另一类鸟中，数野鸭本领最高。",
+      "Sentence": "In the contrary school, the duck is supreme."
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "81.9",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "75.0",
+      "Sentence_cn": "它更近乎于人类自夸的“征服”了空气的发动机。",
+      "Sentence": "It comes nearer to the engines with which man has 'conquered' the air, as he boasts."
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "89.3",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "82.8",
+      "Sentence_cn": "野鸭及它们相似的鸽子有天赋的钢铁般的肌肉，",
+      "Sentence": "Duck, and like them the pigeons, are endowed with steel-like muscles,"
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "93.2",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "90.2",
+      "Sentence_cn": "占了体重的很大一部分。",
+      "Sentence": "that are a good part of the weight of the bird,"
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "98.3",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "93.4",
+      "Sentence_cn": "这些肌肉以巨大的力量扇动短小的翅膀，",
+      "Sentence": "and these will ply the short wings with such irresistible power"
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "103.1",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "98.5",
+      "Sentence_cn": "使这类鸟能顶着大风飞行很远的路",
+      "Sentence": "that they can bore for long distances through an opposing gale"
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "105.0",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "103.1",
+      "Sentence_cn": "才会疲劳。",
+      "Sentence": "before exhaustion follows."
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "109.3",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "105.5",
+      "Sentence_cn": "次于野鸭和鸽子的鸟，",
+      "Sentence": "Their humbler followers, such as partridges,"
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "113.8",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "109.3",
+      "Sentence_cn": "如鹧鸪，有相似的巨大推动力，但很快会疲劳。",
+      "Sentence": "have a like power of strong propulsion, but soon tire."
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "117.1",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "114.4",
+      "Sentence_cn": "你可以捡到一些因筋疲力尽而摔下来的鹧鸪。",
+      "Sentence": "You may pick them up in utter exhaustion,"
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "121.0",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "117.6",
+      "Sentence_cn": "如果海风驱使它们飞行很长距离。",
+      "Sentence": "if wind over the sea has driven them to a long journey."
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "126.1",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "121.8",
+      "Sentence_cn": "燕子充分兼有这两类鸟的长处，",
+      "Sentence": "The swallow shares the virtues of both schools in highest measure."
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "132.4",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "126.6",
+      "Sentence_cn": "它既不疲劳，也不炫耀自己的飞翔力；在空中十分自如，",
+      "Sentence": "It tires not, nor does it boast of its power; but belongs to the air"
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "138.5",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "133.1",
+      "Sentence_cn": "可以飞行6，000英里，可以飞往北方做窝的老家，",
+      "Sentence": "travelling it may be six thousand miles to and from its northern nesting home,"
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "143.5",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "139.0",
+      "Sentence_cn": "一边飞一边喂养会飞的雏燕，甚至在顶风时也能在气流中滑翔，",
+      "Sentence": "feeding its flown young as it flies, and slipping through a medium"
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "148.2",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "143.5",
+      "Sentence_cn": "似乎气流在帮它前进。",
+      "Sentence": "that seems to help its passage even when the wind is adverse."
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "150.6",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "148.9",
+      "Sentence_cn": "这些鸟对我们是有益的，",
+      "Sentence": "Such birds do us good,"
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "155.9",
+      "Paraid": "1",
+      "IdIndex": "33",
+      "Timing": "151.0",
+      "Sentence_cn": "虽然我们不再从它们的飞翔姿态来占卜吉凶，",
+      "Sentence": "though we no longer take omens from their flight on this side and that;"
+    },
+    {
+      "voaid": "4023",
+      "EndTiming": "173.4",
+      "Paraid": "1",
+      "IdIndex": "34",
+      "Timing": "156.2",
+      "Sentence_cn": "连最迷信的村民也不再对喜鹊脱帽行礼，祝它早安了。",
+      "Sentence": "and even the most superstitious villagers no longer take off their hats to the magpie and wish it good-morning."
+    }
+  ],
+  "size": 34,
+  "title": {
+    "newCategoryid": 1154,
+    "newTitleId": "14762,14763,14764",
+    "title_cn": "鸟的飞行方法",
+    "title": "Bird flight"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/4_23.mp3"
+}

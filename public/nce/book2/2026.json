@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "voaid": "2026",
+      "EndTiming": "5.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.7",
+      "Sentence_cn": "最佳艺术评论家",
+      "Sentence": "--- Lesson 26  The best art critics"
+    },
+    {
+      "voaid": "2026",
+      "EndTiming": "10.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.9",
+      "Sentence_cn": "我是个学艺术的学生，画了很多画。",
+      "Sentence": "I am an art student and I paint a lot of pictures."
+    },
+    {
+      "voaid": "2026",
+      "EndTiming": "15.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "11.3",
+      "Sentence_cn": "有很多人装成很懂现代艺术的样子，",
+      "Sentence": "Many people pretend that they understand modern art."
+    },
+    {
+      "voaid": "2026",
+      "EndTiming": "19.7",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "16.2",
+      "Sentence_cn": "总是告诉你一幅画的“意思”是什么。",
+      "Sentence": "They always tell you what a picture is \"about\"."
+    },
+    {
+      "voaid": "2026",
+      "EndTiming": "24.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "20.4",
+      "Sentence_cn": "当然，有很多画是什么“意思”也没有的。",
+      "Sentence": "Of course, many pictures are not \"about\" anything."
+    },
+    {
+      "voaid": "2026",
+      "EndTiming": "27.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "25.1",
+      "Sentence_cn": "它们就是些好看的图案，",
+      "Sentence": "They are just pretty patterns."
+    },
+    {
+      "voaid": "2026",
+      "EndTiming": "32.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "27.7",
+      "Sentence_cn": "我们喜爱它们就像我们喜欢漂亮的窗帘布一样。",
+      "Sentence": "We like them in the same way that we like pretty curtain material."
+    },
+    {
+      "voaid": "2026",
+      "EndTiming": "42.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "33.2",
+      "Sentence_cn": "我觉得小孩子们往往比任何人都更能欣赏现代绘画，他们观察到的东西更多。",
+      "Sentence": "I think that young children often appreciate modern pictures better than anyone else. They notice more."
+    },
+    {
+      "voaid": "2026",
+      "EndTiming": "50.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "43.0",
+      "Sentence_cn": "我的妹妹只有7岁，但她总能说出我的画是好还是坏。",
+      "Sentence": "My sister is only seven, but she always tells me whether my pictures are good or not."
+    },
+    {
+      "voaid": "2026",
+      "EndTiming": "56.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "51.1",
+      "Sentence_cn": "昨天她到我房里来了。“你在干什么？”，她问道。",
+      "Sentence": "She came into my room yesterday.  \"What are you doing?\" she asked."
+    },
+    {
+      "voaid": "2026",
+      "EndTiming": "65.4",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "56.8",
+      "Sentence_cn": "“我正把这幅画挂到墙上去。”我回答说，“这是幅新画,你喜欢吗？”",
+      "Sentence": "\"I'm hanging this picture on the wall,\" I answered. \"It's a new one. Do you like it?\""
+    },
+    {
+      "voaid": "2026",
+      "EndTiming": "68.3",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "65.4",
+      "Sentence_cn": "她用挑剔的目光看了一会儿。",
+      "Sentence": "She looked at it critically for a moment."
+    },
+    {
+      "voaid": "2026",
+      "EndTiming": "73.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "69.0",
+      "Sentence_cn": "“还可以吧。”她说，“不过，是不是挂倒了？”",
+      "Sentence": "\"It's all right,\" she said, \"but isn't it upside down?\""
+    },
+    {
+      "voaid": "2026",
+      "EndTiming": "76.1",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "74.6",
+      "Sentence_cn": "我再次看了看画。",
+      "Sentence": "I looked at it again."
+    },
+    {
+      "voaid": "2026",
+      "EndTiming": "79.4",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "76.6",
+      "Sentence_cn": "她说对了！是挂倒了！",
+      "Sentence": "She was right! It was!"
+    }
+  ],
+  "size": 15,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14396",
+    "title_cn": "最佳艺术评论家",
+    "title": "The best art critics"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_26.mp3"
+}

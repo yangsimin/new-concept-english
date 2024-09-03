@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "voaid": "1009",
+      "EndTiming": "4.6",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "你今天好吗？",
+      "Sentence": "lesson 9  How are you today?"
+    },
+    {
+      "voaid": "1009",
+      "EndTiming": "6.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.2",
+      "Sentence_cn": "你好，海伦。",
+      "Sentence": "Hello, Helen."
+    },
+    {
+      "voaid": "1009",
+      "EndTiming": "8.3",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "7.1",
+      "Sentence_cn": "你好，史蒂文。",
+      "Sentence": "Hi, Steven."
+    },
+    {
+      "voaid": "1009",
+      "EndTiming": "10.9",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "9.0",
+      "Sentence_cn": "你今天好吗？",
+      "Sentence": "How are you today?"
+    },
+    {
+      "voaid": "1009",
+      "EndTiming": "13.8",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "11.6",
+      "Sentence_cn": "很好，谢谢你。",
+      "Sentence": "I'm very well, thank you."
+    },
+    {
+      "voaid": "1009",
+      "EndTiming": "15.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "14.2",
+      "Sentence_cn": "你好吗？",
+      "Sentence": "And you?"
+    },
+    {
+      "voaid": "1009",
+      "EndTiming": "17.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "15.7",
+      "Sentence_cn": "很好，谢谢。",
+      "Sentence": "I'm fine, thanks."
+    },
+    {
+      "voaid": "1009",
+      "EndTiming": "19.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "18.2",
+      "Sentence_cn": "托尼好吗？",
+      "Sentence": "How is Tony?"
+    },
+    {
+      "voaid": "1009",
+      "EndTiming": "22.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "20.2",
+      "Sentence_cn": "他很好，谢谢。",
+      "Sentence": "He's fine, thanks."
+    },
+    {
+      "voaid": "1009",
+      "EndTiming": "23.7",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "22.8",
+      "Sentence_cn": "埃玛好吗？",
+      "Sentence": "How's Emma?"
+    },
+    {
+      "voaid": "1009",
+      "EndTiming": "27.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "24.2",
+      "Sentence_cn": "她也很好，海伦。",
+      "Sentence": "She's very well, too, Helen."
+    },
+    {
+      "voaid": "1009",
+      "EndTiming": "28.9",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "27.8",
+      "Sentence_cn": "再见，海伦。",
+      "Sentence": "Goodbye, Helen."
+    },
+    {
+      "voaid": "1009",
+      "EndTiming": "30.6",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "29.3",
+      "Sentence_cn": "见到你真高兴。",
+      "Sentence": "Nice to see you."
+    },
+    {
+      "voaid": "1009",
+      "EndTiming": "34.3",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "30.6",
+      "Sentence_cn": "我见到你也很高兴，史蒂文。",
+      "Sentence": "Nice to see you, too, Steven."
+    },
+    {
+      "voaid": "1009",
+      "EndTiming": "35.6",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "34.8",
+      "Sentence_cn": "再见。",
+      "Sentence": "Goodbye."
+    }
+  ],
+  "size": 15,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14189",
+    "title_cn": "你今天好吗？",
+    "title": "How are you today?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_9.mp3"
+}

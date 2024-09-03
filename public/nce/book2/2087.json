@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "voaid": "2087",
+      "EndTiming": "4.7",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "极好的不在犯罪现场的证据",
+      "Sentence": "--- Lesson 87  A perfect alibi"
+    },
+    {
+      "voaid": "2087",
+      "EndTiming": "14.1",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.7",
+      "Sentence_cn": "“在凶杀发生的时候，我正坐在8点钟开往伦敦的火车上。”那人说。",
+      "Sentence": "'At the time the murder was committed, I was travelling on the 8 o'clock train to London,' said the man."
+    },
+    {
+      "voaid": "2087",
+      "EndTiming": "20.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "14.1",
+      "Sentence_cn": "“您总是赶这样早的火车？”探长问。",
+      "Sentence": "'Do you always catch such an early train?' asked the inspector."
+    },
+    {
+      "voaid": "2087",
+      "EndTiming": "32.1",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "20.7",
+      "Sentence_cn": "“当然是的，”那人回答。“我必须在10点钟上班，我的雇主会证明我是按时到了那儿的。”",
+      "Sentence": "'Of course I do,' answered the man. 'I must be at work at 10 o'clock. My employer will confirm that I was there on time.'"
+    },
+    {
+      "voaid": "2087",
+      "EndTiming": "38.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "32.2",
+      "Sentence_cn": "“晚一点儿的车也能送您按时上班吗？”",
+      "Sentence": "'Would a later train get you to work on time?' asked the inspector."
+    },
+    {
+      "voaid": "2087",
+      "EndTiming": "43.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "39.0",
+      "Sentence_cn": "“我认为可以，但我从来不乘晚一点儿的车。”",
+      "Sentence": "'I suppose it would, but I never catch a later train.'"
+    },
+    {
+      "voaid": "2087",
+      "EndTiming": "48.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "43.6",
+      "Sentence_cn": "“您几点钟到的火车站？”",
+      "Sentence": "'At what time did you arrive at the station?'"
+    },
+    {
+      "voaid": "2087",
+      "EndTiming": "53.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "48.7",
+      "Sentence_cn": "“7点50分。我买了张报纸，等着车来。”",
+      "Sentence": "'At ten to eight. I bought a paper and waited for the train.'"
+    },
+    {
+      "voaid": "2087",
+      "EndTiming": "58.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "53.7",
+      "Sentence_cn": "“您没有注意到有什么异常情况发生吗？”",
+      "Sentence": "'And you didn't notice anything unusual?'"
+    },
+    {
+      "voaid": "2087",
+      "EndTiming": "60.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "59.3",
+      "Sentence_cn": "“当然没有。”",
+      "Sentence": "'Of course not.'"
+    },
+    {
+      "voaid": "2087",
+      "EndTiming": "64.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "61.2",
+      "Sentence_cn": "“我提醒您，”探长说，",
+      "Sentence": "'I suggest,' said the inspector,"
+    },
+    {
+      "voaid": "2087",
+      "EndTiming": "67.8",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "65.2",
+      "Sentence_cn": "“您讲的不是实话。",
+      "Sentence": "'that you are not telling the truth."
+    },
+    {
+      "voaid": "2087",
+      "EndTiming": "79.2",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "68.1",
+      "Sentence_cn": "您乘的不是8点钟的火车，而是8点25分的，这次车同样能使您按时上班。",
+      "Sentence": "I suggest that you did not catch the 8 o'clock train, but that you caught the 8.25 which would still get you to work on time."
+    },
+    {
+      "voaid": "2087",
+      "EndTiming": "86.9",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "79.8",
+      "Sentence_cn": "您看，在凶杀发生的那天早晨，8点钟的那次车根本没有发。",
+      "Sentence": "You see, on the morning of the murder, the 8 o'clock train did not run at all."
+    },
+    {
+      "voaid": "2087",
+      "EndTiming": "92.7",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "87.6",
+      "Sentence_cn": "它在芬格林车站出了故障而被取消了。”",
+      "Sentence": "It broke down at Ferngreen station and was taken off the line.'"
+    }
+  ],
+  "size": 15,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14500,14501",
+    "title_cn": "极好的不在犯罪现场的证据",
+    "title": "A perfect alibi"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_87.mp3"
+}

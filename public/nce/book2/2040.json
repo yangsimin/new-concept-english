@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "voaid": "2040",
+      "EndTiming": "4.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.7",
+      "Sentence_cn": "进餐与交谈",
+      "Sentence": "--- Lesson 40  Food and talk"
+    },
+    {
+      "voaid": "2040",
+      "EndTiming": "11.6",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.1",
+      "Sentence_cn": "在上星期的一次宴会上，女主人安排我坐在兰伯尔德夫人的身旁。",
+      "Sentence": "Last week at a dinner party, the hostess asked me to sit next to Mrs.Rumbold."
+    },
+    {
+      "voaid": "2040",
+      "EndTiming": "18.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "12.4",
+      "Sentence_cn": "兰伯尔德夫人是一位身材高大、表情严肃的女人，穿一件紧身的黑衣服。",
+      "Sentence": "Mrs.Rumbold was a large, unsmiling lady in a tight black dress."
+    },
+    {
+      "voaid": "2040",
+      "EndTiming": "23.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "18.8",
+      "Sentence_cn": "当我在她身旁坐下来的时候，她甚至连头都没有抬一下。",
+      "Sentence": "She did not even look up when I took my seat beside her."
+    },
+    {
+      "voaid": "2040",
+      "EndTiming": "29.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "23.6",
+      "Sentence_cn": "她的眼睛盯着自己的盘子，不一会儿就忙着吃起来了。",
+      "Sentence": "Her eyes were fixed on her plate and in a short time, she was busy eating."
+    },
+    {
+      "voaid": "2040",
+      "EndTiming": "40.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "30.3",
+      "Sentence_cn": "我试图找个话题和她聊聊。\"一个新剧要看‘环球剧场’上演了，”我说，“您去看吗？”",
+      "Sentence": "I tried to make conversation. 'A new play is coming to \" The Globe\" soon, ' I  said. ' will you be seeing it?'"
+    },
+    {
+      "voaid": "2040",
+      "EndTiming": "44.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "40.5",
+      "Sentence_cn": "“不，”她回答。 ",
+      "Sentence": "'No,' she answered."
+    },
+    {
+      "voaid": "2040",
+      "EndTiming": "49.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "44.0",
+      "Sentence_cn": "“您今年去国外度假吗？”我又问。",
+      "Sentence": "'Will you be spending your holidays abroad this year?' I asked."
+    },
+    {
+      "voaid": "2040",
+      "EndTiming": "52.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "50.6",
+      "Sentence_cn": "“不，”她回答。",
+      "Sentence": "'No,' she answered."
+    },
+    {
+      "voaid": "2040",
+      "EndTiming": "56.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "53.2",
+      "Sentence_cn": "“您就呆在英国吗？”我问。",
+      "Sentence": "'Will you be staying in England?' I asked."
+    },
+    {
+      "voaid": "2040",
+      "EndTiming": "59.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "57.3",
+      "Sentence_cn": "“不，”她回答。",
+      "Sentence": "'No,' she answered."
+    },
+    {
+      "voaid": "2040",
+      "EndTiming": "64.6",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "60.0",
+      "Sentence_cn": "失望之中我问她饭是否吃得满意。",
+      "Sentence": "In despair, I asked her whether she was enjoying her dinner."
+    },
+    {
+      "voaid": "2040",
+      "EndTiming": "74.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "65.4",
+      "Sentence_cn": "“年轻人，”她回答说，“如果你多吃点，少说点，我们两个都会吃得好的！” ",
+      "Sentence": "'Young man,' she answered, 'if you ate more and talked less, we would both enjoy our dinner!'"
+    }
+  ],
+  "size": 13,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14416",
+    "title_cn": "进餐与交谈",
+    "title": "Food and talk"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_40.mp3"
+}

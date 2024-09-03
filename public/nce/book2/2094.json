@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "voaid": "2094",
+      "EndTiming": "4.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "未来的冠军",
+      "Sentence": "--- Lesson 94  Future champions"
+    },
+    {
+      "voaid": "2094",
+      "EndTiming": "12.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.6",
+      "Sentence_cn": "实验证明，儿童在很小的时候就可以开始学习游泳。",
+      "Sentence": "Experiments have proved that children can be instructed in swimming at a very early age."
+    },
+    {
+      "voaid": "2094",
+      "EndTiming": "16.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "13.4",
+      "Sentence_cn": "在洛杉矶的一个特设的游泳池里，",
+      "Sentence": "At a special swimming pool in Los Angeles,"
+    },
+    {
+      "voaid": "2094",
+      "EndTiming": "23.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "17.1",
+      "Sentence_cn": "孩子们甚至在还没有学会走路时就已经能熟练地在水下屏住呼吸了。",
+      "Sentence": "children become expert at holding their breath under water even before they can walk."
+    },
+    {
+      "voaid": "2094",
+      "EndTiming": "30.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "24.2",
+      "Sentence_cn": "两个月的婴儿并未显得不愿意入水。",
+      "Sentence": "Babies of two months old do not appear to be reluctant to enter the water."
+    },
+    {
+      "voaid": "2094",
+      "EndTiming": "38.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "30.6",
+      "Sentence_cn": "他们很快便适应了游泳，以致能捡起池底的物品。",
+      "Sentence": "It is not long before they are so accustomed to swimming that they can pick up weights from the floor of the pool."
+    },
+    {
+      "voaid": "2094",
+      "EndTiming": "45.3",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "38.8",
+      "Sentence_cn": "这些幼小的游泳运动员非常喜爱的一种游戏是水下三轮车比赛。",
+      "Sentence": "A game that is very popular with these young swimmers is the underwater tricycle race."
+    },
+    {
+      "voaid": "2094",
+      "EndTiming": "51.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "46.1",
+      "Sentence_cn": "三轮车并排放在7英尺深的游泳池底上。",
+      "Sentence": "Tricycles are lined up on the floor of the pool seven feet under water."
+    },
+    {
+      "voaid": "2094",
+      "EndTiming": "57.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "52.4",
+      "Sentence_cn": "孩子们比赛看谁先到达游泳池的另一端。",
+      "Sentence": "The children compete against each other to reach the other end of the pool."
+    },
+    {
+      "voaid": "2094",
+      "EndTiming": "64.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "58.1",
+      "Sentence_cn": "很多孩子用脚蹬车，但多数孩子更愿意推或是拉着三轮车。",
+      "Sentence": "Many pedal their tricycles, but most of them prefer to push or drag them."
+    },
+    {
+      "voaid": "2094",
+      "EndTiming": "72.2",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "65.1",
+      "Sentence_cn": "有些孩子能够跑完游泳池的全长而不用露出水面换气。",
+      "Sentence": "Some children can cover the whole length of the pool without coming up for breath even once."
+    },
+    {
+      "voaid": "2094",
+      "EndTiming": "78.5",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "73.0",
+      "Sentence_cn": "他们将来是否能成为奥林匹克的冠军，这只能由时间来作出回答。",
+      "Sentence": "Whether they will ever become future Olympic champions, only time will tell."
+    },
+    {
+      "voaid": "2094",
+      "EndTiming": "87.5",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "79.3",
+      "Sentence_cn": "与此同时，他们对我们中的那些游不了5码就已喘不过气来的人应该是种鼓舞。",
+      "Sentence": "Meanwhile, they should encourage those among us who cannot swim five yards before they are gasping for air."
+    }
+  ],
+  "size": 13,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14512",
+    "title_cn": "未来的冠军",
+    "title": "Future champions"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_94.mp3"
+}

@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "1125",
+      "EndTiming": "5.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "两个人一起喝茶",
+      "Sentence": "--- lesson 125  Tea for two"
+    },
+    {
+      "voaid": "1125",
+      "EndTiming": "9.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.8",
+      "Sentence_cn": "彼得，你现在能进来喝茶吗？",
+      "Sentence": "Can't you come in and have tea now, Peter?"
+    },
+    {
+      "voaid": "1125",
+      "EndTiming": "11.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.3",
+      "Sentence_cn": "还不能。",
+      "Sentence": "Not yet."
+    },
+    {
+      "voaid": "1125",
+      "EndTiming": "14.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "11.7",
+      "Sentence_cn": "我得先给花园浇水。",
+      "Sentence": "I must water the garden first."
+    },
+    {
+      "voaid": "1125",
+      "EndTiming": "17.9",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "15.1",
+      "Sentence_cn": "你一定得现在浇吗？",
+      "Sentence": "Do you have to water it now?"
+    },
+    {
+      "voaid": "1125",
+      "EndTiming": "20.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "18.6",
+      "Sentence_cn": "恐怕我得现在浇。",
+      "Sentence": "I'm afraid I must."
+    },
+    {
+      "voaid": "1125",
+      "EndTiming": "21.7",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "20.8",
+      "Sentence_cn": "你看看，",
+      "Sentence": "Look at it!"
+    },
+    {
+      "voaid": "1125",
+      "EndTiming": "24.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "22.3",
+      "Sentence_cn": "干得厉害。",
+      "Sentence": "It's terribly dry."
+    },
+    {
+      "voaid": "1125",
+      "EndTiming": "26.6",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "24.6",
+      "Sentence_cn": "真讨厌！",
+      "Sentence": "What a nuisance!"
+    },
+    {
+      "voaid": "1125",
+      "EndTiming": "30.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "27.1",
+      "Sentence_cn": "去年夏天也是干得很。",
+      "Sentence": "Last summer it was very dry, too."
+    },
+    {
+      "voaid": "1125",
+      "EndTiming": "32.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "31.2",
+      "Sentence_cn": "你不记得了吗？",
+      "Sentence": "Don't you remember?"
+    },
+    {
+      "voaid": "1125",
+      "EndTiming": "36.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "33.3",
+      "Sentence_cn": "我不得不每天浇水。",
+      "Sentence": "I had to water it every day."
+    },
+    {
+      "voaid": "1125",
+      "EndTiming": "40.4",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "36.5",
+      "Sentence_cn": "好吧，我一个人喝茶了。",
+      "Sentence": "Well, I'll have tea by myself."
+    },
+    {
+      "voaid": "1125",
+      "EndTiming": "42.7",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "41.2",
+      "Sentence_cn": "好快啊！",
+      "Sentence": "That was quick!"
+    },
+    {
+      "voaid": "1125",
+      "EndTiming": "45.6",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "43.3",
+      "Sentence_cn": "你已经浇完了？",
+      "Sentence": "Have you finished already?"
+    },
+    {
+      "voaid": "1125",
+      "EndTiming": "48.9",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "45.8",
+      "Sentence_cn": "是的。你看看窗外。",
+      "Sentence": "Yes. Look out of the window."
+    },
+    {
+      "voaid": "1125",
+      "EndTiming": "51.4",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "49.8",
+      "Sentence_cn": "下雨了！",
+      "Sentence": "It's raining!"
+    },
+    {
+      "voaid": "1125",
+      "EndTiming": "56.2",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "51.9",
+      "Sentence_cn": "这就是说，你不必给花园浇水了。",
+      "Sentence": "That means you don't need to water the garden."
+    },
+    {
+      "voaid": "1125",
+      "EndTiming": "59.5",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "57.0",
+      "Sentence_cn": "这是意想不到的好事。",
+      "Sentence": "That was a pleasant surprise."
+    },
+    {
+      "voaid": "1125",
+      "EndTiming": "63.1",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "60.3",
+      "Sentence_cn": "这意味着我反倒可以喝茶了。",
+      "Sentence": "It means I can have tea, instead."
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14327",
+    "title_cn": "两个人一起喝茶",
+    "title": "Tea for two"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_125.mp3"
+}

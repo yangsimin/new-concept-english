@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "voaid": "2092",
+      "EndTiming": "4.1",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "自找麻烦",
+      "Sentence": "--- Lesson 92  Asking for trouble"
+    },
+    {
+      "voaid": "2092",
+      "EndTiming": "9.2",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.1",
+      "Sentence_cn": "我回到家时，肯定已是凌晨两点左右了。",
+      "Sentence": "It must have been about two in the morning when I returned home."
+    },
+    {
+      "voaid": "2092",
+      "EndTiming": "15.8",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "9.8",
+      "Sentence_cn": "我按响了门铃，试图唤醒我的妻子，但她睡得很熟。",
+      "Sentence": "I tried to wake up my wife by ringing the doorbell, but she was fast asleep,"
+    },
+    {
+      "voaid": "2092",
+      "EndTiming": "24.7",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "16.4",
+      "Sentence_cn": "于是，我从花园的小棚里搬来了一个梯子，把它靠在墙边，开始向卧室的窗口爬去。",
+      "Sentence": "so I got a ladder from the shed in the garden, put it against the wall, and began climbing towards the bedroom window."
+    },
+    {
+      "voaid": "2092",
+      "EndTiming": "35.8",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "25.4",
+      "Sentence_cn": "快要爬到窗口时，下面一个人用讽刺的口吻说：“我看不必在夜里这个时候擦窗子吧。”",
+      "Sentence": "I was almost there when a sarcastic voice below said, 'I don't think the windows need cleaning at this time of the night.'"
+    },
+    {
+      "voaid": "2092",
+      "EndTiming": "41.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "36.5",
+      "Sentence_cn": "我向下面看去。当我看清是一个警察时，差一点儿从梯子上掉下去。",
+      "Sentence": "I looked down and nearly fell off the ladder when I saw a policeman."
+    },
+    {
+      "voaid": "2092",
+      "EndTiming": "52.2",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "42.2",
+      "Sentence_cn": "我回答了他的话，但马上又后悔不该那样说，我是这样说的：“我喜欢在夜里擦窗子。”",
+      "Sentence": "I immediately regretted answering in the way I did, but I said, 'I enjoy cleaning windows at night.'"
+    },
+    {
+      "voaid": "2092",
+      "EndTiming": "60.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "52.2",
+      "Sentence_cn": "“我也是的，”警察用同样的声调回答，“请原谅我打断了您。",
+      "Sentence": "'So do I,' answered the policeman in the same tone. 'Excuse my interrupting you."
+    },
+    {
+      "voaid": "2092",
+      "EndTiming": "70.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "61.2",
+      "Sentence_cn": "当一个人在忙着干活时，我是不愿意去打断他的，但请您跟我到警察局去一趟好吗？”",
+      "Sentence": "I hate to interrupt a man when he's busy working, but would you mind coming with me to the station?'"
+    },
+    {
+      "voaid": "2092",
+      "EndTiming": "77.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "70.5",
+      "Sentence_cn": "“可我更愿意呆在这儿，”我说，“您瞧，我忘带钥匙了。”",
+      "Sentence": "'Well, I'd prefer to stay here,' I said. 'You see. I've forgotten my key.'"
+    },
+    {
+      "voaid": "2092",
+      "EndTiming": "80.7",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "78.2",
+      "Sentence_cn": "“什么？”他大声问。",
+      "Sentence": "'Your what?' he called."
+    },
+    {
+      "voaid": "2092",
+      "EndTiming": "84.3",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "81.2",
+      "Sentence_cn": "“钥匙！”我喊道。",
+      "Sentence": "'My key,' I shouted."
+    },
+    {
+      "voaid": "2092",
+      "EndTiming": "94.4",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "84.8",
+      "Sentence_cn": "幸运得很，这喊声惊醒了我的妻子。就在警察开始向我爬上来时，她打开了窗子。",
+      "Sentence": "Fortunately, the shouting woke up my wife who opened the window just as the policeman had started to climb towards me."
+    }
+  ],
+  "size": 13,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14509,14510",
+    "title_cn": "自找麻烦",
+    "title": "Asking for trouble"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_92.mp3"
+}

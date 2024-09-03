@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "voaid": "1124",
+      "EndTiming": "20.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "18.0",
+      "Sentence_cn": "它不是这个测试吗？",
+      "Sentence": "Isn't this the test?"
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "23.2",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "21.0",
+      "Sentence_cn": "你不是对我说过它吗？",
+      "Sentence": "Didn't you speak to me about it?"
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "27.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "23.4",
+      "Sentence_cn": "是的，这是我和你谈论的那个测试。",
+      "Sentence": "Yes, this is the test I spoke to you about."
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "30.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "28.5",
+      "Sentence_cn": "他不是那个人吗?",
+      "Sentence": "Isn't that the person?"
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "32.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "31.0",
+      "Sentence_cn": "你不是与他说过话吗？",
+      "Sentence": "Didn't you speak to him?"
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "36.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "33.0",
+      "Sentence_cn": "是的，那是和我说话的那个人。",
+      "Sentence": "Yes. that's the person I spoke to."
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "38.8",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "37.0",
+      "Sentence_cn": "她不是那个女孩吗？",
+      "Sentence": "Isn't she the girl?"
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "41.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "39.0",
+      "Sentence_cn": "你不是向我问过她吗？",
+      "Sentence": "Didn't you ask me about her?"
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "45.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "41.3",
+      "Sentence_cn": "是的，她是我和你说的那个女孩。",
+      "Sentence": "Yes, she's the girl I asked you about."
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "93.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "91.0",
+      "Sentence_cn": "它们不是那些照片吗？",
+      "Sentence": "Aren't these the photographs?"
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "96.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "94.0",
+      "Sentence_cn": "你不是看过它们吗？",
+      "Sentence": "Didn't you look at them?"
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "103.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "98.5",
+      "Sentence_cn": "是的，它们是我看的那些照片。",
+      "Sentence": "Yes, these are the photographs I looked at."
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "106.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "103.5",
+      "Sentence_cn": "他们不是那些演员嘛？",
+      "Sentence": "Aren't they the actors?"
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "108.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "106.5",
+      "Sentence_cn": "你不是已看过有关他们的书吗？",
+      "Sentence": "Didn't you read about them?"
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "116.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "112.0",
+      "Sentence_cn": "是的，他们是我读到的那些演员。",
+      "Sentence": "Yes, they're the actors I read about."
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "118.5",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "116.5",
+      "Sentence_cn": "它不是那艘船吗？",
+      "Sentence": "Isn't that the ship?"
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "122.0",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "119.0",
+      "Sentence_cn": "你不是乘它旅行的吗？",
+      "Sentence": "Didn't you travel on it?"
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "129.0",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "125.0",
+      "Sentence_cn": "是的，他们是我旅行乘坐的那艘船。",
+      "Sentence": "Yes, that's the ship I travelled on"
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "132.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "130.0",
+      "Sentence_cn": "它不是那个城市吗？",
+      "Sentence": "Isn't that the city?"
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "135.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "132.5",
+      "Sentence_cn": "你朋友不是来自那儿吗？",
+      "Sentence": "Didn't your friends come from there?"
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "142.0",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "138.0",
+      "Sentence_cn": "是的，那是我朋友来自的城市。",
+      "Sentence": "Yes, that's the city my friends came from."
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "145.0",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "143.0",
+      "Sentence_cn": "那不是那个节目吗？",
+      "Sentence": "Isn't that the programme?"
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "148.0",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "145.5",
+      "Sentence_cn": "你不是经常听吗？",
+      "Sentence": "Don't you always listen to it?"
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "156.0",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "151.0",
+      "Sentence_cn": "是的，那是我经常听的那个节目。",
+      "Sentence": "Yes, that's the programme I always listen to."
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "159.5",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "157.0",
+      "Sentence_cn": "那不是那个商店吗？",
+      "Sentence": "Isn't that the shop?"
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "163.0",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "160.0",
+      "Sentence_cn": "你不是在那儿买的帽子吗？",
+      "Sentence": "Didn't you get your hat from there?"
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "171.0",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "166.0",
+      "Sentence_cn": "是的，那是我买帽子的那个商店。",
+      "Sentence": "Yes. that's the shop I got my hat from"
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "173.5",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "171.5",
+      "Sentence_cn": "那不是那个椅子吗？",
+      "Sentence": "Isn't that the chair?"
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "177.0",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "174.0",
+      "Sentence_cn": "你不是坐过的吗？",
+      "Sentence": "Didn't you sit on it?"
+    },
+    {
+      "voaid": "1124",
+      "EndTiming": "183.0",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "178.0",
+      "Sentence_cn": "是的，那是我坐的那个椅子。",
+      "Sentence": "Yes, that's the chair I sat on."
+    }
+  ],
+  "size": 30,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14326",
+    "title_cn": "关系代词",
+    "title": "(Who) / (whom), (which) and (that)"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_124.mp3"
+}

@@ -1,0 +1,255 @@
+{
+  "data": [
+    {
+      "voaid": "3033",
+      "EndTiming": "4.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.3",
+      "Sentence_cn": "难忘的一天",
+      "Sentence": "--- lesson 33  A day to remember"
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "8.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.8",
+      "Sentence_cn": "我们大家都有过事事不顺心的日子。",
+      "Sentence": "We have all experienced days when everything goes wrong."
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "14.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.5",
+      "Sentence_cn": "一天开始时，可能还不错，但突然间似乎一切都失去了控制。",
+      "Sentence": "A day may begin well enough, but suddenly everything seems to get out of control."
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "23.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "15.3",
+      "Sentence_cn": "情况经常是这样的，许许多多的事情都偏偏赶在同一时刻出问题，",
+      "Sentence": "What invariably happens is that a great number of things choose to go wrong at precisely the same moment."
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "28.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "23.2",
+      "Sentence_cn": "好像是一件无关紧要的小事引起了一连串的连锁反应。",
+      "Sentence": "It is as if a single unimportant event set up a chain of reactions."
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "35.7",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "28.2",
+      "Sentence_cn": "假设你在做饭，同时又在照看孩子。",
+      "Sentence": "Let us suppose that you are preparing a meal and keeping an eye on the baby at the same time."
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "43.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "36.4",
+      "Sentence_cn": "这时电话铃响了。它预示着一连串意想不到的灾难的来临。",
+      "Sentence": "The telephone rings and this marks the prelude to an unforeseen series of catastrophes."
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "49.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "44.3",
+      "Sentence_cn": "就在你接电话时，孩子把桌布从桌子上扯下来，",
+      "Sentence": "While you are on the phone, the baby pulls the tablecloth off the table,"
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "54.6",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "49.4",
+      "Sentence_cn": "将家中最好的陶瓷餐具半数摔碎，同时也弄伤了他自己。",
+      "Sentence": "smashing half your best crockery and cutting himself in the process."
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "60.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "55.2",
+      "Sentence_cn": "你急急忙忙挂上电话，赶去照看孩子和餐具。",
+      "Sentence": "You hang up hurriedly and attend to baby, crockery, etc."
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "62.9",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "60.6",
+      "Sentence_cn": "这时，饭又烧糊了。",
+      "Sentence": "Meanwhile, the meal gets burnt."
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "72.1",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "63.3",
+      "Sentence_cn": "好像这一切还不足以使你急得掉泪，你的丈夫接着回来了，事先没打招呼就带来3个客人吃饭。",
+      "Sentence": "As if this were not enough to reduce you to tears, your husband arrives, unexpectedly bringing three guests to dinner."
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "81.1",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "72.4",
+      "Sentence_cn": "就像许多人最近在悉尼郊区帕拉马塔所发现的那样，有时乱子会闹得很大。",
+      "Sentence": "Things can go wrong on a big scale, as a number of people recently discovered in Parramatta, a suburb of Sydney."
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "88.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "81.4",
+      "Sentence_cn": "一天傍晚交通最拥挤时，一辆汽车撞上前面一辆汽车，两个司机争吵起来。",
+      "Sentence": "During the rush hour one evening two cars collided and both drivers began to argue."
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "94.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "89.2",
+      "Sentence_cn": "紧跟其后的一辆车上的司机碰巧是个初学者，",
+      "Sentence": "The woman immediately behind the two cars happened to be a learner."
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "98.5",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "94.2",
+      "Sentence_cn": "她一惊之下突然把车停了下来。",
+      "Sentence": "She suddenly got into a panic and stopped her car."
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "102.5",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "99.2",
+      "Sentence_cn": "她这一停使得跟在后头的司机也来个急刹车。",
+      "Sentence": "This made the driver following her brake hard."
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "106.8",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "103.0",
+      "Sentence_cn": "司机妻子正坐在他身边，手里托着块大蛋糕。",
+      "Sentence": "His wife was sitting beside him holding a large cake."
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "114.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "107.3",
+      "Sentence_cn": "她往前一冲，蛋糕从挡风玻璃飞了出去掉到马路上。此时，一辆卡车正好从后边开到那辆汽车边上，",
+      "Sentence": "As she was thrown forward, the cake went right through the windscreen and landed on the road."
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "123.7",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "114.6",
+      "Sentence_cn": "司机看见一块蛋糕从天而降，紧急刹车。",
+      "Sentence": "Seeing a cake flying through the air, a lorry driver who was drawing up alongside the car, pulled up all of a sudden."
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "132.9",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "124.2",
+      "Sentence_cn": "卡车上装着空啤酒瓶。成百只瓶子顺势从卡车后面滑出车外落在马路上。",
+      "Sentence": "The lorry was loaded with empty beer bottles and hundreds of them slid off the back of the vehicle and on to the road."
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "137.3",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "133.0",
+      "Sentence_cn": "这又引起了一场唇枪舌剑的争吵。",
+      "Sentence": "This led to yet another angry argument."
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "140.9",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "137.6",
+      "Sentence_cn": "与此同时，后面的车辆排成了长龙，",
+      "Sentence": "Meanwhile, the traffic piled up behind."
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "146.2",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "141.4",
+      "Sentence_cn": "警察花了将近一个小时才使车辆又开起来。",
+      "Sentence": "It took the police nearly an hour to get the traffic on the move again."
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "153.1",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "146.2",
+      "Sentence_cn": "在这段时间里，卡车司机不得不清扫那几百只破瓶子。",
+      "Sentence": "In the meantime, the lorry driver had to sweep up hundreds of broken bottles."
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "161.7",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "153.6",
+      "Sentence_cn": "只有两只野狗从这一片混乱中得到了好处，它们贪婪地吃掉了剩下的蛋糕。",
+      "Sentence": "Only two stray dogs benefited from all this confusion, for they greedily devoured what was left of the cake."
+    },
+    {
+      "voaid": "3033",
+      "EndTiming": "164.8",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "161.7",
+      "Sentence_cn": "这就是事事不顺心的那么一天！",
+      "Sentence": "It was just one of those days!"
+    }
+  ],
+  "size": 27,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14610,14611,14612",
+    "title_cn": "难忘的一天",
+    "title": "A day to remember"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_33.mp3"
+}

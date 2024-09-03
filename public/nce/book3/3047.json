@@ -1,0 +1,300 @@
+{
+  "data": [
+    {
+      "voaid": "3047",
+      "EndTiming": "4.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "代价太高?",
+      "Sentence": "--- lesson 47  Too high a price?"
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "10.9",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.8",
+      "Sentence_cn": "污染就是我们为这个人口过密，过度工业化的星球所付出的代价。",
+      "Sentence": "Pollution is the price we pay for an overpopulated, over-industrialized planet."
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "16.4",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "11.6",
+      "Sentence_cn": "当我们开始考虑垃圾问题时，我们只有4种对付垃圾的方法：",
+      "Sentence": "When you come to think about it, there are only four ways you can deal with rubbish:"
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "23.1",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "16.8",
+      "Sentence_cn": "倾倒、焚烧、把垃圾变成再生材料或试图少产生一些垃圾。",
+      "Sentence": "dump it, burn it, turn it into something you can use again, attempt to produce less of it."
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "32.7",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "23.8",
+      "Sentence_cn": "我们一直在试这4种方式，但是，我们在世界范围内仅产生的垃圾的量就有把我们覆盖的危险。",
+      "Sentence": "We keep trying all four methods, but he sheer volume of rubbish we produce worldwide threatens to overwhelm us."
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "37.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "33.4",
+      "Sentence_cn": "然而，垃圾只是我们这个星球的污染问题的一个方面。",
+      "Sentence": "Rubbish, however, is only part of the problem of polluting our planet."
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "45.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "38.5",
+      "Sentence_cn": "日益增长的对廉价食物的需求导致了另一种形式的污染。",
+      "Sentence": "The need to produce ever-increasing quantities of cheap food leads to a different kind of pollution."
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "52.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "46.0",
+      "Sentence_cn": "工业化的农作方式生产出廉价的肉类制品--牛肉、猪肉和鸡肉。",
+      "Sentence": "Industrialized farming methods produce cheap meat products: beef, pork and chicken."
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "58.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "53.2",
+      "Sentence_cn": "使用杀虫剂和化肥生产出了廉价的谷物和蔬菜。",
+      "Sentence": "The use of pesticides and fertilizers produces cheap grain and vegetables."
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "63.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "59.3",
+      "Sentence_cn": "为了廉价食物我们付出的代价已经太高了：",
+      "Sentence": "The price we pay for cheap food may be already too high:"
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "73.4",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "64.2",
+      "Sentence_cn": "牛肉中的疯牛病，鸡肉和鸡蛋中的沙门氏菌，奶制品中的利斯特杆菌。",
+      "Sentence": "Mad Cow Disease (BSE) in cattle, salmonella in chicken and eggs, and listeria in dairy products."
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "78.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "74.2",
+      "Sentence_cn": "如果你想放弃肉类而变成一位素食者，",
+      "Sentence": "And if you think you'll abandon meat and become a vegetarian,"
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "83.2",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "78.0",
+      "Sentence_cn": "那么你可以两者择一：或是选用价格昂贵、有机培植的蔬菜，",
+      "Sentence": "you have the choice of very expensive organically-grown vegetables"
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "93.3",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "83.2",
+      "Sentence_cn": "或是当你认为在享用新鲜色拉和新鲜蔬菜或饮用一杯无害的水的时候，实际上每次都不断吃进杀虫剂。",
+      "Sentence": "or a steady diet of pesticides every time you think you're eating fresh salads and vegetables, or just having an innocent glass of water!"
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "106.2",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "93.9",
+      "Sentence_cn": "但是，还有一种更加隐蔽有害的污染，它专门影响城镇地区，侵袭我们的日常生活，那就是噪音。",
+      "Sentence": "However, there is an even more insidious kind of pollution that particularly affects urban areas and invades our daily lives, and that is noise."
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "116.9",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "106.8",
+      "Sentence_cn": "防盗警报器在白天和黑夜的任何时候都会响起来，它的作用只是骚扰过路行人，而实际上却帮助窃贼入室行窃。",
+      "Sentence": "Burglar alarms going off at any time of the day or night serve only to annoy passers-by and actually assist burglars to burgle."
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "123.7",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "117.4",
+      "Sentence_cn": "在街上，汽车的防盗警报不断对我们吼叫，这是人们极度烦燥的一个原因，",
+      "Sentence": "Car alarms constantly scream at us in the street and are a source of profound irritation."
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "138.9",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "124.4",
+      "Sentence_cn": "最近一个有关噪音的作用的调查（令人吃惊地）指出，夜间连续不断的狗叫声，在一个从1级至7级刻度表上应列为最严重的噪间污染。",
+      "Sentence": "A recent survey of the effects of noise revealed (surprisingly) that dogs barking incessantly in the night rated the highest form of noise pollution on a scale ranging from 1 to 7."
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "152.2",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "139.7",
+      "Sentence_cn": "这个调查揭示了我们所不喜欢的大量的噪间的来源：夏天呜呜作响的割草机，公寓楼里深夜聚会的喧哗声，",
+      "Sentence": "The survey revealed a large number of sources of noise that we really dislike. Lawn mowers whining on a summer's day,late-night parties in apartment blocks, "
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "163.4",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "152.2",
+      "Sentence_cn": "大声吵闹的邻居，各式各样的车辆，特别是穿越寂静的村庄的集装箱卡车，从头顶飞过的飞机和直升机，",
+      "Sentence": "noisy neighbours, vehicles of all kinds,especially large container trucks thundering through quiet villages, planes and helicopters flying overhead,"
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "169.8",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "163.9",
+      "Sentence_cn": "被带到公共场所、音量开到最大的大功率收音机。",
+      "Sentence": "large radios carried round in public places and played at maximum volume."
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "175.0",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "170.5",
+      "Sentence_cn": "新技术也为噪音作了它的贡献。",
+      "Sentence": "New technology has also made its own contribution to noise."
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "184.9",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "175.5",
+      "Sentence_cn": "许多人都反对移动式电话，特别是在如饭店，公共交通车等公共场所使用移动电话。",
+      "Sentence": "A lot of people object to mobile phones, especially when they are used in public places like restaurants or on public transport."
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "194.2",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "185.6",
+      "Sentence_cn": "用移动电话大声交谈干扰我们的思路，破坏我们和朋友在一起轻声聊天所得到的乐趣。",
+      "Sentence": "Loud conversations on mobile phones invade our thoughts or interrupt the pleasure of meeting friends for a quiet chat."
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "202.8",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "194.6",
+      "Sentence_cn": "这个有关噪音的污染调查还揭示了一种出人意外同时可能会引人发笑的老式噪音源。",
+      "Sentence": "The noise pollution survey revealed a rather surprising and possibly amusing old fashioned source of noise."
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "206.2",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "202.8",
+      "Sentence_cn": "它竟然是鼾声。",
+      "Sentence": "It turned out to be snoring!"
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "209.5",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "206.8",
+      "Sentence_cn": "人类是这方面的罪魁祸首。",
+      "Sentence": "Men were found to be the worst offenders."
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "215.0",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "210.0",
+      "Sentence_cn": "调查指出，20%的35岁左右的男人打鼾；",
+      "Sentence": "It was revealed that 20% of men in their mid-thirties snore."
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "221.4",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "215.0",
+      "Sentence_cn": "而到60岁这个年龄段，这个数字上升到令人惊愕的60%。",
+      "Sentence": "This figure rises to a staggering 60% of men in their sixties."
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "227.8",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "221.9",
+      "Sentence_cn": "与这些数字相比，只有5% 的女性经常打鼾，",
+      "Sentence": "Against these figures, it was found that only 5% of women snore regularly,"
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "234.2",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "228.2",
+      "Sentence_cn": "而其余的则经常被与她们同睡、像吹号似地打着呼噜的男人吵醒或弄得睡不着。",
+      "Sentence": "while the rest are constantly woken or kept awake by their trumpeting partners."
+    },
+    {
+      "voaid": "3047",
+      "EndTiming": "244.3",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "234.9",
+      "Sentence_cn": "不管噪声来自何方，有一点是肯定的：看来寂静已变成一种珍贵的回忆。",
+      "Sentence": "Whatever the source of noise, one thing is certain: silence, it seems, has become a golden memory."
+    }
+  ],
+  "size": 32,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14649,14650,14651",
+    "title_cn": "代价太高?",
+    "title": "Too high a price?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_47.mp3"
+}

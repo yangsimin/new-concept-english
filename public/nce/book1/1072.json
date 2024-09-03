@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "1072",
+      "EndTiming": "16.6",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "12.4",
+      "Sentence_cn": "你昨天做了什么？",
+      "Sentence": "Look at the first picture. What did you do yesterday?"
+    },
+    {
+      "voaid": "1072",
+      "EndTiming": "19.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "17.4",
+      "Sentence_cn": "我昨天给房间通了风。",
+      "Sentence": "I aired the room yesterday."
+    },
+    {
+      "voaid": "1072",
+      "EndTiming": "24.4",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "20.2",
+      "Sentence_cn": "她昨天晚上做了什么？",
+      "Sentence": "The sixth picture. What did she do last night?"
+    },
+    {
+      "voaid": "1072",
+      "EndTiming": "27.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "25.1",
+      "Sentence_cn": "她昨天晚上听了音乐。",
+      "Sentence": "She listened to the stereo last night."
+    },
+    {
+      "voaid": "1072",
+      "EndTiming": "32.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "28.6",
+      "Sentence_cn": "他今天早上做了什么？",
+      "Sentence": "The eleventh picture. What did he do this morning?"
+    },
+    {
+      "voaid": "1072",
+      "EndTiming": "35.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "33.4",
+      "Sentence_cn": "他今天早上刮脸了。",
+      "Sentence": "He shaved this morning."
+    },
+    {
+      "voaid": "1072",
+      "EndTiming": "83.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "76.0",
+      "Sentence_cn": "他前天晚上做了什么？",
+      "Sentence": "The thirteenth picture. What did she do the night before last?"
+    },
+    {
+      "voaid": "1072",
+      "EndTiming": "90.8",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "87.0",
+      "Sentence_cn": "她前天晚上给她丈夫打了电话。",
+      "Sentence": "She telephoned her husband the night before last."
+    },
+    {
+      "voaid": "1072",
+      "EndTiming": "97.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "92.0",
+      "Sentence_cn": "你昨天晚上做了什么？",
+      "Sentence": "The fourteenth picture. What did you do last night?"
+    },
+    {
+      "voaid": "1072",
+      "EndTiming": "103.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "100.8",
+      "Sentence_cn": "我昨天晚上给医生打电话了。",
+      "Sentence": "I called the doctor last night."
+    },
+    {
+      "voaid": "1072",
+      "EndTiming": "112.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "105.4",
+      "Sentence_cn": "她前天做了什么？",
+      "Sentence": "The fifteenth picture. What did she do the day before yesterday?"
+    },
+    {
+      "voaid": "1072",
+      "EndTiming": "119.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "115.4",
+      "Sentence_cn": "她前天倒空了篮子。",
+      "Sentence": "She emptied the basket the day before yesterday."
+    },
+    {
+      "voaid": "1072",
+      "EndTiming": "125.2",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "120.0",
+      "Sentence_cn": "我昨天早上做了什么？",
+      "Sentence": "The seventh picture. What did I do yesterday morning?"
+    },
+    {
+      "voaid": "1072",
+      "EndTiming": "131.4",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "128.8",
+      "Sentence_cn": "昨天早上你煮了个鸡蛋。",
+      "Sentence": "You boiled an egg yesterday morning."
+    },
+    {
+      "voaid": "1072",
+      "EndTiming": "140.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "133.2",
+      "Sentence_cn": "你和汤姆昨天做了什么？",
+      "Sentence": "The second picture. What did you and Tom do yesterday?"
+    },
+    {
+      "voaid": "1072",
+      "EndTiming": "145.8",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "143.0",
+      "Sentence_cn": "我们昨天擦鞋了。",
+      "Sentence": "We cleaned our shoes yesterday."
+    },
+    {
+      "voaid": "1072",
+      "EndTiming": "154.6",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "147.3",
+      "Sentence_cn": "孩子们昨天下午做了什么？",
+      "Sentence": "The ninth picture. What did the children do yesterday afternoon?"
+    },
+    {
+      "voaid": "1072",
+      "EndTiming": "160.2",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "157.0",
+      "Sentence_cn": "他们昨天下午在花园里玩。",
+      "Sentence": "They played in the garden yesterday afternoon."
+    },
+    {
+      "voaid": "1072",
+      "EndTiming": "167.2",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "161.6",
+      "Sentence_cn": "他今天做了什么？",
+      "Sentence": "The tenth picture. What did he do today?"
+    },
+    {
+      "voaid": "1072",
+      "EndTiming": "171.9",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "170.0",
+      "Sentence_cn": "他今天待在床上。",
+      "Sentence": "He stayed in bed today."
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14261",
+    "title_cn": "你什么时候……？",
+    "title": "When did you...?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_72.mp3"
+}

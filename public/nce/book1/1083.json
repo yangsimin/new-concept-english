@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "voaid": "1083",
+      "EndTiming": "4.7",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "度假",
+      "Sentence": "--- lesson 83  Going on holiday"
+    },
+    {
+      "voaid": "1083",
+      "EndTiming": "7.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.2",
+      "Sentence_cn": "你好，萨姆。进来吧。",
+      "Sentence": "Hello, Sam. Come in."
+    },
+    {
+      "voaid": "1083",
+      "EndTiming": "9.7",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.6",
+      "Sentence_cn": "你好，萨姆。",
+      "Sentence": "Hi, Sam."
+    },
+    {
+      "voaid": "1083",
+      "EndTiming": "11.7",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "10.2",
+      "Sentence_cn": "我们正在吃午饭，",
+      "Sentence": "We're having lunch."
+    },
+    {
+      "voaid": "1083",
+      "EndTiming": "15.4",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "12.4",
+      "Sentence_cn": "你跟我们一起吃午饭好吗？",
+      "Sentence": "Do you want to have lunch with us?"
+    },
+    {
+      "voaid": "1083",
+      "EndTiming": "18.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "16.2",
+      "Sentence_cn": "不，汤姆，谢谢。",
+      "Sentence": "No, thank you, Tom."
+    },
+    {
+      "voaid": "1083",
+      "EndTiming": "20.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "18.4",
+      "Sentence_cn": "我已经吃过饭了。",
+      "Sentence": "I've already had lunch."
+    },
+    {
+      "voaid": "1083",
+      "EndTiming": "24.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "21.1",
+      "Sentence_cn": "我在12点半吃的。",
+      "Sentence": "I had lunch at half past twelve."
+    },
+    {
+      "voaid": "1083",
+      "EndTiming": "27.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "25.0",
+      "Sentence_cn": "那么喝杯咖啡吧。",
+      "Sentence": "Have a cup of coffee then."
+    },
+    {
+      "voaid": "1083",
+      "EndTiming": "30.7",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "28.0",
+      "Sentence_cn": "我刚喝了一杯，谢谢。",
+      "Sentence": "I've just had a cup, thank you."
+    },
+    {
+      "voaid": "1083",
+      "EndTiming": "33.7",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "31.3",
+      "Sentence_cn": "我是在饭后喝的。",
+      "Sentence": "I had one after my lunch."
+    },
+    {
+      "voaid": "1083",
+      "EndTiming": "37.5",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "34.5",
+      "Sentence_cn": "我们到客厅里去吧，卡罗尔。",
+      "Sentence": "Let's go into the living room,Carol."
+    },
+    {
+      "voaid": "1083",
+      "EndTiming": "40.5",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "38.2",
+      "Sentence_cn": "我们可以在那里喝咖啡。",
+      "Sentence": "We can have our coffee there."
+    },
+    {
+      "voaid": "1083",
+      "EndTiming": "43.7",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "41.3",
+      "Sentence_cn": "屋子很乱，请原谅，萨姆。",
+      "Sentence": "Excuse the mess, Sam."
+    },
+    {
+      "voaid": "1083",
+      "EndTiming": "47.1",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "44.5",
+      "Sentence_cn": "房间里乱七八糟。",
+      "Sentence": "This room's very untidy."
+    },
+    {
+      "voaid": "1083",
+      "EndTiming": "50.1",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "47.7",
+      "Sentence_cn": "我们正在收拾手提箱。",
+      "Sentence": "We're packing our suitcases."
+    },
+    {
+      "voaid": "1083",
+      "EndTiming": "53.3",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "50.7",
+      "Sentence_cn": "明天我们就要走了。",
+      "Sentence": "We're going to leave tomorrow."
+    },
+    {
+      "voaid": "1083",
+      "EndTiming": "57.7",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "54.0",
+      "Sentence_cn": "我和汤姆准备去度假。",
+      "Sentence": "Tom and I are going to have a holiday."
+    },
+    {
+      "voaid": "1083",
+      "EndTiming": "60.1",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "58.5",
+      "Sentence_cn": "你们真幸运！",
+      "Sentence": "Aren't you lucky!"
+    },
+    {
+      "voaid": "1083",
+      "EndTiming": "64.3",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "60.9",
+      "Sentence_cn": "萨姆，你准备什么时候去度假？",
+      "Sentence": "When are you going to have a holiday, Sam?"
+    },
+    {
+      "voaid": "1083",
+      "EndTiming": "66.3",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "65.0",
+      "Sentence_cn": "我不知道。",
+      "Sentence": "I don't know."
+    },
+    {
+      "voaid": "1083",
+      "EndTiming": "70.3",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "66.9",
+      "Sentence_cn": "今年我已度过假了。",
+      "Sentence": "I've already had my holiday this year."
+    },
+    {
+      "voaid": "1083",
+      "EndTiming": "72.7",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "71.2",
+      "Sentence_cn": "你去哪儿了？",
+      "Sentence": "Where did you go?"
+    },
+    {
+      "voaid": "1083",
+      "EndTiming": "74.9",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "72.7",
+      "Sentence_cn": "我呆在这里了！",
+      "Sentence": "I stayed at home!"
+    }
+  ],
+  "size": 24,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14275,14276",
+    "title_cn": "度假",
+    "title": "Going on holiday"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_83.mp3"
+}

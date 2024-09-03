@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "voaid": "2035",
+      "EndTiming": "4.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "捉贼！",
+      "Sentence": "--- Lesson 35  Stop thief!"
+    },
+    {
+      "voaid": "2035",
+      "EndTiming": "8.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.3",
+      "Sentence_cn": "罗伊.特雷顿原是开出租汽车的，",
+      "Sentence": "Roy Trenton used to drive a taxi."
+    },
+    {
+      "voaid": "2035",
+      "EndTiming": "16.8",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "9.3",
+      "Sentence_cn": "然而就在前不久，他开上了公共汽车，也并不为此而感到后悔。",
+      "Sentence": "A short while ago, however, he became a bus driver and he has not regretted it."
+    },
+    {
+      "voaid": "2035",
+      "EndTiming": "21.2",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "17.3",
+      "Sentence_cn": "他发觉自己的新工作令人兴奋得多。",
+      "Sentence": "He is finding his new work far more exciting."
+    },
+    {
+      "voaid": "2035",
+      "EndTiming": "25.7",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "22.0",
+      "Sentence_cn": "最近，当他正开车在凯特福德街上行驶时，",
+      "Sentence": "When he was driving along Catford Street recently,"
+    },
+    {
+      "voaid": "2035",
+      "EndTiming": "32.7",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "26.3",
+      "Sentence_cn": "看到有两个小偷从一家商店里冲出来，奔向等在那里的一辆汽车，",
+      "Sentence": "he saw two thieves rush out of a shop and run towards a waiting car."
+    },
+    {
+      "voaid": "2035",
+      "EndTiming": "37.3",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "33.5",
+      "Sentence_cn": "其中一个提着一只装满钞票的提包。",
+      "Sentence": "One of them was carrying a bag full of money."
+    },
+    {
+      "voaid": "2035",
+      "EndTiming": "42.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "38.0",
+      "Sentence_cn": "罗伊行动迅速，开车直冲窃贼而去。",
+      "Sentence": "Roy acted quickly and drove the bus straight at the thieves."
+    },
+    {
+      "voaid": "2035",
+      "EndTiming": "48.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "43.6",
+      "Sentence_cn": "拿钱的那个小偷吓得把提包都扔了。",
+      "Sentence": "The one with the money got such a fright that he dropped the bag."
+    },
+    {
+      "voaid": "2035",
+      "EndTiming": "56.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "49.1",
+      "Sentence_cn": "当那两个小偷企图乘车逃跑时，罗伊驾驶他的公共汽车撞在了那辆车的后尾上。",
+      "Sentence": "As the thieves were trying to get away in their car, Roy drove his bus into the back of it."
+    },
+    {
+      "voaid": "2035",
+      "EndTiming": "64.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "57.3",
+      "Sentence_cn": "当那辆被撞坏的车开走后，罗伊停下车，给警察挂了电话。",
+      "Sentence": "While the battered car was moving away, Roy stopped his bus and telephoned the police."
+    },
+    {
+      "voaid": "2035",
+      "EndTiming": "69.4",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "64.7",
+      "Sentence_cn": "小偷的车损坏严重，很容易辨认。",
+      "Sentence": "The thieves' car was badly damaged and easy to recognize."
+    },
+    {
+      "voaid": "2035",
+      "EndTiming": "76.3",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "70.1",
+      "Sentence_cn": "没过多久，警察就截住了那辆车，两个小偷都被抓住了。",
+      "Sentence": "Shortly afterwards, the police stopped the car and both men were arrested."
+    }
+  ],
+  "size": 13,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14408,14409",
+    "title_cn": "捉贼！",
+    "title": "Stop thief!"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_35.mp3"
+}

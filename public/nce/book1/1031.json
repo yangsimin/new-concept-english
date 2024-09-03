@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "voaid": "1031",
+      "EndTiming": "4.4",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "萨利在哪里？",
+      "Sentence": "--- lesson 31  Where's Sally?"
+    },
+    {
+      "voaid": "1031",
+      "EndTiming": "7.2",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.1",
+      "Sentence_cn": "杰克，萨莉在哪儿？",
+      "Sentence": "Where's Sally, Jack?"
+    },
+    {
+      "voaid": "1031",
+      "EndTiming": "10.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "7.9",
+      "Sentence_cn": "她在花园里，琼。",
+      "Sentence": "She's in the garden, Jean."
+    },
+    {
+      "voaid": "1031",
+      "EndTiming": "12.2",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "10.8",
+      "Sentence_cn": "她在干什么？",
+      "Sentence": "What's she doing?"
+    },
+    {
+      "voaid": "1031",
+      "EndTiming": "15.1",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "12.7",
+      "Sentence_cn": "她正在树荫下坐着。",
+      "Sentence": "She's sitting under the tree."
+    },
+    {
+      "voaid": "1031",
+      "EndTiming": "18.7",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "15.9",
+      "Sentence_cn": "蒂姆也在花园里吗？",
+      "Sentence": "Is Tim in the garden, too?"
+    },
+    {
+      "voaid": "1031",
+      "EndTiming": "20.7",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "19.0",
+      "Sentence_cn": "是的，他也在花园里。",
+      "Sentence": "Yes, he is."
+    },
+    {
+      "voaid": "1031",
+      "EndTiming": "23.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "21.1",
+      "Sentence_cn": "他正在爬树。",
+      "Sentence": "He's climbing the tree."
+    },
+    {
+      "voaid": "1031",
+      "EndTiming": "25.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "23.7",
+      "Sentence_cn": "你说什么？",
+      "Sentence": "I beg your pardon?"
+    },
+    {
+      "voaid": "1031",
+      "EndTiming": "27.9",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "25.8",
+      "Sentence_cn": "谁在爬树？",
+      "Sentence": "Who's climbing the tree?"
+    },
+    {
+      "voaid": "1031",
+      "EndTiming": "29.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "28.5",
+      "Sentence_cn": "蒂姆在爬树。",
+      "Sentence": "Tim is."
+    },
+    {
+      "voaid": "1031",
+      "EndTiming": "32.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "30.4",
+      "Sentence_cn": "那么狗呢？",
+      "Sentence": "What about the dog?"
+    },
+    {
+      "voaid": "1031",
+      "EndTiming": "35.3",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "32.7",
+      "Sentence_cn": "狗也在花园里。",
+      "Sentence": "The dog's in the garden, too."
+    },
+    {
+      "voaid": "1031",
+      "EndTiming": "38.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "35.8",
+      "Sentence_cn": "它正在草地上跑，",
+      "Sentence": "It's running across the grass."
+    },
+    {
+      "voaid": "1031",
+      "EndTiming": "41.5",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "39.0",
+      "Sentence_cn": "在追一只猫。",
+      "Sentence": "It's running after a cat."
+    }
+  ],
+  "size": 15,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14212",
+    "title_cn": "萨利在哪里？",
+    "title": "Where's Sally?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_31.mp3"
+}

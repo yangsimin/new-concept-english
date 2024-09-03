@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "voaid": "2037",
+      "EndTiming": "4.3",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "奥林匹克运动会",
+      "Sentence": "--- Lesson 37  The Olympic Games"
+    },
+    {
+      "voaid": "2037",
+      "EndTiming": "9.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.3",
+      "Sentence_cn": "4年以后，奥林匹克运动会将在我们国家举行。",
+      "Sentence": "The Olympic Games will be held in our country in four years' time."
+    },
+    {
+      "voaid": "2037",
+      "EndTiming": "23.4",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.3",
+      "Sentence_cn": "由于将有大批的人到我们国家来，所以政府准备建造一些新的饭店、一个大型体育场和一个新的奥运会标准游泳池。",
+      "Sentence": "As a great many people will be visiting the country,the government will be building new hotels, an immense stadium,and a new Olympic-standard swimming pool."
+    },
+    {
+      "voaid": "2037",
+      "EndTiming": "28.9",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "23.9",
+      "Sentence_cn": "他们还将修筑一些新的道路和一条铁路专线。",
+      "Sentence": "They will also be building new roads and a special railway line."
+    },
+    {
+      "voaid": "2037",
+      "EndTiming": "36.9",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "29.2",
+      "Sentence_cn": "奥运会就在首都市郊举办，整个地区将被称作“奥林匹克城”。",
+      "Sentence": "The Games will be held just outside the capital and the whole area will be called 'Olympic City'."
+    },
+    {
+      "voaid": "2037",
+      "EndTiming": "41.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "37.5",
+      "Sentence_cn": "工人们将在今年年底前把新路铺好；",
+      "Sentence": "Workers will have completed the new roads by the end of this year."
+    },
+    {
+      "voaid": "2037",
+      "EndTiming": "47.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "42.7",
+      "Sentence_cn": "到明年年底，他们将把新体育场建成。",
+      "Sentence": "By the end of next year, they will have finished work on the new stadium."
+    },
+    {
+      "voaid": "2037",
+      "EndTiming": "53.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "47.9",
+      "Sentence_cn": "这些巨大的现代化建筑是由库尔特.冈特设计的。",
+      "Sentence": "The fantastic modern buildings have been designed by Kurt Gunter."
+    },
+    {
+      "voaid": "2037",
+      "EndTiming": "59.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "54.4",
+      "Sentence_cn": "大家都将急切地注视着新建筑的建成。",
+      "Sentence": "Everybody will be watching anxiously as the new buildings go up."
+    },
+    {
+      "voaid": "2037",
+      "EndTiming": "65.2",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "59.7",
+      "Sentence_cn": "我们都非常激动，盼望着奥运会的到来，",
+      "Sentence": "We are all very excited and are looking forward to the Olympic Games"
+    },
+    {
+      "voaid": "2037",
+      "EndTiming": "69.2",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "65.2",
+      "Sentence_cn": "因为在这个国家里还从未举办过奥运会。",
+      "Sentence": "because they have never been held before in this country."
+    }
+  ],
+  "size": 11,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14411,14412",
+    "title_cn": "奥林匹克运动会",
+    "title": "The Olympic Games"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_37.mp3"
+}

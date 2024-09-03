@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "voaid": "1109",
+      "EndTiming": "4.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "好主意",
+      "Sentence": "--- lesson 109  A good idea"
+    },
+    {
+      "voaid": "1109",
+      "EndTiming": "8.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.1",
+      "Sentence_cn": "我来煮点咖啡好吗，简？",
+      "Sentence": "Shall I make some coffee,Jane?"
+    },
+    {
+      "voaid": "1109",
+      "EndTiming": "12.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "9.2",
+      "Sentence_cn": "这是个好主意，夏洛特。",
+      "Sentence": "That's a good idea, Charlotte."
+    },
+    {
+      "voaid": "1109",
+      "EndTiming": "14.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "13.3",
+      "Sentence_cn": "咖啡好了，",
+      "Sentence": "It's ready."
+    },
+    {
+      "voaid": "1109",
+      "EndTiming": "17.4",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "15.2",
+      "Sentence_cn": "你要放点奶吗？",
+      "Sentence": "Do you want any milk?"
+    },
+    {
+      "voaid": "1109",
+      "EndTiming": "20.2",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "18.1",
+      "Sentence_cn": "请稍加一点。",
+      "Sentence": "Just a little, please."
+    },
+    {
+      "voaid": "1109",
+      "EndTiming": "23.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "21.0",
+      "Sentence_cn": "加些糖怎么样？",
+      "Sentence": "What about some sugar?"
+    },
+    {
+      "voaid": "1109",
+      "EndTiming": "25.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "23.9",
+      "Sentence_cn": "两茶匙行吗？",
+      "Sentence": "Two teaspoonfuls?"
+    },
+    {
+      "voaid": "1109",
+      "EndTiming": "29.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "26.6",
+      "Sentence_cn": "不，再少一些。",
+      "Sentence": "No, less than that."
+    },
+    {
+      "voaid": "1109",
+      "EndTiming": "33.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "29.6",
+      "Sentence_cn": "请放一勺儿半。",
+      "Sentence": "One and a half teaspoonfuls, please."
+    },
+    {
+      "voaid": "1109",
+      "EndTiming": "36.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "34.2",
+      "Sentence_cn": "那对我已足够了。",
+      "Sentence": "That's enough for me."
+    },
+    {
+      "voaid": "1109",
+      "EndTiming": "39.3",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "36.8",
+      "Sentence_cn": "太好了。",
+      "Sentence": "That was very nice."
+    },
+    {
+      "voaid": "1109",
+      "EndTiming": "41.9",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "39.8",
+      "Sentence_cn": "你再来点吗？",
+      "Sentence": "Would you like some more?"
+    },
+    {
+      "voaid": "1109",
+      "EndTiming": "44.9",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "42.6",
+      "Sentence_cn": "好的，请再来一点。",
+      "Sentence": "Yes, please."
+    },
+    {
+      "voaid": "1109",
+      "EndTiming": "48.5",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "45.7",
+      "Sentence_cn": "我还想抽枝烟。",
+      "Sentence": "I'd like a cigarette, too."
+    },
+    {
+      "voaid": "1109",
+      "EndTiming": "50.8",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "49.2",
+      "Sentence_cn": "可以给我一枝吗？",
+      "Sentence": "May I have one?"
+    },
+    {
+      "voaid": "1109",
+      "EndTiming": "52.9",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "51.6",
+      "Sentence_cn": "当然可以。",
+      "Sentence": "Of course."
+    },
+    {
+      "voaid": "1109",
+      "EndTiming": "57.6",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "53.5",
+      "Sentence_cn": "我想那个盒子里有一些。",
+      "Sentence": "I think there are a few in that box."
+    },
+    {
+      "voaid": "1109",
+      "EndTiming": "60.6",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "58.4",
+      "Sentence_cn": "恐怕盒子是空的。",
+      "Sentence": "I'm afraid it's empty."
+    },
+    {
+      "voaid": "1109",
+      "EndTiming": "63.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "61.5",
+      "Sentence_cn": "真遗憾！",
+      "Sentence": "What a pity!"
+    },
+    {
+      "voaid": "1109",
+      "EndTiming": "65.2",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "63.7",
+      "Sentence_cn": "没关系。",
+      "Sentence": "It doesn't matter."
+    },
+    {
+      "voaid": "1109",
+      "EndTiming": "68.3",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "66.0",
+      "Sentence_cn": "那就吃块饼干吧。",
+      "Sentence": "Have a biscuit instead."
+    },
+    {
+      "voaid": "1109",
+      "EndTiming": "72.2",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "69.0",
+      "Sentence_cn": "多吃点，少抽点！",
+      "Sentence": "Eat more and smoke less!"
+    },
+    {
+      "voaid": "1109",
+      "EndTiming": "75.6",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "73.0",
+      "Sentence_cn": "这是极好的忠告啊！",
+      "Sentence": "That's very good advice!"
+    }
+  ],
+  "size": 24,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14309",
+    "title_cn": "好主意",
+    "title": "A good idea"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_109.mp3"
+}

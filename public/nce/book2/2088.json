@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "voaid": "2088",
+      "EndTiming": "4.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "困在矿井里",
+      "Sentence": "--- Lesson 88  Trapped in a mine"
+    },
+    {
+      "voaid": "2088",
+      "EndTiming": "9.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.0",
+      "Sentence_cn": "6个人被困在矿井里已有17个小时了。",
+      "Sentence": "Six men have been trapped in a mine for seventeen hours."
+    },
+    {
+      "voaid": "2088",
+      "EndTiming": "14.9",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "9.7",
+      "Sentence_cn": "如果不把他们尽快救到地面上来，他们就有可能丧生。",
+      "Sentence": "If they are not brought to the surface soon they may lose their lives."
+    },
+    {
+      "voaid": "2088",
+      "EndTiming": "20.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "14.9",
+      "Sentence_cn": "然而，事实证明营救工作非常困难。",
+      "Sentence": "However, rescue operations are proving difficult."
+    },
+    {
+      "voaid": "2088",
+      "EndTiming": "26.8",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "20.6",
+      "Sentence_cn": "如果用炸药爆破，震动会引起矿顶塌落。",
+      "Sentence": "If explosives are used, vibrations will cause the roof of the mine to collapse."
+    },
+    {
+      "voaid": "2088",
+      "EndTiming": "32.8",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "27.5",
+      "Sentence_cn": "因此，营救人员在矿井的北侧钻了一个洞。",
+      "Sentence": "Rescue workers are therefore drilling a hole on the north side of the mine."
+    },
+    {
+      "voaid": "2088",
+      "EndTiming": "37.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "32.8",
+      "Sentence_cn": "他们准备用一种特制的容器把这6个人救上来。",
+      "Sentence": "They intend to bring the men up in a special capsule."
+    },
+    {
+      "voaid": "2088",
+      "EndTiming": "42.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "37.1",
+      "Sentence_cn": "如果不是因为土壤下面有一层坚硬的岩石，",
+      "Sentence": "If there had not been a hard layer of rock beneath the soil,"
+    },
+    {
+      "voaid": "2088",
+      "EndTiming": "46.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "42.3",
+      "Sentence_cn": "他们的营救工作仅用几个小时就可以完成了。",
+      "Sentence": "they would have completed the job in a few hours."
+    },
+    {
+      "voaid": "2088",
+      "EndTiming": "54.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "47.0",
+      "Sentence_cn": "实际情况是，他们已连续钻了16个小时了，但离钻透还早着呢。",
+      "Sentence": "As it is, they have been drilling for sixteen hours and they still have a long way to go."
+    },
+    {
+      "voaid": "2088",
+      "EndTiming": "66.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "55.6",
+      "Sentence_cn": "与此同时，两个小时以前放下井去的一只麦克风使井下的人可以与其亲属保持联系。",
+      "Sentence": "Meanwhile, a microphone, which was lowered into the mine two hours ago,has enabled the men to keep in touch with their closest relatives."
+    },
+    {
+      "voaid": "2088",
+      "EndTiming": "70.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "66.9",
+      "Sentence_cn": "虽然他们的食物和饮料都快消耗尽了，",
+      "Sentence": "Though they are running out of food and drink,"
+    },
+    {
+      "voaid": "2088",
+      "EndTiming": "75.2",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "70.2",
+      "Sentence_cn": "但这些人的心情很好，坚信他们很快就会出去。",
+      "Sentence": "the men are cheerful and confident that they will get out soon."
+    },
+    {
+      "voaid": "2088",
+      "EndTiming": "80.3",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "75.8",
+      "Sentence_cn": "他们一直被告知营救工作进行得非常顺利。",
+      "Sentence": "They have been told that rescue operations are progressing smoothly."
+    },
+    {
+      "voaid": "2088",
+      "EndTiming": "88.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "80.3",
+      "Sentence_cn": "如果他们知道了钻透那坚硬的岩石有多么困难，他们会丧失信心的。",
+      "Sentence": "If they knew how difficult it was to drill through the hard rock, they would lose heart."
+    }
+  ],
+  "size": 15,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14502,14503",
+    "title_cn": "困在矿井里",
+    "title": "Trapped in a mine"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_88.mp3"
+}

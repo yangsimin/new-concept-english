@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "voaid": "3001",
+      "EndTiming": "4.1",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "逃遁的美洲狮",
+      "Sentence": "--- lesson 1  A puma at large"
+    },
+    {
+      "voaid": "3001",
+      "EndTiming": "8.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.5",
+      "Sentence_cn": "美洲狮是一种体形似猫的大动物，产于美洲。",
+      "Sentence": "Pumas are large, cat-like animals which are found in America."
+    },
+    {
+      "voaid": "3001",
+      "EndTiming": "18.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "9.1",
+      "Sentence_cn": "当伦敦动物园接到报告说，在伦敦以南45英里处发现一只美洲狮时，这些报告并没有受到重视。",
+      "Sentence": "When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously."
+    },
+    {
+      "voaid": "3001",
+      "EndTiming": "26.2",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "18.8",
+      "Sentence_cn": "可是，随着证据越来越多，动物园的专家们感到有必要进行一番调查，",
+      "Sentence": "However, as the evidence began to accumulate, experts from the Zoo felt obliged to investigate,"
+    },
+    {
+      "voaid": "3001",
+      "EndTiming": "32.8",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "26.7",
+      "Sentence_cn": "因为凡是声称见到过美洲狮的人们所描述的情况竟是出奇地相似。",
+      "Sentence": "for the descriptions given by people who claimed to have seen the puma were extraordinarily similar."
+    },
+    {
+      "voaid": "3001",
+      "EndTiming": "42.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "33.4",
+      "Sentence_cn": "搜寻美洲狮的工作是从一座小村庄开始的。那里的一位妇女在采摘黑莓时的看见“一只大猫”，离她仅5码远，",
+      "Sentence": "The hunt for the puma began in a small village where a woman picking blackberries saw 'a large cat' only five yards away from her."
+    },
+    {
+      "voaid": "3001",
+      "EndTiming": "51.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "43.1",
+      "Sentence_cn": "她刚看见它，它就立刻逃走了。专家证实，美洲狮非被逼得走投无路，是决不会伤人的。",
+      "Sentence": "It immediately ran away when she saw it, and experts confirmed that a puma will not attack a human being unless it is cornered."
+    },
+    {
+      "voaid": "3001",
+      "EndTiming": "53.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "52.0",
+      "Sentence_cn": "事实上搜寻工作很困难，",
+      "Sentence": "The search proved difficult,"
+    },
+    {
+      "voaid": "3001",
+      "EndTiming": "61.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "53.9",
+      "Sentence_cn": "因为常常是早晨在甲地发现那只美洲狮，晚上却在20英里外的乙地发现它的踪迹。",
+      "Sentence": "for the puma was often observed at one place in the morning and at another place twenty miles away in the evening."
+    },
+    {
+      "voaid": "3001",
+      "EndTiming": "67.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "61.7",
+      "Sentence_cn": "无论它走哪儿，一路上总会留下一串死鹿以及死兔子之类的小动物。",
+      "Sentence": "Wherever it went, it left behind it a trail of dead deer and small animals like rabbits."
+    },
+    {
+      "voaid": "3001",
+      "EndTiming": "73.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "67.5",
+      "Sentence_cn": "在许多地方看见了爪印，灌木丛中发现了粘在上面的美洲狮毛。",
+      "Sentence": "Paw prints were seen in a number of places and puma fur was found clinging to bushes."
+    },
+    {
+      "voaid": "3001",
+      "EndTiming": "81.5",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "73.7",
+      "Sentence_cn": "有人抱怨说夜里听见“像猫一样的叫声”；一位商人去钓鱼，看见那只美洲狮在树上。",
+      "Sentence": "Several people complained of 'cat-like noises' at night and a businessman on a fishing trip saw the puma up a tree."
+    },
+    {
+      "voaid": "3001",
+      "EndTiming": "88.4",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "81.5",
+      "Sentence_cn": "专家们如今已经完全肯定那只动物就是美洲狮，但它是从哪儿来的呢?",
+      "Sentence": "The experts were now fully convinced that the animal was a puma, but where had it come from?"
+    },
+    {
+      "voaid": "3001",
+      "EndTiming": "93.1",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "88.6",
+      "Sentence_cn": "由于全国动物园没有一家报告丢了美洲狮，",
+      "Sentence": "As no pumas had been reported missing from any zoo in the country,"
+    },
+    {
+      "voaid": "3001",
+      "EndTiming": "99.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "93.2",
+      "Sentence_cn": "因此那只美洲狮一定是某位私人收藏豢养的，不知怎么设法逃出来了。",
+      "Sentence": "this one must have been in the possession of a private collector and somehow managed to escape."
+    },
+    {
+      "voaid": "3001",
+      "EndTiming": "104.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "99.8",
+      "Sentence_cn": "搜寻工作进行了好几个星期，但始终未能逮住那只美洲狮。",
+      "Sentence": "The hunt went on for several weeks, but the puma was not caught."
+    },
+    {
+      "voaid": "3001",
+      "EndTiming": "111.0",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "104.6",
+      "Sentence_cn": "想到在宁静的乡村里有一头危险的野兽继续逍遥流窜，真令人担心。",
+      "Sentence": "It is disturbing to think that a dangerous wild animal is still at large in the quiet countryside."
+    }
+  ],
+  "size": 17,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14530,14531,14532",
+    "title_cn": "逃遁的美洲狮",
+    "title": "A puma at large"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_1.mp3"
+}

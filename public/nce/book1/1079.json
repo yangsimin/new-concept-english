@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "1079",
+      "EndTiming": "5.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "卡罗尔的购物单",
+      "Sentence": "--- lesson 79  Carol's shopping list"
+    },
+    {
+      "voaid": "1079",
+      "EndTiming": "8.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.1",
+      "Sentence_cn": "卡罗尔，你在干什么？",
+      "Sentence": "What are you doing, Carol?"
+    },
+    {
+      "voaid": "1079",
+      "EndTiming": "12.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "9.1",
+      "Sentence_cn": "我在写购物单，汤姆。",
+      "Sentence": "I'm making a shopping list, Tom."
+    },
+    {
+      "voaid": "1079",
+      "EndTiming": "14.9",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "13.4",
+      "Sentence_cn": "我们都需要什么？",
+      "Sentence": "What do we need?"
+    },
+    {
+      "voaid": "1079",
+      "EndTiming": "19.1",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "15.7",
+      "Sentence_cn": "这星期我们需要很多东西。",
+      "Sentence": "We need a lot of things this week."
+    },
+    {
+      "voaid": "1079",
+      "EndTiming": "22.7",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "19.8",
+      "Sentence_cn": "我得去一下食品店。",
+      "Sentence": "I must go to the grocer's."
+    },
+    {
+      "voaid": "1079",
+      "EndTiming": "26.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "23.4",
+      "Sentence_cn": "我们的茶叶和咖啡不多了，",
+      "Sentence": "We haven't got much tea or coffee,"
+    },
+    {
+      "voaid": "1079",
+      "EndTiming": "30.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "27.4",
+      "Sentence_cn": "糖和果酱也没有了。",
+      "Sentence": "and we haven't got any sugar or jam."
+    },
+    {
+      "voaid": "1079",
+      "EndTiming": "33.8",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "31.8",
+      "Sentence_cn": "蔬菜呢？",
+      "Sentence": "What about vegetables?"
+    },
+    {
+      "voaid": "1079",
+      "EndTiming": "38.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "34.6",
+      "Sentence_cn": "我还得到蔬菜水果店去一下。",
+      "Sentence": "I must go to the greengrocer's."
+    },
+    {
+      "voaid": "1079",
+      "EndTiming": "41.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "38.7",
+      "Sentence_cn": "我们番茄不多了，",
+      "Sentence": "We haven't got many tomatoes,"
+    },
+    {
+      "voaid": "1079",
+      "EndTiming": "45.6",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "42.2",
+      "Sentence_cn": "但土豆还有不少。",
+      "Sentence": "but we've got a lot of potatoes."
+    },
+    {
+      "voaid": "1079",
+      "EndTiming": "49.4",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "46.4",
+      "Sentence_cn": "我还要到肉店去一下。",
+      "Sentence": "I must go to the butcher's, too."
+    },
+    {
+      "voaid": "1079",
+      "EndTiming": "52.3",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "50.3",
+      "Sentence_cn": "我们需要些肉。",
+      "Sentence": "We need some meat."
+    },
+    {
+      "voaid": "1079",
+      "EndTiming": "56.3",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "53.0",
+      "Sentence_cn": "我们一点肉也没有了。",
+      "Sentence": "We haven't got any meat at all."
+    },
+    {
+      "voaid": "1079",
+      "EndTiming": "60.3",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "57.1",
+      "Sentence_cn": "我们还有啤酒和葡萄酒吗？",
+      "Sentence": "Have we got any beer and wine?"
+    },
+    {
+      "voaid": "1079",
+      "EndTiming": "66.3",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "60.9",
+      "Sentence_cn": "没有了。不过，我不打算去买！",
+      "Sentence": "No, we haven't. And I'm not going to get any!"
+    },
+    {
+      "voaid": "1079",
+      "EndTiming": "69.8",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "67.1",
+      "Sentence_cn": "我希望你还有钱。",
+      "Sentence": "I hope that you've got some money."
+    },
+    {
+      "voaid": "1079",
+      "EndTiming": "72.7",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "70.6",
+      "Sentence_cn": "我的钱不多了。",
+      "Sentence": "I haven't got much."
+    },
+    {
+      "voaid": "1079",
+      "EndTiming": "76.5",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "73.1",
+      "Sentence_cn": "唉，我也不多了。",
+      "Sentence": "Well, I haven't got much either!"
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14269",
+    "title_cn": "卡罗尔的购物单",
+    "title": "Carol's shopping list"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_79.mp3"
+}

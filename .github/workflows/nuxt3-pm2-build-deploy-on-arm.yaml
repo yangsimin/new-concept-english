@@ -1,0 +1,48 @@
+name: Build and deploy Nuxt SSR with PM2
+on:
+  push:
+    branches: [main]
+jobs:
+  build:
+    name: Build Nuxt Application
+    runs-on: ubuntu-latest
+    environment:
+      name: Production
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 20.x
+      - run: npm install -g pnpm
+      - run: pnpm install --shamefully-hoist
+      - run: pnpm run build --if-present
+
+      # rsync only required folders from the build
+      - name: Deploy to Server
+        uses: easingthemes/ssh-deploy@main
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          ARGS: -rlgoDzvc -i --delete
+          SOURCE: .output
+          REMOTE_HOST: ${{ vars.REMOTE_HOST }}
+          REMOTE_USER: ${{ vars.REMOTE_USER }}
+          TARGET: ${{ vars.REMOTE_TARGET }}
+
+  followup:
+    name: 'Follow-up Tasks (PM2, CloudFront)'
+    runs-on: ubuntu-latest
+    needs: [build]
+    environment:
+      name: Production
+    steps:
+      - name: Restart PM2 task
+        uses: appleboy/ssh-action@v0.1.7
+        with:
+          host: ${{ env.REMOTE_HOST }}
+          username: ${{ env.REMOTE_USER }}
+          key: ${{ env.SSH_PRIVATE_KEY }}
+          script: 'source ~/.nvm/nvm.sh && pm2 restart ${{ vars.PM2_NAME }}'
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          REMOTE_HOST: ${{ vars.REMOTE_HOST }}
+          REMOTE_USER: ${{ vars.REMOTE_USER }}

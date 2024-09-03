@@ -1,0 +1,264 @@
+{
+  "data": [
+    {
+      "voaid": "1040",
+      "EndTiming": "23.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "18.7",
+      "Sentence_cn": "你打算戴帽子吗？",
+      "Sentence": "Are you going to put on your hat?"
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "27.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "23.1",
+      "Sentence_cn": "是的，我打算把它戴上。",
+      "Sentence": "Yes, I'm going to put it on."
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "31.3",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "27.5",
+      "Sentence_cn": "你打算脱鞋吗？",
+      "Sentence": "Are you going to take off your shoes?"
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "36.1",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "31.4",
+      "Sentence_cn": "是的，我打算脱掉它们。",
+      "Sentence": "Yes, I'm going to take them off."
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "40.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "36.2",
+      "Sentence_cn": "你打算开灯吗？",
+      "Sentence": "Are you going to turn on the light?"
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "45.2",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "40.6",
+      "Sentence_cn": "是的，我打算打开它。",
+      "Sentence": "Yes, I'm going to turn it on."
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "49.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "45.3",
+      "Sentence_cn": "你打算关上水龙头吗？",
+      "Sentence": "Are you going to turn off the taps?"
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "54.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "49.6",
+      "Sentence_cn": "是的，我打算关上它们。",
+      "Sentence": "Yes, I'm going to turn them off."
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "65.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "60.2",
+      "Sentence_cn": "你打算戴帽子吗？",
+      "Sentence": "Are you going to put on your hat?"
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "71.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "65.5",
+      "Sentence_cn": "是的，我打算把它戴上。",
+      "Sentence": "Yes, I'm going to put it on."
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "77.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "71.5",
+      "Sentence_cn": "你打算脱鞋吗？",
+      "Sentence": "Are you going to take off your shoes?"
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "83.5",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "77.2",
+      "Sentence_cn": "是的，我打算脱掉它们。",
+      "Sentence": "Yes, I'm going to take them off."
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "89.3",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "83.6",
+      "Sentence_cn": "你打算开灯吗？",
+      "Sentence": "Are you going to turn on the light?"
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "95.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "89.4",
+      "Sentence_cn": "是的，我打算打开它。",
+      "Sentence": "Yes, I'm going to turn it on."
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "101.1",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "95.6",
+      "Sentence_cn": "你打算关上水龙头吗？",
+      "Sentence": "Are you going to turn off the taps?"
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "108.2",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "101.2",
+      "Sentence_cn": "是的，我打算关上它们。",
+      "Sentence": "Yes, I'm going to turn them off."
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "115.4",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "108.3",
+      "Sentence_cn": "你打算穿上制服吗？",
+      "Sentence": "Are you going to put on your suit?"
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "121.6",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "115.5",
+      "Sentence_cn": "是的，我打算穿上它。",
+      "Sentence": "Yes, I'm going to put it on."
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "127.1",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "121.7",
+      "Sentence_cn": "你打算摘掉帽子吗？",
+      "Sentence": "Are you going to take off your hat?"
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "133.1",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "127.2",
+      "Sentence_cn": "是的，我打算摘掉帽子。",
+      "Sentence": "Yes, I'm going to take it off."
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "138.7",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "133.2",
+      "Sentence_cn": "你打算开灯吗？",
+      "Sentence": "Are you going to turn on the lights?"
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "145.0",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "138.8",
+      "Sentence_cn": "是的，我打算开灯。",
+      "Sentence": "Yes, I'm going to turn them on."
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "150.6",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "145.1",
+      "Sentence_cn": "你打算关掉电视吗？",
+      "Sentence": "Are you going to turn off the television?"
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "156.8",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "150.7",
+      "Sentence_cn": "是的，我打算关掉电视。",
+      "Sentence": "Yes, I'm going to turn it off."
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "162.6",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "156.9",
+      "Sentence_cn": "你打算关灯吗？",
+      "Sentence": "Are you going to turn off the lights?"
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "168.6",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "162.7",
+      "Sentence_cn": "是的，我打算关灯。",
+      "Sentence": "Yes, I'm going to turn them off."
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "174.5",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "168.7",
+      "Sentence_cn": "你打算打开音响吗？",
+      "Sentence": "Are you going to turn on the stereo?"
+    },
+    {
+      "voaid": "1040",
+      "EndTiming": "180.1",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "174.6",
+      "Sentence_cn": "是的，我打算打开音响。",
+      "Sentence": "Yes, I'm going to turn it on."
+    }
+  ],
+  "size": 28,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14223",
+    "title_cn": "你准备做什么？我准备……",
+    "title": "What are you going to do? I'm going to...?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_40.mp3"
+}

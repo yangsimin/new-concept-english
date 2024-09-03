@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "voaid": "1013",
+      "EndTiming": "4.6",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "一件新连衣裙",
+      "Sentence": "--- lesson 13  A new dress"
+    },
+    {
+      "voaid": "1013",
+      "EndTiming": "7.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.0",
+      "Sentence_cn": "你的新连衣裙是什么颜色的？",
+      "Sentence": "What colour's your new dress?"
+    },
+    {
+      "voaid": "1013",
+      "EndTiming": "9.9",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "7.8",
+      "Sentence_cn": "是绿色的。",
+      "Sentence": "It's green."
+    },
+    {
+      "voaid": "1013",
+      "EndTiming": "13.2",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "10.2",
+      "Sentence_cn": "到楼上来看看吧。",
+      "Sentence": "Come upstairs and see it."
+    },
+    {
+      "voaid": "1013",
+      "EndTiming": "14.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "13.3",
+      "Sentence_cn": "谢谢。",
+      "Sentence": "Thank you."
+    },
+    {
+      "voaid": "1013",
+      "EndTiming": "17.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "14.6",
+      "Sentence_cn": "瞧，就是这件。",
+      "Sentence": "Look! Here it is!"
+    },
+    {
+      "voaid": "1013",
+      "EndTiming": "20.7",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "18.1",
+      "Sentence_cn": "这件连衣裙真好，",
+      "Sentence": "That's a nice dress."
+    },
+    {
+      "voaid": "1013",
+      "EndTiming": "23.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "20.7",
+      "Sentence_cn": "真漂亮。",
+      "Sentence": "It's very smart."
+    },
+    {
+      "voaid": "1013",
+      "EndTiming": "25.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "23.3",
+      "Sentence_cn": "我的帽子也是新的。",
+      "Sentence": "My hat's new, too."
+    },
+    {
+      "voaid": "1013",
+      "EndTiming": "28.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "26.2",
+      "Sentence_cn": "是什么颜色的？",
+      "Sentence": "What colour is it?"
+    },
+    {
+      "voaid": "1013",
+      "EndTiming": "31.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "28.7",
+      "Sentence_cn": "一样的颜色，",
+      "Sentence": "It's the same colour."
+    },
+    {
+      "voaid": "1013",
+      "EndTiming": "33.4",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "31.0",
+      "Sentence_cn": "也是绿的。",
+      "Sentence": "It's green, too."
+    },
+    {
+      "voaid": "1013",
+      "EndTiming": "37.1",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "33.4",
+      "Sentence_cn": "真是一顶可爱的帽子！",
+      "Sentence": "That is a lovely hat!"
+    }
+  ],
+  "size": 13,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14193",
+    "title_cn": "一件新连衣裙",
+    "title": "A new dress"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_13.mp3"
+}

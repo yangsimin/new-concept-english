@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "1142",
+      "EndTiming": "20.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "17.8",
+      "Sentence_cn": "有人打开过这扇窗户吗？",
+      "Sentence": "Does anyone ever open this window?"
+    },
+    {
+      "voaid": "1142",
+      "EndTiming": "23.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "21.1",
+      "Sentence_cn": "是的，它经常开着。",
+      "Sentence": "Yes, it is opened regularly."
+    },
+    {
+      "voaid": "1142",
+      "EndTiming": "27.4",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "25.0",
+      "Sentence_cn": "有人送他去过学校吗？",
+      "Sentence": "Does anyone ever take him to school?"
+    },
+    {
+      "voaid": "1142",
+      "EndTiming": "31.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "28.2",
+      "Sentence_cn": "是的，他经常被带到学校。",
+      "Sentence": "Yes, he is taken to school regularly."
+    },
+    {
+      "voaid": "1142",
+      "EndTiming": "35.4",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "32.6",
+      "Sentence_cn": "有人修过那辆车吗？",
+      "Sentence": "Did anyone ever repair that car?"
+    },
+    {
+      "voaid": "1142",
+      "EndTiming": "38.7",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "36.0",
+      "Sentence_cn": "是的，有人经常修。",
+      "Sentence": "Yes, it was repaired regularly."
+    },
+    {
+      "voaid": "1142",
+      "EndTiming": "83.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "80.0",
+      "Sentence_cn": "有人给房间通过风吗？",
+      "Sentence": "Does anyone ever air this room?"
+    },
+    {
+      "voaid": "1142",
+      "EndTiming": "89.5",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "86.9",
+      "Sentence_cn": "是的，经常有人给它通风。",
+      "Sentence": "Yes, it is aired regularly."
+    },
+    {
+      "voaid": "1142",
+      "EndTiming": "94.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "90.9",
+      "Sentence_cn": "有人修改这些练习册吗？",
+      "Sentence": "Does anyone ever correct these exercise books?"
+    },
+    {
+      "voaid": "1142",
+      "EndTiming": "101.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "98.5",
+      "Sentence_cn": "是的，经常有人改",
+      "Sentence": "Yes, they are corrected regularly."
+    },
+    {
+      "voaid": "1142",
+      "EndTiming": "106.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "103.3",
+      "Sentence_cn": "有人邀请他参加聚会吗？",
+      "Sentence": "Does anyone ever invite him to a party?"
+    },
+    {
+      "voaid": "1142",
+      "EndTiming": "112.7",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "109.4",
+      "Sentence_cn": "是的，他经常被邀请。",
+      "Sentence": "Yes, he is invited regularly."
+    },
+    {
+      "voaid": "1142",
+      "EndTiming": "117.3",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "114.8",
+      "Sentence_cn": "有人去车站遇到他们吗？",
+      "Sentence": "Does anyone ever meet them at the station?"
+    },
+    {
+      "voaid": "1142",
+      "EndTiming": "125.6",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "122.0",
+      "Sentence_cn": "是的，他们经常在车站被接。",
+      "Sentence": "Yes, they are met at the station regularly."
+    },
+    {
+      "voaid": "1142",
+      "EndTiming": "129.9",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "127.2",
+      "Sentence_cn": "有人磨过这把刀吗？",
+      "Sentence": "Did anyone ever sharpen this knife?"
+    },
+    {
+      "voaid": "1142",
+      "EndTiming": "136.8",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "133.9",
+      "Sentence_cn": "是的，它经常磨。",
+      "Sentence": "Yes, it was sharpened  regularly."
+    },
+    {
+      "voaid": "1142",
+      "EndTiming": "141.8",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "139.0",
+      "Sentence_cn": "有人磨过这些刀吗？",
+      "Sentence": "Did anyone ever sharpen these knives?"
+    },
+    {
+      "voaid": "1142",
+      "EndTiming": "148.9",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "145.9",
+      "Sentence_cn": "是的，它们经常磨。",
+      "Sentence": "Yes, they were sharpened regularly."
+    },
+    {
+      "voaid": "1142",
+      "EndTiming": "152.3",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "150.5",
+      "Sentence_cn": "有人看他们吗？",
+      "Sentence": "Did anyone ever watch them?"
+    },
+    {
+      "voaid": "1142",
+      "EndTiming": "159.5",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "156.5",
+      "Sentence_cn": "是的，他们经常有人看。",
+      "Sentence": "Yes, they were watched regularly."
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14345",
+    "title_cn": "有人邀请萨莉出席一个聚会。萨莉应邀出席一个聚会。",
+    "title": "Someone invited Sally to a party. Sally was invited to a party."
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_142.mp3"
+}

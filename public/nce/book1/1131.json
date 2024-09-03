@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "voaid": "1131",
+      "EndTiming": "5.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "别那么肯定！",
+      "Sentence": "--- lesson 131  Don't be so sure!"
+    },
+    {
+      "voaid": "1131",
+      "EndTiming": "11.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.6",
+      "Sentence_cn": "加里，今年你们打算去哪里度假？",
+      "Sentence": "Where are you going to spend your holidays this year,Gary?"
+    },
+    {
+      "voaid": "1131",
+      "EndTiming": "14.3",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "12.4",
+      "Sentence_cn": "我们可能到国外去，",
+      "Sentence": "We may go abroad."
+    },
+    {
+      "voaid": "1131",
+      "EndTiming": "16.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "15.1",
+      "Sentence_cn": "但我不敢肯定。",
+      "Sentence": "I'm not sure."
+    },
+    {
+      "voaid": "1131",
+      "EndTiming": "19.9",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "17.3",
+      "Sentence_cn": "我妻子想到埃及去，",
+      "Sentence": "My wife wants to go to Egypt."
+    },
+    {
+      "voaid": "1131",
+      "EndTiming": "22.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "20.8",
+      "Sentence_cn": "我也想去那儿。",
+      "Sentence": "I'd like to go there, too."
+    },
+    {
+      "voaid": "1131",
+      "EndTiming": "26.2",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "23.7",
+      "Sentence_cn": "我们还拿不定主意。",
+      "Sentence": "We can't make up our minds."
+    },
+    {
+      "voaid": "1131",
+      "EndTiming": "30.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "27.0",
+      "Sentence_cn": "你们乘船去，还是乘飞机去？",
+      "Sentence": "Will you travel by sea or by air?"
+    },
+    {
+      "voaid": "1131",
+      "EndTiming": "33.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "31.2",
+      "Sentence_cn": "我们可能乘船去。",
+      "Sentence": "We may travel by sea."
+    },
+    {
+      "voaid": "1131",
+      "EndTiming": "36.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "34.1",
+      "Sentence_cn": "这更便宜些，是吗？",
+      "Sentence": "It's cheaper, isn't it?"
+    },
+    {
+      "voaid": "1131",
+      "EndTiming": "38.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "36.5",
+      "Sentence_cn": "可能是便宜些，",
+      "Sentence": "It may be cheaper."
+    },
+    {
+      "voaid": "1131",
+      "EndTiming": "40.8",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "38.4",
+      "Sentence_cn": "但花的时间长。",
+      "Sentence": "but it takes a long time."
+    },
+    {
+      "voaid": "1131",
+      "EndTiming": "44.2",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "41.6",
+      "Sentence_cn": "我肯定你们一定会玩得很痛快。",
+      "Sentence": "I'm sure you'll enjoy yourselves."
+    },
+    {
+      "voaid": "1131",
+      "EndTiming": "46.4",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "44.8",
+      "Sentence_cn": "别那么肯定。",
+      "Sentence": "Don't be so sure."
+    },
+    {
+      "voaid": "1131",
+      "EndTiming": "49.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "46.8",
+      "Sentence_cn": "我们可能哪里也去不成。",
+      "Sentence": "We might not go anywhere."
+    },
+    {
+      "voaid": "1131",
+      "EndTiming": "52.8",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "49.6",
+      "Sentence_cn": "我妻子总是担心这担心那的。",
+      "Sentence": "My wife always worries too much."
+    },
+    {
+      "voaid": "1131",
+      "EndTiming": "56.3",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "53.5",
+      "Sentence_cn": "谁来照看狗啦，",
+      "Sentence": "Who's going to look after the dog?"
+    },
+    {
+      "voaid": "1131",
+      "EndTiming": "59.9",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "57.0",
+      "Sentence_cn": "谁来看管房子啦，",
+      "Sentence": "Who's going to look after the house?"
+    },
+    {
+      "voaid": "1131",
+      "EndTiming": "63.3",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "60.6",
+      "Sentence_cn": "谁来照料花园啦，",
+      "Sentence": "Who's going to look after the garden?"
+    },
+    {
+      "voaid": "1131",
+      "EndTiming": "66.7",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "63.9",
+      "Sentence_cn": "我们每年都碰到这类问题。",
+      "Sentence": "We have this problem every year."
+    },
+    {
+      "voaid": "1131",
+      "EndTiming": "72.4",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "67.5",
+      "Sentence_cn": "末了，我们呆在家里来照看一切。",
+      "Sentence": "in the end, we stay at home and look after everything!"
+    }
+  ],
+  "size": 21,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14333",
+    "title_cn": "别那么肯定！",
+    "title": "Don't be so sure!"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_131.mp3"
+}

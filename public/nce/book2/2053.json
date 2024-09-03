@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "voaid": "2053",
+      "EndTiming": "4.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "触电的蛇",
+      "Sentence": "--- Lesson 53  Hot snake"
+    },
+    {
+      "voaid": "2053",
+      "EndTiming": "11.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.8",
+      "Sentence_cn": "消防队员们终于扑灭了加利福尼亚的一场森林大火。",
+      "Sentence": "At last firemen have put out a big forest fire in California."
+    },
+    {
+      "voaid": "2053",
+      "EndTiming": "16.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "11.3",
+      "Sentence_cn": "从那时起，他们一直试图找出起火的原因。",
+      "Sentence": "Since then, they have been trying to find out how the fire began."
+    },
+    {
+      "voaid": "2053",
+      "EndTiming": "26.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "17.2",
+      "Sentence_cn": "森林火灾时常由破碎的玻璃或人们随手扔掉的香烟头引起。",
+      "Sentence": "Forest fires are often caused by broken glass or by cigarette ends which people carelessly throw away."
+    },
+    {
+      "voaid": "2053",
+      "EndTiming": "34.7",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "26.9",
+      "Sentence_cn": "昨天，消防队员仔细查看了地面，但未能发现碎玻璃。",
+      "Sentence": "Yesterday the firemen examined the ground carefully, but were not able to find any broken glass."
+    },
+    {
+      "voaid": "2053",
+      "EndTiming": "40.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "35.4",
+      "Sentence_cn": "他们还十分肯定火灾也不是由烟头引起的。",
+      "Sentence": "They were also quite sure that a cigarette end did not start the fire."
+    },
+    {
+      "voaid": "2053",
+      "EndTiming": "46.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "41.1",
+      "Sentence_cn": "然而今天上午，一个消防队员偶然发现了起火的原因。",
+      "Sentence": "This morning, however, a firemen accidentally discovered the cause."
+    },
+    {
+      "voaid": "2053",
+      "EndTiming": "56.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "46.4",
+      "Sentence_cn": "他发现了缠绕在16,000伏高压线上的一条死蛇。",
+      "Sentence": "He noticed the remains of a snake which was wound round the electric wires of a 16,000-volt power line."
+    },
+    {
+      "voaid": "2053",
+      "EndTiming": "60.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "56.4",
+      "Sentence_cn": "就这样，他解开了起火之谜。",
+      "Sentence": "In this way, he was able to solve the mystery."
+    },
+    {
+      "voaid": "2053",
+      "EndTiming": "66.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "61.4",
+      "Sentence_cn": "解释很简单，却异乎寻常。",
+      "Sentence": "The explanation was simple but very unusual."
+    },
+    {
+      "voaid": "2053",
+      "EndTiming": "73.2",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "66.3",
+      "Sentence_cn": "一只鸟把蛇从地上抓起来，然后把它扔到了电线上。",
+      "Sentence": "A bird had snatched up the snake from the ground and then dropped it on to the wires."
+    },
+    {
+      "voaid": "2053",
+      "EndTiming": "77.3",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "73.7",
+      "Sentence_cn": "于是蛇就缠住了几根电线。",
+      "Sentence": "The snake then wound itself round the wires."
+    },
+    {
+      "voaid": "2053",
+      "EndTiming": "85.5",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "77.6",
+      "Sentence_cn": "当它这样做时，把火花送到了地面，这些火花立刻引起了一场大火。",
+      "Sentence": "When it did so, it sent sparks down to the ground and these immediately started a fire."
+    }
+  ],
+  "size": 13,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14439,14440",
+    "title_cn": "触电的蛇",
+    "title": "Hot snake"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_53.mp3"
+}

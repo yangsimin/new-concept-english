@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "voaid": "2038",
+      "EndTiming": "5.8",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "唯独没有考虑到天气",
+      "Sentence": "--- Lesson 38  Everything except the weather"
+    },
+    {
+      "voaid": "2038",
+      "EndTiming": "14.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.8",
+      "Sentence_cn": "我的老朋友哈里森在回到英国以前曾多年居住在地中海地区。",
+      "Sentence": "My old friend, Harrison, had lived in the Mediterranean for many years before he returned to England."
+    },
+    {
+      "voaid": "2038",
+      "EndTiming": "21.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "14.3",
+      "Sentence_cn": "过去他常幻想退休后到英国，并计划在乡间安顿下来。",
+      "Sentence": "He had often dreamed of retiring in England and had planned to settle down in the country."
+    },
+    {
+      "voaid": "2038",
+      "EndTiming": "28.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "21.6",
+      "Sentence_cn": "他刚一回到英国便买下了一幢房子住了进去。",
+      "Sentence": "He had no sooner returned than he bought a house and went to live there."
+    },
+    {
+      "voaid": "2038",
+      "EndTiming": "33.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "28.6",
+      "Sentence_cn": "但紧接着他就开始抱怨那里的天气了。",
+      "Sentence": "Almost immediately he began to complain about the weather,"
+    },
+    {
+      "voaid": "2038",
+      "EndTiming": "41.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "33.8",
+      "Sentence_cn": "因为即使那时仍为夏季，但雨总是下个不停，而且常常冷得厉害。",
+      "Sentence": "for even though it was still summer, it rained continually and it was often bitterly cold."
+    },
+    {
+      "voaid": "2038",
+      "EndTiming": "47.3",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "42.5",
+      "Sentence_cn": "在阳光下生活了那么多年的哈里森对此感到惊奇。",
+      "Sentence": "After so many years of sunshine, Harrison got a shock."
+    },
+    {
+      "voaid": "2038",
+      "EndTiming": "52.1",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "47.6",
+      "Sentence_cn": "他的举动就好像他从未在英国生活过一样。",
+      "Sentence": "He acted as if he had never lived in England before."
+    },
+    {
+      "voaid": "2038",
+      "EndTiming": "56.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "52.1",
+      "Sentence_cn": "最后，他再也忍受不住，",
+      "Sentence": "In the end, it was more than he could bear."
+    },
+    {
+      "voaid": "2038",
+      "EndTiming": "63.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "56.0",
+      "Sentence_cn": "还没等安顿下来就卖掉了房子，离开了这个国家。",
+      "Sentence": "He had hardly had time to settle down when he sold the house and left the country."
+    },
+    {
+      "voaid": "2038",
+      "EndTiming": "68.3",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "63.1",
+      "Sentence_cn": "他多年来的幻想从此破灭。",
+      "Sentence": "The dream he had had for so many years ended there."
+    },
+    {
+      "voaid": "2038",
+      "EndTiming": "72.7",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "68.8",
+      "Sentence_cn": "哈里森把每件事情都考虑到了，唯独没想到天气。",
+      "Sentence": "Harrison had thought of everything except the weather."
+    }
+  ],
+  "size": 12,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14413",
+    "title_cn": "唯独没有考虑到天气",
+    "title": "Everything except the weather"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_38.mp3"
+}

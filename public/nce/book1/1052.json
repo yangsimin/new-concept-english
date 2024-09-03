@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "voaid": "1052",
+      "EndTiming": "20.7",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "17.8",
+      "Sentence_cn": "你从巴西来吗？",
+      "Sentence": "Do you come from Brazil?"
+    },
+    {
+      "voaid": "1052",
+      "EndTiming": "26.1",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "21.0",
+      "Sentence_cn": "不，我不是来自巴西，我来自美国。",
+      "Sentence": "No, I don't come from Brazil. I come from the U.S."
+    },
+    {
+      "voaid": "1052",
+      "EndTiming": "32.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "29.6",
+      "Sentence_cn": "他从美国来吗？",
+      "Sentence": "Does he come from the U.S.?"
+    },
+    {
+      "voaid": "1052",
+      "EndTiming": "37.9",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "32.3",
+      "Sentence_cn": "不，他不是来自美国。他来自巴西。",
+      "Sentence": "No, he doesn't come from the U.S. He comes from Brazil."
+    },
+    {
+      "voaid": "1052",
+      "EndTiming": "43.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "41.0",
+      "Sentence_cn": "她从英国来吗？",
+      "Sentence": "Does she come from England?"
+    },
+    {
+      "voaid": "1052",
+      "EndTiming": "48.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "43.3",
+      "Sentence_cn": "不，他不是来自英国，他来自荷兰。",
+      "Sentence": "No, she doesn't come from England. She comes from Holland"
+    },
+    {
+      "voaid": "1052",
+      "EndTiming": "111.8",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "108.9",
+      "Sentence_cn": "你们两个从荷兰来吗？",
+      "Sentence": "Do you both come from Holland?"
+    },
+    {
+      "voaid": "1052",
+      "EndTiming": "118.8",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "113.4",
+      "Sentence_cn": "不，我们不是来自荷兰，我们来自英国。",
+      "Sentence": "No, we don't come from Holland. We come from England."
+    },
+    {
+      "voaid": "1052",
+      "EndTiming": "128.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "124.5",
+      "Sentence_cn": "他们从德国来吗？",
+      "Sentence": "Do they come from Germany?"
+    },
+    {
+      "voaid": "1052",
+      "EndTiming": "136.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "130.0",
+      "Sentence_cn": "不，他们不是来自德国。他们来自法国。",
+      "Sentence": "No, they don't come from Germany. They come from France."
+    },
+    {
+      "voaid": "1052",
+      "EndTiming": "144.7",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "142.0",
+      "Sentence_cn": "我是从法国来吗？",
+      "Sentence": "Do I come from France?"
+    },
+    {
+      "voaid": "1052",
+      "EndTiming": "153.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "147.0",
+      "Sentence_cn": "不，你不是来自法国，你来自德国。",
+      "Sentence": "No, you don't come from France. You come from Germany."
+    },
+    {
+      "voaid": "1052",
+      "EndTiming": "160.7",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "158.0",
+      "Sentence_cn": "他从意大利来吗？",
+      "Sentence": "Does he come from Italy?"
+    },
+    {
+      "voaid": "1052",
+      "EndTiming": "169.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "163.0",
+      "Sentence_cn": "不，他不是来自意大利，他来自希腊。",
+      "Sentence": "No, he doesn't come from Italy. He comes from Greece."
+    },
+    {
+      "voaid": "1052",
+      "EndTiming": "178.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "175.0",
+      "Sentence_cn": "我们从希腊来吗？",
+      "Sentence": "Do we both come from Greece?"
+    },
+    {
+      "voaid": "1052",
+      "EndTiming": "186.3",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "180.0",
+      "Sentence_cn": "不，你们不是来自希腊，你们来自意大利。",
+      "Sentence": "No, you don't come from Greece. You come from Italy."
+    }
+  ],
+  "size": 16,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14236,14237",
+    "title_cn": "他们是哪国人？他们来自哪个国家？",
+    "title": "What nationality are they? Where do they come from?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_52.mp3"
+}

@@ -1,0 +1,210 @@
+{
+  "data": [
+    {
+      "voaid": "1103",
+      "EndTiming": "4.8",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "法语考试",
+      "Sentence": "--- lesson 103  The French test"
+    },
+    {
+      "voaid": "1103",
+      "EndTiming": "7.9",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.5",
+      "Sentence_cn": "考试考得怎样，理查德？",
+      "Sentence": "How was the exam, Richard?"
+    },
+    {
+      "voaid": "1103",
+      "EndTiming": "9.7",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.5",
+      "Sentence_cn": "不算太坏，",
+      "Sentence": "Not too bad."
+    },
+    {
+      "voaid": "1103",
+      "EndTiming": "14.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "10.3",
+      "Sentence_cn": "我想我的英语和数学及格了。",
+      "Sentence": "I think I passed in English and Mathematics."
+    },
+    {
+      "voaid": "1103",
+      "EndTiming": "17.3",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "14.9",
+      "Sentence_cn": "题目很容易。",
+      "Sentence": "The questions were very easy."
+    },
+    {
+      "voaid": "1103",
+      "EndTiming": "19.8",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "17.9",
+      "Sentence_cn": "加里，你怎么样？",
+      "Sentence": "How about you, Gary?"
+    },
+    {
+      "voaid": "1103",
+      "EndTiming": "25.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "20.6",
+      "Sentence_cn": "英语和数学试题对我来说不很容易。",
+      "Sentence": "The English and Maths papers weren't easy enough for me."
+    },
+    {
+      "voaid": "1103",
+      "EndTiming": "28.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "26.6",
+      "Sentence_cn": "我希望别不及格。",
+      "Sentence": "I hope I haven't failed."
+    },
+    {
+      "voaid": "1103",
+      "EndTiming": "32.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "29.4",
+      "Sentence_cn": "我想我的法语及不了格，",
+      "Sentence": "I think I failed the French paper."
+    },
+    {
+      "voaid": "1103",
+      "EndTiming": "36.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "33.1",
+      "Sentence_cn": "我能回答其中的16道题。",
+      "Sentence": "I could answer sixteen of the questions."
+    },
+    {
+      "voaid": "1103",
+      "EndTiming": "38.9",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "37.1",
+      "Sentence_cn": "这些题很容易。",
+      "Sentence": "They were very easy."
+    },
+    {
+      "voaid": "1103",
+      "EndTiming": "42.1",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "39.5",
+      "Sentence_cn": "但我回答不出其余的题。",
+      "Sentence": "But I couldn't answer the rest."
+    },
+    {
+      "voaid": "1103",
+      "EndTiming": "45.2",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "42.7",
+      "Sentence_cn": "那些题对我来说太难了。",
+      "Sentence": "They were too difficult for me."
+    },
+    {
+      "voaid": "1103",
+      "EndTiming": "49.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "46.0",
+      "Sentence_cn": "法语太可怕了，你说呢？",
+      "Sentence": "French tests are awful, aren't they?"
+    },
+    {
+      "voaid": "1103",
+      "EndTiming": "50.9",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "49.6",
+      "Sentence_cn": "我讨厌法语。",
+      "Sentence": "I hate them."
+    },
+    {
+      "voaid": "1103",
+      "EndTiming": "54.2",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "51.5",
+      "Sentence_cn": "我的法语成绩肯定很低。",
+      "Sentence": "I'm sure I've got a low mark."
+    },
+    {
+      "voaid": "1103",
+      "EndTiming": "56.6",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "55.1",
+      "Sentence_cn": "啊，别灰心！",
+      "Sentence": "Oh, cheer up!"
+    },
+    {
+      "voaid": "1103",
+      "EndTiming": "60.6",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "57.5",
+      "Sentence_cn": "或许我们考得还不太糟。",
+      "Sentence": "Perhaps we didn't do too badly."
+    },
+    {
+      "voaid": "1103",
+      "EndTiming": "66.2",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "61.3",
+      "Sentence_cn": "坐在我旁边的那个人只在试卷顶端写了自己的名字。",
+      "Sentence": "The guy next to me Wrote his name at the top of the paper."
+    },
+    {
+      "voaid": "1103",
+      "EndTiming": "67.6",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "66.8",
+      "Sentence_cn": "是吗？",
+      "Sentence": "Yes?"
+    },
+    {
+      "voaid": "1103",
+      "EndTiming": "73.1",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "68.4",
+      "Sentence_cn": "然后他就坐在那里，对着考卷看了3个小时，",
+      "Sentence": "Then he sat there and looked at it for three hours!"
+    },
+    {
+      "voaid": "1103",
+      "EndTiming": "75.7",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "73.5",
+      "Sentence_cn": "一个字也没写！",
+      "Sentence": "He didn't write a word!"
+    }
+  ],
+  "size": 22,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14303",
+    "title_cn": "法语考试",
+    "title": "The French test"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_103.mp3"
+}

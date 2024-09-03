@@ -1,0 +1,372 @@
+{
+  "data": [
+    {
+      "voaid": "1014",
+      "EndTiming": "22.4",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "19.5",
+      "Sentence_cn": "斯蒂文的雨伞是什么颜色的？",
+      "Sentence": "What colour's Steven's umbrella?　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "24.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "23.4",
+      "Sentence_cn": "是棕色的吗？",
+      "Sentence": "Is it brown?"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "26.3",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "25.3",
+      "Sentence_cn": "不是棕色的。",
+      "Sentence": "It isn't brown."
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "27.9",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "26.9",
+      "Sentence_cn": "是黑色的。",
+      "Sentence": "It's black.　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "35.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "32.5",
+      "Sentence_cn": "萦菲的大衣是什么颜色的？",
+      "Sentence": "What colour's Sophie's coat?"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "37.3",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "36.3",
+      "Sentence_cn": "是白色的吗？",
+      "Sentence": "Is it white?　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "39.2",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "38.1",
+      "Sentence_cn": "不是白色的。",
+      "Sentence": "It isn't white."
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "41.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "39.7",
+      "Sentence_cn": "是灰色的。",
+      "Sentence": "It's grey.　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "48.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "45.7",
+      "Sentence_cn": "男孩的领带是什么颜色的？",
+      "Sentence": "What colour's the boy's tie?"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "51.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "50.7",
+      "Sentence_cn": "是黄色的吗？",
+      "Sentence": "Is it yellow?　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "53.4",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "52.3",
+      "Sentence_cn": "不是黄色的。",
+      "Sentence": "It isn't yellow."
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "55.4",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "54.1",
+      "Sentence_cn": "是桔色的。",
+      "Sentence": "It's orange.　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "121.6",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "119.2",
+      "Sentence_cn": "保罗的汽车是什么颜色的？",
+      "Sentence": "What colour's Paul's car?　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "123.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "122.6",
+      "Sentence_cn": "是红色的吗？",
+      "Sentence": "Is it red?　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "126.9",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "125.5",
+      "Sentence_cn": "不是红色的。",
+      "Sentence": "It isn't red."
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "128.6",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "127.4",
+      "Sentence_cn": "是蓝色的。",
+      "Sentence": "It's blue.　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "138.0",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "135.5",
+      "Sentence_cn": "安娜的衬衫是什么颜色的？",
+      "Sentence": "What colour's Anna's blouse?　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "141.3",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "139.6",
+      "Sentence_cn": "是桔色的吗？",
+      "Sentence": "Is it orange ?　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "144.7",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "143.3",
+      "Sentence_cn": "不是桔色的。",
+      "Sentence": "It isn't orange."
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "146.4",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "145.3",
+      "Sentence_cn": "是黄色的。",
+      "Sentence": "It's yellow.　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "155.1",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "152.7",
+      "Sentence_cn": "蒂姆的衬衫是什么颜色的？",
+      "Sentence": "What colour's Tim's shirt?　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "157.0",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "156.1",
+      "Sentence_cn": "是蓝色的吗？",
+      "Sentence": "Is it blue?　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "160.1",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "158.8",
+      "Sentence_cn": "不是蓝色的。",
+      "Sentence": "It isn't blue."
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "161.9",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "160.7",
+      "Sentence_cn": "是白色的。",
+      "Sentence": "It's white.　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "171.1",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "168.7",
+      "Sentence_cn": "斯蒂文的帽子是什么颜色的？",
+      "Sentence": "What colour's Steven's hat?　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "174.3",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "172.4",
+      "Sentence_cn": "是红绿相间的吗？",
+      "Sentence": "Is it green and red?　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "180.0",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "178.2",
+      "Sentence_cn": "不是红绿相间的。",
+      "Sentence": "It isn't green and red."
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "182.9",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "181.0",
+      "Sentence_cn": "是灰黑相间的。",
+      "Sentence": "It's grey and black.　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "192.1",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "189.5",
+      "Sentence_cn": "那位妇女的箱子是什么颜色的？",
+      "Sentence": "What colour's the woman's case?　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "194.3",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "193.4",
+      "Sentence_cn": "是灰色的吗？",
+      "Sentence": "Is it grey?　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "199.0",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "197.6",
+      "Sentence_cn": "不是灰色的．",
+      "Sentence": "It isn't grey.　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "200.8",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "199.6",
+      "Sentence_cn": "是棕色的。",
+      "Sentence": "It's brown.　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "210.7",
+      "Paraid": "1",
+      "IdIndex": "33",
+      "Timing": "208.4",
+      "Sentence_cn": "海伦的狗是什么颜色的？",
+      "Sentence": "What colour's Helen's dog?　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "214.7",
+      "Paraid": "1",
+      "IdIndex": "34",
+      "Timing": "212.4",
+      "Sentence_cn": "是灰黑相间的吗？",
+      "Sentence": "Is it grey and black?　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "220.6",
+      "Paraid": "1",
+      "IdIndex": "35",
+      "Timing": "218.4",
+      "Sentence_cn": "不是灰黑相间的。",
+      "Sentence": "It isn't grey and black."
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "223.3",
+      "Paraid": "1",
+      "IdIndex": "36",
+      "Timing": "221.4",
+      "Sentence_cn": "是棕色和白色相间的。",
+      "Sentence": "Its brown and white.　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "233.2",
+      "Paraid": "1",
+      "IdIndex": "37",
+      "Timing": "230.8",
+      "Sentence_cn": "安娜的地毯是什么颜色的？",
+      "Sentence": "What colour's Anna's carpet?　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "236.1",
+      "Paraid": "1",
+      "IdIndex": "38",
+      "Timing": "235.2",
+      "Sentence_cn": "是绿色的吗？",
+      "Sentence": "Is it green?　"
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "240.1",
+      "Paraid": "1",
+      "IdIndex": "39",
+      "Timing": "238.9",
+      "Sentence_cn": "不是绿色的。",
+      "Sentence": "It isn't green."
+    },
+    {
+      "voaid": "1014",
+      "EndTiming": "242.0",
+      "Paraid": "1",
+      "IdIndex": "40",
+      "Timing": "241.0",
+      "Sentence_cn": "是红色的。",
+      "Sentence": "It's red.　"
+    }
+  ],
+  "size": 40,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14194",
+    "title_cn": "你的……是什么颜色的？",
+    "title": "What colour is your...?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_14.mp3"
+}

@@ -1,0 +1,336 @@
+{
+  "data": [
+    {
+      "voaid": "1098",
+      "EndTiming": "14.3",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "10.9",
+      "Sentence_cn": "这些是你的钥匙吗？",
+      "Sentence": "Look at number 1. Are these your keys?"
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "16.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "14.8",
+      "Sentence_cn": "是的，它们是我的。",
+      "Sentence": "Yes, they're mine."
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "18.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "16.7",
+      "Sentence_cn": "它们属于我。",
+      "Sentence": "They belong to me."
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "22.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "18.9",
+      "Sentence_cn": "这是约翰的信吗？",
+      "Sentence": "Number 2. Is this John's letter?"
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "25.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "23.3",
+      "Sentence_cn": "是的，是他的。",
+      "Sentence": "Yes, it's his."
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "27.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "25.4",
+      "Sentence_cn": "它属于他。",
+      "Sentence": "It belongs to him."
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "32.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "28.2",
+      "Sentence_cn": "这些事我的衣服吗？",
+      "Sentence": "Number 3. Are these my clothes?"
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "34.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "32.8",
+      "Sentence_cn": "是的，是你的。",
+      "Sentence": "Yes, they're yours."
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "36.8",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "35.4",
+      "Sentence_cn": "他们属于你。",
+      "Sentence": "They belong to you."
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "83.7",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "78.9",
+      "Sentence_cn": "这是珍妮的护照吗？",
+      "Sentence": "Number 4. Is this Jane's passport?"
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "88.7",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "86.9",
+      "Sentence_cn": "是的，是她的。",
+      "Sentence": "Yes, it's hers."
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "90.8",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "89.2",
+      "Sentence_cn": "它属于她。",
+      "Sentence": "It belongs to her."
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "97.8",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "92.5",
+      "Sentence_cn": "这些是他们的票。",
+      "Sentence": "Number 5. Are these their tickets?"
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "103.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "101.5",
+      "Sentence_cn": "是的，是他们的。",
+      "Sentence": "Yes, they're theirs."
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "105.5",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "104.0",
+      "Sentence_cn": "它们属于他们。",
+      "Sentence": "They belong to them."
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "110.7",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "106.8",
+      "Sentence_cn": "这是你的表吗？",
+      "Sentence": "Number 6. Is this your watch?"
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "116.3",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "114.7",
+      "Sentence_cn": "是的，是我的。",
+      "Sentence": "Yes, it's mine."
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "118.4",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "116.8",
+      "Sentence_cn": "它属于我。",
+      "Sentence": "It belongs to me."
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "124.7",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "120.3",
+      "Sentence_cn": "这些是她的花吗？",
+      "Sentence": "Number 7. Are these her flowers?"
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "130.4",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "128.5",
+      "Sentence_cn": "是的，是她的。",
+      "Sentence": "Yes, they're hers."
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "132.4",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "130.9",
+      "Sentence_cn": "它们属于她。",
+      "Sentence": "They belong to her."
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "137.4",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "133.6",
+      "Sentence_cn": "这是我的船吗？",
+      "Sentence": "Number 8. Is this my boat?"
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "142.7",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "141.2",
+      "Sentence_cn": "是的，是你的。",
+      "Sentence": "Yes, it's yours."
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "144.9",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "143.5",
+      "Sentence_cn": "它属于你。",
+      "Sentence": "It belongs to you."
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "152.5",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "146.3",
+      "Sentence_cn": "这是吉姆的短语书吗？",
+      "Sentence": "Number 9. Is this Jim's phrase book?"
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "157.5",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "155.9",
+      "Sentence_cn": "是的，是他的。",
+      "Sentence": "Yes, it's his."
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "159.6",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "157.9",
+      "Sentence_cn": "它属于他。",
+      "Sentence": "It belongs to him."
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "166.4",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "160.8",
+      "Sentence_cn": "这些锤子是弗兰克和亨利的吗？",
+      "Sentence": "Number 10. Are these hammers Frank's and Harry's?"
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "171.6",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "169.6",
+      "Sentence_cn": "是的，是他们的。",
+      "Sentence": "Yes, they're theirs."
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "173.5",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "171.9",
+      "Sentence_cn": "它们属于他们。",
+      "Sentence": "They belong to them."
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "180.0",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "174.9",
+      "Sentence_cn": "这是我们的车吗？",
+      "Sentence": "Number 11. Is this our car?"
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "184.8",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "183.0",
+      "Sentence_cn": "是的，是我们的。",
+      "Sentence": "Yes, it's ours."
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "186.7",
+      "Paraid": "1",
+      "IdIndex": "33",
+      "Timing": "185.3",
+      "Sentence_cn": "它属于我们。",
+      "Sentence": "It belongs to us."
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "194.2",
+      "Paraid": "1",
+      "IdIndex": "34",
+      "Timing": "188.7",
+      "Sentence_cn": "这些是孩子的钢笔吗？",
+      "Sentence": "Number 12. Are these the children's pens?"
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "198.7",
+      "Paraid": "1",
+      "IdIndex": "35",
+      "Timing": "196.7",
+      "Sentence_cn": "是的，是他们的。",
+      "Sentence": "Yes, they're theirs."
+    },
+    {
+      "voaid": "1098",
+      "EndTiming": "201.5",
+      "Paraid": "1",
+      "IdIndex": "36",
+      "Timing": "199.2",
+      "Sentence_cn": "它们属于他。",
+      "Sentence": "They belong to them."
+    }
+  ],
+  "size": 36,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14298",
+    "title_cn": "它是谁的？ 它们是谁的？",
+    "title": "Whose is it? Whose are they?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_98.mp3"
+}

@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "voaid": "4017",
+      "EndTiming": "5.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.8",
+      "Sentence_cn": "课文17  人为的疾病",
+      "Sentence": "--- Lesson 17 A man-made disease"
+    },
+    {
+      "voaid": "4017",
+      "EndTiming": "18.6",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.9",
+      "Sentence_cn": "什么因素有助于多发性粘液瘤病的传播?",
+      "Sentence": "What factor helped to spread the disease of myxomatosis?"
+    },
+    {
+      "voaid": "4017",
+      "EndTiming": "27.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "18.6",
+      "Sentence_cn": "在澳大利亚移民初期，一些有创业精神的移民不明智地把欧洲兔子引进了澳大利亚。",
+      "Sentence": "In the early days of the settlement of Australia, enterprising settlers unwisely introduced the European rabbit."
+    },
+    {
+      "voaid": "4017",
+      "EndTiming": "39.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "28.4",
+      "Sentence_cn": "这种兔子在澳大利亚及新西兰没有天敌，因此便以兔子所特有的杂乱交配迅猛繁殖起来。",
+      "Sentence": "This rabbit had no natural enemies in the Antipodes, so that it multiplied with that promiscuous abandon characteristic of rabbits."
+    },
+    {
+      "voaid": "4017",
+      "EndTiming": "43.3",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "40.6",
+      "Sentence_cn": "整个澳洲兔子成灾。",
+      "Sentence": "It overran a whole continent."
+    },
+    {
+      "voaid": "4017",
+      "EndTiming": "52.2",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "43.3",
+      "Sentence_cn": "它们在地下打洞，吃掉本可以饲养数百万头牛羊的牧草，给澳洲大陆造成了毁灭性的破坏。",
+      "Sentence": "It caused devastation by burrowing and by devouring the herbage which might have maintained millions of sheep and cattle."
+    },
+    {
+      "voaid": "4017",
+      "EndTiming": "67.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "53.1",
+      "Sentence_cn": "科学家们发现，这种特殊品种的兔子（显然不包括别的动物）易患一种叫“多发性粘液瘤”的致命毒性疾病。",
+      "Sentence": "Scientists discovered that this particular variety of rabbit (and apparently no other animal) was susceptible to a fatal virus disease, myxomatosis."
+    },
+    {
+      "voaid": "4017",
+      "EndTiming": "74.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "67.1",
+      "Sentence_cn": "通过让染上此病的动物在洞内乱跑，就可以使这种疾病在一个地区蔓延起来。",
+      "Sentence": "By infecting animals and letting them loose in the burrows, local epidemics of this disease could be created."
+    },
+    {
+      "voaid": "4017",
+      "EndTiming": "83.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "75.2",
+      "Sentence_cn": "后来又发现，有一种蚊子是传播这种疾病的媒介，能把此病传染给兔子。",
+      "Sentence": "Later it was found that there was a type of mosquito which acted as the carrier of this disease and passed it on to the rabbits."
+    },
+    {
+      "voaid": "4017",
+      "EndTiming": "90.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "83.9",
+      "Sentence_cn": "因此，世界上其他地方在设法消灭蚊子的时候，澳大利亚却在促使这种蚊子大量繁殖。",
+      "Sentence": "So while the rest of the world was trying to get rid of mosquitoes, Australia was encouraging this one."
+    },
+    {
+      "voaid": "4017",
+      "EndTiming": "98.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "90.4",
+      "Sentence_cn": "蚊子把这种疾病扩散到整个澳洲大陆，效果甚佳，结果兔子的数目在为减少。",
+      "Sentence": "It effectively spread the disease all over the continent and drastically reduced the rabbit population."
+    },
+    {
+      "voaid": "4017",
+      "EndTiming": "105.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "99.8",
+      "Sentence_cn": "后来，明显看出，兔子对这种疾病已产生了一定程度的免疫力，",
+      "Sentence": "It later became apparent that rabbits were developing a degree of resistance to this disease,"
+    },
+    {
+      "voaid": "4017",
+      "EndTiming": "111.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "106.0",
+      "Sentence_cn": "所以兔子不可能被完全消灭。",
+      "Sentence": "so that the rabbit population was unlikely to be completely exterminated."
+    },
+    {
+      "voaid": "4017",
+      "EndTiming": "117.3",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "111.5",
+      "Sentence_cn": "但是，已有希望解决兔子所带来的问题。",
+      "Sentence": "There were hopes, however, that the problem of the rabbit would become manageable."
+    },
+    {
+      "voaid": "4017",
+      "EndTiming": "128.7",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "118.8",
+      "Sentence_cn": "具有讽刺意味的是，欧洲把这种兔子作为有害动物传给澳洲，而欧洲自己却染上了这种人为的瘟疫般的疾病。",
+      "Sentence": "Ironically, Europe, which had bequeathed the rabbit as a pest to Australia, acquired this man-made disease as a pestilence."
+    },
+    {
+      "voaid": "4017",
+      "EndTiming": "137.3",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "129.4",
+      "Sentence_cn": "一位法国内科医生决定除掉自己庄园内的野兔子，于是引进了这种多发性粘液瘤疾病。",
+      "Sentence": "A French physician decided to get rid of the wild rabbits on his own estate and introduced myxomatosis."
+    },
+    {
+      "voaid": "4017",
+      "EndTiming": "141.6",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "137.3",
+      "Sentence_cn": "然而，这种疾病并未被局限在他的庄园内，",
+      "Sentence": "It did not, however, remain within the confines of this estate."
+    },
+    {
+      "voaid": "4017",
+      "EndTiming": "150.9",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "142.3",
+      "Sentence_cn": "结果在整个法国蔓延开来。野兔在法国一般不被当作有害动物，而被视为打猎取乐的玩物和有用的食物来源。",
+      "Sentence": "It spread through France, where wild rabbits are not generally regarded as a pest but as a sport and a useful food supply,"
+    },
+    {
+      "voaid": "4017",
+      "EndTiming": "158.8",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "151.6",
+      "Sentence_cn": "这种疾病又蔓延到了英国。在英国，野兔被当作有害的动物，",
+      "Sentence": "and it spread to Britain where wild rabbits are regarded as a pest but where domesticated rabbits,"
+    },
+    {
+      "voaid": "4017",
+      "EndTiming": "164.8",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "158.8",
+      "Sentence_cn": "然而家兔同样易感染这种疾病，可是家兔是赚钱的毛皮工业的基础。",
+      "Sentence": "equally susceptible to the disease, are the basis of a profitable fur industry."
+    },
+    {
+      "voaid": "4017",
+      "EndTiming": "178.9",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "165.5",
+      "Sentence_cn": "现在的问题是，人类能否控制住这种人为的疾病。",
+      "Sentence": "The question became one of whether Man could control the disease he had invented."
+    }
+  ],
+  "size": 21,
+  "title": {
+    "newCategoryid": 1154,
+    "newTitleId": "14746,14747,14748",
+    "title_cn": "人为的疾病",
+    "title": "A man-made disease"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/4_17.mp3"
+}

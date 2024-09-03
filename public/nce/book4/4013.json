@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "voaid": "4013",
+      "EndTiming": "4.4",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "课文13  探寻石油",
+      "Sentence": "--- Lesson 13 The search for oil"
+    },
+    {
+      "voaid": "4013",
+      "EndTiming": "15.6",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.0",
+      "Sentence_cn": "发现石油时，石油商想要达到什么目的? ",
+      "Sentence": "What do oilmen want to achieve as soon as they strike oil?"
+    },
+    {
+      "voaid": "4013",
+      "EndTiming": "25.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "17.1",
+      "Sentence_cn": "在所有洞穴中，为寻找石油所钻出的洞是最深的，这些洞可深达25,000英尺。",
+      "Sentence": "The deepest holes of all are made for oil, and they go down to as much as 25,000 feet."
+    },
+    {
+      "voaid": "4013",
+      "EndTiming": "33.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "26.1",
+      "Sentence_cn": "但是，我们不必像开采其他矿藏那样，把人送到地下去把石油取出。",
+      "Sentence": "But we do not need to send man down to get the oil out, as we must with other mineral deposits."
+    },
+    {
+      "voaid": "4013",
+      "EndTiming": "39.1",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "34.4",
+      "Sentence_cn": "这些洞只不过是一些钻孔，直径不到1英尺。",
+      "Sentence": "The holes are only borings, less than a foot in diameter."
+    },
+    {
+      "voaid": "4013",
+      "EndTiming": "50.8",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "40.2",
+      "Sentence_cn": "我是专门搞石油的，寻找石油比其他任何采矿业对改进钻探作的贡献都要大。",
+      "Sentence": "My particular experience is largely in oil, and the search for oil has done more to improve deep drilling than any other mining activity."
+    },
+    {
+      "voaid": "4013",
+      "EndTiming": "55.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "52.4",
+      "Sentence_cn": "当确定钻孔地点后，",
+      "Sentence": "When it has been decided where we are going to drill,"
+    },
+    {
+      "voaid": "4013",
+      "EndTiming": "59.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "56.1",
+      "Sentence_cn": "我们就在那里竖起一个井架。",
+      "Sentence": "we put up at the surface an oil derrick."
+    },
+    {
+      "voaid": "4013",
+      "EndTiming": "66.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "59.0",
+      "Sentence_cn": "井架必须很高，因为它像一个巨型滑轮组。我们必须把很长的钻杆一节节地钻入地下。",
+      "Sentence": "It has to be tall because it is like a giant block and tackle and we have to lower into the ground"
+    },
+    {
+      "voaid": "4013",
+      "EndTiming": "73.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "66.9",
+      "Sentence_cn": "然后再从地下拉出来。钻杆顶部安装的发动机带动钻杆旋转。",
+      "Sentence": "and haul out of the ground great lengths of drill pipe which are rotated by an engine at the top"
+    },
+    {
+      "voaid": "4013",
+      "EndTiming": "77.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "74.0",
+      "Sentence_cn": "它的底部装有钻头。",
+      "Sentence": "and are fitted with a cutting bit at the bottom."
+    },
+    {
+      "voaid": "4013",
+      "EndTiming": "82.3",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "78.0",
+      "Sentence_cn": "地质学家需要知道钻头已以到达什么样的岩层，",
+      "Sentence": "The geologist needs to know what rocks the drill has reached,"
+    },
+    {
+      "voaid": "4013",
+      "EndTiming": "87.5",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "82.8",
+      "Sentence_cn": "因此时常要用芯钻头取样。",
+      "Sentence": "so every so often a sample is obtained with a coring bit."
+    },
+    {
+      "voaid": "4013",
+      "EndTiming": "95.4",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "88.2",
+      "Sentence_cn": "这种钻头能切割一段光滑的圆柱形岩石，从中能看出所钻透的地层。",
+      "Sentence": "It cuts a clean cylinder of rock, from which can be seen the strata the drill has been cutting through."
+    },
+    {
+      "voaid": "4013",
+      "EndTiming": "106.2",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "96.4",
+      "Sentence_cn": "一旦到达油层，石油就会由于地下巨大的压力流到地面上来，这种巨大的压力来自地下天然气或水。",
+      "Sentence": "Once we get down to the oil, it usually flows to the surface because great pressure either from gas or water, is pushing it."
+    },
+    {
+      "voaid": "4013",
+      "EndTiming": "115.4",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "107.0",
+      "Sentence_cn": "这种压力必须加以控制，我们让泥桨顺着钻杆向下循环，用这种方法来控制压力。",
+      "Sentence": "This pressure must be under control, and we control it by means of the mud which we circulate down the drill pipe."
+    },
+    {
+      "voaid": "4013",
+      "EndTiming": "123.5",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "116.3",
+      "Sentence_cn": "我们尽量避免使用陈旧天真的喷井方法，那样会浪费石油和天然气。",
+      "Sentence": "We endeavour to avoid the old, romantic idea of a gusher, which wastes oil and gas."
+    },
+    {
+      "voaid": "4013",
+      "EndTiming": "137.7",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "124.4",
+      "Sentence_cn": "我们要让石油留在井下，直到我们能用一种有控制的方法把它引上来为止。",
+      "Sentence": "We want it to stay down the hole until we can lead it off in a controlled manner."
+    }
+  ],
+  "size": 18,
+  "title": {
+    "newCategoryid": 1154,
+    "newTitleId": "14733,14734,14735,14736",
+    "title_cn": "探寻石油",
+    "title": "The search for oil"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/4_13.mp3"
+}

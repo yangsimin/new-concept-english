@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "voaid": "1051",
+      "EndTiming": "4.8",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "宜人的气候",
+      "Sentence": "--- lesson 51  A pleasant climate"
+    },
+    {
+      "voaid": "1051",
+      "EndTiming": "7.6",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.7",
+      "Sentence_cn": "你是哪国人？",
+      "Sentence": "Where do you come from?"
+    },
+    {
+      "voaid": "1051",
+      "EndTiming": "10.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.4",
+      "Sentence_cn": "我是希腊人。",
+      "Sentence": "I come from Greece."
+    },
+    {
+      "voaid": "1051",
+      "EndTiming": "14.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "11.3",
+      "Sentence_cn": "你们的国家的气候怎么样？",
+      "Sentence": "What's the climate like in your country?"
+    },
+    {
+      "voaid": "1051",
+      "EndTiming": "17.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "15.2",
+      "Sentence_cn": "气候非常宜人。",
+      "Sentence": "It's very pleasant."
+    },
+    {
+      "voaid": "1051",
+      "EndTiming": "20.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "18.0",
+      "Sentence_cn": "春季的天气怎么样？",
+      "Sentence": "What's the weather like in spring?"
+    },
+    {
+      "voaid": "1051",
+      "EndTiming": "24.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "21.3",
+      "Sentence_cn": "3月里常常刮风。",
+      "Sentence": "It's often windy in March."
+    },
+    {
+      "voaid": "1051",
+      "EndTiming": "31.5",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "24.9",
+      "Sentence_cn": "4月和5月的天气总是暖洋洋的，但有时下雨。",
+      "Sentence": "It's always warm in April and May, but it rains sometimes."
+    },
+    {
+      "voaid": "1051",
+      "EndTiming": "34.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "32.3",
+      "Sentence_cn": "夏季的天气如何呢？",
+      "Sentence": "What's it like in summer?"
+    },
+    {
+      "voaid": "1051",
+      "EndTiming": "39.9",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "35.3",
+      "Sentence_cn": "6月、7月和8月的天气总是炎热的，",
+      "Sentence": "It's always hot in June, July and August."
+    },
+    {
+      "voaid": "1051",
+      "EndTiming": "43.3",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "40.7",
+      "Sentence_cn": "每天都出太阳。",
+      "Sentence": "The sun shines every day."
+    },
+    {
+      "voaid": "1051",
+      "EndTiming": "46.9",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "44.0",
+      "Sentence_cn": "秋季的天气是冷还是暖呢？",
+      "Sentence": "Is it cold or warm in autumn?"
+    },
+    {
+      "voaid": "1051",
+      "EndTiming": "51.9",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "47.8",
+      "Sentence_cn": "9月和10月总是很暖和，",
+      "Sentence": "It's always warm in September and October."
+    },
+    {
+      "voaid": "1051",
+      "EndTiming": "58.3",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "52.6",
+      "Sentence_cn": "11月常常就冷了，而且有时下雨。",
+      "Sentence": "It's often cold in November and it rains sometimes."
+    },
+    {
+      "voaid": "1051",
+      "EndTiming": "61.5",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "59.0",
+      "Sentence_cn": "冬季的天气很冷吗？",
+      "Sentence": "Is it very cold in winter?"
+    },
+    {
+      "voaid": "1051",
+      "EndTiming": "67.8",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "62.4",
+      "Sentence_cn": "12月、1月和2月常常很冷，",
+      "Sentence": "It's often cold in December, January and February."
+    },
+    {
+      "voaid": "1051",
+      "EndTiming": "70.2",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "68.4",
+      "Sentence_cn": "有时还下雪。",
+      "Sentence": "It snows sometimes."
+    }
+  ],
+  "size": 17,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14235",
+    "title_cn": "宜人的气候",
+    "title": "A pleasant climate"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_51.mp3"
+}

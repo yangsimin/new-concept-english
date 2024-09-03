@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "1106",
+      "EndTiming": "18.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "12.5",
+      "Sentence_cn": "那个女士为什么指着那个手提箱？",
+      "Sentence": "Look at picture K. Why is the lady pointing at the suitcase?"
+    },
+    {
+      "voaid": "1106",
+      "EndTiming": "21.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "18.6",
+      "Sentence_cn": "因为她想让他搬。",
+      "Sentence": "Because she wants him to carry it."
+    },
+    {
+      "voaid": "1106",
+      "EndTiming": "27.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "22.0",
+      "Sentence_cn": "他为什么给她照片?",
+      "Sentence": "Picture R. Why is he giving her his photograph?"
+    },
+    {
+      "voaid": "1106",
+      "EndTiming": "30.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "27.5",
+      "Sentence_cn": "因为他想她保存。",
+      "Sentence": "Because he wants her to keep it."
+    },
+    {
+      "voaid": "1106",
+      "EndTiming": "36.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "30.5",
+      "Sentence_cn": "她为什么和他们说再见？",
+      "Sentence": "Picture V. Why is she saying good bye to them?"
+    },
+    {
+      "voaid": "1106",
+      "EndTiming": "39.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "36.5",
+      "Sentence_cn": "因为她不想他们误了车。",
+      "Sentence": "Because she doesn't want them to miss it."
+    },
+    {
+      "voaid": "1106",
+      "EndTiming": "45.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "40.5",
+      "Sentence_cn": "她为什么要从他手里拿过刀？",
+      "Sentence": "Picture Z. Why is she taking the knife from him?"
+    },
+    {
+      "voaid": "1106",
+      "EndTiming": "49.5",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "46.0",
+      "Sentence_cn": "因为她不想他割到。",
+      "Sentence": "Because she doesn't want him to cut himself."
+    },
+    {
+      "voaid": "1106",
+      "EndTiming": "117.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "107.7",
+      "Sentence_cn": "为什么警察对那个男人和女人说话？",
+      "Sentence": "Picture O. Why is the policeman talking to the man and the woman?"
+    },
+    {
+      "voaid": "1106",
+      "EndTiming": "122.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "118.0",
+      "Sentence_cn": "因为他想他们把它移一下。",
+      "Sentence": "Because he wants them to move it."
+    },
+    {
+      "voaid": "1106",
+      "EndTiming": "130.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "122.4",
+      "Sentence_cn": "为什么那个女人告诉那个女孩要小心。",
+      "Sentence": "Picture Y. Why is the woman telling the girl to be careful?"
+    },
+    {
+      "voaid": "1106",
+      "EndTiming": "136.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "132.0",
+      "Sentence_cn": "因为她不想她把它丢了。",
+      "Sentence": "Because she doesn't want her to lose it."
+    },
+    {
+      "voaid": "1106",
+      "EndTiming": "145.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "136.5",
+      "Sentence_cn": "他为什么放唱片？",
+      "Sentence": "Picture M. Why is he putting a record on?"
+    },
+    {
+      "voaid": "1106",
+      "EndTiming": "151.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "147.0",
+      "Sentence_cn": "因为他想让他们听。",
+      "Sentence": "Because he wants them to listen to it."
+    },
+    {
+      "voaid": "1106",
+      "EndTiming": "160.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "151.5",
+      "Sentence_cn": "为什么她要和小男孩谈话？",
+      "Sentence": "Picture S. Why is she talking to the little boy?"
+    },
+    {
+      "voaid": "1106",
+      "EndTiming": "165.5",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "161.0",
+      "Sentence_cn": "因为她不想他伤到他自己。",
+      "Sentence": "Because she doesn't want him to hurt himself."
+    },
+    {
+      "voaid": "1106",
+      "EndTiming": "173.5",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "166.0",
+      "Sentence_cn": "服务员为什么对这个人说话？",
+      "Sentence": "Picture N. Why is the attendant talking to the man?"
+    },
+    {
+      "voaid": "1106",
+      "EndTiming": "181.0",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "177.0",
+      "Sentence_cn": "因为他想让他来描述一下它。",
+      "Sentence": "Because he wants him to describe it."
+    },
+    {
+      "voaid": "1106",
+      "EndTiming": "190.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "182.0",
+      "Sentence_cn": "这个男人为什么让他妻子看新车？",
+      "Sentence": "Picture X. Why is the man showing his new car to his wife?"
+    },
+    {
+      "voaid": "1106",
+      "EndTiming": "197.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "193.0",
+      "Sentence_cn": "因为他不想她开车。",
+      "Sentence": "Because he doesn't want her to drive it."
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14306",
+    "title_cn": "我要你/他/她/他们…… 告诉他/她/他们……",
+    "title": "I want you/him/her/them to... Tell him/her/them to..."
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_106.mp3"
+}

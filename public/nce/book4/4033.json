@@ -1,0 +1,264 @@
+{
+  "data": [
+    {
+      "voaid": "4033",
+      "EndTiming": "9.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "1.1",
+      "Sentence_cn": "课文33  教育",
+      "Sentence": "--- Lesson 33 Education"
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "16.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "11.1",
+      "Sentence_cn": "为什么教育在没有书籍的部落社会是民主的?",
+      "Sentence": "Why is education democratic in bookless tribal societies?"
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "22.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "18.8",
+      "Sentence_cn": "教育是我们这个时代的关键词之一。",
+      "Sentence": "Education is one of the key words of our time."
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "26.8",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "23.3",
+      "Sentence_cn": "我们许多人都相信，一个没有受过教育的人，",
+      "Sentence": "A man without an education, many of us believe,"
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "36.4",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "26.8",
+      "Sentence_cn": "是逆境的牺牲品，被剥夺了20世纪的最优越的机会之一。",
+      "Sentence": "is an unfortunate victim of adverse circumstances, deprived of one of the greatest twentieth-century opportunities."
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "46.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "37.2",
+      "Sentence_cn": "现代国家深深懂得教育的重要性，对教育机构投资，收回的‘利息’",
+      "Sentence": "Convinced of the importance of education, modern states 'invest' in institutions of learning to get back 'interest'"
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "53.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "46.9",
+      "Sentence_cn": "便是培养出大批有知识的男女青年，这些人可能成为未来的栋梁。",
+      "Sentence": "in the form of a large group of enlightened young men and women who are potential leaders."
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "59.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "54.0",
+      "Sentence_cn": "教育，以其教学周期如此精心地安排，",
+      "Sentence": "Education, with its cycles of instruction so carefully worked out,"
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "69.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "59.5",
+      "Sentence_cn": "并以教科书 -- 那些可以买到的智慧源泉 -- 予以强化，如果不受其惠，文明将会是个什么样子呢？",
+      "Sentence": "punctuated by textbooks -- those purchasable wells of wisdom -- what would civilization be like without its benefits?"
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "76.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "70.9",
+      "Sentence_cn": "至少，这些是可以肯定的：虽然我们还会有医生和牧师、",
+      "Sentence": "So much is certain: that we would have doctors and preachers,"
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "84.4",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "76.5",
+      "Sentence_cn": "律师和被告、婚姻和生育，但人们的精神面貌将是另一个样子。",
+      "Sentence": "lawyers and defendants marriages and births -- but our spiritual outlook would be different."
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "91.3",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "85.2",
+      "Sentence_cn": "人们不会重视‘资料和数据’，而靠好记性、",
+      "Sentence": "We would lay less stress on 'facts and figures' and more on a good memory,"
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "98.3",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "91.6",
+      "Sentence_cn": "实用心理学与同伴相处的能力。",
+      "Sentence": "on applied psychology, and on the capacity of a man to get along with his fellow-citizens."
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "109.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "99.2",
+      "Sentence_cn": "如果我们的教育制度仿效没有书籍的古代教育，我们的学院将具有可以想象得出的最民主的形式了。",
+      "Sentence": "If our educational system were fashioned after its bookless past we would have the most democratic form of 'college' imaginable."
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "116.5",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "110.2",
+      "Sentence_cn": "在部落中，通过传统继承的知识为所有人共享，并传授给部落中的每一个成员。",
+      "Sentence": "Among tribal people all knowledge inherited by tradition is shared by all;"
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "124.4",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "117.0",
+      "Sentence_cn": "从这个意义上讲，人人受到的有关生活本领的教育是相等的。",
+      "Sentence": "it is taught to every member of the tribe so that in this respect everybody is equally equipped for life."
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "135.9",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "124.4",
+      "Sentence_cn": "这就是我们最进步的现代教育试图恢复的“平等起步”的理想状况。",
+      "Sentence": "It is the ideal condition of the 'equal start' which only our most progressive forms of modern education try to regain."
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "145.1",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "136.1",
+      "Sentence_cn": "在原始文化中，寻求和接受传统教育的义务对全民都有约束力。",
+      "Sentence": "In primitive cultures the obligation to seek and to receive the traditional instruction is binding to all."
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "159.2",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "145.3",
+      "Sentence_cn": "因而没有“文盲”（如果这个字眼儿可以用于没有文字的民族的话）。而我们的义务教育成为法律在德国是在1642年，",
+      "Sentence": "There are no'illiterates' -- if the term can be applied to peoples without a script -- while our own compulsory school attendance became law in Germany in 1642,"
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "170.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "159.8",
+      "Sentence_cn": "在法国是在1806年，在英国是在1876年。",
+      "Sentence": "in France in 1806, and in England in 1876 and is still nonexistent in a number of 'civilized' nations."
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "176.8",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "171.2",
+      "Sentence_cn": "这说明，经过了多么漫长的时间之后，我们才认识到，有必要确保",
+      "Sentence": "This shows how long it was before we deemed it necessary to make sure"
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "185.6",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "176.8",
+      "Sentence_cn": "我们的孩子享有多少个世纪以来由‘少数幸运者’所积累起来的知识。",
+      "Sentence": "that all our children could share in the knowledge accumulated by the 'happy few' during the past centuries."
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "191.9",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "187.3",
+      "Sentence_cn": "荒凉地区的教育不是钱的问题，",
+      "Sentence": "Education in the wilderness is not a matter of monetary means."
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "196.0",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "192.7",
+      "Sentence_cn": "所有的人都享有平等起步的权利。",
+      "Sentence": "All are entitled to an equal start."
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "205.0",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "196.5",
+      "Sentence_cn": "那里没有我们今天社会中的匆忙生活，而匆忙的生活常常妨碍个性的全面发展。",
+      "Sentence": "There is none of the hurry which, in our society, often hampers the full development of a growing personality."
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "211.3",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "206.2",
+      "Sentence_cn": "荒凉地区的孩子无时无刻不在父母关怀下成长。",
+      "Sentence": "There, a child grows up under the everpresent attention of his parents;"
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "218.2",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "212.2",
+      "Sentence_cn": "因此，丛林和荒凉地区不知道什么叫“青少年犯罪”。",
+      "Sentence": "therefore the jungles and the savannahs know of no 'juvenile delinquency'."
+    },
+    {
+      "voaid": "4033",
+      "EndTiming": "237.6",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "219.5",
+      "Sentence_cn": "人们没有必要离家谋生，所以不会产生孩子无人管的问题，也不存在父亲无力为孩子支付教育费用而犯难的问题。",
+      "Sentence": "No necessity of making a living away from home results in neglect of children, and no father is confronted with his inability to 'buy' an education for his child."
+    }
+  ],
+  "size": 28,
+  "title": {
+    "newCategoryid": 1154,
+    "newTitleId": "14796,14797,14798",
+    "title_cn": "教育",
+    "title": "Education"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/4_33.mp3"
+}

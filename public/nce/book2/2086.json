@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "voaid": "2086",
+      "EndTiming": "4.8",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.7",
+      "Sentence_cn": "失控",
+      "Sentence": "--- Lesson 86  Out of control"
+    },
+    {
+      "voaid": "2086",
+      "EndTiming": "12.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.4",
+      "Sentence_cn": "当那人试图让快艇转弯时，方向盘脱手了。",
+      "Sentence": "As the man tried to swing the speedboat round, the steering wheel came away in his hands."
+    },
+    {
+      "voaid": "2086",
+      "EndTiming": "21.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "12.7",
+      "Sentence_cn": "他绝望地向他的伙伴挥手，他的伙伴在过去的15分钟里一直在滑水。",
+      "Sentence": "He waved desperately to his companion, who had been water skiing for the last fifteen minutes."
+    },
+    {
+      "voaid": "2086",
+      "EndTiming": "30.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "21.4",
+      "Sentence_cn": "他们两个还没来得及意识到究竟发生了什么事情，就被猛地抛入了海里。",
+      "Sentence": "Both men had hardly had time to realize what was happening when they were thrown violently into the sea."
+    },
+    {
+      "voaid": "2086",
+      "EndTiming": "38.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "30.7",
+      "Sentence_cn": "快艇撞上了一个浮标，但它仍在水面上快速行驶着。",
+      "Sentence": "The speedboat had struck a buoy, but it continued to move very quickly across the water."
+    },
+    {
+      "voaid": "2086",
+      "EndTiming": "49.3",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "39.2",
+      "Sentence_cn": "两个人刚开始向岸边游去，就突然惊愕地发现快艇正在转着圈行驶，",
+      "Sentence": "Both men had just begun to swim towards the shore, when they noticed with dismay that the speedboat was moving in a circle."
+    },
+    {
+      "voaid": "2086",
+      "EndTiming": "54.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "50.0",
+      "Sentence_cn": "它现在正以惊人的速度直冲他们驶来。",
+      "Sentence": "It now came straight towards them at tremendous speed."
+    },
+    {
+      "voaid": "2086",
+      "EndTiming": "60.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "54.1",
+      "Sentence_cn": "不到1分钟的工夫，它从离他们只有几英尺远的地方呼啸着驶了过去。",
+      "Sentence": "In less than a minute, it roared past them only a few feet away."
+    },
+    {
+      "voaid": "2086",
+      "EndTiming": "70.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "61.6",
+      "Sentence_cn": "快艇过去之后，他们以最快的速度向前游去，因为他们知道快艇马上就要转回来。",
+      "Sentence": "After it had passed, they swam on as quickly as they could because they knew that the boat would soon return."
+    },
+    {
+      "voaid": "2086",
+      "EndTiming": "79.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "71.5",
+      "Sentence_cn": "他们刚刚来得及游出危险区，快艇就又转完了一圈。",
+      "Sentence": "They had just had enough time to swim out of danger when the boat again completed a circle."
+    },
+    {
+      "voaid": "2086",
+      "EndTiming": "85.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "79.7",
+      "Sentence_cn": "然而这一次它的速度慢多了。",
+      "Sentence": "On this occasion, however, it had slowed down considerably."
+    },
+    {
+      "voaid": "2086",
+      "EndTiming": "89.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "85.3",
+      "Sentence_cn": "汽油几乎已经用光。",
+      "Sentence": "The petrol had nearly all been used up."
+    },
+    {
+      "voaid": "2086",
+      "EndTiming": "97.4",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "89.7",
+      "Sentence_cn": "没过多久，噪音便彻底消失，快艇开始在水面上慢悠悠地漂流。",
+      "Sentence": "Before long, the noise dropped completely and the boat began to drift gently across the water."
+    }
+  ],
+  "size": 13,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14498,14499",
+    "title_cn": "失控",
+    "title": "Out of control"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_86.mp3"
+}

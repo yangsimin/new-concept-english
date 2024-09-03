@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "3012",
+      "EndTiming": "4.1",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "荒岛生活",
+      "Sentence": "--- lesson 12  Life on a desert island"
+    },
+    {
+      "voaid": "3012",
+      "EndTiming": "10.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.2",
+      "Sentence_cn": "我们许多人对于荒岛生活有一种不切实际的想法。",
+      "Sentence": "Most of us have formed an unrealistic picture of life on a desert island."
+    },
+    {
+      "voaid": "3012",
+      "EndTiming": "18.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.7",
+      "Sentence_cn": "我们有时想象荒岛是阳光终日普照的天堂。",
+      "Sentence": "We sometimes imagine a desert island to be a sort of paradise where the sun always shines."
+    },
+    {
+      "voaid": "3012",
+      "EndTiming": "21.2",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "18.4",
+      "Sentence_cn": "在那里，生活简单又美好。",
+      "Sentence": "Life there is simple and good."
+    },
+    {
+      "voaid": "3012",
+      "EndTiming": "25.7",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "21.2",
+      "Sentence_cn": "成熟的水果从树上掉下来，人们根本无需劳动。",
+      "Sentence": "Ripe fruit falls from the trees and you never have to work."
+    },
+    {
+      "voaid": "3012",
+      "EndTiming": "29.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "26.2",
+      "Sentence_cn": "另一种想法恰恰相反，",
+      "Sentence": "The other side of the picture is quite the opposite."
+    },
+    {
+      "voaid": "3012",
+      "EndTiming": "32.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "29.8",
+      "Sentence_cn": "认为荒岛生活很可怕，",
+      "Sentence": "Life on a desert island is wretched."
+    },
+    {
+      "voaid": "3012",
+      "EndTiming": "40.1",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "32.1",
+      "Sentence_cn": "要么饿死，要么像鲁滨孙那样，天天盼船来，却总不见船影。",
+      "Sentence": "You either starve to death or live like Robinson Crusoe, waiting for a boat which never comes."
+    },
+    {
+      "voaid": "3012",
+      "EndTiming": "44.6",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "40.7",
+      "Sentence_cn": "也许，这两种想象都有可信之处。",
+      "Sentence": "Perhaps there is an element of truth in both these pictures,"
+    },
+    {
+      "voaid": "3012",
+      "EndTiming": "48.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "44.9",
+      "Sentence_cn": "但很少有人能有机会去弄个究竟。",
+      "Sentence": "but few of us have had the opportunity to find out."
+    },
+    {
+      "voaid": "3012",
+      "EndTiming": "56.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "48.9",
+      "Sentence_cn": "最近有两个人在一座珊瑚岛上呆了5天，他们真希望在那儿再多呆一些日子。",
+      "Sentence": "Two men who recently spent five days on a coral island wished they had stayed there longer."
+    },
+    {
+      "voaid": "3012",
+      "EndTiming": "62.8",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "56.0",
+      "Sentence_cn": "他们驾着一条严重损坏的小船从维尔京群岛去迈阿密修理。",
+      "Sentence": "They were taking a badly damaged boat from the Virgin Islands to Miami to have it repaired."
+    },
+    {
+      "voaid": "3012",
+      "EndTiming": "66.3",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "62.9",
+      "Sentence_cn": "途中，船开始下沉，",
+      "Sentence": "During the journey, their boat began to sink."
+    },
+    {
+      "voaid": "3012",
+      "EndTiming": "72.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "66.6",
+      "Sentence_cn": "他们迅速把食物、火柴、罐装啤酒往一只救生筏上装。",
+      "Sentence": "They quickly loaded a small rubber dinghy with food, matches, and cans of beer"
+    },
+    {
+      "voaid": "3012",
+      "EndTiming": "79.8",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "72.8",
+      "Sentence_cn": "然后在加勒比海上划行了几英里，到了一座珊瑚岛上。",
+      "Sentence": "and rowed for a few miles across the Caribbean until they arrived at a tiny coral island."
+    },
+    {
+      "voaid": "3012",
+      "EndTiming": "87.4",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "80.0",
+      "Sentence_cn": "岛上几乎没有一颗树，也没有淡水，但这不算什么问题。",
+      "Sentence": "There were hardly any trees on the island and there was no water, but this did not prove to be a problem."
+    },
+    {
+      "voaid": "3012",
+      "EndTiming": "91.2",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "87.5",
+      "Sentence_cn": "他们用像皮艇蓄积雨水。",
+      "Sentence": "The men collected rainwater in the rubber dinghy."
+    },
+    {
+      "voaid": "3012",
+      "EndTiming": "95.8",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "91.3",
+      "Sentence_cn": "由于他们随身带了一支捕鱼枪，因此，吃饭不愁。",
+      "Sentence": "As they had brought a spear gun with them, they had plenty to eat."
+    },
+    {
+      "voaid": "3012",
+      "EndTiming": "103.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "95.9",
+      "Sentence_cn": "他们天天捕捉龙虾和鱼，正如其中一位所说，吃得“像国王一样好”。",
+      "Sentence": "They caught lobster and fish every day，and, as one of them put it 'ate like kings'."
+    },
+    {
+      "voaid": "3012",
+      "EndTiming": "111.5",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "103.0",
+      "Sentence_cn": "5天后，一条油轮从那儿路过，搭救了他们。这二位不得不离开那个荒岛时，还真的感到遗憾呢！",
+      "Sentence": "When a passing tanker rescued them five days later, both men were genuinely sorry that they had to leave."
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14557,14558,14559",
+    "title_cn": "荒岛生活",
+    "title": "Life on a desert island"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_12.mp3"
+}

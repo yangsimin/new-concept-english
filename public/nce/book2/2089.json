@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "voaid": "2089",
+      "EndTiming": "4.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "口误",
+      "Sentence": "--- Lesson 89  A slip of the tongue"
+    },
+    {
+      "voaid": "2089",
+      "EndTiming": "11.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.8",
+      "Sentence_cn": "人们总要想尽办法看不花钱的演出--哪怕是拙劣的演出。",
+      "Sentence": "People will do anything to see a free show -- even if it is a bad one."
+    },
+    {
+      "voaid": "2089",
+      "EndTiming": "21.4",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "12.1",
+      "Sentence_cn": "当“皮尤”鸟食公司将在我们当地影院演出喜剧节目的消息传开后，",
+      "Sentence": "When the news got round that a comedy show would be presented at our local cinema by the P. and U. Bird Seed Company,"
+    },
+    {
+      "voaid": "2089",
+      "EndTiming": "23.7",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "21.7",
+      "Sentence_cn": "我们都赶紧跑去观看。",
+      "Sentence": "we all rushed to see it."
+    },
+    {
+      "voaid": "2089",
+      "EndTiming": "34.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "23.7",
+      "Sentence_cn": "我们不得不排了好几个小时才进得场去。在演出开始前场内肯定已有好几百人了。",
+      "Sentence": "We had to queue for hours to get in and there must have been several hundred people present just before the show began."
+    },
+    {
+      "voaid": "2089",
+      "EndTiming": "39.2",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "34.2",
+      "Sentence_cn": "不幸的是，这次演出是我们看过的最乏味的演出了。",
+      "Sentence": "Unfortunately, the show was one of the dullest we have ever seen."
+    },
+    {
+      "voaid": "2089",
+      "EndTiming": "50.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "39.8",
+      "Sentence_cn": "那些没能进到场内的人没有必要感到失望，因为很多应该出场的专业演员都没有来。",
+      "Sentence": "Those who failed to get in need not have felt disappointed, as many of the artistes who should have appeared did not come."
+    },
+    {
+      "voaid": "2089",
+      "EndTiming": "58.1",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "50.0",
+      "Sentence_cn": "那天晚上唯一有趣的事情是节目开始时那个报幕员的开场白。",
+      "Sentence": "The only funny things we heard that evening came from the advertiser at the beginning of the programme."
+    },
+    {
+      "voaid": "2089",
+      "EndTiming": "65.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "58.5",
+      "Sentence_cn": "他显然非常紧张，局促不安地在麦克风前站了好几分钟。",
+      "Sentence": "He was obviously very nervous and for some minutes stood awkwardly before the microphone."
+    },
+    {
+      "voaid": "2089",
+      "EndTiming": "71.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "66.5",
+      "Sentence_cn": "但他刚一开口说话，人们便哄堂大笑起来。",
+      "Sentence": "As soon as he opened his mouth, everyone burst out laughing."
+    },
+    {
+      "voaid": "2089",
+      "EndTiming": "79.3",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "72.5",
+      "Sentence_cn": "我们都明白那个可怜的人应该说些什么，而他实际说的却是：",
+      "Sentence": "We all know what the poor man should have said, but what he actually said was:"
+    },
+    {
+      "voaid": "2089",
+      "EndTiming": "87.1",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "79.5",
+      "Sentence_cn": "“这是‘浦伊’鸟食公司，好女士们，晚上和先生们！”",
+      "Sentence": "'This is the Poo and Ee Seed Bird Company. Good ladies, evening and gentlemen!'"
+    }
+  ],
+  "size": 12,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14504",
+    "title_cn": "口误",
+    "title": "A slip of the tongue"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_89.mp3"
+}

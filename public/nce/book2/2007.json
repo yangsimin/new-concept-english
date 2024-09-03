@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "voaid": "2007",
+      "EndTiming": "3.6",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.8",
+      "Sentence_cn": "为时太晚",
+      "Sentence": "--- Lesson 7 Too late"
+    },
+    {
+      "voaid": "2007",
+      "EndTiming": "9.6",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.4",
+      "Sentence_cn": "飞机误点了，侦探们在机场等了整整一上午。",
+      "Sentence": "The plane was late and detectives were waiting at the airport all morning. "
+    },
+    {
+      "voaid": "2007",
+      "EndTiming": "14.9",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.4",
+      "Sentence_cn": "他们正期待从南非来的一个装着钻石的贵重包裹。",
+      "Sentence": "They were expecting a valuable parcel of diamonds from South Africa. "
+    },
+    {
+      "voaid": "2007",
+      "EndTiming": "22.8",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "15.7",
+      "Sentence_cn": "数小时以前，有人向警方报告，说有人企图偷走这些钻石。",
+      "Sentence": "A few hours earlier, someone had told the police that thieves would try to steal the diamonds. "
+    },
+    {
+      "voaid": "2007",
+      "EndTiming": "33.1",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "23.6",
+      "Sentence_cn": "当飞机到达时，一些侦探等候在主楼内，另一些侦探则守候在停机坪上。",
+      "Sentence": "When the plane arrived, some of the detectives were waiting inside the main building while others were waiting on the airfield. "
+    },
+    {
+      "voaid": "2007",
+      "EndTiming": "39.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "33.9",
+      "Sentence_cn": "有两个人把包裹拿下飞机，进了海关。",
+      "Sentence": "Two men took the parcel off the plane and carried it into the Customs House. "
+    },
+    {
+      "voaid": "2007",
+      "EndTiming": "46.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "40.3",
+      "Sentence_cn": "这时两个侦探把住门口，另外两个侦探打开了包裹。",
+      "Sentence": "While two detectives were keeping guard at the door, two others opened the parcel. "
+    },
+    {
+      "voaid": "2007",
+      "EndTiming": "55.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "47.4",
+      "Sentence_cn": "令他们吃惊的是，那珍贵的包裹里面装的全是石头和沙子！",
+      "Sentence": "To their surprise, the precious parcel was full of stones and sand!"
+    }
+  ],
+  "size": 8,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14361,14362",
+    "title_cn": "为时太晚",
+    "title": "Too late"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_7.mp3"
+}

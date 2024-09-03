@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "voaid": "4014",
+      "EndTiming": "3.4",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "课文14  蝴蝶效应",
+      "Sentence": "--- Lesson 14 The Butterfly Effect"
+    },
+    {
+      "voaid": "4014",
+      "EndTiming": "15.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "3.9",
+      "Sentence_cn": "为什么小的误差就不能准确地预测天气系统?",
+      "Sentence": "Why do small errors make it impossible to predict the weather system with a high degree of accuracy?"
+    },
+    {
+      "voaid": "4014",
+      "EndTiming": "22.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "17.6",
+      "Sentence_cn": "世界上最好的两三天以上的天气预报具有很强的猜测性，",
+      "Sentence": "Beyond two or three days, the world's best weather forecasts are speculative,"
+    },
+    {
+      "voaid": "4014",
+      "EndTiming": "26.1",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "22.6",
+      "Sentence_cn": "如果超过六七天，天气预报就没有了任何价值。",
+      "Sentence": "and beyond six or seven they are worthless."
+    },
+    {
+      "voaid": "4014",
+      "EndTiming": "29.3",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "27.0",
+      "Sentence_cn": "原因是蝴蝶效应。",
+      "Sentence": "The Butterfly Effect is the reason."
+    },
+    {
+      "voaid": "4014",
+      "EndTiming": "31.8",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "30.1",
+      "Sentence_cn": "对于小片的恶劣天气，",
+      "Sentence": "For small pieces of weather--"
+    },
+    {
+      "voaid": "4014",
+      "EndTiming": "37.2",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "31.8",
+      "Sentence_cn": "对一个全球性的气象预报员来说，“小”可以意味着雷暴雨和暴风雪。",
+      "Sentence": "and to a global forecaster, small can mean thunderstorms and blizzards--"
+    },
+    {
+      "voaid": "4014",
+      "EndTiming": "40.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "37.2",
+      "Sentence_cn": "任何预测的质量会很快下降。",
+      "Sentence": "any prediction deteriorates rapidly."
+    },
+    {
+      "voaid": "4014",
+      "EndTiming": "46.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "40.4",
+      "Sentence_cn": "错误和不可靠性上升，接踵而来的是一系列湍流的徵状，",
+      "Sentence": "Errors and uncertainties multiply, cascading upward through a chain of turbulent features,"
+    },
+    {
+      "voaid": "4014",
+      "EndTiming": "53.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "46.8",
+      "Sentence_cn": "从小尘暴和暴风发展到只有卫星上可以看到的席卷整块大陆的旋涡。",
+      "Sentence": "from dust devils and squalls up to continent-size eddies that only satellites can see."
+    },
+    {
+      "voaid": "4014",
+      "EndTiming": "59.7",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "54.0",
+      "Sentence_cn": "现代气象模型以一个坐标图来显示，图中每个点大约是间隔60英里。",
+      "Sentence": "The modern weather models work with a grid of points of the order of sixty miles apart,"
+    },
+    {
+      "voaid": "4014",
+      "EndTiming": "64.3",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "60.0",
+      "Sentence_cn": "既使是这样，有些开始时的资料也不得不依靠推测，",
+      "Sentence": "and even so, some starting data has to be guessed,"
+    },
+    {
+      "voaid": "4014",
+      "EndTiming": "68.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "64.3",
+      "Sentence_cn": "因为地面工作站和卫星不可能看到地球上的每一个地方。",
+      "Sentence": "since ground stations and satellites cannot see everywhere."
+    },
+    {
+      "voaid": "4014",
+      "EndTiming": "73.3",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "68.8",
+      "Sentence_cn": "假设地球上可以布满传感器，",
+      "Sentence": "But suppose the earth could be covered with sensors spaced one foot apart,"
+    },
+    {
+      "voaid": "4014",
+      "EndTiming": "78.5",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "73.5",
+      "Sentence_cn": "每个相隔1英尺，并按1英尺的间隔从地面一直排列到大气层的顶端。",
+      "Sentence": "rising at one-foot intervals all the way to the top of the atmosphere."
+    },
+    {
+      "voaid": "4014",
+      "EndTiming": "83.9",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "79.1",
+      "Sentence_cn": "再假定每个传感器都极极端准确地读出了温度、",
+      "Sentence": "Suppose every sensor gives perfectly accurate readings of temperature,"
+    },
+    {
+      "voaid": "4014",
+      "EndTiming": "90.1",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "84.2",
+      "Sentence_cn": "气压、温度和气象学家需要的任何其他数据。",
+      "Sentence": "pressure, humidity, and any other quantity a meteorologist would want."
+    },
+    {
+      "voaid": "4014",
+      "EndTiming": "99.4",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "90.7",
+      "Sentence_cn": "在正午时分，一个功能巨大的计算机搜集了所有的资料，并算出在每一个点",
+      "Sentence": "Precisely at noon an infinitely powerful computer takes all the data and calculates what will happen at each point"
+    },
+    {
+      "voaid": "4014",
+      "EndTiming": "104.8",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "99.4",
+      "Sentence_cn": "上面12：01、12：02、12：03时可能出现的情况。",
+      "Sentence": "at 12.01, then 12.02, then 12.03..."
+    },
+    {
+      "voaid": "4014",
+      "EndTiming": "113.7",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "105.5",
+      "Sentence_cn": "计算机无法推断出1个月以后的某一天，新泽西州的普林斯顿究竟是晴天还是雨天。",
+      "Sentence": "The computer will still be unable to predict whether Princeton, New Jersey, will have sun or rain on a day one month away."
+    },
+    {
+      "voaid": "4014",
+      "EndTiming": "121.4",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "114.5",
+      "Sentence_cn": "正午时分，传感器之间的距离会掩盖计算机无法知道的波动，",
+      "Sentence": "At noon the spaces between the sensors will hide fluctuations that the computer will not know about,"
+    },
+    {
+      "voaid": "4014",
+      "EndTiming": "124.0",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "121.6",
+      "Sentence_cn": "任何偏平均值的变化。",
+      "Sentence": "tiny deviations from the average."
+    },
+    {
+      "voaid": "4014",
+      "EndTiming": "131.2",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "124.5",
+      "Sentence_cn": "到12：01时，那些波动就已经会在1英尺远的地方造成偏差。",
+      "Sentence": "By 12.01, those fluctuations will already have created small errors one foot away."
+    },
+    {
+      "voaid": "4014",
+      "EndTiming": "145.5",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "132.1",
+      "Sentence_cn": "很快这种偏差会增加到尺10英的范围，如此等等，一直到全球的范围。",
+      "Sentence": "Soon the errors will have multiplied to the ten-foot scale, and so on up to the size of the globe."
+    }
+  ],
+  "size": 24,
+  "title": {
+    "newCategoryid": 1154,
+    "newTitleId": "14737,14738,14739",
+    "title_cn": "蝴蝶效应",
+    "title": "The Butterfly Effect"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/4_14.mp3"
+}

@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "1068",
+      "EndTiming": "12.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "10.6",
+      "Sentence_cn": "你什么时候在教堂的？",
+      "Sentence": "When were you at church?"
+    },
+    {
+      "voaid": "1068",
+      "EndTiming": "14.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "12.6",
+      "Sentence_cn": "我星期日在教堂。",
+      "Sentence": "I was at church on Sunday."
+    },
+    {
+      "voaid": "1068",
+      "EndTiming": "17.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "15.0",
+      "Sentence_cn": "汤姆什么时候在理发店的？",
+      "Sentence": "When was Tom at the hairdresser's?"
+    },
+    {
+      "voaid": "1068",
+      "EndTiming": "20.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "17.8",
+      "Sentence_cn": "他星期四在理发店。",
+      "Sentence": "He was at the hairdresser's on Thursday."
+    },
+    {
+      "voaid": "1068",
+      "EndTiming": "23.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "21.0",
+      "Sentence_cn": "琼斯夫人什么时候在肉店的？",
+      "Sentence": "When was Mrs. Jones at the butcher's?"
+    },
+    {
+      "voaid": "1068",
+      "EndTiming": "26.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "24.0",
+      "Sentence_cn": "她星期三在肉店。",
+      "Sentence": "She was at the butcher's on Wednesday."
+    },
+    {
+      "voaid": "1068",
+      "EndTiming": "60.3",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "58.8",
+      "Sentence_cn": "你什么时候在家的？",
+      "Sentence": "When were you at home?"
+    },
+    {
+      "voaid": "1068",
+      "EndTiming": "66.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "64.0",
+      "Sentence_cn": "我星期日在家。",
+      "Sentence": "I was at home on Sunday."
+    },
+    {
+      "voaid": "1068",
+      "EndTiming": "69.2",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "66.8",
+      "Sentence_cn": "格雷小姐什么时候在办公室的？",
+      "Sentence": "When was Miss Grey at the office?"
+    },
+    {
+      "voaid": "1068",
+      "EndTiming": "75.2",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "72.4",
+      "Sentence_cn": "她星期二在办公室。",
+      "Sentence": "She was at the office on Tuesday."
+    },
+    {
+      "voaid": "1068",
+      "EndTiming": "78.8",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "76.4",
+      "Sentence_cn": "玛丽什么时候在面包店的？",
+      "Sentence": "When was Mary at the baker's?"
+    },
+    {
+      "voaid": "1068",
+      "EndTiming": "84.8",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "82.2",
+      "Sentence_cn": "她星期五在面包店。",
+      "Sentence": "She was at the baker's on Friday."
+    },
+    {
+      "voaid": "1068",
+      "EndTiming": "88.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "86.4",
+      "Sentence_cn": "你什么时候在乳品店的？",
+      "Sentence": "When were you at the dairy?"
+    },
+    {
+      "voaid": "1068",
+      "EndTiming": "94.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "92.4",
+      "Sentence_cn": "我星期六在乳品店。",
+      "Sentence": "I was at the dairy on Saturday."
+    },
+    {
+      "voaid": "1068",
+      "EndTiming": "99.2",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "96.1",
+      "Sentence_cn": "琼斯夫人什么时候在蔬菜水果店的？",
+      "Sentence": "When was Mrs. Jones at the greengrocer's?"
+    },
+    {
+      "voaid": "1068",
+      "EndTiming": "106.8",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "103.4",
+      "Sentence_cn": "她星期二在蔬菜水果店。",
+      "Sentence": "She was at the greengrocer's on Tuesday."
+    },
+    {
+      "voaid": "1068",
+      "EndTiming": "111.2",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "108.3",
+      "Sentence_cn": "威廉夫人什么时候在食品杂货店的？",
+      "Sentence": "When was Mrs. Williams at the grocer's?"
+    },
+    {
+      "voaid": "1068",
+      "EndTiming": "117.6",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "115.0",
+      "Sentence_cn": "她星期一在食品杂货店",
+      "Sentence": "She was at the grocer's on Monday."
+    },
+    {
+      "voaid": "1068",
+      "EndTiming": "120.2",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "118.6",
+      "Sentence_cn": "你什么时候在学校的？",
+      "Sentence": "When were you at school?"
+    },
+    {
+      "voaid": "1068",
+      "EndTiming": "125.5",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "123.2",
+      "Sentence_cn": "我星期一在学校。",
+      "Sentence": "I was at school on Monday."
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14256,14257",
+    "title_cn": "几点钟？",
+    "title": "What's the time?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_68.mp3"
+}

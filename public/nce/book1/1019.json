@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "voaid": "1019",
+      "EndTiming": "5.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "又累又渴",
+      "Sentence": "--- lesson 19  Tired and thirsty"
+    },
+    {
+      "voaid": "1019",
+      "EndTiming": "7.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.5",
+      "Sentence_cn": "怎么啦，孩子们？",
+      "Sentence": "What's the matter, children?"
+    },
+    {
+      "voaid": "1019",
+      "EndTiming": "12.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "7.9",
+      "Sentence_cn": "我们累了…… 口也渴，妈妈。",
+      "Sentence": "We're tired... ...and thirsty,Mum."
+    },
+    {
+      "voaid": "1019",
+      "EndTiming": "14.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "12.7",
+      "Sentence_cn": "坐在这儿吧。",
+      "Sentence": "Sit down here."
+    },
+    {
+      "voaid": "1019",
+      "EndTiming": "17.1",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "14.7",
+      "Sentence_cn": "你们现在好些了吗？",
+      "Sentence": "Are you all right now?"
+    },
+    {
+      "voaid": "1019",
+      "EndTiming": "19.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "17.4",
+      "Sentence_cn": "不，还没有。",
+      "Sentence": "No, we aren't."
+    },
+    {
+      "voaid": "1019",
+      "EndTiming": "23.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "19.8",
+      "Sentence_cn": "瞧！有个卖冰淇淋的。",
+      "Sentence": "Look! There's an ice cream man."
+    },
+    {
+      "voaid": "1019",
+      "EndTiming": "26.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "23.7",
+      "Sentence_cn": "请拿两份冰淇淋。",
+      "Sentence": "Two ice creams please."
+    },
+    {
+      "voaid": "1019",
+      "EndTiming": "29.2",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "26.6",
+      "Sentence_cn": "拿着，孩子们。",
+      "Sentence": "Here you are, children."
+    },
+    {
+      "voaid": "1019",
+      "EndTiming": "31.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "29.2",
+      "Sentence_cn": "谢谢，妈妈。",
+      "Sentence": "Thanks, Mum."
+    },
+    {
+      "voaid": "1019",
+      "EndTiming": "35.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "31.9",
+      "Sentence_cn": "这些冰淇淋真好吃。",
+      "Sentence": "These ice creams are nice."
+    },
+    {
+      "voaid": "1019",
+      "EndTiming": "37.8",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "35.8",
+      "Sentence_cn": "你们现在好了吗？",
+      "Sentence": "Are you all right now?"
+    },
+    {
+      "voaid": "1019",
+      "EndTiming": "42.2",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "37.8",
+      "Sentence_cn": "是的，现在好了，谢谢您！",
+      "Sentence": "Yes, we are, thank you!"
+    }
+  ],
+  "size": 13,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14199",
+    "title_cn": "又累又渴",
+    "title": "Tired and thirsty"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_19.mp3"
+}

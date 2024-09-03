@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "voaid": "2012",
+      "EndTiming": "4.7",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "再见，一路顺风",
+      "Sentence": "--- Lesson 12  Goodbye and good luck"
+    },
+    {
+      "voaid": "2012",
+      "EndTiming": "11.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.5",
+      "Sentence_cn": "我们的邻居查尔斯.艾利森船长明天就要从朴次茅斯启航了。",
+      "Sentence": "Our neighbour, Captain Charles Alison, will sail from Portsmouth tomorrow."
+    },
+    {
+      "voaid": "2012",
+      "EndTiming": "15.4",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "12.5",
+      "Sentence_cn": "明天一大早我们将在码头为他送行。",
+      "Sentence": "We'll meet him at the harbour early in the morning."
+    },
+    {
+      "voaid": "2012",
+      "EndTiming": "19.2",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "16.1",
+      "Sentence_cn": "他将乘坐他的“涛波赛”号小艇。",
+      "Sentence": "He will be in his small boat, Topsail."
+    },
+    {
+      "voaid": "2012",
+      "EndTiming": "22.4",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "19.9",
+      "Sentence_cn": "“涛波赛”号是艘有名的小艇，",
+      "Sentence": "Topsail is a famous little boat."
+    },
+    {
+      "voaid": "2012",
+      "EndTiming": "27.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "23.2",
+      "Sentence_cn": "它已经多次横渡大西洋。",
+      "Sentence": "It has sailed across the Atlantic many times."
+    },
+    {
+      "voaid": "2012",
+      "EndTiming": "33.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "27.6",
+      "Sentence_cn": "艾利森船长将于8点钟启航，因此我们有充裕的时间。",
+      "Sentence": "Captain Alison will set out at eight o'clock, so we'll have plenty of time."
+    },
+    {
+      "voaid": "2012",
+      "EndTiming": "37.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "33.8",
+      "Sentence_cn": "我们将参观他的船，然后和他告别。",
+      "Sentence": "We'll see his boat and then we'll say goodbye to him."
+    },
+    {
+      "voaid": "2012",
+      "EndTiming": "40.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "38.0",
+      "Sentence_cn": "他要离开两个月，",
+      "Sentence": "He will be away for two months."
+    },
+    {
+      "voaid": "2012",
+      "EndTiming": "42.7",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "40.8",
+      "Sentence_cn": "我们真为他感到自豪，",
+      "Sentence": "We are very proud of him."
+    },
+    {
+      "voaid": "2012",
+      "EndTiming": "48.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "43.5",
+      "Sentence_cn": "他将参加一次重大的横渡大西洋的比赛。",
+      "Sentence": "He will take part in an important race across the Atlantic."
+    }
+  ],
+  "size": 11,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14371",
+    "title_cn": "再见，一路顺风",
+    "title": "Goodbye and good luck"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_12.mp3"
+}

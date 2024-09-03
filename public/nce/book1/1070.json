@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "voaid": "1070",
+      "EndTiming": "14.4",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "11.4",
+      "Sentence_cn": "萨姆和彭妮什么时候在文具店的？",
+      "Sentence": "When were Sam and Penny at the stationer's?"
+    },
+    {
+      "voaid": "1070",
+      "EndTiming": "17.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "15.0",
+      "Sentence_cn": "他们星期一在文具店的。",
+      "Sentence": "They were at the stationer's on Monday."
+    },
+    {
+      "voaid": "1070",
+      "EndTiming": "20.8",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "18.0",
+      "Sentence_cn": "你和苏珊什么时候在办公室的？",
+      "Sentence": "When were you and Susan at the office?"
+    },
+    {
+      "voaid": "1070",
+      "EndTiming": "25.2",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "21.6",
+      "Sentence_cn": "我们三月23日在办公室的。",
+      "Sentence": "We were at the office on March 23rd."
+    },
+    {
+      "voaid": "1070",
+      "EndTiming": "28.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "26.2",
+      "Sentence_cn": "我什么时候在印度的？",
+      "Sentence": "When was I in India?"
+    },
+    {
+      "voaid": "1070",
+      "EndTiming": "32.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "29.0",
+      "Sentence_cn": "你1985年在印度。",
+      "Sentence": "You were in India in 1985."
+    },
+    {
+      "voaid": "1070",
+      "EndTiming": "72.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "69.2",
+      "Sentence_cn": "你和彭妮什么时候在澳大利亚的？",
+      "Sentence": "When were you and Penny in Australia?"
+    },
+    {
+      "voaid": "1070",
+      "EndTiming": "78.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "75.6",
+      "Sentence_cn": "我们是七月在澳大利亚的。",
+      "Sentence": "We were in Australia in July."
+    },
+    {
+      "voaid": "1070",
+      "EndTiming": "81.8",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "79.8",
+      "Sentence_cn": "我什么时候在乳品店的？",
+      "Sentence": "When was I at the dairy?"
+    },
+    {
+      "voaid": "1070",
+      "EndTiming": "88.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "85.0",
+      "Sentence_cn": "我星期六在乳品店。",
+      "Sentence": "You were at the dairy on Saturday."
+    },
+    {
+      "voaid": "1070",
+      "EndTiming": "92.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "89.8",
+      "Sentence_cn": "乔治和我什么时候在奥地利的？",
+      "Sentence": "When were George and I in Austria?"
+    },
+    {
+      "voaid": "1070",
+      "EndTiming": "98.8",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "96.0",
+      "Sentence_cn": "你们八月在奥地利。",
+      "Sentence": "You were in Austria in August."
+    },
+    {
+      "voaid": "1070",
+      "EndTiming": "102.2",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "100.0",
+      "Sentence_cn": "他们什么时候在家的？",
+      "Sentence": "When were they all at home?"
+    },
+    {
+      "voaid": "1070",
+      "EndTiming": "108.6",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "105.6",
+      "Sentence_cn": "他们是5月25号在家的。",
+      "Sentence": "They were at home on May. 25th."
+    },
+    {
+      "voaid": "1070",
+      "EndTiming": "112.2",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "109.8",
+      "Sentence_cn": "我什么时候去理发的？",
+      "Sentence": "When was I at the hairdresser's?"
+    },
+    {
+      "voaid": "1070",
+      "EndTiming": "119.4",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "116.2",
+      "Sentence_cn": "你是星期三去理发的。",
+      "Sentence": "You were at the hairdresser's on Wednesday."
+    },
+    {
+      "voaid": "1070",
+      "EndTiming": "123.4",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "120.8",
+      "Sentence_cn": "你和大卫什么时候在芬兰的？",
+      "Sentence": "When were you and David in Finland?"
+    },
+    {
+      "voaid": "1070",
+      "EndTiming": "131.0",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "127.0",
+      "Sentence_cn": "我们是十二月在芬兰的。",
+      "Sentence": "We were in Finland in December."
+    }
+  ],
+  "size": 18,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14259",
+    "title_cn": "他们是什么时候在那里的？",
+    "title": "When were they there?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_70.mp3"
+}

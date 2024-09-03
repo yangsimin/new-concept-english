@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "voaid": "1130",
+      "EndTiming": "19.4",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "16.5",
+      "Sentence_cn": "他是售票员还是公车司机？",
+      "Sentence": "Was he a conductor or a bus driver?"
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "21.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "20.0",
+      "Sentence_cn": "他不可能是售票员。",
+      "Sentence": "He can't have been a conductor."
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "23.8",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "22.0",
+      "Sentence_cn": "他肯定是公车司机。",
+      "Sentence": "He must have been a bus driver."
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "26.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "24.3",
+      "Sentence_cn": "她是中国人还是日本人？",
+      "Sentence": "Was she Chinese or Japanese?"
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "29.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "27.5",
+      "Sentence_cn": "她不可能是中国人。",
+      "Sentence": "She can't have been Chinese."
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "31.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "29.6",
+      "Sentence_cn": "她肯定是日本人。",
+      "Sentence": "She must have been Japanese."
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "37.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "33.5",
+      "Sentence_cn": "他们在听音乐还是在看电视？",
+      "Sentence": "Were they listening to the stereo or watching television?"
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "40.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "37.8",
+      "Sentence_cn": "他们不可能在听音乐。",
+      "Sentence": "They can't have been listening to the stereo."
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "42.7",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "40.6",
+      "Sentence_cn": "他们肯定在看电视。",
+      "Sentence": "They must have been watching television."
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "92.7",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "88.8",
+      "Sentence_cn": "昨天是24号还是25号。",
+      "Sentence": "Was it the 24th or the 25th yesterday?"
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "98.9",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "97.0",
+      "Sentence_cn": "不可能是24号。",
+      "Sentence": "It can't have been the 24th."
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "101.6",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "99.5",
+      "Sentence_cn": "肯定是25号。",
+      "Sentence": "It must have been the 25th."
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "104.7",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "102.8",
+      "Sentence_cn": "他们是英国人还是美国人？",
+      "Sentence": "Were they English or American?"
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "111.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "109.5",
+      "Sentence_cn": "他们不可能是英国人。",
+      "Sentence": "They can't have been English."
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "113.9",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "111.9",
+      "Sentence_cn": "他们肯定是美国人。",
+      "Sentence": "They must have been American."
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "117.9",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "115.1",
+      "Sentence_cn": "你的铅笔是尖还是钝？",
+      "Sentence": "Was your pencil sharp or blunt?"
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "124.3",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "122.5",
+      "Sentence_cn": "它不可能尖。",
+      "Sentence": "It can't have been sharp."
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "126.6",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "124.8",
+      "Sentence_cn": "它肯定很钝。",
+      "Sentence": "It must have been blunt."
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "131.4",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "128.0",
+      "Sentence_cn": "她在掸桌子还是在擦地板？",
+      "Sentence": "Was she dusting the table or sweeping the floor?"
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "137.9",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "135.6",
+      "Sentence_cn": "她不可能掸桌子。",
+      "Sentence": "She can't have been dusting the table."
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "140.6",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "138.4",
+      "Sentence_cn": "他肯定在擦地板。",
+      "Sentence": "She must have been sweeping the floor."
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "145.4",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "142.4",
+      "Sentence_cn": "他是家里最大的还是最小的？",
+      "Sentence": "Was he the oldest or the youngest in the family?"
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "152.0",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "150.2",
+      "Sentence_cn": "他不可能是最大的。",
+      "Sentence": "He can't have been the oldest."
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "154.4",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "152.5",
+      "Sentence_cn": "他肯定是最小的。",
+      "Sentence": "He must have been the youngest."
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "158.2",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "155.8",
+      "Sentence_cn": "她是20还是25？",
+      "Sentence": "Was she 20 or 25?"
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "164.7",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "162.9",
+      "Sentence_cn": "她不可能是20。",
+      "Sentence": "She can't have been 20."
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "167.4",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "165.3",
+      "Sentence_cn": "她肯定是25。",
+      "Sentence": "She must have been 25."
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "171.2",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "168.5",
+      "Sentence_cn": "他们是技师还是工程师？",
+      "Sentence": "Were they mechanics or engineers?"
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "177.8",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "175.9",
+      "Sentence_cn": "他们不可能是技师。",
+      "Sentence": "They can't have been mechanics."
+    },
+    {
+      "voaid": "1130",
+      "EndTiming": "180.4",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "178.1",
+      "Sentence_cn": "他们肯定是工程师。",
+      "Sentence": "They must have been engineers."
+    }
+  ],
+  "size": 30,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14332",
+    "title_cn": "他那时不可能…… 他那时肯定是……",
+    "title": "He can't have been ... He must have been ..."
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_130.mp3"
+}

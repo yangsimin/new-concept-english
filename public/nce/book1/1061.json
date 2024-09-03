@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "voaid": "1061",
+      "EndTiming": "4.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "重感冒",
+      "Sentence": "--- lesson 61  A bad cold"
+    },
+    {
+      "voaid": "1061",
+      "EndTiming": "6.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.3",
+      "Sentence_cn": "吉米在哪儿？",
+      "Sentence": "Where's Jimmy?"
+    },
+    {
+      "voaid": "1061",
+      "EndTiming": "8.3",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "6.9",
+      "Sentence_cn": "他躺在床上。",
+      "Sentence": "He's in bed."
+    },
+    {
+      "voaid": "1061",
+      "EndTiming": "11.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "9.1",
+      "Sentence_cn": "他怎么啦？",
+      "Sentence": "What's the matter with him?"
+    },
+    {
+      "voaid": "1061",
+      "EndTiming": "13.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "11.3",
+      "Sentence_cn": "他觉得不舒服。",
+      "Sentence": "He feels ill."
+    },
+    {
+      "voaid": "1061",
+      "EndTiming": "15.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "13.9",
+      "Sentence_cn": "他看上去是病了。",
+      "Sentence": "He looks ill."
+    },
+    {
+      "voaid": "1061",
+      "EndTiming": "18.2",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "15.9",
+      "Sentence_cn": "我们得去请医生。",
+      "Sentence": "We must call the doctor."
+    },
+    {
+      "voaid": "1061",
+      "EndTiming": "20.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "19.1",
+      "Sentence_cn": "是的，一定得请。",
+      "Sentence": "Yes, we must."
+    },
+    {
+      "voaid": "1061",
+      "EndTiming": "25.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "21.4",
+      "Sentence_cn": "你还得医生的电话号码吗？",
+      "Sentence": "Can you remember the doctor's telephone number?"
+    },
+    {
+      "voaid": "1061",
+      "EndTiming": "31.7",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "26.0",
+      "Sentence_cn": "记得。是09754。",
+      "Sentence": "Yes. It's 09754."
+    },
+    {
+      "voaid": "1061",
+      "EndTiming": "38.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "32.5",
+      "Sentence_cn": "把嘴张开，吉米。给我看看你的舌头，说“啊”。",
+      "Sentence": "Open your mouth, Jimmy. Show me your tongue. Say ‘Ah’."
+    },
+    {
+      "voaid": "1061",
+      "EndTiming": "42.5",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "38.6",
+      "Sentence_cn": "他得了什么病，医生？",
+      "Sentence": "What's the matter with him, doctor?"
+    },
+    {
+      "voaid": "1061",
+      "EndTiming": "45.9",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "42.7",
+      "Sentence_cn": "他得了重感冒，威廉斯先生，",
+      "Sentence": "He has a bad cold, Mr. Williams,"
+    },
+    {
+      "voaid": "1061",
+      "EndTiming": "49.8",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "46.4",
+      "Sentence_cn": "因此他必须卧床一周。",
+      "Sentence": "so he must stay in bed for a week."
+    },
+    {
+      "voaid": "1061",
+      "EndTiming": "53.4",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "50.6",
+      "Sentence_cn": "对吉米来说，这可是个好消息。",
+      "Sentence": "That's good news for Jimmy."
+    },
+    {
+      "voaid": "1061",
+      "EndTiming": "56.0",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "54.1",
+      "Sentence_cn": "好消息？为什么？",
+      "Sentence": "Good news? Why?"
+    },
+    {
+      "voaid": "1061",
+      "EndTiming": "59.8",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "56.9",
+      "Sentence_cn": "因为他不喜欢上学。",
+      "Sentence": "Because he doesn't like school!"
+    }
+  ],
+  "size": 17,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14246,14247",
+    "title_cn": "重感冒",
+    "title": "A bad cold"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_61.mp3"
+}

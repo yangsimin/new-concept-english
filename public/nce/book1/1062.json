@@ -1,0 +1,408 @@
+{
+  "data": [
+    {
+      "voaid": "1062",
+      "EndTiming": "19.3",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "15.7",
+      "Sentence_cn": "她怎么了？他耳痛吗？",
+      "Sentence": "What's the matter with her? Does she have an earache?"
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "22.9",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "19.4",
+      "Sentence_cn": "她不是耳痛，她牙痛。",
+      "Sentence": "She doesn't have an earache. She has a headache."
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "24.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "23.0",
+      "Sentence_cn": "她该怎么办？",
+      "Sentence": "What must she do?"
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "27.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "24.7",
+      "Sentence_cn": "他必须吃阿司匹林。",
+      "Sentence": "She must take an aspirin."
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "34.9",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "30.7",
+      "Sentence_cn": "乔治怎么了？他头痛吗？",
+      "Sentence": "What's the matter with George? Does he have a headache?"
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "38.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "35.0",
+      "Sentence_cn": "他不是头痛，他耳痛。",
+      "Sentence": "He doesn't have a headache. He has an earache."
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "40.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "38.6",
+      "Sentence_cn": "他该怎么办？",
+      "Sentence": "What must he do?"
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "42.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "40.1",
+      "Sentence_cn": "他应该看医生。",
+      "Sentence": "He must see a doctor."
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "49.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "45.8",
+      "Sentence_cn": "他怎么了？他胃痛吗？",
+      "Sentence": "What's the matter with him? Does he have a stomach ache?"
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "53.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "49.5",
+      "Sentence_cn": "他不是胃痛，他牙痛。",
+      "Sentence": "He doesn't have a stomach ache. He has a toothache."
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "54.9",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "53.5",
+      "Sentence_cn": "他应该怎么办？",
+      "Sentence": "What must he do?"
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "57.1",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "55.0",
+      "Sentence_cn": "他应该看牙医。",
+      "Sentence": "He must see a dentist."
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "72.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "66.7",
+      "Sentence_cn": "她怎么了？他耳痛吗？",
+      "Sentence": "What's the matter with her? Does she have an earache?"
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "78.3",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "72.1",
+      "Sentence_cn": "她不是耳痛，她牙痛。",
+      "Sentence": "She doesn't have an earache. She has a headache."
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "81.1",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "78.4",
+      "Sentence_cn": "她该怎么办？",
+      "Sentence": "What must she do?"
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "84.9",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "81.2",
+      "Sentence_cn": "他必须吃阿司匹林。",
+      "Sentence": "She must take an aspirin."
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "96.6",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "91.0",
+      "Sentence_cn": "乔治怎么了？他头痛吗？",
+      "Sentence": "What's the matter with George? Does he have a headache?"
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "102.5",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "96.7",
+      "Sentence_cn": "他不是头痛，他耳痛。",
+      "Sentence": "He doesn't have a headache. He has an earache."
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "105.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "102.6",
+      "Sentence_cn": "他该怎么办？",
+      "Sentence": "What must he do?"
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "108.1",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "105.1",
+      "Sentence_cn": "他应该看医生。",
+      "Sentence": "He must see a doctor."
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "119.0",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "113.7",
+      "Sentence_cn": "他怎么了？他胃痛吗？",
+      "Sentence": "What's the matter with him? Does he have a stomach ache?"
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "125.2",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "119.1",
+      "Sentence_cn": "他不是胃痛，他牙痛。",
+      "Sentence": "He doesn't have a stomach ache. He has a toothache."
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "127.9",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "125.3",
+      "Sentence_cn": "他应该怎么办？",
+      "Sentence": "What must he do?"
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "131.5",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "128.0",
+      "Sentence_cn": "他应该看牙医。",
+      "Sentence": "He must see a dentist."
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "142.2",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "137.3",
+      "Sentence_cn": "简怎么了？她牙痛吗？",
+      "Sentence": "What's the matter with Jane? Does she have a toothache?"
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "147.8",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "142.3",
+      "Sentence_cn": "她不是牙痛，她胃痛。",
+      "Sentence": "She doesn't have a toothache. She has a stomach ache."
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "150.5",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "147.9",
+      "Sentence_cn": "他应该怎么办？",
+      "Sentence": "What must she do?"
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "153.9",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "150.6",
+      "Sentence_cn": "她应该吃药。",
+      "Sentence": "She must take some medicine."
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "164.3",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "158.7",
+      "Sentence_cn": "萨姆怎么了？他胃痛吗？",
+      "Sentence": "What's the matter with Sam? Does he have a stomachache?"
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "170.3",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "164.4",
+      "Sentence_cn": "他不是胃痛，他发高烧。",
+      "Sentence": "He doesn't have a stomach ache. He has a temperature."
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "173.1",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "170.4",
+      "Sentence_cn": "他应该怎么办？",
+      "Sentence": "What must he do?"
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "176.3",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "173.2",
+      "Sentence_cn": "他必须卧床。",
+      "Sentence": "He must go to bed."
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "186.6",
+      "Paraid": "1",
+      "IdIndex": "33",
+      "Timing": "181.1",
+      "Sentence_cn": "戴夫怎么了？他头痛吗？",
+      "Sentence": "What's the matter with Dave? Does he have a headache?"
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "192.3",
+      "Paraid": "1",
+      "IdIndex": "34",
+      "Timing": "186.7",
+      "Sentence_cn": "他不是头痛，他得了流行性感冒。",
+      "Sentence": "He doesn't have a headache. He has flu."
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "195.1",
+      "Paraid": "1",
+      "IdIndex": "35",
+      "Timing": "192.4",
+      "Sentence_cn": "他应该怎么办？",
+      "Sentence": "What must he do?"
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "198.5",
+      "Paraid": "1",
+      "IdIndex": "36",
+      "Timing": "195.2",
+      "Sentence_cn": "他必须待在床上。",
+      "Sentence": "He must stay in bed."
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "209.4",
+      "Paraid": "1",
+      "IdIndex": "37",
+      "Timing": "203.9",
+      "Sentence_cn": "吉米怎么了？他头痛吗？",
+      "Sentence": "What's the matter with jimmy? Does he have a headache?"
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "216.2",
+      "Paraid": "1",
+      "IdIndex": "38",
+      "Timing": "209.5",
+      "Sentence_cn": "他不是头痛，他得了麻疹。",
+      "Sentence": "He doesn't have a headache. He has measles."
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "219.3",
+      "Paraid": "1",
+      "IdIndex": "39",
+      "Timing": "216.3",
+      "Sentence_cn": "我们应该怎么办？",
+      "Sentence": "What must we do?"
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "222.8",
+      "Paraid": "1",
+      "IdIndex": "40",
+      "Timing": "219.4",
+      "Sentence_cn": "我们应该叫医生。",
+      "Sentence": "We must call the doctor."
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "234.3",
+      "Paraid": "1",
+      "IdIndex": "41",
+      "Timing": "228.3",
+      "Sentence_cn": "苏珊怎么了？她耳痛吗？",
+      "Sentence": "What's the matter with Susan? Does she have an earache?"
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "240.4",
+      "Paraid": "1",
+      "IdIndex": "42",
+      "Timing": "234.4",
+      "Sentence_cn": "她不是耳痛，她得了腮腺炎。",
+      "Sentence": "She doesn't have an earache. She has mumps."
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "243.4",
+      "Paraid": "1",
+      "IdIndex": "43",
+      "Timing": "240.5",
+      "Sentence_cn": "我们应该怎么办？",
+      "Sentence": "What must we do?"
+    },
+    {
+      "voaid": "1062",
+      "EndTiming": "246.9",
+      "Paraid": "1",
+      "IdIndex": "44",
+      "Timing": "243.5",
+      "Sentence_cn": "我们应该叫医生。",
+      "Sentence": "We must call the doctor."
+    }
+  ],
+  "size": 44,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14248,14249",
+    "title_cn": "他们怎么了？他们该怎么办？",
+    "title": "What's the matter with them? What must they do?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_62.mp3"
+}

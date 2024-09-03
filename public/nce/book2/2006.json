@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "voaid": "2006",
+      "EndTiming": "4.1",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.8",
+      "Sentence_cn": "珀西. 巴斯顿",
+      "Sentence": "--- Lesson 6 Percy Buttons"
+    },
+    {
+      "voaid": "2006",
+      "EndTiming": "8.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.9",
+      "Sentence_cn": "我刚刚搬进了大桥街的一所房子。",
+      "Sentence": "I have just moved to a house in Bridge Street. "
+    },
+    {
+      "voaid": "2006",
+      "EndTiming": "11.9",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "9.2",
+      "Sentence_cn": "昨天一个乞丐来敲我的门，",
+      "Sentence": "Yesterday a beggar knocked at my door. "
+    },
+    {
+      "voaid": "2006",
+      "EndTiming": "15.9",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "12.6",
+      "Sentence_cn": "问我要一顿饭和一杯啤酒。",
+      "Sentence": "He asked me for a meal and a glass of beer. "
+    },
+    {
+      "voaid": "2006",
+      "EndTiming": "22.1",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "16.6",
+      "Sentence_cn": "作为回报，那乞丐头顶地倒立起来，嘴里还唱着歌。",
+      "Sentence": "In return for this, the beggar stood on his head and sang songs. "
+    },
+    {
+      "voaid": "2006",
+      "EndTiming": "24.3",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "22.9",
+      "Sentence_cn": "我给了他一顿饭。",
+      "Sentence": "I gave him a meal. "
+    },
+    {
+      "voaid": "2006",
+      "EndTiming": "27.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "25.1",
+      "Sentence_cn": "他把食物吃完，又喝了酒。",
+      "Sentence": "He ate the food and drank the beer. "
+    },
+    {
+      "voaid": "2006",
+      "EndTiming": "32.1",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "28.3",
+      "Sentence_cn": "然后把一块乳酪装进衣袋里走了。",
+      "Sentence": "Then he put a piece of cheese in his pocket and went away. "
+    },
+    {
+      "voaid": "2006",
+      "EndTiming": "35.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "32.8",
+      "Sentence_cn": "后来，一位邻居告诉了我他的情况。",
+      "Sentence": "Later a neighbour told me about him. "
+    },
+    {
+      "voaid": "2006",
+      "EndTiming": "37.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "36.1",
+      "Sentence_cn": "大家都认识他，",
+      "Sentence": "Everybody knows him. "
+    },
+    {
+      "voaid": "2006",
+      "EndTiming": "40.2",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "38.2",
+      "Sentence_cn": "他叫珀西. 巴顿斯。",
+      "Sentence": "His name is Percy Buttons. "
+    },
+    {
+      "voaid": "2006",
+      "EndTiming": "49.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "40.9",
+      "Sentence_cn": "他每月对这条街上的每户人家光顾一次，总是请求给他一顿饭和一杯啤酒。",
+      "Sentence": "He calls at every house in the street once a month and always asks for a meal and a glass of beer. "
+    }
+  ],
+  "size": 12,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14360",
+    "title_cn": "珀西·巴顿斯",
+    "title": "Percy Buttons"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_6.mp3"
+}

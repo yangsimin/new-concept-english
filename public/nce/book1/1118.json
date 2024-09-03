@@ -1,0 +1,273 @@
+{
+  "data": [
+    {
+      "voaid": "1118",
+      "EndTiming": "16.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "13.0",
+      "Sentence_cn": "他到的时候你在干什么？",
+      "Sentence": "What were you doing when he arrived?"
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "22.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "19.0",
+      "Sentence_cn": "他到的时候我正在洗澡。",
+      "Sentence": "I was having a bath when he arrived."
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "25.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "22.5",
+      "Sentence_cn": "电话响的时候玛丽在干什么？",
+      "Sentence": "What was Mary doing when the telephone rang?"
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "28.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "26.0",
+      "Sentence_cn": "她正在刷盘子。",
+      "Sentence": "She was washing the dishes."
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "32.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "29.0",
+      "Sentence_cn": "电话响的时候她正在刷盘子。",
+      "Sentence": "She was washing the dishes when the telephone rang."
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "36.2",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "33.0",
+      "Sentence_cn": "邮递员来的时候你妈妈在干什么？",
+      "Sentence": "What was your mother doing when the postman came?"
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "39.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "37.0",
+      "Sentence_cn": "她正在铺床。",
+      "Sentence": "She was making the beds."
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "42.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "39.2",
+      "Sentence_cn": "邮递员来的时候她正在铺床。",
+      "Sentence": "She was making the beds when the postman came."
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "90.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "87.0",
+      "Sentence_cn": "它发生的时候你在干什么？",
+      "Sentence": "What were you doing when it happened?"
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "93.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "90.5",
+      "Sentence_cn": "我正在和我妹妹打电话。",
+      "Sentence": "I was telephoning my sister."
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "100.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "96.0",
+      "Sentence_cn": "那件事发生的时候我正在和我妹妹打电话。",
+      "Sentence": "I was telephoning my sister when it happened."
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "105.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "101.0",
+      "Sentence_cn": "牛奶煮沸的时候孩子们在干什么？",
+      "Sentence": "What were the children doing when the milk boiled over?"
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "107.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "105.5",
+      "Sentence_cn": "他们正在看书。",
+      "Sentence": "They were reading."
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "113.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "110.0",
+      "Sentence_cn": "牛奶煮沸的时候他们在看书。",
+      "Sentence": "They were reading when the milk boiled over."
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "118.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "114.0",
+      "Sentence_cn": "孩子打碎杯子时你在干什么？",
+      "Sentence": "What were you doing when the baby broke that cup?"
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "121.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "118.7",
+      "Sentence_cn": "我正在泡茶。",
+      "Sentence": "I was making tea."
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "128.0",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "124.0",
+      "Sentence_cn": "孩子打碎杯子时我正在泡茶。",
+      "Sentence": "I was making tea when the baby broke that cup."
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "132.0",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "128.4",
+      "Sentence_cn": "你妈妈进入房间时你在干什么?",
+      "Sentence": "What were you doing when your mother came into the room?"
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "136.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "133.0",
+      "Sentence_cn": "我正在听音乐。",
+      "Sentence": "I was listening to the stereo."
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "144.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "138.0",
+      "Sentence_cn": "我妈妈进入房间时我正在听音乐。",
+      "Sentence": "I was listening to the stereo when my mother came into the room."
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "150.0",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "145.0",
+      "Sentence_cn": "他听到新闻的时候你爸爸在干什么？",
+      "Sentence": "What was your father doing when he heard the news?"
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "154.0",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "151.0",
+      "Sentence_cn": "他正在花园里干活。",
+      "Sentence": "He was working in the garden."
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "162.3",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "158.0",
+      "Sentence_cn": "他听到新闻的时候他爸爸在花园里干活。",
+      "Sentence": "He was working in the garden when he heard the news."
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "167.3",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "163.0",
+      "Sentence_cn": "当乔治敲门的时候你妹妹在干什么？",
+      "Sentence": "what was your sister doing when George knocked at the door?"
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "170.0",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "168.0",
+      "Sentence_cn": "她正在洗鞋。",
+      "Sentence": "She was cleaning her shoes"
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "179.0",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "174.0",
+      "Sentence_cn": "乔治敲门的时候她正在洗鞋。",
+      "Sentence": "She was cleaning her shoes when George knocked at the door."
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "184.0",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "180.0",
+      "Sentence_cn": "他朋友到的时候你的孩子在干什么？",
+      "Sentence": "What was your son doing when his friends arrived?"
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "188.0",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "185.0",
+      "Sentence_cn": "他正在做作业。",
+      "Sentence": "He was doing his homework"
+    },
+    {
+      "voaid": "1118",
+      "EndTiming": "195.0",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "190.0",
+      "Sentence_cn": "他朋友到的时候他正在做作业。",
+      "Sentence": "He was doing his homework when his friends arrived."
+    }
+  ],
+  "size": 29,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14319",
+    "title_cn": "你那时正在做什么？",
+    "title": "What were you doing?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_118.mp3"
+}

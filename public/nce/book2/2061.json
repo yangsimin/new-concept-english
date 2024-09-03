@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "voaid": "2061",
+      "EndTiming": "4.7",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "哈勃望远镜的困境",
+      "Sentence": "--- Lesson 61  Trouble with the Hubble"
+    },
+    {
+      "voaid": "2061",
+      "EndTiming": "16.1",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.2",
+      "Sentence_cn": "哈勃望远镜于1990年4月20日由国家航空航天局发射升空，耗资10多亿美元。",
+      "Sentence": "The Hubble telescope was launched into space by NASA on April 20,1990 at a cost of over a billion dollars."
+    },
+    {
+      "voaid": "2061",
+      "EndTiming": "20.8",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "16.7",
+      "Sentence_cn": "从最开始哈勃望远镜就有问题。",
+      "Sentence": "Right from the start there was trouble with the Hubble."
+    },
+    {
+      "voaid": "2061",
+      "EndTiming": "27.9",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "20.8",
+      "Sentence_cn": "它传送给我们的图像很令人失望，因为它的主要镜子有误差。",
+      "Sentence": "The pictures it sent us were very disappointing because its main mirror was faulty!"
+    },
+    {
+      "voaid": "2061",
+      "EndTiming": "37.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "28.3",
+      "Sentence_cn": "国家航天局准备纠正这一错误，为此将把4名宇航员送入太空修复望远镜。",
+      "Sentence": "NASA is now going to put the telescope right, so it will soon be sending up four astronauts to repair it."
+    },
+    {
+      "voaid": "2061",
+      "EndTiming": "43.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "37.2",
+      "Sentence_cn": "“奋进”号航天飞机将把宇航员送上哈勃。",
+      "Sentence": "The shuttle Endeavour will be taking the astronauts to the Hubble."
+    },
+    {
+      "voaid": "2061",
+      "EndTiming": "51.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "43.0",
+      "Sentence_cn": "当宇航员进行必要的修复工作时，“奋进”号上的一只机器手将抓住望远镜并托住它。",
+      "Sentence": "A robot-arm from the Endeavour will grab the telescope and hold it while the astronauts make the necessary repairs."
+    },
+    {
+      "voaid": "2061",
+      "EndTiming": "56.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "52.5",
+      "Sentence_cn": "当然，哈勃位于地球的大气层之外，",
+      "Sentence": "Of course, the Hubble is above the earth's atmosphere,"
+    },
+    {
+      "voaid": "2061",
+      "EndTiming": "65.7",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "57.3",
+      "Sentence_cn": "因此，它很快就会给我们传送我们所见到过的、有关行星和远距离星系的最清晰的照片。",
+      "Sentence": "so it will soon be sending us the clearest pictures of the stars and distant galaxies that we have ever seen."
+    },
+    {
+      "voaid": "2061",
+      "EndTiming": "72.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "65.7",
+      "Sentence_cn": "哈勃将告诉我们有关宇宙的年龄和大小的许多事情。",
+      "Sentence": "The Hubble will tell us a great deal about the age and size of the universe."
+    },
+    {
+      "voaid": "2061",
+      "EndTiming": "82.4",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "72.4",
+      "Sentence_cn": "等到你读到这篇文章时，敏锐的哈勃望远镜已经为我们送来了成千上万张精彩的照片。",
+      "Sentence": "By the time you read this, the Hubble's eagle eye will have sent us thousands and thousands of wonderful pictures."
+    }
+  ],
+  "size": 11,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14454,14455",
+    "title_cn": "哈勃望远镜的困境",
+    "title": "Trouble with the Hubble"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_61.mp3"
+}

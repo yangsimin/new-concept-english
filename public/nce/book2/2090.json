@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "voaid": "2090",
+      "EndTiming": "3.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "晚餐吃什么？",
+      "Sentence": "--- Lesson 90  What's for supper?"
+    },
+    {
+      "voaid": "2090",
+      "EndTiming": "8.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.5",
+      "Sentence_cn": "油煎鱼加炸土豆片一直是英国人喜爱的一道菜，",
+      "Sentence": "Fish and chips has always been a favourite dish in Britain,"
+    },
+    {
+      "voaid": "2090",
+      "EndTiming": "15.9",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.8",
+      "Sentence_cn": "但是随着海洋里的滥捕滥捞，鱼已经变得越来越昂贵。",
+      "Sentence": "but as the oceans have been overfished, fish has become more and more expensive."
+    },
+    {
+      "voaid": "2090",
+      "EndTiming": "25.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "16.7",
+      "Sentence_cn": "因此，听说北海石油钻井平台上的潜水员受到巨型鱼类的恐吓，确实很让人吃惊。",
+      "Sentence": "So it comes as a surprise to learn that giant fish are terrifying the divers on North Sea oil rigs."
+    },
+    {
+      "voaid": "2090",
+      "EndTiming": "35.3",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "26.2",
+      "Sentence_cn": "钻井平台需要经常修理，潜水员常常要在水面100英尺以下摸黑工作，",
+      "Sentence": "Oil rigs have to be repaired frequently and divers, who often have to work in darkness a hundred feet under water,"
+    },
+    {
+      "voaid": "2090",
+      "EndTiming": "42.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "35.3",
+      "Sentence_cn": "他们曾在工作时被撞到他们身上的大鱼吓得惊惶失措。",
+      "Sentence": "have been frightened out of their wits by giant fish bumping into them as they work."
+    },
+    {
+      "voaid": "2090",
+      "EndTiming": "48.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "43.2",
+      "Sentence_cn": "现在他们有了特制的笼子，用来保护他们免受大鱼的侵袭。",
+      "Sentence": "Now they have had special cages made to protect them from these monsters."
+    },
+    {
+      "voaid": "2090",
+      "EndTiming": "52.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "49.1",
+      "Sentence_cn": "这些鱼并不是鲨鱼或逆戟鲸，",
+      "Sentence": "The fish are not sharks or killer whales,"
+    },
+    {
+      "voaid": "2090",
+      "EndTiming": "64.6",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "53.0",
+      "Sentence_cn": "而是深受人们喜爱的食用鱼品种，如鳕鱼和鳐鱼，只不过它们长得出奇地大，有时长达12英尺。",
+      "Sentence": "but favourite eating varieties like cod and skate which grow to unnatural sizes, sometimes as much as twelve feet in length."
+    },
+    {
+      "voaid": "2090",
+      "EndTiming": "69.2",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "64.8",
+      "Sentence_cn": "这些鱼能长得这么大是由3个因素造成的：",
+      "Sentence": "Three factors have caused these fish to grow so large:"
+    },
+    {
+      "voaid": "2090",
+      "EndTiming": "74.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "69.7",
+      "Sentence_cn": "海底热的输油管道附近的温暖的海水；",
+      "Sentence": "the warm water round the hot oil pipes under the sea;"
+    },
+    {
+      "voaid": "2090",
+      "EndTiming": "80.5",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "74.4",
+      "Sentence_cn": "钻井平台工作人员抛到海里充足的食物；",
+      "Sentence": "the plentiful supply of food thrown overboard by the crews on the rigs;"
+    },
+    {
+      "voaid": "2090",
+      "EndTiming": "85.3",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "81.2",
+      "Sentence_cn": "钻井平台周围根本没有捕鱼船只。",
+      "Sentence": "the total absence of fishing boats around the oil rigs."
+    },
+    {
+      "voaid": "2090",
+      "EndTiming": "96.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "85.8",
+      "Sentence_cn": "结果是，这些鱼就在可爱的温暖的水流中吃呀吃，长呀长。究竟谁吃谁呢？",
+      "Sentence": "As a result, the fish just eat and eat and grow and grow in the lovely warm water. Who eats who?"
+    }
+  ],
+  "size": 14,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14505,14506",
+    "title_cn": "晚餐吃什么？",
+    "title": "What's for supper?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_90.mp3"
+}

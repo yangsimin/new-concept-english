@@ -1,0 +1,237 @@
+{
+  "data": [
+    {
+      "voaid": "3035",
+      "EndTiming": "4.3",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "伸张正义",
+      "Sentence": "--- lesson 35  Justice was done"
+    },
+    {
+      "voaid": "3035",
+      "EndTiming": "10.1",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.1",
+      "Sentence_cn": "“正义”这个词常常是同法庭连在一起的。",
+      "Sentence": "The word justice is usually associated with courts of law."
+    },
+    {
+      "voaid": "3035",
+      "EndTiming": "17.7",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.7",
+      "Sentence_cn": "当某人被证据确凿地证明无罪或有罪的时候，我们也许会说正义得到了伸张。",
+      "Sentence": "We might say that justice has been done when a man's innocence or guilt has been proved beyond doubt."
+    },
+    {
+      "voaid": "3035",
+      "EndTiming": "22.1",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "18.4",
+      "Sentence_cn": "正义是复杂的法律机器的组成部分。",
+      "Sentence": "Justice is part of the complex machinery of the law."
+    },
+    {
+      "voaid": "3035",
+      "EndTiming": "29.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "22.1",
+      "Sentence_cn": "那些寻求正义的人走的是一条崎岖的道路，从来没有把握他们最终将找到正义。",
+      "Sentence": "Those who seek it undertake an arduous journey and can never be sure that they will find it."
+    },
+    {
+      "voaid": "3035",
+      "EndTiming": "35.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "30.1",
+      "Sentence_cn": "法官无论如何聪明与有名，毕竟也是人，也会出差错的。",
+      "Sentence": "Judges, however wise or eminent, are human and can make mistakes."
+    },
+    {
+      "voaid": "3035",
+      "EndTiming": "42.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "36.3",
+      "Sentence_cn": "在个别情况下，正义不再是一种抽象概念。",
+      "Sentence": "There are rare instances when justice almost ceases to be an abstract concept."
+    },
+    {
+      "voaid": "3035",
+      "EndTiming": "48.8",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "43.2",
+      "Sentence_cn": "奖惩的实施是不受人的意志支配的。",
+      "Sentence": "Reward or punishment are meted out quite independent of human interference."
+    },
+    {
+      "voaid": "3035",
+      "EndTiming": "53.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "48.8",
+      "Sentence_cn": "在这种时候，正义像一种有生命的力量行使其职能。",
+      "Sentence": "At such times, justice acts like a living force."
+    },
+    {
+      "voaid": "3035",
+      "EndTiming": "58.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "54.5",
+      "Sentence_cn": "当我们说“他罪有应得”这句话的时候，",
+      "Sentence": "When we use a phrase like 'it serves him right',"
+    },
+    {
+      "voaid": "3035",
+      "EndTiming": "67.8",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "58.6",
+      "Sentence_cn": "我们部分地承认了某种特定的环境使得正义自动地起了作用。",
+      "Sentence": "we are, in part, admitting that a certain set of circumstances has enabled justice to act of its own accord."
+    },
+    {
+      "voaid": "3035",
+      "EndTiming": "73.9",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "68.6",
+      "Sentence_cn": "一天上午，当一个小偷在一家大型珠宝店里被人抓住的时候，",
+      "Sentence": "When a thief was caught on the premises of a large jewellery store one morning,"
+    },
+    {
+      "voaid": "3035",
+      "EndTiming": "81.6",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "74.1",
+      "Sentence_cn": "店员一定会忍不住说：“他罪有应得。”",
+      "Sentence": "the shop assistants must have found it impossible to resist the temptation to say 'it serves him right.'"
+    },
+    {
+      "voaid": "3035",
+      "EndTiming": "90.1",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "82.1",
+      "Sentence_cn": "那是一座老式的、经过改造的房子，店里有许多废置不用的大壁炉和又高又窄的烟囱。",
+      "Sentence": "The shop was an old converted house with many large, disused fireplaces and tall, narrow chimneys."
+    },
+    {
+      "voaid": "3035",
+      "EndTiming": "96.9",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "90.7",
+      "Sentence_cn": "快到中午的时候，一个女售货员听见从一堵墙里传出一种闷声闷气的叫声。",
+      "Sentence": "Towards midday, a girl heard a muffled cry coming from behind one of the walls."
+    },
+    {
+      "voaid": "3035",
+      "EndTiming": "105.2",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "97.5",
+      "Sentence_cn": "由于这种喊叫声重复了几次，她跑去报告经理，经理当即给消防队挂了电话。",
+      "Sentence": "As the cry was repeated several times, she ran to tell the manager who promptly rang up the fire brigade."
+    },
+    {
+      "voaid": "3035",
+      "EndTiming": "109.0",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "105.8",
+      "Sentence_cn": "喊叫声肯定是从烟囱里传出来的，",
+      "Sentence": "The cry had certainly come from one of the chimneys,"
+    },
+    {
+      "voaid": "3035",
+      "EndTiming": "116.0",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "109.3",
+      "Sentence_cn": "然而，因为烟囱太多，消防队员无法确定到底是哪一个。",
+      "Sentence": "but as there were so many of them, the fire fighters could not be certain which one it was."
+    },
+    {
+      "voaid": "3035",
+      "EndTiming": "123.3",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "116.6",
+      "Sentence_cn": "他们通过叩击烟囱倾听那人的喊叫声而确定了传出声音的那个烟囱。",
+      "Sentence": "They located the right chimney by tapping at the walls and listening for the man's cries."
+    },
+    {
+      "voaid": "3035",
+      "EndTiming": "132.1",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "124.0",
+      "Sentence_cn": "他们凿透了18英寸厚的墙壁，发现有个人卡在烟囱里。",
+      "Sentence": "After chipping through a wall which was eighteen inches thick, they found that a man had been trapped in the chimney."
+    },
+    {
+      "voaid": "3035",
+      "EndTiming": "137.0",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "132.8",
+      "Sentence_cn": "由于烟囱太窄，那人无法动弹。",
+      "Sentence": "As it was extremely narrow, the man was unable to move,"
+    },
+    {
+      "voaid": "3035",
+      "EndTiming": "144.3",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "137.5",
+      "Sentence_cn": "消防队员在墙上挖了个大洞，才终于把他解救出来。",
+      "Sentence": "but the fire fighters were eventually able to free him by cutting a huge hole in the wall."
+    },
+    {
+      "voaid": "3035",
+      "EndTiming": "157.0",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "145.0",
+      "Sentence_cn": "那个看起来满脸沮丧、浑身漆黑的家伙从烟囱里一出来，就承认头天夜里他企图到店里行窃，但让烟囱卡住了。",
+      "Sentence": "The sorry-looking, blackened figure that emerged, admitted at once that he had tried to break into the shop during the night but had got stuck in the chimney."
+    },
+    {
+      "voaid": "3035",
+      "EndTiming": "160.7",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "157.4",
+      "Sentence_cn": "他已经在烟囱里被困了将近10个小时。",
+      "Sentence": "He had been there for nearly ten hours."
+    },
+    {
+      "voaid": "3035",
+      "EndTiming": "166.1",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "161.4",
+      "Sentence_cn": "甚至在那人还没被送交给警察之前，正义就已得到了伸张。",
+      "Sentence": "Justice had been done even before the man was handed over to the police."
+    }
+  ],
+  "size": 25,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14615,14616",
+    "title_cn": "伸张正义",
+    "title": "Justice was done"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_35.mp3"
+}

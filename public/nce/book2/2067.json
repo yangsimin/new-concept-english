@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "voaid": "2067",
+      "EndTiming": "3.8",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "火山",
+      "Sentence": "--- Lesson 67  Volcanoes"
+    },
+    {
+      "voaid": "2067",
+      "EndTiming": "15.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "3.8",
+      "Sentence_cn": "波兰科学家哈罗恩.塔捷耶夫花了毕生的精力来研究世界各地的活火山和深洞。",
+      "Sentence": "Haroun Tazieff, the Polish scientist, has spent his lifetime studying active volcanoes and deep caves in all parts of the world."
+    },
+    {
+      "voaid": "2067",
+      "EndTiming": "25.9",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "16.3",
+      "Sentence_cn": "1948年他去了刚果的基伍湖，对一座后来被他命名为基图罗的新火山进行观察。",
+      "Sentence": "In 1948, he went to Lake Kivu in the Congo to observe a new volcano which he later named Kituro."
+    },
+    {
+      "voaid": "2067",
+      "EndTiming": "34.8",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "26.7",
+      "Sentence_cn": "当火山正在猛烈地喷发时，塔捷耶夫有办法把帐篷搭在离它非常近的地方。",
+      "Sentence": "Tazieff was able to set up his camp very close to the volcano while it was erupting violently."
+    },
+    {
+      "voaid": "2067",
+      "EndTiming": "43.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "35.2",
+      "Sentence_cn": "尽管他设法拍了一些十分精彩的照片，但他却不能在火山附近停留太长的时间。",
+      "Sentence": "Though he managed to take a number of brilliant photographs, he could not stay near the volcano for very long."
+    },
+    {
+      "voaid": "2067",
+      "EndTiming": "49.7",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "43.6",
+      "Sentence_cn": "他发现有一股岩浆正向他流过来，",
+      "Sentence": "He noticed that a river of liquid rock was coming towards him."
+    },
+    {
+      "voaid": "2067",
+      "EndTiming": "56.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "49.7",
+      "Sentence_cn": "眼看就要将他团团围住，但塔捷耶夫还是设法及时逃离了。",
+      "Sentence": "It threatened to surround him completely, but Tazieff managed to escape just in time."
+    },
+    {
+      "voaid": "2067",
+      "EndTiming": "64.5",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "56.9",
+      "Sentence_cn": "他等到火山平静下来，两天以后又返回去。",
+      "Sentence": "He waited until the volcano became quiet and he was able to return two days later."
+    },
+    {
+      "voaid": "2067",
+      "EndTiming": "74.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "64.7",
+      "Sentence_cn": "这次他设法爬进了基图罗火山口，以便能拍摄照片和测试温度。",
+      "Sentence": "This time, he managed to climb into the mouth of Kituro so that he could take photographs and measure temperatures."
+    },
+    {
+      "voaid": "2067",
+      "EndTiming": "86.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "74.3",
+      "Sentence_cn": "塔捷耶夫经常冒这样的生命危险。他能告诉我们的有关活火山的情况比任何在世的人都要多。",
+      "Sentence": "Tazieff has often risked his life in this way. He has been able to tell us more about active volcanoes than any man alive."
+    }
+  ],
+  "size": 10,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14465",
+    "title_cn": "火山",
+    "title": "Volcanoes"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_67.mp3"
+}

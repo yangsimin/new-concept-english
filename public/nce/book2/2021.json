@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "voaid": "2021",
+      "EndTiming": "4.3",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "是不是疯了？",
+      "Sentence": "--- Lesson 21  Mad or not?"
+    },
+    {
+      "voaid": "2021",
+      "EndTiming": "8.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.1",
+      "Sentence_cn": "飞机正在逐渐把我逼疯。",
+      "Sentence": "Aeroplanes are slowly driving me mad."
+    },
+    {
+      "voaid": "2021",
+      "EndTiming": "15.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "9.5",
+      "Sentence_cn": "我住在一个机场附近，过往飞机日夜不绝于耳。",
+      "Sentence": "I live near an airport and passing planes can be heard night and day."
+    },
+    {
+      "voaid": "2021",
+      "EndTiming": "22.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "15.8",
+      "Sentence_cn": "机场是许多年前建的，但由于某种原因当时未能启用。",
+      "Sentence": "The airport was built years ago, but for some reason it could not be used then."
+    },
+    {
+      "voaid": "2021",
+      "EndTiming": "27.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "23.4",
+      "Sentence_cn": "然而去年机场开始使用了。",
+      "Sentence": "Last year, however, it came into use."
+    },
+    {
+      "voaid": "2021",
+      "EndTiming": "33.8",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "27.9",
+      "Sentence_cn": "有100多人肯定是被噪音逼得已经弃家远去，",
+      "Sentence": "Over a hundred people must have been driven away from their homes by the noise."
+    },
+    {
+      "voaid": "2021",
+      "EndTiming": "37.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "34.5",
+      "Sentence_cn": "我是少数留下来的人中的一个。",
+      "Sentence": "I am one of the few people left."
+    },
+    {
+      "voaid": "2021",
+      "EndTiming": "43.8",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "38.2",
+      "Sentence_cn": "有时我觉得这房子就要被一架飞过的飞机撞倒。",
+      "Sentence": "Sometimes I think this house will be knocked down by a passing plane."
+    },
+    {
+      "voaid": "2021",
+      "EndTiming": "52.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "44.5",
+      "Sentence_cn": "他们曾向我提供一大笔钱让我搬走，但我决定留在这儿。",
+      "Sentence": "I have been offered a large sum of money to go away, but I am determined to stay here."
+    },
+    {
+      "voaid": "2021",
+      "EndTiming": "58.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "52.8",
+      "Sentence_cn": "大家都说我肯定是疯了，也许他们说的是对的。",
+      "Sentence": "Everybody says I must be mad and they are probably right."
+    }
+  ],
+  "size": 10,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14387,14388",
+    "title_cn": "是不是疯了？",
+    "title": "Mad or not?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_21.mp3"
+}

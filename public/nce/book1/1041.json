@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "voaid": "1041",
+      "EndTiming": "4.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "彭妮的提包",
+      "Sentence": "--- lesson 41  Penny's bag"
+    },
+    {
+      "voaid": "1041",
+      "EndTiming": "7.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.1",
+      "Sentence_cn": "那个提包重吗，彭妮？",
+      "Sentence": "Is that bag heavy, Penny?"
+    },
+    {
+      "voaid": "1041",
+      "EndTiming": "9.4",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "7.9",
+      "Sentence_cn": "不太重。",
+      "Sentence": "Not very."
+    },
+    {
+      "voaid": "1041",
+      "EndTiming": "10.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "10.1",
+      "Sentence_cn": "放这儿。",
+      "Sentence": "Here!"
+    },
+    {
+      "voaid": "1041",
+      "EndTiming": "13.4",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "11.5",
+      "Sentence_cn": "把它放在这把椅子上。",
+      "Sentence": "Put it on this chair."
+    },
+    {
+      "voaid": "1041",
+      "EndTiming": "15.7",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "14.2",
+      "Sentence_cn": "里面是什么东西？",
+      "Sentence": "What's in it?"
+    },
+    {
+      "voaid": "1041",
+      "EndTiming": "18.2",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "16.2",
+      "Sentence_cn": "一块乳酪、",
+      "Sentence": "A piece of cheese."
+    },
+    {
+      "voaid": "1041",
+      "EndTiming": "20.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "19.0",
+      "Sentence_cn": "一块面包、",
+      "Sentence": "A loaf of bread."
+    },
+    {
+      "voaid": "1041",
+      "EndTiming": "23.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "21.4",
+      "Sentence_cn": "一块肥皂、",
+      "Sentence": "A bar of soap."
+    },
+    {
+      "voaid": "1041",
+      "EndTiming": "25.7",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "23.9",
+      "Sentence_cn": "一块巧克力、",
+      "Sentence": "A bar of Chocolate."
+    },
+    {
+      "voaid": "1041",
+      "EndTiming": "28.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "26.5",
+      "Sentence_cn": "一瓶牛奶、",
+      "Sentence": "A bottle of milk."
+    },
+    {
+      "voaid": "1041",
+      "EndTiming": "30.7",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "28.9",
+      "Sentence_cn": "一磅糖、",
+      "Sentence": "A pound of sugar."
+    },
+    {
+      "voaid": "1041",
+      "EndTiming": "33.7",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "31.4",
+      "Sentence_cn": "半磅咖啡、",
+      "Sentence": "Half a pound of coffee."
+    },
+    {
+      "voaid": "1041",
+      "EndTiming": "41.1",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "34.5",
+      "Sentence_cn": "1/4 磅茶叶和一听烟丝。",
+      "Sentence": "A quarter of a pound of tea. And a tin of tobacco."
+    },
+    {
+      "voaid": "1041",
+      "EndTiming": "45.2",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "41.9",
+      "Sentence_cn": "那听烟丝是给我的吗？",
+      "Sentence": "Is that tin of tobacco for me?"
+    },
+    {
+      "voaid": "1041",
+      "EndTiming": "49.5",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "46.0",
+      "Sentence_cn": "噢，当然不会是给我的！",
+      "Sentence": "Well, it's certainly not for me!"
+    }
+  ],
+  "size": 16,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14224,14225",
+    "title_cn": "彭妮的提包",
+    "title": "Penny's bag"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_41.mp3"
+}

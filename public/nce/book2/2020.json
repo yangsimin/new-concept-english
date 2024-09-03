@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "voaid": "2020",
+      "EndTiming": "4.6",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "独坐孤舟",
+      "Sentence": "--- Lesson 20  One man in a boat"
+    },
+    {
+      "voaid": "2020",
+      "EndTiming": "7.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.3",
+      "Sentence_cn": "钓鱼是我特别喜爱的一项运动。",
+      "Sentence": "Fishing is my favourite sport."
+    },
+    {
+      "voaid": "2020",
+      "EndTiming": "12.3",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.2",
+      "Sentence_cn": "我经常一钓数小时却一无所获，",
+      "Sentence": "I often fish for hours without catching anything."
+    },
+    {
+      "voaid": "2020",
+      "EndTiming": "15.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "13.0",
+      "Sentence_cn": "但我从不为此烦恼。",
+      "Sentence": "But this does not worry me."
+    },
+    {
+      "voaid": "2020",
+      "EndTiming": "18.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "16.3",
+      "Sentence_cn": "有些垂钓者就是不走运，",
+      "Sentence": "Some fishermen are unlucky."
+    },
+    {
+      "voaid": "2020",
+      "EndTiming": "24.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "19.2",
+      "Sentence_cn": "他们往往鱼钓不到，却钓上来些旧靴子和垃圾。",
+      "Sentence": "Instead of catching fish, they catch old boots and rubbish."
+    },
+    {
+      "voaid": "2020",
+      "EndTiming": "27.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "25.7",
+      "Sentence_cn": "我的运气甚至还不及他们。",
+      "Sentence": "I am even less lucky."
+    },
+    {
+      "voaid": "2020",
+      "EndTiming": "33.5",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "28.6",
+      "Sentence_cn": "我什么东西也未钓到过 -- 就连旧靴子也没有。",
+      "Sentence": "I never catch anything -- not even old boots."
+    },
+    {
+      "voaid": "2020",
+      "EndTiming": "41.8",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "34.4",
+      "Sentence_cn": "我总是在河上呆上整整一上午，然后空着袋子回家。",
+      "Sentence": "After having spent whole mornings on the river, I always go home with an empty bag."
+    },
+    {
+      "voaid": "2020",
+      "EndTiming": "49.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "42.5",
+      "Sentence_cn": "“你可别再钓鱼了！”我的朋友们说，“这是浪费时间。”",
+      "Sentence": "'You must give up fishing!' my friends say. 'It's a waste of time.'"
+    },
+    {
+      "voaid": "2020",
+      "EndTiming": "53.4",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "49.8",
+      "Sentence_cn": "然而他们没有认识到重要的一点，",
+      "Sentence": "But they don't realize one important thing."
+    },
+    {
+      "voaid": "2020",
+      "EndTiming": "57.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "54.1",
+      "Sentence_cn": "我并不是真的对钓鱼有兴趣，",
+      "Sentence": "I'm not really interested in fishing."
+    },
+    {
+      "voaid": "2020",
+      "EndTiming": "63.4",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "57.9",
+      "Sentence_cn": "我感兴趣的只是独坐孤舟，无所事事！",
+      "Sentence": "I am only interested in sitting in a boat and doing nothing at all!"
+    }
+  ],
+  "size": 13,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14385,14386",
+    "title_cn": "独坐孤舟",
+    "title": "One man in a boat"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_20.mp3"
+}

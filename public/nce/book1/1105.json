@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "voaid": "1105",
+      "EndTiming": "5.3",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "错误百出",
+      "Sentence": "--- lesson 105  Full of mistakes"
+    },
+    {
+      "voaid": "1105",
+      "EndTiming": "7.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.1",
+      "Sentence_cn": "鲍勃，桑德拉在哪儿？",
+      "Sentence": "Where's Sandra, Bob?"
+    },
+    {
+      "voaid": "1105",
+      "EndTiming": "9.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.3",
+      "Sentence_cn": "我要找她。",
+      "Sentence": "I want her."
+    },
+    {
+      "voaid": "1105",
+      "EndTiming": "12.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "10.3",
+      "Sentence_cn": "您要同她谈话吗？",
+      "Sentence": "Do you want to speak to her?"
+    },
+    {
+      "voaid": "1105",
+      "EndTiming": "18.8",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "13.4",
+      "Sentence_cn": "是的，我要她到我的办公室来。",
+      "Sentence": "Yes, I do. I want her to come to my office."
+    },
+    {
+      "voaid": "1105",
+      "EndTiming": "22.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "19.4",
+      "Sentence_cn": "叫她马上就来。",
+      "Sentence": "Tell her to come at once."
+    },
+    {
+      "voaid": "1105",
+      "EndTiming": "25.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "22.7",
+      "Sentence_cn": "您找我吗？",
+      "Sentence": "Did you want to see me?"
+    },
+    {
+      "voaid": "1105",
+      "EndTiming": "31.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "26.2",
+      "Sentence_cn": "啊，是的，桑德拉。你是怎样拼写聪明的？",
+      "Sentence": "Ah, yes, Sandra.How do you spell intelligent?"
+    },
+    {
+      "voaid": "1105",
+      "EndTiming": "34.9",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "31.9",
+      "Sentence_cn": "你能告诉我吗？",
+      "Sentence": "Can you tell me?"
+    },
+    {
+      "voaid": "1105",
+      "EndTiming": "45.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "34.9",
+      "Sentence_cn": "I-N-T-E-L-L-I-G-E-N-T。",
+      "Sentence": "I-N-T-E-L-L-I-G-E-N-T."
+    },
+    {
+      "voaid": "1105",
+      "EndTiming": "50.9",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "45.8",
+      "Sentence_cn": "对的。但你只打了1个“L”。",
+      "Sentence": "That's right. You've typed it with only one 'L'."
+    },
+    {
+      "voaid": "1105",
+      "EndTiming": "54.9",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "51.7",
+      "Sentence_cn": "这封信里错误百出。",
+      "Sentence": "This letter's full of mistakes."
+    },
+    {
+      "voaid": "1105",
+      "EndTiming": "58.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "55.5",
+      "Sentence_cn": "我要你重打一遍。",
+      "Sentence": "I want you to type it again."
+    },
+    {
+      "voaid": "1105",
+      "EndTiming": "61.5",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "59.3",
+      "Sentence_cn": "是，我重打。",
+      "Sentence": "Yes, I'll do that."
+    },
+    {
+      "voaid": "1105",
+      "EndTiming": "64.2",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "62.0",
+      "Sentence_cn": "对此我感到很抱歉。",
+      "Sentence": "I'm sorry about that."
+    },
+    {
+      "voaid": "1105",
+      "EndTiming": "67.6",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "64.8",
+      "Sentence_cn": "这里有一件小礼物送你。",
+      "Sentence": "And here's a little present for you."
+    },
+    {
+      "voaid": "1105",
+      "EndTiming": "69.4",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "68.0",
+      "Sentence_cn": "是什么？",
+      "Sentence": "What is it?"
+    },
+    {
+      "voaid": "1105",
+      "EndTiming": "71.3",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "69.9",
+      "Sentence_cn": "是本词典。",
+      "Sentence": "It's a dictionary."
+    },
+    {
+      "voaid": "1105",
+      "EndTiming": "73.9",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "72.0",
+      "Sentence_cn": "我希望它能对你有所帮助。",
+      "Sentence": "I hope it'll help you."
+    }
+  ],
+  "size": 19,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14305",
+    "title_cn": "错误百出",
+    "title": "Full of mistakes"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_105.mp3"
+}

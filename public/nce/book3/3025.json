@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "voaid": "3025",
+      "EndTiming": "3.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "“卡蒂萨克”号帆船",
+      "Sentence": "--- lesson 25  The Cutty Sark"
+    },
+    {
+      "voaid": "3025",
+      "EndTiming": "12.2",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.5",
+      "Sentence_cn": "人们在格林威治仍可看到19世纪最有名的帆船之一“卡蒂萨克”号。",
+      "Sentence": "One of the most famous sailing ships of the nineteenth century, the Cutty Sark, can still be seen at Greenwich."
+    },
+    {
+      "voaid": "3025",
+      "EndTiming": "18.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "12.7",
+      "Sentence_cn": "它停在陆地上，每年接待成千上万的参观者。",
+      "Sentence": "She stands on dry land and is visited by thousands of people each year."
+    },
+    {
+      "voaid": "3025",
+      "EndTiming": "23.9",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "18.6",
+      "Sentence_cn": "它给人们留下深刻的印象，使人们回忆起历史上的巨型帆船，",
+      "Sentence": "She serves as an impressive reminder of the great ships of the past."
+    },
+    {
+      "voaid": "3025",
+      "EndTiming": "34.9",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "24.4",
+      "Sentence_cn": "在蒸汽船取代帆船之前。“卡蒂萨克”号之类的帆船被用来从中国运回茶叶，从澳大利亚运回羊毛。",
+      "Sentence": "Before they were replaced by steamships, sailing vessels like the Cutty Sark were used to carry tea from China and wool from Australia."
+    },
+    {
+      "voaid": "3025",
+      "EndTiming": "41.2",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "35.6",
+      "Sentence_cn": "“卡蒂萨克”号是帆船制造史上建造的最快的一艘帆船。",
+      "Sentence": "The Cutty Sark was one of the fastest sailing ships that has ever been built."
+    },
+    {
+      "voaid": "3025",
+      "EndTiming": "45.8",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "41.5",
+      "Sentence_cn": "唯一可以与之一比高低的是“塞姆皮雷”号帆船。",
+      "Sentence": "The only other ship to match her was the Thermopylae."
+    },
+    {
+      "voaid": "3025",
+      "EndTiming": "55.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "46.5",
+      "Sentence_cn": "两船于1872年6月18日同时从上海启航驶往英国，途中展开了一场激烈的比赛。",
+      "Sentence": "Both these ships set out from Shanghai on June 18th, 1872 on an exciting race to England."
+    },
+    {
+      "voaid": "3025",
+      "EndTiming": "62.8",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "56.0",
+      "Sentence_cn": "这场比赛持续了整整4个月，是这类比赛中的最后一次，",
+      "Sentence": "This race, which went on for exactly four months, was the last of its kind."
+    },
+    {
+      "voaid": "3025",
+      "EndTiming": "69.9",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "62.8",
+      "Sentence_cn": "它标志着帆船伟大传统的结束与一个新纪元的开始。",
+      "Sentence": "It marked the end of the great tradition of ships with sails and the beginning of a new era."
+    },
+    {
+      "voaid": "3025",
+      "EndTiming": "81.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "70.2",
+      "Sentence_cn": "比赛开始后，“赛姆皮雷”号率先抵达爪哇岛。但在印度洋上，“卡萨萨克”号驶到了前面。",
+      "Sentence": "The first of the two ships to reach Java after the race had begun was the Thermopylae, but on the Indian Ocean, the Cutty Sark took the lead."
+    },
+    {
+      "voaid": "3025",
+      "EndTiming": "89.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "82.0",
+      "Sentence_cn": "看来，它首先返抵英国是确信无疑的了，但它却在比赛中连遭厄运。",
+      "Sentence": "It seemed certain that she would be the first ship home, but during the race she had a lot of bad luck."
+    },
+    {
+      "voaid": "3025",
+      "EndTiming": "96.8",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "89.2",
+      "Sentence_cn": "8月份“卡蒂萨克”号遭到一场特大风暴的袭击，失去了一只舵。",
+      "Sentence": "In August, she was struck by a very heavy storm during which her rudder was torn away."
+    },
+    {
+      "voaid": "3025",
+      "EndTiming": "104.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "97.2",
+      "Sentence_cn": "船身左右摇晃，无法操纵。",
+      "Sentence": "The Cutty Sark rolled from side to side and it became impossible to steer her."
+    },
+    {
+      "voaid": "3025",
+      "EndTiming": "110.9",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "104.0",
+      "Sentence_cn": "船员用备用的木板在船上赶制了一只应急用的舵，并克服重重困难将舵安装就位，",
+      "Sentence": "A temporary rudder was made on board from spare planks and it was fitted with great difficulty."
+    },
+    {
+      "voaid": "3025",
+      "EndTiming": "114.4",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "110.9",
+      "Sentence_cn": "这样一来，大大降低了船的航速。",
+      "Sentence": "This greatly reduced the speed of the ship,"
+    },
+    {
+      "voaid": "3025",
+      "EndTiming": "121.6",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "114.4",
+      "Sentence_cn": "因为船不能开得太快，否则就有危险，应急舵也会被刮走。",
+      "Sentence": "for there was a danger that if she travelled too quickly, this rudder would be torn away as well."
+    },
+    {
+      "voaid": "3025",
+      "EndTiming": "126.0",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "121.8",
+      "Sentence_cn": "因为这个缘故，“卡蒂萨克”号落到了后面。",
+      "Sentence": "Because of this, the Cutty Sark lost her lead."
+    },
+    {
+      "voaid": "3025",
+      "EndTiming": "133.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "126.2",
+      "Sentence_cn": "跨越赤道后，船长将船停靠在一个港口，在那儿换了一只舵。",
+      "Sentence": "After crossing the Equator, the captain called in at a port to have a new rudder fitted,"
+    },
+    {
+      "voaid": "3025",
+      "EndTiming": "138.3",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "133.2",
+      "Sentence_cn": "但此时，“赛姆皮雷”号早已在500多英里之遥了。",
+      "Sentence": "but by now the Thermopylae was over five hundred miles ahead."
+    },
+    {
+      "voaid": "3025",
+      "EndTiming": "146.0",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "138.7",
+      "Sentence_cn": "尽管换装新舵时分秒必争，但“卡蒂萨克”号已经不可能取胜了，",
+      "Sentence": "Though the new rudder was fitted at tremendous speed, it was impossible for the Cutty Sark to win."
+    },
+    {
+      "voaid": "3025",
+      "EndTiming": "150.1",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "146.7",
+      "Sentence_cn": "它抵达英国时比“塞姆皮雷”号晚了1个星期。",
+      "Sentence": "She arrived in England a week after the Thermopylae."
+    },
+    {
+      "voaid": "3025",
+      "EndTiming": "156.2",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "150.1",
+      "Sentence_cn": "但考虑到路上的多次耽搁，",
+      "Sentence": "Even this was remarkable, considering that she had had so many delays."
+    },
+    {
+      "voaid": "3025",
+      "EndTiming": "163.4",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "156.2",
+      "Sentence_cn": "这个成绩也已很不容易了。毫无疑问，如果中途没有失去舵， “卡帝萨克”号肯定能在比赛中轻易夺冠。",
+      "Sentence": "There is no doubt that if she had not lost her rudder she would have won the race easily."
+    }
+  ],
+  "size": 24,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14588,14589",
+    "title_cn": "“卡蒂萨克”号帆船",
+    "title": "The Cutty Sark"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_25.mp3"
+}

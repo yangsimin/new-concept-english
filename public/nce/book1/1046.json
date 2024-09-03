@@ -1,0 +1,408 @@
+{
+  "data": [
+    {
+      "voaid": "1046",
+      "EndTiming": "21.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "17.7",
+      "Sentence_cn": "你能穿上大衣吗？",
+      "Sentence": "Can you put on your coat?"
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "23.9",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "21.1",
+      "Sentence_cn": "是的，我能。",
+      "Sentence": "Yes, I can."
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "26.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "24.0",
+      "Sentence_cn": "你能做什么？",
+      "Sentence": "What can you do?"
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "29.1",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "26.3",
+      "Sentence_cn": "我能穿上大衣。",
+      "Sentence": "I can put on my coat."
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "32.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "29.2",
+      "Sentence_cn": "彭尼能等公共汽车吗？",
+      "Sentence": "Can Penny wait for the bus?"
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "35.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "32.7",
+      "Sentence_cn": "是的，她能。",
+      "Sentence": "Yes, she can."
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "37.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "35.6",
+      "Sentence_cn": "她能做什么？",
+      "Sentence": "What can she do?"
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "40.8",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "37.7",
+      "Sentence_cn": "她能等公共汽车。",
+      "Sentence": "She can wait for the bus."
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "45.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "40.9",
+      "Sentence_cn": "你和汤姆能听音响吗？",
+      "Sentence": "Can you and Tom listen to the stereo?"
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "48.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "45.2",
+      "Sentence_cn": "是的，我们能。",
+      "Sentence": "Yes, we can."
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "50.7",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "48.1",
+      "Sentence_cn": "你和汤姆能做什么？",
+      "Sentence": "What can you and Tom do?"
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "54.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "50.8",
+      "Sentence_cn": "我们能听音响。",
+      "Sentence": "We can listen to the stereo."
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "64.9",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "61.3",
+      "Sentence_cn": "你能穿上大衣吗？",
+      "Sentence": "Can you put on your coat?"
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "68.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "65.0",
+      "Sentence_cn": "是的，我能。",
+      "Sentence": "Yes, I can."
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "72.1",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "68.9",
+      "Sentence_cn": "你能做什么？",
+      "Sentence": "What can you do?"
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "76.4",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "72.2",
+      "Sentence_cn": "我能穿上大衣。",
+      "Sentence": "I can put on my coat."
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "81.7",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "76.5",
+      "Sentence_cn": "彭尼能等公共汽车吗？",
+      "Sentence": "Can Penny wait for the bus?"
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "86.0",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "81.8",
+      "Sentence_cn": "是的，她能。",
+      "Sentence": "Yes, she can."
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "89.6",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "86.1",
+      "Sentence_cn": "她能做什么？",
+      "Sentence": "What can she do?"
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "93.9",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "89.7",
+      "Sentence_cn": "她能等公共汽车。",
+      "Sentence": "She can wait for the bus."
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "99.9",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "94.0",
+      "Sentence_cn": "你和汤姆能听音响吗？",
+      "Sentence": "Can you and Tom listen to the stereo?"
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "104.0",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "100.0",
+      "Sentence_cn": "是的，我们能。",
+      "Sentence": "Yes, we can."
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "108.1",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "104.1",
+      "Sentence_cn": "你和汤姆能做什么？",
+      "Sentence": "What can you and Tom do?"
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "113.3",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "108.2",
+      "Sentence_cn": "我们能听音响。",
+      "Sentence": "We can listen to the stereo."
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "119.0",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "113.4",
+      "Sentence_cn": "彭尼和珍能刷盘子吗？",
+      "Sentence": "Can Penny and Jane wash the dishes?"
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "122.8",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "119.1",
+      "Sentence_cn": "是的，她们能。",
+      "Sentence": "Yes, they can."
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "127.0",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "122.9",
+      "Sentence_cn": "彭尼和珍能做什么？",
+      "Sentence": "What can Penny and Jane do?"
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "131.4",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "127.1",
+      "Sentence_cn": "她们能刷盘子。",
+      "Sentence": "They can wash the dishes."
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "136.7",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "131.5",
+      "Sentence_cn": "乔治能把这些花送给她吗？",
+      "Sentence": "Can George take these flowers to her?"
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "140.6",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "136.8",
+      "Sentence_cn": "是的，他能。",
+      "Sentence": "Yes, he can."
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "144.5",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "140.7",
+      "Sentence_cn": "乔治能做什么？",
+      "Sentence": "What can George do?"
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "149.6",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "144.6",
+      "Sentence_cn": "他能把这些花送给她。",
+      "Sentence": "He can take these flowers to her."
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "155.1",
+      "Paraid": "1",
+      "IdIndex": "33",
+      "Timing": "150.0",
+      "Sentence_cn": "那只猫能喝牛奶吗？",
+      "Sentence": "Can the cat drink its milk?"
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "159.3",
+      "Paraid": "1",
+      "IdIndex": "34",
+      "Timing": "155.2",
+      "Sentence_cn": "是的，它能。",
+      "Sentence": "Yes, it can."
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "163.1",
+      "Paraid": "1",
+      "IdIndex": "35",
+      "Timing": "159.4",
+      "Sentence_cn": "那只猫能做什么？",
+      "Sentence": "What can the cat do?"
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "167.4",
+      "Paraid": "1",
+      "IdIndex": "36",
+      "Timing": "163.2",
+      "Sentence_cn": "它能喝牛奶。",
+      "Sentence": "It can drink its milk."
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "171.9",
+      "Paraid": "1",
+      "IdIndex": "37",
+      "Timing": "167.5",
+      "Sentence_cn": "我能给这个书架刷漆吗？",
+      "Sentence": "Can I paint this bookcase?"
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "176.1",
+      "Paraid": "1",
+      "IdIndex": "38",
+      "Timing": "172.0",
+      "Sentence_cn": "是的，你能。",
+      "Sentence": "Yes, you can."
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "179.2",
+      "Paraid": "1",
+      "IdIndex": "39",
+      "Timing": "176.2",
+      "Sentence_cn": "我能做什么？",
+      "Sentence": "What can I do?"
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "183.5",
+      "Paraid": "1",
+      "IdIndex": "40",
+      "Timing": "179.3",
+      "Sentence_cn": "你能给这个书架刷漆。",
+      "Sentence": "You can paint this bookcase."
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "187.2",
+      "Paraid": "1",
+      "IdIndex": "41",
+      "Timing": "183.6",
+      "Sentence_cn": "你能看见那架飞机吗？",
+      "Sentence": "Can you see that aeroplane?"
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "190.5",
+      "Paraid": "1",
+      "IdIndex": "42",
+      "Timing": "187.3",
+      "Sentence_cn": "是的，我能。",
+      "Sentence": "Yes, I can."
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "193.6",
+      "Paraid": "1",
+      "IdIndex": "43",
+      "Timing": "190.6",
+      "Sentence_cn": "你能看见什么？",
+      "Sentence": "What can you see?"
+    },
+    {
+      "voaid": "1046",
+      "EndTiming": "197.7",
+      "Paraid": "1",
+      "IdIndex": "44",
+      "Timing": "193.7",
+      "Sentence_cn": "我能看见那架飞机。",
+      "Sentence": "I can see that aeroplane."
+    }
+  ],
+  "size": 44,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14230",
+    "title_cn": "你能……吗？",
+    "title": "Can you...?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_46.mp3"
+}

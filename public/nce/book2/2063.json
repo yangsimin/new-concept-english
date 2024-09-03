@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "voaid": "2063",
+      "EndTiming": "4.8",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "她并不觉得好笑",
+      "Sentence": "--- Lesson 63  She was not amused"
+    },
+    {
+      "voaid": "2063",
+      "EndTiming": "11.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.4",
+      "Sentence_cn": "杰里米.汉普登交际甚广，是各种聚会上深受大家欢迎的人。",
+      "Sentence": "Jeremy Hampden has a large circle of friends and is very popular at parties."
+    },
+    {
+      "voaid": "2063",
+      "EndTiming": "22.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "12.4",
+      "Sentence_cn": "人人都钦佩他那绝妙的幽默感 -- 人人，就是说。除他6岁的女儿珍妮之外的每一个人。",
+      "Sentence": "Everybody admires him for his great sense of humour -- everybody,that is, except his six-year-old daughter, Jenny."
+    },
+    {
+      "voaid": "2063",
+      "EndTiming": "30.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "22.6",
+      "Sentence_cn": "最近，杰里米的一个最亲密的朋友请他在一个婚礼上祝词。",
+      "Sentence": "Recently,one of Jeremy's closest friends asked him to make a speech at a wedding reception."
+    },
+    {
+      "voaid": "2063",
+      "EndTiming": "34.1",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "30.5",
+      "Sentence_cn": "这正是杰里米喜欢做的事情。",
+      "Sentence": "This is the sort of thing that Jeremy loves."
+    },
+    {
+      "voaid": "2063",
+      "EndTiming": "39.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "34.6",
+      "Sentence_cn": "他认真准备了讲稿，带着珍妮一道去参加了婚礼。",
+      "Sentence": "He prepared the speech carefully and went to the wedding with Jenny."
+    },
+    {
+      "voaid": "2063",
+      "EndTiming": "47.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "39.5",
+      "Sentence_cn": "他的祝词里面加进了大量逗人的故事，自然大获成功。",
+      "Sentence": "he had included a large number of funny stories in the speech and, of course, it was a great success."
+    },
+    {
+      "voaid": "2063",
+      "EndTiming": "52.8",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "47.7",
+      "Sentence_cn": "他刚一讲完，珍妮就对他说她要回家。",
+      "Sentence": "As soon as he had finished, Jenny told him she wanted to go home."
+    },
+    {
+      "voaid": "2063",
+      "EndTiming": "59.2",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "53.5",
+      "Sentence_cn": "这不免使杰里米有点扫兴，但他还是按照女儿的要求做了。",
+      "Sentence": "Jeremy was a little disappointed by this but he did as his daughter asked."
+    },
+    {
+      "voaid": "2063",
+      "EndTiming": "64.9",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "60.0",
+      "Sentence_cn": "在回家的路上，他问珍妮是否喜欢他的祝词。",
+      "Sentence": "On the way home, he asked Jenny if she had enjoyed the speech."
+    },
+    {
+      "voaid": "2063",
+      "EndTiming": "68.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "65.7",
+      "Sentence_cn": "使他吃惊的是，她说她不喜欢。",
+      "Sentence": "To his surprise, she said she hadn't."
+    },
+    {
+      "voaid": "2063",
+      "EndTiming": "77.1",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "69.2",
+      "Sentence_cn": "杰里米问他为何不喜欢，她说她不愿意看到那么多的人嘲笑他！",
+      "Sentence": "Jeremy asked her why this was so and she told him that she did not like to see so many people laughing at him!"
+    }
+  ],
+  "size": 12,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14457,14458",
+    "title_cn": "她并不觉得好笑",
+    "title": "She was not amused"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_63.mp3"
+}

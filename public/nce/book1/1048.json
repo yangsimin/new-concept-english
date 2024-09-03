@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "voaid": "1048",
+      "EndTiming": "19.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "17.4",
+      "Sentence_cn": "你喜欢鸡蛋吗？",
+      "Sentence": "Do you like eggs?"
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "25.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "19.6",
+      "Sentence_cn": "是的，我喜欢。我喜欢鸡蛋但我不想要。",
+      "Sentence": "Yes, I do. I like eggs, but I don't want one."
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "30.3",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "28.4",
+      "Sentence_cn": "你喜欢黄油吗？",
+      "Sentence": "Do you like butter?"
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "35.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "30.4",
+      "Sentence_cn": "是的，我喜欢。我喜欢黄油但我不想要。",
+      "Sentence": "Yes, I do. I like butter, but I don't want any."
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "40.8",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "38.7",
+      "Sentence_cn": "你喜欢蜂蜜吗？",
+      "Sentence": "Do you like honey?"
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "46.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "40.9",
+      "Sentence_cn": "是的，我喜欢。我喜欢蜂蜜但我不想要。",
+      "Sentence": "Yes, I do. I like honey, but I don't want any."
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "58.3",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "55.5",
+      "Sentence_cn": "你喜欢鸡蛋吗？",
+      "Sentence": "Do you like eggs?"
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "65.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "58.4",
+      "Sentence_cn": "是的，我喜欢。我喜欢鸡蛋但我不想要。",
+      "Sentence": "Yes, I do. I like eggs, but I don't want one."
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "73.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "69.6",
+      "Sentence_cn": "你喜欢黄油吗？",
+      "Sentence": "Do you like butter?"
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "81.7",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "73.5",
+      "Sentence_cn": "是的，我喜欢。我喜欢黄油但我不想要。",
+      "Sentence": "Yes, I do. I like butter, but I don't want any."
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "89.4",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "85.9",
+      "Sentence_cn": "你喜欢蜂蜜吗？",
+      "Sentence": "Do you like honey?"
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "97.1",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "89.5",
+      "Sentence_cn": "是的，我喜欢。我喜欢蜂蜜但我不想要。",
+      "Sentence": "Yes, I do. I like honey, but I don't want any."
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "105.7",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "102.0",
+      "Sentence_cn": "你喜欢香蕉吗？",
+      "Sentence": "Do you like bananas?"
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "114.6",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "105.8",
+      "Sentence_cn": "是的，我喜欢。我喜欢香蕉但我不想要。",
+      "Sentence": "Yes ,I do. I like bananas, but I don't want one."
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "122.3",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "118.7",
+      "Sentence_cn": "你喜欢果酱吗？",
+      "Sentence": "Do you like jam?"
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "130.5",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "122.4",
+      "Sentence_cn": "是的，我喜欢。我喜欢果酱但我不想要。",
+      "Sentence": "Yes, I do. I like jam, but I don't want any."
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "139.2",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "134.6",
+      "Sentence_cn": "你喜欢桔子吗？",
+      "Sentence": "Do you like oranges?"
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "147.1",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "139.3",
+      "Sentence_cn": "是的，我喜欢。但我不想要。",
+      "Sentence": "Yes, I do.  I like oranges, but I don't want one."
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "156.2",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "151.7",
+      "Sentence_cn": "你喜欢冰淇淋吗？",
+      "Sentence": "Do you like ice cream?"
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "167.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "156.3",
+      "Sentence_cn": "是的，我喜欢。我喜欢冰淇淋但我不想要。",
+      "Sentence": "Yes, I do. I like ice cream, but I don't want one."
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "174.5",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "170.7",
+      "Sentence_cn": "你喜欢威士忌吗？",
+      "Sentence": "Do you like whisky?"
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "183.5",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "174.6",
+      "Sentence_cn": "是的，我喜欢。我喜欢威士忌但我不想要。",
+      "Sentence": "Yes, I do.  I like whisky, but I don't want any."
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "192.0",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "187.7",
+      "Sentence_cn": "你喜欢苹果吗？",
+      "Sentence": "Do you like apples?"
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "200.5",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "192.1",
+      "Sentence_cn": "是的，我喜欢。我喜欢苹果但我不想要。",
+      "Sentence": "Yes, I do.  I like apples, but I don't want one."
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "207.9",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "204.6",
+      "Sentence_cn": "你喜欢酒吗？",
+      "Sentence": "Do you like wine?"
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "215.9",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "208.0",
+      "Sentence_cn": "是的，我喜欢。我喜欢酒但我不想要。",
+      "Sentence": "Yes, I do. I like wine, but I don't want any."
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "224.8",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "220.9",
+      "Sentence_cn": "你喜欢饼干吗？",
+      "Sentence": "Do you like biscuits?"
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "233.5",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "224.9",
+      "Sentence_cn": "是的，我喜欢。我喜欢饼干但我不想要。",
+      "Sentence": "Yes, I do.  I like biscuits, but I don't want one."
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "242.3",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "238.1",
+      "Sentence_cn": "你喜欢啤酒吗？",
+      "Sentence": "Do you like beer?"
+    },
+    {
+      "voaid": "1048",
+      "EndTiming": "251.1",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "242.4",
+      "Sentence_cn": "是的，我喜欢。我喜欢啤酒但我不想要。",
+      "Sentence": "Yes, I do. I like beer, but I don't want any."
+    }
+  ],
+  "size": 30,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14232",
+    "title_cn": "你喜欢……吗？你想要……吗？",
+    "title": "Do you like...? Do you want ...?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_48.mp3"
+}

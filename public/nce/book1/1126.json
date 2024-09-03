@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "1126",
+      "EndTiming": "22.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "19.6",
+      "Sentence_cn": "我现在必须离开了。你呢？",
+      "Sentence": "I must leave now. What about you?"
+    },
+    {
+      "voaid": "1126",
+      "EndTiming": "23.9",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "22.5",
+      "Sentence_cn": "我也不得不离开了。",
+      "Sentence": "I have to leave, too."
+    },
+    {
+      "voaid": "1126",
+      "EndTiming": "28.8",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "25.1",
+      "Sentence_cn": "我明天不需要早起。你呢？",
+      "Sentence": "I don't have to get up early tomorrow. What about you?"
+    },
+    {
+      "voaid": "1126",
+      "EndTiming": "31.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "29.4",
+      "Sentence_cn": "我也不需要早起。",
+      "Sentence": "I don't need to get up early, either."
+    },
+    {
+      "voaid": "1126",
+      "EndTiming": "36.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "33.0",
+      "Sentence_cn": "汤姆必须换一些钱。玛丽呢？",
+      "Sentence": "Tom must change some money. What about Mary?"
+    },
+    {
+      "voaid": "1126",
+      "EndTiming": "39.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "37.1",
+      "Sentence_cn": "她也不得不换一些钱。",
+      "Sentence": "She has to change some money, too."
+    },
+    {
+      "voaid": "1126",
+      "EndTiming": "44.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "40.4",
+      "Sentence_cn": "玛丽明天不需要开车去伦敦。蒂姆呢？",
+      "Sentence": "Mary doesn't have to drive to London tomorrow. What about Tim?"
+    },
+    {
+      "voaid": "1126",
+      "EndTiming": "47.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "45.1",
+      "Sentence_cn": "他也不需要开车去伦敦。",
+      "Sentence": "He doesn't need to drive to London, either."
+    },
+    {
+      "voaid": "1126",
+      "EndTiming": "102.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "99.5",
+      "Sentence_cn": "我必须乘飞机走。你呢？",
+      "Sentence": "I must go by air. What about you?"
+    },
+    {
+      "voaid": "1126",
+      "EndTiming": "108.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "106.8",
+      "Sentence_cn": "我也必须乘飞机走。",
+      "Sentence": "I have to go by air, too."
+    },
+    {
+      "voaid": "1126",
+      "EndTiming": "113.4",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "110.1",
+      "Sentence_cn": "我明天不需要接她。你呢？",
+      "Sentence": "I don't have to meet her at the station. What about you?"
+    },
+    {
+      "voaid": "1126",
+      "EndTiming": "121.1",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "118.8",
+      "Sentence_cn": "我明天也不需要接她。",
+      "Sentence": "I don't need to meet her at the station, either."
+    },
+    {
+      "voaid": "1126",
+      "EndTiming": "126.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "122.5",
+      "Sentence_cn": "汤姆不需要早到那。爱丽丝呢？",
+      "Sentence": "Tom doesn't have to be there early. What about Alice?"
+    },
+    {
+      "voaid": "1126",
+      "EndTiming": "133.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "131.3",
+      "Sentence_cn": "她也不需要早到。",
+      "Sentence": "She doesn't need to be there early, either."
+    },
+    {
+      "voaid": "1126",
+      "EndTiming": "138.5",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "134.6",
+      "Sentence_cn": "艾伦必须立即决定。乔治呢？",
+      "Sentence": "Alan must decide immediately. What about George?"
+    },
+    {
+      "voaid": "1126",
+      "EndTiming": "145.3",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "142.9",
+      "Sentence_cn": "他也必须决定。",
+      "Sentence": "He has to decide immediately, too."
+    },
+    {
+      "voaid": "1126",
+      "EndTiming": "149.9",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "146.4",
+      "Sentence_cn": "我不必坐计程车。你呢？",
+      "Sentence": "I don't have to take a taxi. What about you?"
+    },
+    {
+      "voaid": "1126",
+      "EndTiming": "157.0",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "154.8",
+      "Sentence_cn": "我也不必坐计程车。",
+      "Sentence": "I don't need to take a taxi, either."
+    },
+    {
+      "voaid": "1126",
+      "EndTiming": "162.2",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "158.9",
+      "Sentence_cn": "我必须乘那辆公共汽车。你呢？",
+      "Sentence": "I must catch that bus. What about you?"
+    },
+    {
+      "voaid": "1126",
+      "EndTiming": "168.6",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "166.7",
+      "Sentence_cn": "我也必须乘那辆公共汽车。",
+      "Sentence": "I have to catch that bus, too."
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14328",
+    "title_cn": "不得不和不必要",
+    "title": "Have to and do not need to"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_126.mp3"
+}

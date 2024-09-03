@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "voaid": "2051",
+      "EndTiming": "4.6",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "对美德的奖赏",
+      "Sentence": "--- Lesson 51  Reward for virtue"
+    },
+    {
+      "voaid": "2051",
+      "EndTiming": "14.9",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.0",
+      "Sentence_cn": "我的朋友休一直很胖，但是近来情况变得越发糟糕，以致他决定节食。",
+      "Sentence": "My friend, Hugh, has always been fat, but things got so bad recently that he decided to go on a diet."
+    },
+    {
+      "voaid": "2051",
+      "EndTiming": "18.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "15.6",
+      "Sentence_cn": "他是一星期前开始节食的。",
+      "Sentence": "He began his diet a week ago."
+    },
+    {
+      "voaid": "2051",
+      "EndTiming": "24.9",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "18.7",
+      "Sentence_cn": "首先，他开列了一张长长的单子，上面列了所有禁吃的食物。",
+      "Sentence": "First of all, he wrote out a long list of all the foods which were forbidden."
+    },
+    {
+      "voaid": "2051",
+      "EndTiming": "36.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "25.6",
+      "Sentence_cn": "这张单子上的大多数食物都是休喜欢吃的：黄油、土豆、米饭、啤酒、牛奶、巧克力和糖果。",
+      "Sentence": "The list included most of the things Hugh loves: butter, potatoes, rice, beer, milk, chocolate, and sweets."
+    },
+    {
+      "voaid": "2051",
+      "EndTiming": "46.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "37.0",
+      "Sentence_cn": "昨天我去看望了他。我按响了门铃，当看到休仍和往常一样胖时，我并不感到惊奇。",
+      "Sentence": "Yesterday I paid him a visit. I rang the bell and was not surprised to see that Hugh was still as fat as ever."
+    },
+    {
+      "voaid": "2051",
+      "EndTiming": "53.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "47.1",
+      "Sentence_cn": "他把我领进屋，慌忙把一个大包藏到了桌子下面。",
+      "Sentence": "He led me into his room and hurriedly hid a large parcel under his desk."
+    },
+    {
+      "voaid": "2051",
+      "EndTiming": "56.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "53.7",
+      "Sentence_cn": "显然他感到很尴尬。",
+      "Sentence": "It was obvious that he was very embarrassed."
+    },
+    {
+      "voaid": "2051",
+      "EndTiming": "64.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "57.5",
+      "Sentence_cn": "当我问他正干什么时，他内疚地笑了，然后把那个大包拿到了桌上。",
+      "Sentence": "When I asked him what he was doing, he smiled guiltily and then put the parcel on the desk."
+    },
+    {
+      "voaid": "2051",
+      "EndTiming": "71.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "64.8",
+      "Sentence_cn": "他解释说，他的饮食控制得太严格了，以致不得不偶尔奖赏自己一下。",
+      "Sentence": "He explained that his diet was so strict that he had to reward himself occasionally."
+    },
+    {
+      "voaid": "2051",
+      "EndTiming": "75.4",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "72.2",
+      "Sentence_cn": "接着他给我看了包里的东西。",
+      "Sentence": "Then he showed me the contents of the parcel."
+    },
+    {
+      "voaid": "2051",
+      "EndTiming": "82.4",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "75.9",
+      "Sentence_cn": "里面装了5大块巧克力和3袋糖果！",
+      "Sentence": "It contained five large bars of chocolate and three bags of sweets!"
+    }
+  ],
+  "size": 12,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14435,14436",
+    "title_cn": "对美德的奖赏",
+    "title": "Reward for virtue"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_51.mp3"
+}

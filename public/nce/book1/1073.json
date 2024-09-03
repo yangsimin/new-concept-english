@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "voaid": "1073",
+      "EndTiming": "5.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "到国王街的走法",
+      "Sentence": "--- lesson 73  The way to King Street"
+    },
+    {
+      "voaid": "1073",
+      "EndTiming": "10.2",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.1",
+      "Sentence_cn": "听录音，然后回答问题。",
+      "Sentence": "--- Listen to the tape then answer this question."
+    },
+    {
+      "voaid": "1073",
+      "EndTiming": "14.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "11.0",
+      "Sentence_cn": "为什么这位男士需要一本日常语手册？",
+      "Sentence": "--- Why did the man need a phrasebook?"
+    },
+    {
+      "voaid": "1073",
+      "EndTiming": "19.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "15.4",
+      "Sentence_cn": "上星期米尔斯夫人去了伦敦。",
+      "Sentence": "Last week Mrs. Mills went to London."
+    },
+    {
+      "voaid": "1073",
+      "EndTiming": "26.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "20.2",
+      "Sentence_cn": "她对伦敦不很熟悉，因此迷了路。",
+      "Sentence": "She does not know London very well, and she lost her way."
+    },
+    {
+      "voaid": "1073",
+      "EndTiming": "31.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "26.8",
+      "Sentence_cn": "突然，她在公共汽车站附近看到一个男人。",
+      "Sentence": "Suddenly, she saw a man near a bus stop."
+    },
+    {
+      "voaid": "1073",
+      "EndTiming": "37.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "32.4",
+      "Sentence_cn": "“我可以向他问路，”她想。",
+      "Sentence": "'I can ask him the way.' she said to herself."
+    },
+    {
+      "voaid": "1073",
+      "EndTiming": "45.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "37.6",
+      "Sentence_cn": "“对不起，您能告诉我到国王街怎么走吗？”她说。",
+      "Sentence": "'Excuse me,' she said. 'Can you tell me the way to King Street, please?'"
+    },
+    {
+      "voaid": "1073",
+      "EndTiming": "49.2",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "46.5",
+      "Sentence_cn": "这人友好地笑了笑。",
+      "Sentence": "The man smiled pleasantly."
+    },
+    {
+      "voaid": "1073",
+      "EndTiming": "53.2",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "49.9",
+      "Sentence_cn": "他不懂英语！",
+      "Sentence": "He did not understand English!"
+    },
+    {
+      "voaid": "1073",
+      "EndTiming": "55.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "53.9",
+      "Sentence_cn": "他讲德语。",
+      "Sentence": "He spoke German."
+    },
+    {
+      "voaid": "1073",
+      "EndTiming": "58.4",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "56.3",
+      "Sentence_cn": "他是个旅游者。",
+      "Sentence": "He was a tourist."
+    },
+    {
+      "voaid": "1073",
+      "EndTiming": "66.1",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "59.2",
+      "Sentence_cn": "然后他把手伸进了衣袋，掏出了一本常用语手册。",
+      "Sentence": "Then he put his hand into his pocket,and took out a phrasebook."
+    },
+    {
+      "voaid": "1073",
+      "EndTiming": "70.9",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "66.9",
+      "Sentence_cn": "他翻开书找到了一条短语。",
+      "Sentence": "He opened the book and found a phrase."
+    },
+    {
+      "voaid": "1073",
+      "EndTiming": "74.9",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "71.6",
+      "Sentence_cn": "他缓慢地读着短语。",
+      "Sentence": "He read the phrase slowly."
+    },
+    {
+      "voaid": "1073",
+      "EndTiming": "82.5",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "75.7",
+      "Sentence_cn": "”很抱歉，“他说，”我不会讲英语。”",
+      "Sentence": "'I am sorry,' he said. 'I do not speak English.'"
+    }
+  ],
+  "size": 16,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14262,14263",
+    "title_cn": "到国王街的走法",
+    "title": "The way to King Street"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_73.mp3"
+}

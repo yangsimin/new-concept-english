@@ -1,0 +1,372 @@
+{
+  "data": [
+    {
+      "voaid": "4025",
+      "EndTiming": "6.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.9",
+      "Sentence_cn": "课文25  噪音的非听觉效应",
+      "Sentence": "--- Lesson 25 Non-auditory effects of noise"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "18.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "8.1",
+      "Sentence_cn": "关于噪音和健康，作者得出了什么结论?",
+      "Sentence": "What conclusion does the author draw about noise and health in this piece?"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "24.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "21.0",
+      "Sentence_cn": "在工业部门工作和在军队中服役的许多人",
+      "Sentence": "Many people in industry and the Services,"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "27.7",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "24.6",
+      "Sentence_cn": "对噪声音有切身的体会，",
+      "Sentence": "who have practical experience of noise,"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "32.8",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "28.3",
+      "Sentence_cn": "他们认为对这个问题进行调查中浪费时间，",
+      "Sentence": "regard any investigation of this question as a waste of time;"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "39.2",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "33.4",
+      "Sentence_cn": "甚至不愿承认噪音可能对人有影响。",
+      "Sentence": "they are not prepared even to admit the possibility that noise affects people."
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "40.7",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "39.7",
+      "Sentence_cn": "另一方面，",
+      "Sentence": "On the other hand,"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "46.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "41.3",
+      "Sentence_cn": "那些讨厌噪音的人有时会用不充分的证据",
+      "Sentence": "those who dislike noise will sometimes use most inadequate evidence"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "49.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "46.0",
+      "Sentence_cn": "来支持他们希望有一个较为安静的社会环境的要求。",
+      "Sentence": "to support their pleas for a quieter society."
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "56.7",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "51.4",
+      "Sentence_cn": "要求减少噪音是件好事，",
+      "Sentence": "This is a pity, because noise abatement really is a good cause,"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "63.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "57.4",
+      "Sentence_cn": "但是如果与拙劣的科学掺杂在一起的话，就不会被人们所信任，这是很遗憾的。",
+      "Sentence": "and it is likely to be discredited if it gets to be associated with bad science."
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "69.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "63.5",
+      "Sentence_cn": "常见的一种指责是，噪音能引起精神病。",
+      "Sentence": "One allegation often made is that noise produces mental illness."
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "73.5",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "69.9",
+      "Sentence_cn": "例如，最近一家周报刊登了一篇文章，",
+      "Sentence": "A recent article in a weekly newspaper, for instance,"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "80.3",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "74.1",
+      "Sentence_cn": "文章上方有一幅引人注目的插图，是一位表情沮丧的女子。",
+      "Sentence": "was headed with a striking illustration of a lady in a state of considerable distress,"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "87.1",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "80.3",
+      "Sentence_cn": "图的文字说明：“她是又一个受害者，成了只会尖叫的可怜虫。”",
+      "Sentence": "with the caption 'She was yet another victim, reduced to a screaming wreck'."
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "93.7",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "88.3",
+      "Sentence_cn": "当人们急切地看完正文后，便知道这女子是个打字员，",
+      "Sentence": "On turning eagerly to the text, one learns that the lady was a typist"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "97.7",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "93.8",
+      "Sentence_cn": "办公室打字机的声音使她越来越烦，",
+      "Sentence": "who found the sound of office typewriters worried her more and more"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "102.0",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "98.0",
+      "Sentence_cn": "最终住进了精神病医院。",
+      "Sentence": "until eventually she had to go into a mental hospital."
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "109.9",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "102.7",
+      "Sentence_cn": "这类奇闻的疑难之处是无法区别因果关系。",
+      "Sentence": "Now the snag in this sort of anecdote is of course that one cannot distinguish cause and effect."
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "112.9",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "110.5",
+      "Sentence_cn": "是噪音引起了（精神）病呢，",
+      "Sentence": "Was the noise a cause of the illness,"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "116.7",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "113.2",
+      "Sentence_cn": "还是（精神）病的症状之一是对噪音的抱怨？",
+      "Sentence": "or were the complaints about noise merely a symptom?"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "120.4",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "117.6",
+      "Sentence_cn": "另有一位病人可能同样有理由抱怨说，",
+      "Sentence": "Another patient might equally well complain"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "124.5",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "120.4",
+      "Sentence_cn": "她的邻居们正在联合起来对她进行诽谤和迫害，",
+      "Sentence": "that her neighbours were combining to slander her and persecute her,"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "128.4",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "125.0",
+      "Sentence_cn": "不过，人们不会轻信她的抱怨。",
+      "Sentence": "and yet one might be cautious about believing this statement."
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "136.8",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "129.8",
+      "Sentence_cn": "对于噪音问题，需要对大量生活在噪音中的人进行研究，",
+      "Sentence": "What is needed in the case of noise is a study of large numbers of people living under noisy conditions,"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "141.8",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "137.2",
+      "Sentence_cn": "看一看他们是否比其他人更易患精神病。",
+      "Sentence": "to discover whether they are mentally ill more often than other people are."
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "146.6",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "142.8",
+      "Sentence_cn": "例如，美国海军前些时候",
+      "Sentence": "Some time ago the United States Navy, for instance,"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "151.3",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "146.9",
+      "Sentence_cn": "调查了许多在航空母航上工作的人，",
+      "Sentence": "examined a very large number of men working on aircraft carriers:"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "155.6",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "152.0",
+      "Sentence_cn": "这次调查被称之为：“安内英工程”。",
+      "Sentence": "the study was known as Project Anehin."
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "161.0",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "156.5",
+      "Sentence_cn": "即使住在离机场几英里以外的地方，机场的噪音也会使人难受。",
+      "Sentence": "It can be unpleasant to live even several miles from an aerodrome;"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "168.0",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "161.8",
+      "Sentence_cn": "因此，如果你能想像出和几个中队的喷气机同在一个甲板上是什么滋味儿的话，",
+      "Sentence": "if you think what it must be like to share the deck of a ship with several squadrons of jet aircraft,"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "173.8",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "168.7",
+      "Sentence_cn": "你就会认识到现代海军是研究噪音的好地方。",
+      "Sentence": "you will realize that a modern navy is a good place to study noise."
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "179.8",
+      "Paraid": "1",
+      "IdIndex": "33",
+      "Timing": "175.0",
+      "Sentence_cn": "但是，不管进行精神病学的调查访问，还是进行客观的测试，",
+      "Sentence": "But neither psychiatric interviews nor objective tests"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "183.6",
+      "Paraid": "1",
+      "IdIndex": "34",
+      "Timing": "179.8",
+      "Sentence_cn": "都不能显示噪音对这些美国水兵有任何影响。",
+      "Sentence": "were able to show any effects upon these American sailors."
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "189.4",
+      "Paraid": "1",
+      "IdIndex": "35",
+      "Timing": "184.5",
+      "Sentence_cn": "这个结果只不过证实了美国和英国早些时候的研究结论：",
+      "Sentence": "This result merely confirms earlier American and British studies:"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "194.2",
+      "Paraid": "1",
+      "IdIndex": "36",
+      "Timing": "189.4",
+      "Sentence_cn": "如果噪音对精神健康有影响的话，",
+      "Sentence": "if there is any effect of noise upon mental health,"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "201.4",
+      "Paraid": "1",
+      "IdIndex": "37",
+      "Timing": "194.2",
+      "Sentence_cn": "那也一定是微乎其微，以致现代的精神病诊断方法还发现不了。",
+      "Sentence": "it must be so small that present methods of psychiatric diagnosis cannot find it."
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "205.8",
+      "Paraid": "1",
+      "IdIndex": "38",
+      "Timing": "202.7",
+      "Sentence_cn": "这并不是证实不存在噪音对健康的影响。",
+      "Sentence": "That does not prove that it does not exist; "
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "213.3",
+      "Paraid": "1",
+      "IdIndex": "39",
+      "Timing": "206.2",
+      "Sentence_cn": "但它确实说明，噪音的危险性 -- 比如说 -- 比在孤儿院长大所受的危害要小一些，",
+      "Sentence": "but it does mean that noise is less dangerous than, say being brought up in an orphanage"
+    },
+    {
+      "voaid": "4025",
+      "EndTiming": "231.4",
+      "Paraid": "1",
+      "IdIndex": "40",
+      "Timing": "213.8",
+      "Sentence_cn": "孤儿院才是真正危害精神健康的地方。",
+      "Sentence": "--which really is a mental health hazard."
+    }
+  ],
+  "size": 40,
+  "title": {
+    "newCategoryid": 1154,
+    "newTitleId": "14769,14770,14771",
+    "title_cn": "噪音的非听觉效应",
+    "title": "Non-auditory effects of noise"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/4_25.mp3"
+}

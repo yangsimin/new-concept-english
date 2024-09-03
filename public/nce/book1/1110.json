@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "voaid": "1110",
+      "EndTiming": "18.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "16.0",
+      "Sentence_cn": "我有些咖啡。",
+      "Sentence": "I've got some coffee."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "20.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "18.5",
+      "Sentence_cn": "我的比你少一些。",
+      "Sentence": "I've got less than you have."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "22.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "20.8",
+      "Sentence_cn": "我只有一点。",
+      "Sentence": "I've got very little."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "24.2",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "22.5",
+      "Sentence_cn": "我有些书。",
+      "Sentence": "I've got some books."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "26.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "24.5",
+      "Sentence_cn": "我的比你少一些。",
+      "Sentence": "I've got fewer than you have."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "28.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "26.6",
+      "Sentence_cn": "我只有一点。",
+      "Sentence": "I've got very few."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "30.2",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "28.5",
+      "Sentence_cn": "我有些肉。",
+      "Sentence": "I've got some meat."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "32.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "30.5",
+      "Sentence_cn": "我的比你少一些。",
+      "Sentence": "I've got less than you have."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "35.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "32.6",
+      "Sentence_cn": "我只有一点。",
+      "Sentence": "I've got very little."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "73.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "71.0",
+      "Sentence_cn": "我有些钱。",
+      "Sentence": "I've got some money."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "78.2",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "76.0",
+      "Sentence_cn": "我的比你少一些。",
+      "Sentence": "I've got less than you have."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "80.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "78.5",
+      "Sentence_cn": "我只有一点。",
+      "Sentence": "I've got very little."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "83.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "80.5",
+      "Sentence_cn": "我有些蔬菜。",
+      "Sentence": "I've got some vegetables."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "88.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "86.0",
+      "Sentence_cn": "我的比你少一些。",
+      "Sentence": "I've got fewer than you have."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "91.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "89.0",
+      "Sentence_cn": "我只有一点。",
+      "Sentence": "I've got very few."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "94.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "91.5",
+      "Sentence_cn": "我有些饼干。",
+      "Sentence": "I've got some biscuits."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "99.5",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "97.0",
+      "Sentence_cn": "我的比你少一些。",
+      "Sentence": "I've got fewer than you have."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "101.5",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "99.7",
+      "Sentence_cn": "我只吃了一点。",
+      "Sentence": "I've got very few."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "105.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "102.0",
+      "Sentence_cn": "我有些文具。",
+      "Sentence": "I've got some stationery."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "110.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "107.5",
+      "Sentence_cn": "我的比你少一些。",
+      "Sentence": "I've got less than you have."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "112.0",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "110.1",
+      "Sentence_cn": "我只有一点。",
+      "Sentence": "I've got very little."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "114.5",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "112.7",
+      "Sentence_cn": "我有些巧克力。",
+      "Sentence": "I've got some chocolate."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "120.5",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "118.0",
+      "Sentence_cn": "我的比你少一些。",
+      "Sentence": "I've got less than you have."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "122.5",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "120.7",
+      "Sentence_cn": "我只有一点。",
+      "Sentence": "I've got very little."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "125.0",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "123.0",
+      "Sentence_cn": "我有些礼物。",
+      "Sentence": "I've got some presents."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "130.8",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "128.5",
+      "Sentence_cn": "我的比你少一些。",
+      "Sentence": "I've got fewer than you have."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "133.0",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "131.0",
+      "Sentence_cn": "我只有一点。",
+      "Sentence": "I've got very few."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "136.0",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "134.0",
+      "Sentence_cn": "我有些墨水。",
+      "Sentence": "I've got some ink."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "141.0",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "138.0",
+      "Sentence_cn": "我的比你少一些。",
+      "Sentence": "I've got less than you have."
+    },
+    {
+      "voaid": "1110",
+      "EndTiming": "143.5",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "141.3",
+      "Sentence_cn": "我只有一点。",
+      "Sentence": "I've got very little."
+    }
+  ],
+  "size": 30,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14310",
+    "title_cn": "比一比",
+    "title": "How do they compare?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_110.mp3"
+}

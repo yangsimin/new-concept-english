@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "voaid": "1026",
+      "EndTiming": "20.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "17.5",
+      "Sentence": "Number 3,000."
+    },
+    {
+      "voaid": "1026",
+      "EndTiming": "23.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "21.1",
+      "Sentence_cn": "地板上有一个干净的茶杯吗？",
+      "Sentence": "Is there a clean cup on the floor?　"
+    },
+    {
+      "voaid": "1026",
+      "EndTiming": "29.7",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "24.2",
+      "Sentence_cn": "不，地板上没有。桌子上有一个干净的。",
+      "Sentence": "No, there isn't one on the floor. There's a clean one on the table.　"
+    },
+    {
+      "voaid": "1026",
+      "EndTiming": "34.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "32.3",
+      "Sentence": "Number 4,000."
+    },
+    {
+      "voaid": "1026",
+      "EndTiming": "38.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "35.3",
+      "Sentence_cn": "架子上有一个大盒子吗？",
+      "Sentence": "Is there a large box on the shelf?"
+    },
+    {
+      "voaid": "1026",
+      "EndTiming": "45.2",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "39.3",
+      "Sentence_cn": "不，架子上没有。地板上有一个大的。",
+      "Sentence": "No, there isn't one on the shelf. There's a large one on the floor."
+    },
+    {
+      "voaid": "1026",
+      "EndTiming": "49.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "47.1",
+      "Sentence": "Number 5,000."
+    },
+    {
+      "voaid": "1026",
+      "EndTiming": "53.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "50.1",
+      "Sentence_cn": "冰箱里有一个空玻璃杯吗？",
+      "Sentence": "Is there an empty glass in the refrigerator?　"
+    },
+    {
+      "voaid": "1026",
+      "EndTiming": "60.6",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "54.5",
+      "Sentence_cn": "不，冰箱里没有。碗橱里有一个空的。",
+      "Sentence": "No, there isn't one in the refrigerator. There's an empty one in the cupboard.　"
+    },
+    {
+      "voaid": "1026",
+      "EndTiming": "129.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "126.4",
+      "Sentence": "Number 6,000."
+    },
+    {
+      "voaid": "1026",
+      "EndTiming": "133.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "130.6",
+      "Sentence_cn": "罐子上有一把尖利的刀吗？",
+      "Sentence": "Is there a sharp knife on the tin?　"
+    },
+    {
+      "voaid": "1026",
+      "EndTiming": "142.6",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "136.0",
+      "Sentence_cn": "不，罐子上没有。盘子里有一个尖利的。",
+      "Sentence": "No, there isn't one on the tin. There's a sharp one on the plate."
+    },
+    {
+      "voaid": "1026",
+      "EndTiming": "147.5",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "145.0",
+      "Sentence": "Number 7,000."
+    },
+    {
+      "voaid": "1026",
+      "EndTiming": "152.6",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "149.5",
+      "Sentence_cn": "盘子里有一个脏叉子吗？",
+      "Sentence": "Is there a dirty fork on the plate?　"
+    },
+    {
+      "voaid": "1026",
+      "EndTiming": "163.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "156.0",
+      "Sentence_cn": "不，盘子里没有。罐子上有一个脏的。",
+      "Sentence": "No, there isn't one on the plate. There's a dirty one on the tin."
+    },
+    {
+      "voaid": "1026",
+      "EndTiming": "168.5",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "166.0",
+      "Sentence": "Number 8,000."
+    },
+    {
+      "voaid": "1026",
+      "EndTiming": "174.0",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "170.6",
+      "Sentence_cn": "碗橱里有一个装满的瓶子吗？",
+      "Sentence": "Is there a full bottle in the cupboard?　"
+    },
+    {
+      "voaid": "1026",
+      "EndTiming": "184.0",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "177.7",
+      "Sentence_cn": "不，碗橱里没有。冰箱里有一个满的。",
+      "Sentence": "No, there isn't one in the cupboard.  There's a full one in the refrigerator."
+    },
+    {
+      "voaid": "1026",
+      "EndTiming": "189.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "186.5",
+      "Sentence": "Number 9,000."
+    },
+    {
+      "voaid": "1026",
+      "EndTiming": "194.5",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "191.0",
+      "Sentence_cn": "桌子上有一个钝的铅笔吗？",
+      "Sentence": "Is there a blunt pencil on the table?　"
+    },
+    {
+      "voaid": "1026",
+      "EndTiming": "205.0",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "197.8",
+      "Sentence_cn": "不，桌子上没有。课桌上有一个钝的。",
+      "Sentence": "No, there isn't one on the table.  There's a blunt one on the desk.　"
+    },
+    {
+      "voaid": "1026",
+      "EndTiming": "209.5",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "207.0",
+      "Sentence": "Number 10,000."
+    },
+    {
+      "voaid": "1026",
+      "EndTiming": "214.6",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "211.1",
+      "Sentence_cn": "玻璃杯里有一个小勺吗？",
+      "Sentence": "Is there a small spoon in the glass?　"
+    },
+    {
+      "voaid": "1026",
+      "EndTiming": "223.5",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "217.2",
+      "Sentence_cn": "不，玻璃杯里没有。茶杯里有一个小的。",
+      "Sentence": "No, there isn't one in the glass.  There's a small one in the cup.　"
+    }
+  ],
+  "size": 24,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14207",
+    "title_cn": "它在哪里？",
+    "title": "Where is it?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_26.mp3"
+}

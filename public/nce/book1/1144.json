@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "1144",
+      "EndTiming": "18.4",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "16.6",
+      "Sentence_cn": "已经有人打开窗户了吗？",
+      "Sentence": "Has anyone opened the window yet?"
+    },
+    {
+      "voaid": "1144",
+      "EndTiming": "21.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "19.0",
+      "Sentence_cn": "是的，它已经被打开了。",
+      "Sentence": "Yes, it has already been opened."
+    },
+    {
+      "voaid": "1144",
+      "EndTiming": "25.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "22.1",
+      "Sentence_cn": "有人修改过这些练习册吗?",
+      "Sentence": "Has anyone corrected these exercise books yet?"
+    },
+    {
+      "voaid": "1144",
+      "EndTiming": "28.2",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "25.5",
+      "Sentence_cn": "是的，它们已经被改过了。",
+      "Sentence": "Yes, they have already been corrected."
+    },
+    {
+      "voaid": "1144",
+      "EndTiming": "30.9",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "29.1",
+      "Sentence_cn": "会有人扫地吗？",
+      "Sentence": "Will anyone sweep the floor?"
+    },
+    {
+      "voaid": "1144",
+      "EndTiming": "34.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "31.6",
+      "Sentence_cn": "是的，很快就有人扫。",
+      "Sentence": "Yes, it'll be swept soon."
+    },
+    {
+      "voaid": "1144",
+      "EndTiming": "36.7",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "34.6",
+      "Sentence_cn": "会有人告诉他们吗？",
+      "Sentence": "Will anyone tell them about it?"
+    },
+    {
+      "voaid": "1144",
+      "EndTiming": "39.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "37.2",
+      "Sentence_cn": "是的，他们很快就会被告知。",
+      "Sentence": "Yes, they'll be told about it soon."
+    },
+    {
+      "voaid": "1144",
+      "EndTiming": "89.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "87.8",
+      "Sentence_cn": "已经有人邀请他们了吗？",
+      "Sentence": "Has anyone invited them yet?"
+    },
+    {
+      "voaid": "1144",
+      "EndTiming": "97.3",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "94.2",
+      "Sentence_cn": "是的，他们已经被邀请了。",
+      "Sentence": "Yes, they have already been invited."
+    },
+    {
+      "voaid": "1144",
+      "EndTiming": "100.3",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "99.0",
+      "Sentence_cn": "会有人接待他吗？",
+      "Sentence": "Will anyone serve him?"
+    },
+    {
+      "voaid": "1144",
+      "EndTiming": "107.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "104.7",
+      "Sentence_cn": "是的，不久就有人接待他。",
+      "Sentence": "Yes, he'll be served soon."
+    },
+    {
+      "voaid": "1144",
+      "EndTiming": "110.9",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "108.6",
+      "Sentence_cn": "这辆车已经有人修了吗？",
+      "Sentence": "Has anyone repaired this car yet?"
+    },
+    {
+      "voaid": "1144",
+      "EndTiming": "118.1",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "115.2",
+      "Sentence_cn": "是的，它已经被修了。",
+      "Sentence": "Yes, it has already been repaired."
+    },
+    {
+      "voaid": "1144",
+      "EndTiming": "120.9",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "119.6",
+      "Sentence_cn": "会有人找到他们吗？",
+      "Sentence": "Will anyone find them?"
+    },
+    {
+      "voaid": "1144",
+      "EndTiming": "128.2",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "125.8",
+      "Sentence_cn": "是的，他们会很快被找到的。",
+      "Sentence": "Yes, they'll be found soon."
+    },
+    {
+      "voaid": "1144",
+      "EndTiming": "131.8",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "129.4",
+      "Sentence_cn": "有人磨这把刀了吗？",
+      "Sentence": "Has anyone sharpened this knife yet?"
+    },
+    {
+      "voaid": "1144",
+      "EndTiming": "139.8",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "136.9",
+      "Sentence_cn": "是的，它已经被磨了。",
+      "Sentence": "Yes, it has already been sharpened."
+    },
+    {
+      "voaid": "1144",
+      "EndTiming": "143.3",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "141.1",
+      "Sentence_cn": "会有人磨这些刀吗？",
+      "Sentence": "Will anyone sharpen these knives?"
+    },
+    {
+      "voaid": "1144",
+      "EndTiming": "150.4",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "147.9",
+      "Sentence_cn": "是的，它们很快就会被磨的。",
+      "Sentence": "Yes, they'll be sharpened soon."
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14348",
+    "title_cn": "还没有人来招待他。很快会有人来招待他的。",
+    "title": "He has not been served yet. He will be served soon."
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_144.mp3"
+}

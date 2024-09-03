@@ -1,0 +1,255 @@
+{
+  "data": [
+    {
+      "voaid": "4035",
+      "EndTiming": "4.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "1.0",
+      "Sentence_cn": "课文35  太空探索",
+      "Sentence": "--- Lesson 35 Space odyssey"
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "16.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.1",
+      "Sentence_cn": "我们什么时候才能认真考虑殖民火星? ",
+      "Sentence": "When will it be possible for us to think seriously about colonising Mars?"
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "27.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "19.2",
+      "Sentence_cn": "月球很可能成为太阳系的工业中心。从月球上的岩石中可以获得航天飞船的燃料，",
+      "Sentence": "The Moon is likely to become the industrial hub of the Solar System supplying the rocket fuels for its ships,"
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "32.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "27.5",
+      "Sentence_cn": "很容易从中提炼出液态氧。",
+      "Sentence": "easily obtainable from the lunar rocks in the form of liquid oxygen."
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "36.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "33.6",
+      "Sentence_cn": "其原因在于月球的重力。",
+      "Sentence": "The reason lies in its gravity."
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "41.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "36.7",
+      "Sentence_cn": "因为月球的重只有地球的1/8，",
+      "Sentence": "Because the Moon has only an eightieth of the Earth's mass,"
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "45.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "41.6",
+      "Sentence_cn": "它需要耗的能量少97%，",
+      "Sentence": "it requires 97% less energy"
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "56.1",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "46.1",
+      "Sentence_cn": "对比从月球到地球的25万英里所消耗的能量要以及地球表面进入地球轨道的200英里。",
+      "Sentence": "to travel the quarter of a million miles from the Moon to Earth-orbit than the 200 mile-journey from Earth's surface into orbit!"
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "62.7",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "57.4",
+      "Sentence_cn": "这点听起来令人难以置信，但却很容易计算出来。",
+      "Sentence": "This may sound fantastic, but it is easily calculated."
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "69.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "63.1",
+      "Sentence_cn": "要乘坐一枚火箭飞离地球，火箭的速度要达到每秒7英里，",
+      "Sentence": "To escape from the Earth in a rocket, one must travel at seven miles per second."
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "76.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "70.4",
+      "Sentence_cn": "而从月球出发的相应速度史是每秒1.5英里。",
+      "Sentence": "The comparable speed from the Moon is only 1.5 miles per second."
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "87.3",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "77.4",
+      "Sentence_cn": "由于月球表面的重力仅是地球表面的1/6 -- 还记得阿波罗飞船中的宇航员累松地跳跃 --",
+      "Sentence": "Because the gravity on the Moon's surface is only a sixth of Earth's (remember how easily the Apollo astronauts bounded along),"
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "95.7",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "87.3",
+      "Sentence_cn": "在月球上加速到每秒1.5英里比在地球上所用能源要少得多。",
+      "Sentence": "it takes much less energy to accelerate to that 1.5mps than it does on Earth."
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "105.6",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "96.7",
+      "Sentence_cn": "月球居民在太空遨游的费用仅是地球上朋友飞越同样路所需费用的3%。",
+      "Sentence": "Moon dwellers will be able to fly in space at only three percent of the cost of similar journeys by their terrestrial cousins."
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "114.2",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "107.2",
+      "Sentence_cn": "亚瑟.C.克拉克曾提议，一种创新的想法要经过以下3个阶段：",
+      "Sentence": "Arthur C.Clark once suggested a revolutionary idea passes through three phases:"
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "120.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "115.5",
+      "Sentence_cn": "1 “根本不可能，不要浪费我的时间。”",
+      "Sentence": "1.  'It's impossible -- don't waste my time.'"
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "126.2",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "121.5",
+      "Sentence_cn": "2 “可能，但不值得做。”",
+      "Sentence": "2.  'It's possible, but not worth doing.'"
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "130.9",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "127.3",
+      "Sentence_cn": "3 “我一直说这是个好想法。”",
+      "Sentence": "3.  'I said it was a good idea all along.'"
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "144.6",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "132.2",
+      "Sentence_cn": "征服火星的计划 -- 一个比月球远160倍的星球 -- 就可以明确地从第2阶段进入第3阶段，",
+      "Sentence": "The idea of colonising Mars -- a world 160 times more distant than the Moon -- will move decisively from the second phase to the third,"
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "149.7",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "145.3",
+      "Sentence_cn": "如果有相当数量的人永久性地住在太空。",
+      "Sentence": "when a significant number of people are living permanently in space."
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "155.4",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "150.4",
+      "Sentence_cn": "火星对未来的星际旅客说有着特殊的魅力。",
+      "Sentence": "Mars has an extraordinary fascination for would-be voyagers."
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "167.7",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "155.8",
+      "Sentence_cn": "美国、俄罗斯和欧洲都有许多热心此项事业的人 -- 其中的不少是认真和资深的科学家，他们一直梦想着把人送上火星。",
+      "Sentence": "America, Russia and Europe are filled with enthusiasts -- many of them serious and senior scientists who dream of sending people to it."
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "170.7",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "168.7",
+      "Sentence_cn": "他们的目标是可以理解的。",
+      "Sentence": "Their aim is understandable."
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "175.7",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "170.7",
+      "Sentence_cn": "火星是太阳系里与地球最接近的一颗行星。",
+      "Sentence": "It is the one world in the Solar System that is most like the Earth."
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "181.9",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "175.8",
+      "Sentence_cn": "这是一个红色沙漠的世界（因而得名：红色行星），",
+      "Sentence": "It is a world of red sandy deserts (hence its name -- the Red Planet),"
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "194.6",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "182.7",
+      "Sentence_cn": "无云的天空，凶猛的沙暴，比大峡谷还宽的裂缝，起码有一座山有珠穆朗玛峰的近两倍高。",
+      "Sentence": "cloudless skies, savage sandstorms, chasms wider than the Grand Canyon and at least one mountain more than twice as tall as Everest."
+    },
+    {
+      "voaid": "4035",
+      "EndTiming": "198.6",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "194.6",
+      "Sentence_cn": "看起来，它很合适居住。",
+      "Sentence": "It seems ideal for settlement."
+    }
+  ],
+  "size": 27,
+  "title": {
+    "newCategoryid": 1154,
+    "newTitleId": "14803,14804,14805,14806",
+    "title_cn": "太空探索",
+    "title": "Space odyssey"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/4_35.mp3"
+}

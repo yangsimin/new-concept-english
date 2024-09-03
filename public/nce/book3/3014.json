@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "voaid": "3014",
+      "EndTiming": "4.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "贵族歹徒",
+      "Sentence": "--- lesson 14  A noble gangster"
+    },
+    {
+      "voaid": "3014",
+      "EndTiming": "15.1",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.9",
+      "Sentence_cn": "曾经有一个时期,芝加哥的店主和商行的老板们不得不拿出大笔的钱给歹徒以换取'保护'。",
+      "Sentence": "There was a time when the owners of shops and businesses in Chicago had to pay large sums of money to gangsters in return for 'protection'."
+    },
+    {
+      "voaid": "3014",
+      "EndTiming": "24.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "15.1",
+      "Sentence_cn": "如果交款不及时,歹徒们就会很快捣毁他的商店,让他破产。",
+      "Sentence": "If the money was not paid promptly, the gangsters would quickly put a man out of business by destroying his shop."
+    },
+    {
+      "voaid": "3014",
+      "EndTiming": "28.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "24.7",
+      "Sentence_cn": "榨取'保护金'并不是一种现代的罪恶行径。",
+      "Sentence": "Obtaining 'protection money' is not a modern crime."
+    },
+    {
+      "voaid": "3014",
+      "EndTiming": "37.7",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "28.3",
+      "Sentence_cn": "早在14世纪,英国人约翰.霍克伍德就有过非凡的发现:",
+      "Sentence": "As long ago as the fourteenth century, an Englishman, Sir John Hawkwood, made the remarkable discovery"
+    },
+    {
+      "voaid": "3014",
+      "EndTiming": "44.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "37.7",
+      "Sentence_cn": "'人们情愿拿出大笔的钱,也不愿毕生的心血毁于歹徒之手。",
+      "Sentence": "that people would rather pay large sums of money than have their life work destroyed by gangsters."
+    },
+    {
+      "voaid": "3014",
+      "EndTiming": "53.7",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "44.5",
+      "Sentence_cn": "600年前,约翰.霍克伍德爵士带着一队士兵来到意大利,在佛罗伦萨附近驻扎下来,",
+      "Sentence": "Six hundred years ago, Sir John Hawkwood arrived in Italy with a band of soldiers and settled near Florence."
+    },
+    {
+      "voaid": "3014",
+      "EndTiming": "61.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "53.7",
+      "Sentence_cn": "很快就出了名。意大利人叫他乔凡尼.阿库托。",
+      "Sentence": "He soon made a name for himself and came to be known to the Italians as Giovanni Acuto."
+    },
+    {
+      "voaid": "3014",
+      "EndTiming": "66.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "61.3",
+      "Sentence_cn": "每次意大利各城邦之间打伏,",
+      "Sentence": "Whenever the Italian city-states were at war with each other,"
+    },
+    {
+      "voaid": "3014",
+      "EndTiming": "74.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "66.7",
+      "Sentence_cn": "霍克伍德便把他的士兵雇佣给愿给他出高价的君主。",
+      "Sentence": "Hawkwood used to hire his soldiers to princes who were willing to pay the high price he demanded."
+    },
+    {
+      "voaid": "3014",
+      "EndTiming": "81.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "74.1",
+      "Sentence_cn": "和平时期,当生意萧条时,霍克伍德便带领士兵进入某个城邦,",
+      "Sentence": "In times of peace, when business was bad, Hawkwood and his men would march into a city-state and,"
+    },
+    {
+      "voaid": "3014",
+      "EndTiming": "88.9",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "81.6",
+      "Sentence_cn": "纵火烧毁一两个农场,然后提出,如向他们缴纳保护金,他们便主动撤离。",
+      "Sentence": "after burning down a few farms, would offer to go away if protection money was paid to them."
+    },
+    {
+      "voaid": "3014",
+      "EndTiming": "92.2",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "89.0",
+      "Sentence_cn": "霍克伍德用这种方法挣了大笔钱。",
+      "Sentence": "Hawkwood made large sums of money in this way."
+    },
+    {
+      "voaid": "3014",
+      "EndTiming": "97.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "93.0",
+      "Sentence_cn": "尽管如此,意大利人还是把他视作某种英雄。",
+      "Sentence": "In spite of this, the Italians regarded him as a sort of hero."
+    },
+    {
+      "voaid": "3014",
+      "EndTiming": "104.4",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "97.8",
+      "Sentence_cn": "他80岁那年死去时,佛罗伦萨人为他举行了国葬,",
+      "Sentence": "When he died at the age of eighty, the Florentines gave him a state funeral"
+    },
+    {
+      "voaid": "3014",
+      "EndTiming": "116.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "104.4",
+      "Sentence_cn": "并为他画像以纪念这位“骁勇无比的战士、杰出的领袖乔凡尼.阿库托先生”。",
+      "Sentence": "and had a picture painted which was dedicated to the memory of 'the most valiant soldier and most notable leader, Signor Giovanni Haukodue'."
+    }
+  ],
+  "size": 16,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14562,14563",
+    "title_cn": "贵族歹徒",
+    "title": "A noble gangster"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_14.mp3"
+}

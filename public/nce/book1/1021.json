@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "voaid": "1021",
+      "EndTiming": "4.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.3",
+      "Sentence_cn": "哪一本书？",
+      "Sentence": "--- lesson 21  Which book?"
+    },
+    {
+      "voaid": "1021",
+      "EndTiming": "8.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.9",
+      "Sentence_cn": "请拿本书给我，简。",
+      "Sentence": "Give me a book please, Jane."
+    },
+    {
+      "voaid": "1021",
+      "EndTiming": "9.7",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.1",
+      "Sentence_cn": "哪一本？",
+      "Sentence": "Which book?"
+    },
+    {
+      "voaid": "1021",
+      "EndTiming": "11.2",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "10.1",
+      "Sentence_cn": "是这本吗？",
+      "Sentence": "This one?"
+    },
+    {
+      "voaid": "1021",
+      "EndTiming": "14.4",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "11.9",
+      "Sentence_cn": "不，不是那本。",
+      "Sentence": "No, not that one."
+    },
+    {
+      "voaid": "1021",
+      "EndTiming": "16.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "14.7",
+      "Sentence_cn": "是那本红皮的。",
+      "Sentence": "The red one."
+    },
+    {
+      "voaid": "1021",
+      "EndTiming": "17.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "16.7",
+      "Sentence_cn": "这本吗？",
+      "Sentence": "This one?"
+    },
+    {
+      "voaid": "1021",
+      "EndTiming": "19.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "17.5",
+      "Sentence_cn": "是的，请给我。",
+      "Sentence": "Yes, please."
+    },
+    {
+      "voaid": "1021",
+      "EndTiming": "21.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "19.7",
+      "Sentence_cn": "给你。",
+      "Sentence": "Here you are."
+    },
+    {
+      "voaid": "1021",
+      "EndTiming": "22.7",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "22.0",
+      "Sentence_cn": "谢谢。",
+      "Sentence": "Thank you."
+    }
+  ],
+  "size": 10,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14201",
+    "title_cn": "哪一本书？",
+    "title": "Which book?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_21.mp3"
+}

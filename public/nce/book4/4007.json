@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "voaid": "4007",
+      "EndTiming": "7.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.7",
+      "Sentence_cn": "课文7  蝙蝠",
+      "Sentence": "--- Lesson 7 Bats"
+    },
+    {
+      "voaid": "4007",
+      "EndTiming": "15.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "9.8",
+      "Sentence_cn": "蝙蝠的回声定位是怎么发挥作用的?",
+      "Sentence": "In what way does echo-location in bats play an utilitarian role?"
+    },
+    {
+      "voaid": "4007",
+      "EndTiming": "34.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "18.3",
+      "Sentence_cn": "动物发出的声音不都是用作语言交际。我们只要看一看蝙蝠回声定位这一极不寻常的发现，就可以探究一下声音在什么情况下有绝对的实用价值。",
+      "Sentence": "Not all sounds made by animals serve as language, and we have only to turn to that extraordinary discovery of echo-location in bats to see a case in which the voice plays a strictly utilitarian role."
+    },
+    {
+      "voaid": "4007",
+      "EndTiming": "43.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "36.1",
+      "Sentence_cn": "要透彻理解这句话的意义，我们应先回顾一下人类最近的几项发明。",
+      "Sentence": "To get a full appreciation of what this means we must turn first to some recent human inventions."
+    },
+    {
+      "voaid": "4007",
+      "EndTiming": "51.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "44.5",
+      "Sentence_cn": "大家都知道，在墙壁或山腰附近发出的喊声，就会听到回声。",
+      "Sentence": "Everyone knows that if he shouts in the vicinity of a wall or a mountainside, an echo will come back."
+    },
+    {
+      "voaid": "4007",
+      "EndTiming": "59.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "52.9",
+      "Sentence_cn": "固体障碍物越远。回声返回所用时间就越长。",
+      "Sentence": "The further off this solid obstruction, the longer time will elapse for the return of the echo."
+    },
+    {
+      "voaid": "4007",
+      "EndTiming": "78.3",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "61.3",
+      "Sentence_cn": "通过敲击空船发出的声音将会从海底反射回来。测出回声间隔的时间，便可算出该处海洋的深度。",
+      "Sentence": "A sound made by tapping on the hull of a ship will be reflected from the sea bottom, and by measuring the time interval between the taps and the receipt of the echoes the depth of the sea at that point can be calculated."
+    },
+    {
+      "voaid": "4007",
+      "EndTiming": "85.5",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "79.5",
+      "Sentence_cn": "这样就产生了目前各种船舶上普遍应用的回声探测仪。",
+      "Sentence": "So was born the echo-sounding apparatus, now in general use in ships."
+    },
+    {
+      "voaid": "4007",
+      "EndTiming": "94.2",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "86.6",
+      "Sentence_cn": "任何固体者反射声音，反射的声音因物体的大小和性质的不同而不同。",
+      "Sentence": "Every solid object will reflect a sound, varying according to the size and nature of the object."
+    },
+    {
+      "voaid": "4007",
+      "EndTiming": "96.9",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "95.1",
+      "Sentence_cn": "鱼群也反射声音。",
+      "Sentence": "A shoal of fish will do this."
+    },
+    {
+      "voaid": "4007",
+      "EndTiming": "105.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "97.7",
+      "Sentence_cn": "从测定海深到测定鱼群，这一进展比较容易。",
+      "Sentence": "So it is a comparatively simple step from locating the sea bottom to locating a shoal of fish."
+    },
+    {
+      "voaid": "4007",
+      "EndTiming": "120.7",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "106.1",
+      "Sentence_cn": "根据经验和改进了的仪器，不仅能够确定鱼群的位置，而且可以根据鱼群回声的特点分辨出是鲱鱼、鳕鱼，这是人们所熟悉的其他鱼。",
+      "Sentence": "With experience, and with improved apparatus, it is now possible not only to locate a shoal but to tell if it is herring, cod, or other well-known fish, by the pattern of its echo."
+    },
+    {
+      "voaid": "4007",
+      "EndTiming": "127.2",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "121.7",
+      "Sentence_cn": "人们发现，某些蝙蝠能发出尖叫声，并能通过回声",
+      "Sentence": "It has been found that certain bats emit squeaks and by receiving the echoes,"
+    },
+    {
+      "voaid": "4007",
+      "EndTiming": "134.9",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "127.8",
+      "Sentence_cn": "来确定并躲开障碍物，或找到它们赖以为生的昆虫。",
+      "Sentence": "they can locate and steer clear of obstacles -- or locate flying insects on which they feed."
+    },
+    {
+      "voaid": "4007",
+      "EndTiming": "149.6",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "135.9",
+      "Sentence_cn": "蝙蝠这种回声定位常常可与雷达相比较，其原理是相似的。",
+      "Sentence": "This echo-location in bats is often compared with radar, the principle of which is similar."
+    }
+  ],
+  "size": 15,
+  "title": {
+    "newCategoryid": 1154,
+    "newTitleId": "14716,14717,14718",
+    "title_cn": "蝙蝠",
+    "title": "Bats"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/4_7.mp3"
+}

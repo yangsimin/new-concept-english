@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "voaid": "1075",
+      "EndTiming": "5.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "不舒适的鞋子",
+      "Sentence": "--- lesson 75  Uncomfortable shoes"
+    },
+    {
+      "voaid": "1075",
+      "EndTiming": "9.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.0",
+      "Sentence_cn": "像这样的鞋子你们有吗？",
+      "Sentence": "Do you have any shoes like these?"
+    },
+    {
+      "voaid": "1075",
+      "EndTiming": "11.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.1",
+      "Sentence_cn": "什么尺码的？",
+      "Sentence": "What size?"
+    },
+    {
+      "voaid": "1075",
+      "EndTiming": "13.2",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "11.6",
+      "Sentence_cn": "5号的。",
+      "Sentence": "Size five."
+    },
+    {
+      "voaid": "1075",
+      "EndTiming": "14.8",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "13.8",
+      "Sentence_cn": "什么颜色？",
+      "Sentence": "what color?"
+    },
+    {
+      "voaid": "1075",
+      "EndTiming": "16.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "15.3",
+      "Sentence_cn": "黑的",
+      "Sentence": "Black."
+    },
+    {
+      "voaid": "1075",
+      "EndTiming": "18.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "16.9",
+      "Sentence_cn": "对不起，",
+      "Sentence": "I'm sorry."
+    },
+    {
+      "voaid": "1075",
+      "EndTiming": "19.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "18.1",
+      "Sentence_cn": "我们没有。",
+      "Sentence": "We don't have any."
+    },
+    {
+      "voaid": "1075",
+      "EndTiming": "24.6",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "20.7",
+      "Sentence_cn": "但是，我姐姐上个月买到了这样的一双。",
+      "Sentence": "But my sister bought this pair last month."
+    },
+    {
+      "voaid": "1075",
+      "EndTiming": "27.3",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "25.4",
+      "Sentence_cn": "她是在这儿买的吗？",
+      "Sentence": "Did she buy them here?"
+    },
+    {
+      "voaid": "1075",
+      "EndTiming": "31.4",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "27.8",
+      "Sentence_cn": "不。她是在美国买的。",
+      "Sentence": "No, she bought them in the U.S."
+    },
+    {
+      "voaid": "1075",
+      "EndTiming": "36.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "32.2",
+      "Sentence_cn": "一个月前我们有这样的鞋，",
+      "Sentence": "We had some shoes like those a month ago,"
+    },
+    {
+      "voaid": "1075",
+      "EndTiming": "39.1",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "36.5",
+      "Sentence_cn": "但是现在没有了。",
+      "Sentence": "but we don't have any now."
+    },
+    {
+      "voaid": "1075",
+      "EndTiming": "43.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "39.6",
+      "Sentence_cn": "您能为我找一双吗？",
+      "Sentence": "Can you get a pair for me, please?"
+    },
+    {
+      "voaid": "1075",
+      "EndTiming": "45.7",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "43.2",
+      "Sentence_cn": "恐怕不行。",
+      "Sentence": "I'm afraid that I can't."
+    },
+    {
+      "voaid": "1075",
+      "EndTiming": "51.5",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "46.4",
+      "Sentence_cn": "这鞋在去年和前年时兴，",
+      "Sentence": "They were in fashion last year and the year before last."
+    },
+    {
+      "voaid": "1075",
+      "EndTiming": "55.3",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "52.0",
+      "Sentence_cn": "而今年已不流行了。",
+      "Sentence": "But they're not in fashion this year."
+    },
+    {
+      "voaid": "1075",
+      "EndTiming": "58.9",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "56.1",
+      "Sentence_cn": "现在流行的是这种鞋子。",
+      "Sentence": "These shoes are in fashion now."
+    },
+    {
+      "voaid": "1075",
+      "EndTiming": "62.7",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "59.9",
+      "Sentence_cn": "这种鞋子看上去很不舒适。",
+      "Sentence": "They look very uncomfortable."
+    },
+    {
+      "voaid": "1075",
+      "EndTiming": "65.9",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "63.3",
+      "Sentence_cn": "的确很不舒适。",
+      "Sentence": "They are very uncomfortable."
+    },
+    {
+      "voaid": "1075",
+      "EndTiming": "70.4",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "66.3",
+      "Sentence_cn": "可是女人们总是穿不舒适的鞋子！",
+      "Sentence": "But women always wear uncomfortable shoes!"
+    }
+  ],
+  "size": 21,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14265",
+    "title_cn": "不舒适的鞋子",
+    "title": "Uncomfortable shoes"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_75.mp3"
+}

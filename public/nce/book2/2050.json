@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "voaid": "2050",
+      "EndTiming": "4.1",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "乘车兜风",
+      "Sentence": "--- Lesson 50  Taken for a ride"
+    },
+    {
+      "voaid": "2050",
+      "EndTiming": "10.1",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.7",
+      "Sentence_cn": "我喜欢在乡间旅行，但却不愿意迷路。",
+      "Sentence": "I love travelling in the country, but I don't like losing my way."
+    },
+    {
+      "voaid": "2050",
+      "EndTiming": "17.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.5",
+      "Sentence_cn": "最近我作了一次短途旅行，但这次旅行所花费的时间比我预计的要长。",
+      "Sentence": "I went on an excursion recently, but my trip took me longer than I expected."
+    },
+    {
+      "voaid": "2050",
+      "EndTiming": "26.8",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "17.5",
+      "Sentence_cn": "“我要去伍德福德草地，”我一上车就对售票员说，“但我不知道它在那儿。”",
+      "Sentence": "\"I'm going to Woodford Green,\" I said to the conductor as I got on the bus,\"but I don't know where it is.\""
+    },
+    {
+      "voaid": "2050",
+      "EndTiming": "31.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "27.3",
+      "Sentence_cn": "“我来告诉您在哪儿下车，”售票员回答说。",
+      "Sentence": "\"I'll tell you where to get off.\" answered the conductor."
+    },
+    {
+      "voaid": "2050",
+      "EndTiming": "37.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "32.4",
+      "Sentence_cn": "我坐在汽车的前部，以便饱览农村风光。",
+      "Sentence": "I sat in the front of the bus to get a good view of the countryside."
+    },
+    {
+      "voaid": "2050",
+      "EndTiming": "41.2",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "38.1",
+      "Sentence_cn": "过了一些时候，车停了。",
+      "Sentence": "After some time, the bus stopped."
+    },
+    {
+      "voaid": "2050",
+      "EndTiming": "48.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "41.6",
+      "Sentence_cn": "我环视了一下身旁，惊奇地发现车里就只剩我一个乘客了。",
+      "Sentence": "Looking round, I realized with a shock that I was the only passenger left on the bus."
+    },
+    {
+      "voaid": "2050",
+      "EndTiming": "56.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "49.3",
+      "Sentence_cn": "“您得在这里下车，”售票员说，“我们的车就到此为止了。”",
+      "Sentence": "\"You'll have to get off here,\" the conductor said. \"This is as far as we go.\""
+    },
+    {
+      "voaid": "2050",
+      "EndTiming": "60.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "56.5",
+      "Sentence_cn": "“这里是伍德福德草地吗？”我问道。",
+      "Sentence": "\"Is this Woodford Green?\" I asked."
+    },
+    {
+      "voaid": "2050",
+      "EndTiming": "66.7",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "60.7",
+      "Sentence_cn": "“哎呀，”售票员突然说，“我忘了让您下车了。”",
+      "Sentence": "\"Oh dear,\" said the conductor suddenly. \"I forgot to put you off.\""
+    },
+    {
+      "voaid": "2050",
+      "EndTiming": "72.7",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "66.7",
+      "Sentence_cn": "“没关系，”我说，“我就在这儿下吧。”",
+      "Sentence": "\"It doesn't matter,\" I said. \"I'll get off here.\""
+    },
+    {
+      "voaid": "2050",
+      "EndTiming": "75.9",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "72.7",
+      "Sentence_cn": "“我们现在要返回去，”售票员说。",
+      "Sentence": "\"We're going back now,\" said the conductor."
+    },
+    {
+      "voaid": "2050",
+      "EndTiming": "82.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "76.6",
+      "Sentence_cn": "“好吧，既然如此，我还是留在车上吧。”我回答说。",
+      "Sentence": "\"Well, in that case, I prefer to stay on the bus,\" I answered."
+    }
+  ],
+  "size": 14,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14433,14434",
+    "title_cn": "乘车兜风",
+    "title": "Taken for a ride"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_50.mp3"
+}

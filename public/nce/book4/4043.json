@@ -1,0 +1,408 @@
+{
+  "data": [
+    {
+      "voaid": "4043",
+      "EndTiming": "5.3",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.7",
+      "Sentence_cn": "课文43  宇宙中有外星人吗？",
+      "Sentence": "--- Lesson 43 Are there strangers in space?"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "20.9",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.3",
+      "Sentence_cn": "我们与太空中其他智能生物交流的“唯一理性方式”依赖于什么? ",
+      "Sentence": "What does the 'uniquely rational way' for us to communicate with other intelligent beings in space depend on?"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "27.7",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "23.0",
+      "Sentence_cn": "根据研究生命起源的人们所作的工作，我们必然会得出这样的结论：",
+      "Sentence": "We must conclude from the work of those who have studied the origin of life,"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "35.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "28.5",
+      "Sentence_cn": "如果设想有一颗行星和我们地球的情况基本相似，那几乎肯定会产生生命。",
+      "Sentence": "that given a planet only approximately like our own, life is almost certain to start."
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "45.3",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "36.2",
+      "Sentence_cn": "我们目前可以肯定的是，在我们太阳系的所有行星中，地球是生命能存在的唯一行星。",
+      "Sentence": "Of all the planets in our solar system, we are now pretty certain the Earth is the only one on which life can survive."
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "53.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "46.5",
+      "Sentence_cn": "火星太干燥又缺氧，金星太热，水星也一样。",
+      "Sentence": "Mars is too dry and poor in oxygen, Venus far too hot, and so is Mercury,"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "61.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "54.1",
+      "Sentence_cn": "除此之外，太阳系的其他行星的温度都接近绝对零度，并围绕着以氢气为主的大气层。",
+      "Sentence": "and the outer planets have temperatures near absolute zero and hydrogen-dominated atmospheres."
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "73.8",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "62.2",
+      "Sentence_cn": "但是，其他的太阳，既天文学家所说的恒星，肯定会有像我们地球一样的行星。因为宇宙中恒星的数目极其庞大，",
+      "Sentence": "But other suns, start as the astronomers call them, are bound to have planets like our own, and as is the number of stars in the universe is so vast,"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "77.8",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "74.4",
+      "Sentence_cn": "所以存在着产生生命星球的这种可能性是肯定无疑的。",
+      "Sentence": "this possibility becomes virtual certainty."
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "84.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "78.3",
+      "Sentence_cn": "仅我们的银河系就有1000亿颗星，",
+      "Sentence": "There are one hundred thousand million starts in our own Milky Way alone,"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "91.4",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "84.8",
+      "Sentence_cn": "况且在宇宙中还有30亿个天河，即银河系。",
+      "Sentence": "and then there are three thousand million other milky ways or galaxies, in the universe."
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "101.6",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "91.4",
+      "Sentence_cn": "因此，我们所知道的现有恒星数目估计约有30亿X1000亿颗。",
+      "Sentence": "so the number of stars that we know exist is now estimated at about 300 million million million."
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "112.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "103.4",
+      "Sentence_cn": "虽然在已经产生生命的某个地方，可能只有1%会发展成高度复杂有智力的生命形态，",
+      "Sentence": "Although perhaps only 1 percent of the life that has started somewhere will develop into highly complex and intelligent patterns,"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "119.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "112.4",
+      "Sentence_cn": "但是行星的数目是那么庞大，有智力的生命必然是宇宙的自然组成道听部分。",
+      "Sentence": "so vast is the number of planets, that intelligent life is bound to be a natural part of the universe."
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "130.2",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "121.0",
+      "Sentence_cn": "既然我们如此坚信宇宙中存在着其他有智力的生命，那么我们为什么还未见到外层空间来访的客人呢？",
+      "Sentence": "If then we are so certain that other intelligent life exists in the universe, why have we had no visitors from outer space yet?"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "137.4",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "130.9",
+      "Sentence_cn": "首先，他们可能在几千年前或几百年前已来过我们地球，",
+      "Sentence": "First of all, they may have come to this planet of ours thousands or millions of years ago,"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "145.4",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "138.7",
+      "Sentence_cn": "并且发现我们地球汉时普遍存在着的原始状态同他们的先进的知识相比是索然无味的。",
+      "Sentence": "and found our then prevailing primitive state completely uninteresting to their own advanced knowledge."
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "151.4",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "146.4",
+      "Sentence_cn": "美国一位重要的射电天文学家罗纳德.布雷斯韦尔教授",
+      "Sentence": "Professor Ronald Bracewell, a leading American radio astronomer,"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "159.5",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "152.1",
+      "Sentence_cn": "在《自然》杂志上提出了这样的观点：假如有如此高级文明生命访问了我们的太阳系，",
+      "Sentence": "argued in Nature that such a superior civilization, on a visit to our own solar system,"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "167.4",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "160.2",
+      "Sentence_cn": "很可能会在离开太阳系时留下自动化信号装置，等待先进文明的觉醒。",
+      "Sentence": "may have left an automatic messenger behind to await the possible awakening of an advanced civilization."
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "172.9",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "168.7",
+      "Sentence_cn": "这种自动化信息装置，在接收到我们的无线电和电视信号后，",
+      "Sentence": "Such a messenger, receiving our radio and television signals,"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "177.6",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "173.6",
+      "Sentence_cn": "完全有可能把这些信号发回到原来的行星。",
+      "Sentence": "might well re-transmit them back to its home-planet,"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "184.6",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "177.9",
+      "Sentence_cn": "至于其他文明行星对我们地球会有什么印象，还是不说为好。",
+      "Sentence": "although what impression any other civilization would thus get from us is best left unsaid."
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "193.2",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "186.6",
+      "Sentence_cn": "然而，在和外星人联系中我们遇到的最大困难",
+      "Sentence": "But here we come up against the most difficult of all obstacles to contact with people on other planets"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "197.8",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "194.0",
+      "Sentence_cn": "是分隔我们的天文距离。",
+      "Sentence": "-- the astronomical distances which separate us."
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "205.5",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "198.6",
+      "Sentence_cn": "据合理推算，外星人离我们平均距离也有100光年之远",
+      "Sentence": "As a reasonable guess, they might, on an average, be 100 light years away."
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "217.8",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "206.5",
+      "Sentence_cn": "（1光年是光以每秒186,000英里的速度在一年内走的距离，即6万亿英里）。",
+      "Sentence": "(A light year is the distance which light travels at 186,000 miles per second in one year, namely 6 million million miles.)"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "221.6",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "218.6",
+      "Sentence_cn": "无线电波也是以光速传播的。",
+      "Sentence": "Radio waves also travel at the speed of light,"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "228.2",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "222.2",
+      "Sentence_cn": "假定外星人的这种自动化信息装置接收了我们二十世纪二十年代的第一次广播信号，",
+      "Sentence": "and assuming such an automatic messenger picked up our first broadcasts of the 1920's,"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "232.4",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "228.8",
+      "Sentence_cn": "那么这个信号在发回到原来的行星途中刚刚走了一半路程。",
+      "Sentence": "the message to its home planet is barely halfway there."
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "238.1",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "233.6",
+      "Sentence_cn": "同样，我们目前使用的原始化学火箭，",
+      "Sentence": "Similarly, our own present primitive chemical rockets,"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "245.8",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "238.4",
+      "Sentence_cn": "虽然把人送入轨道，但尚不能把我们送到离我们最近、",
+      "Sentence": "though good enough to orbit men, have no chance of transporting us to the nearest other star,"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "252.8",
+      "Paraid": "1",
+      "IdIndex": "33",
+      "Timing": "246.1",
+      "Sentence_cn": "相距4光年的其他星球上去，更不用说几十光年或几百光年远的地方了。",
+      "Sentence": "four light years away, let alone distances of tens or hundreds of light years."
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "262.1",
+      "Paraid": "1",
+      "IdIndex": "34",
+      "Timing": "253.8",
+      "Sentence_cn": "幸运的是，有一种我们可以和其他智力生命通迅联系的“唯一合理的方法”，",
+      "Sentence": "Fortunately, there is a 'uniquely rational way' for us to communicate with other intelligent beings,"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "265.6",
+      "Paraid": "1",
+      "IdIndex": "35",
+      "Timing": "262.4",
+      "Sentence_cn": "正如活尔特.沙利方在其杰作中阐述的，",
+      "Sentence": "as Walter Sullivan has put it in his excellent book,"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "268.0",
+      "Paraid": "1",
+      "IdIndex": "36",
+      "Timing": "266.3",
+      "Sentence_cn": "《我们并不孤独》。",
+      "Sentence": "We Are not Alone."
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "280.8",
+      "Paraid": "1",
+      "IdIndex": "37",
+      "Timing": "268.6",
+      "Sentence_cn": "这种通迅联系要靠21厘料波段，即每秒1420兆周的精确无线电频率。",
+      "Sentence": "This depends on the precise radio frequency of the 21-cm wavelength, or 1420 megacycles per second."
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "290.2",
+      "Paraid": "1",
+      "IdIndex": "38",
+      "Timing": "281.0",
+      "Sentence_cn": "这个频率是空间氢原子释放的自然频率，是在1951年被人类发现的。",
+      "Sentence": "It is the natural frequency of emission of the hydrogen atoms in space and was discovered by us in 1951;"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "294.5",
+      "Paraid": "1",
+      "IdIndex": "39",
+      "Timing": "290.4",
+      "Sentence_cn": "这个频率是宇宙中任何射电天文学家都应该熟悉的。",
+      "Sentence": "it must be known to any kind of radio astronomer in the universe."
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "300.0",
+      "Paraid": "1",
+      "IdIndex": "40",
+      "Timing": "296.0",
+      "Sentence_cn": "一旦这种波长的实际存在被发现，",
+      "Sentence": "Once the existence of this wave-length had been discovered,"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "308.8",
+      "Paraid": "1",
+      "IdIndex": "41",
+      "Timing": "300.0",
+      "Sentence_cn": "提出把它作为星际间唯一可辨认的广播频率就为期不远了。",
+      "Sentence": "it was not long before its use as the uniquely recognizable broadcasting frequency for interstellar communication was suggested."
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "311.3",
+      "Paraid": "1",
+      "IdIndex": "42",
+      "Timing": "309.5",
+      "Sentence_cn": "没有这手段，",
+      "Sentence": "Without something of this kind,"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "319.2",
+      "Paraid": "1",
+      "IdIndex": "43",
+      "Timing": "311.6",
+      "Sentence_cn": "要想寻觅其他星球上的智力生命，就如同去伦敦见一位朋友，事先未约定地点，",
+      "Sentence": "searching for intelligences on other planets would be like trying to meet a friend in London without a pre-arranged rendezvous"
+    },
+    {
+      "voaid": "4043",
+      "EndTiming": "336.3",
+      "Paraid": "1",
+      "IdIndex": "44",
+      "Timing": "319.4",
+      "Sentence_cn": "而荒唐地在街上游逛，以期待碰巧遇上一样。",
+      "Sentence": "and absurdly wandering the streets in the hope of a chance encounter."
+    }
+  ],
+  "size": 44,
+  "title": {
+    "newCategoryid": 1154,
+    "newTitleId": "14834,14835",
+    "title_cn": "宇宙中有外星人吗？",
+    "title": "Are there strangers in space?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/4_43.mp3"
+}

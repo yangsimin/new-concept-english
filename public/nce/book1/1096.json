@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "1096",
+      "EndTiming": "16.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "12.9",
+      "Sentence_cn": "我去年去了北京，你呢？",
+      "Sentence": "I went to Beijing a year ago. What about you?"
+    },
+    {
+      "voaid": "1096",
+      "EndTiming": "19.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "16.8",
+      "Sentence_cn": "我将会在一年后去北京。",
+      "Sentence": "I shall go to Beijing in a year's time."
+    },
+    {
+      "voaid": "1096",
+      "EndTiming": "24.8",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "21.0",
+      "Sentence_cn": "汤姆两周前飞往斯德哥尔摩，潘妮呢？",
+      "Sentence": "Tom flew to Stockholm two weeks ago. What about Penny?"
+    },
+    {
+      "voaid": "1096",
+      "EndTiming": "28.8",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "25.9",
+      "Sentence_cn": "她将在两周后飞往斯德哥尔摩。",
+      "Sentence": "She will fly to Stockholm in two weeks' time."
+    },
+    {
+      "voaid": "1096",
+      "EndTiming": "34.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "29.2",
+      "Sentence_cn": "弗兰克和艾伦两天前回了东京，你和琼呢？",
+      "Sentence": "Frank and Alan returned to Tokyo two days ago. What about you and Jean?"
+    },
+    {
+      "voaid": "1096",
+      "EndTiming": "38.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "35.2",
+      "Sentence_cn": "我们将在两天后回东京。",
+      "Sentence": "We shall return to Tokyo in two days' time."
+    },
+    {
+      "voaid": "1096",
+      "EndTiming": "84.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "80.7",
+      "Sentence_cn": "你一个月前去了悉尼，我呢？",
+      "Sentence": "You went to Sydney a month ago. What about me?"
+    },
+    {
+      "voaid": "1096",
+      "EndTiming": "90.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "87.5",
+      "Sentence_cn": "你将在一个月后去悉尼。",
+      "Sentence": "You will go to Sydney in a month's time."
+    },
+    {
+      "voaid": "1096",
+      "EndTiming": "96.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "91.3",
+      "Sentence_cn": "火车一个小时前去了日内瓦，下一列呢？",
+      "Sentence": "A train left for Geneva an hour ago. What about the next train?"
+    },
+    {
+      "voaid": "1096",
+      "EndTiming": "103.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "99.8",
+      "Sentence_cn": "它将在一个小时后前往日内瓦。",
+      "Sentence": "It will leave for Geneva in an hour's time."
+    },
+    {
+      "voaid": "1096",
+      "EndTiming": "108.2",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "104.2",
+      "Sentence_cn": "爱丽丝两天前飞往罗马，你呢？",
+      "Sentence": "Alice flew to Rome two days ago. What about you?"
+    },
+    {
+      "voaid": "1096",
+      "EndTiming": "115.5",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "112.0",
+      "Sentence_cn": "我将在两天后飞往罗马。",
+      "Sentence": "I shall fly to Rome in two days' time."
+    },
+    {
+      "voaid": "1096",
+      "EndTiming": "121.3",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "116.0",
+      "Sentence_cn": "汤姆和玛丽一个小时前去了伦敦，你和简呢？",
+      "Sentence": "Tom and Mary went to London an hour ago. What about you and Jean?"
+    },
+    {
+      "voaid": "1096",
+      "EndTiming": "128.2",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "125.3",
+      "Sentence_cn": "我们将在一个小时后去伦敦。",
+      "Sentence": "We shall go to London in an hour's time."
+    },
+    {
+      "voaid": "1096",
+      "EndTiming": "134.6",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "129.0",
+      "Sentence_cn": "三个小时前一架飞机飞往了柏林，下一架飞机呢？",
+      "Sentence": "A plane left for Berlin three hours ago. What about the next plane?"
+    },
+    {
+      "voaid": "1096",
+      "EndTiming": "141.2",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "137.8",
+      "Sentence_cn": "它将在三个小时后飞往柏林。",
+      "Sentence": "It will leave for Berlin in three hours' time."
+    },
+    {
+      "voaid": "1096",
+      "EndTiming": "147.0",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "142.3",
+      "Sentence_cn": "史密斯一年前回到纽约，琼斯呢？",
+      "Sentence": "Smith returned to New York a year ago. What about Jones?"
+    },
+    {
+      "voaid": "1096",
+      "EndTiming": "155.0",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "151.4",
+      "Sentence_cn": "他将在一年后回到纽约。",
+      "Sentence": "He will return to New York in a year's time."
+    },
+    {
+      "voaid": "1096",
+      "EndTiming": "161.7",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "156.2",
+      "Sentence_cn": "珍妮特六周前从巴黎回来。她丈夫呢？",
+      "Sentence": "Janet returned from Paris six weeks ago. What about her husband?"
+    },
+    {
+      "voaid": "1096",
+      "EndTiming": "169.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "165.5",
+      "Sentence_cn": "他将在六周后从巴黎回来。",
+      "Sentence": "He will return from Paris in six weeks' time."
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14295,14296",
+    "title_cn": "确切的时间是几点？",
+    "title": "What's the exact time?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_96.mp3"
+}

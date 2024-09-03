@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "voaid": "1085",
+      "EndTiming": "5.1",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "巴黎之春",
+      "Sentence": "--- lesson 85  Paris in the spring"
+    },
+    {
+      "voaid": "1085",
+      "EndTiming": "6.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.8",
+      "Sentence_cn": "你好，肯。",
+      "Sentence": "Hello, Ken."
+    },
+    {
+      "voaid": "1085",
+      "EndTiming": "8.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "7.4",
+      "Sentence_cn": "你好，乔治。",
+      "Sentence": "Hi, George."
+    },
+    {
+      "voaid": "1085",
+      "EndTiming": "11.8",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "9.3",
+      "Sentence_cn": "你刚去过电影院吗？",
+      "Sentence": "Have you just been to the cinema?"
+    },
+    {
+      "voaid": "1085",
+      "EndTiming": "13.8",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "12.3",
+      "Sentence_cn": "是的，我刚去过。",
+      "Sentence": "Yes, I have."
+    },
+    {
+      "voaid": "1085",
+      "EndTiming": "15.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "14.6",
+      "Sentence_cn": "上映什么片子？",
+      "Sentence": "What's on?"
+    },
+    {
+      "voaid": "1085",
+      "EndTiming": "18.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "16.2",
+      "Sentence_cn": "《巴黎之春》。",
+      "Sentence": "'Paris in the spring'."
+    },
+    {
+      "voaid": "1085",
+      "EndTiming": "21.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "18.7",
+      "Sentence_cn": "噢，我已看过了。",
+      "Sentence": "Oh, I've already seen it."
+    },
+    {
+      "voaid": "1085",
+      "EndTiming": "25.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "21.9",
+      "Sentence_cn": "我是去年在电视上看的。",
+      "Sentence": "I saw it on television last year."
+    },
+    {
+      "voaid": "1085",
+      "EndTiming": "29.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "25.9",
+      "Sentence_cn": "这是部老片子，但很好。",
+      "Sentence": "It's an old film, but it's very good."
+    },
+    {
+      "voaid": "1085",
+      "EndTiming": "32.9",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "30.3",
+      "Sentence_cn": "巴黎是座美丽的城市。",
+      "Sentence": "Paris is a beautiful city."
+    },
+    {
+      "voaid": "1085",
+      "EndTiming": "35.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "33.7",
+      "Sentence_cn": "我从未去过。",
+      "Sentence": "I've never been there."
+    },
+    {
+      "voaid": "1085",
+      "EndTiming": "38.2",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "35.8",
+      "Sentence_cn": "肯，你去过吗？",
+      "Sentence": "Have you ever been there, Ken?"
+    },
+    {
+      "voaid": "1085",
+      "EndTiming": "42.9",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "38.9",
+      "Sentence_cn": "是的，我去过。4月份我在那儿。",
+      "Sentence": "Yes, I have. I was there in April."
+    },
+    {
+      "voaid": "1085",
+      "EndTiming": "46.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "43.6",
+      "Sentence_cn": "那是巴黎之春，是吗？",
+      "Sentence": "Paris in the spring, eh?"
+    },
+    {
+      "voaid": "1085",
+      "EndTiming": "48.2",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "46.7",
+      "Sentence_cn": "是春天，",
+      "Sentence": "It was spring,"
+    },
+    {
+      "voaid": "1085",
+      "EndTiming": "50.6",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "48.4",
+      "Sentence_cn": "但天气太糟了。",
+      "Sentence": "but the weather was awful."
+    },
+    {
+      "voaid": "1085",
+      "EndTiming": "53.2",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "50.9",
+      "Sentence_cn": "一直在下雨。",
+      "Sentence": "It rained all the time."
+    },
+    {
+      "voaid": "1085",
+      "EndTiming": "56.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "54.1",
+      "Sentence_cn": "就像伦敦一样！",
+      "Sentence": "Just like London!"
+    }
+  ],
+  "size": 19,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14278",
+    "title_cn": "巴黎之春",
+    "title": "Paris in the spring"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_85.mp3"
+}

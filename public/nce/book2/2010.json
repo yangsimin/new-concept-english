@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "voaid": "2010",
+      "EndTiming": "3.8",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "不适于演奏爵士乐",
+      "Sentence": "--- Lesson 10 Not for jazz"
+    },
+    {
+      "voaid": "2010",
+      "EndTiming": "7.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.5",
+      "Sentence_cn": "我家有件古乐器，",
+      "Sentence": "We have an old musical instrument."
+    },
+    {
+      "voaid": "2010",
+      "EndTiming": "10.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.0",
+      "Sentence_cn": "被称作古钢琴，",
+      "Sentence": "It is called a clavichord."
+    },
+    {
+      "voaid": "2010",
+      "EndTiming": "14.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "10.8",
+      "Sentence_cn": "是1681年德国造的。",
+      "Sentence": "It was made in Germany in 1681."
+    },
+    {
+      "voaid": "2010",
+      "EndTiming": "17.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "15.2",
+      "Sentence_cn": "我们的这架古钢琴存放在起居室里。",
+      "Sentence": "Our clavichord is kept in the living room."
+    },
+    {
+      "voaid": "2010",
+      "EndTiming": "21.7",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "18.3",
+      "Sentence_cn": "我们家有这件乐器已经很久了，",
+      "Sentence": "It has belonged to our family for a long time."
+    },
+    {
+      "voaid": "2010",
+      "EndTiming": "26.3",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "21.7",
+      "Sentence_cn": "是我祖父在很多年以前买的。",
+      "Sentence": "The instrument was bought by my grandfather many years ago."
+    },
+    {
+      "voaid": "2010",
+      "EndTiming": "30.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "27.2",
+      "Sentence_cn": "可它最近被一个客人弄坏了，",
+      "Sentence": "Recently it was damaged by a visitor."
+    },
+    {
+      "voaid": "2010",
+      "EndTiming": "33.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "30.6",
+      "Sentence_cn": "因为她用它来弹奏爵士乐。",
+      "Sentence": "She tried to play jazz on it!"
+    },
+    {
+      "voaid": "2010",
+      "EndTiming": "38.2",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "33.6",
+      "Sentence_cn": "她在击琴键时用力过猛，损坏了两根琴弦。",
+      "Sentence": "She struck the keys too hard and two of the strings were broken."
+    },
+    {
+      "voaid": "2010",
+      "EndTiming": "40.8",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "38.9",
+      "Sentence_cn": "我父亲大为吃惊，",
+      "Sentence": "My father was shocked."
+    },
+    {
+      "voaid": "2010",
+      "EndTiming": "44.1",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "41.7",
+      "Sentence_cn": "不许我们再动它。",
+      "Sentence": "Now we are not allowed to touch it."
+    },
+    {
+      "voaid": "2010",
+      "EndTiming": "47.7",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "44.7",
+      "Sentence_cn": "父亲的一个朋友正在修理这件乐器。",
+      "Sentence": "It is being repaired by a friend of my father's."
+    }
+  ],
+  "size": 13,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14367,14368",
+    "title_cn": "不适于演奏爵士乐",
+    "title": "Not for jazz"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_10.mp3"
+}

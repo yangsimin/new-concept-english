@@ -1,0 +1,210 @@
+{
+  "data": [
+    {
+      "voaid": "1089",
+      "EndTiming": "4.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "待售",
+      "Sentence": "--- lesson 89  For sale"
+    },
+    {
+      "voaid": "1089",
+      "EndTiming": "6.2",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.0",
+      "Sentence_cn": "下午好。",
+      "Sentence": "Good afternoon."
+    },
+    {
+      "voaid": "1089",
+      "EndTiming": "10.7",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "7.0",
+      "Sentence_cn": "我想这房子是要出售的吧！",
+      "Sentence": "I believe that this house is for sale. "
+    },
+    {
+      "voaid": "1089",
+      "EndTiming": "12.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "11.3",
+      "Sentence_cn": "是的。",
+      "Sentence": "That's right."
+    },
+    {
+      "voaid": "1089",
+      "EndTiming": "16.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "13.1",
+      "Sentence_cn": "我可以看一看吗？",
+      "Sentence": "May I have a look at it, please?"
+    },
+    {
+      "voaid": "1089",
+      "EndTiming": "18.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "16.5",
+      "Sentence_cn": "可以，当然可以。请进。",
+      "Sentence": "Yes, of course. Come in."
+    },
+    {
+      "voaid": "1089",
+      "EndTiming": "22.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "19.7",
+      "Sentence_cn": "您在这里住了多长时间？",
+      "Sentence": "How long have you lived here?"
+    },
+    {
+      "voaid": "1089",
+      "EndTiming": "25.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "22.8",
+      "Sentence_cn": "我在这里已经住了20年了。",
+      "Sentence": "I've lived here for twenty years."
+    },
+    {
+      "voaid": "1089",
+      "EndTiming": "27.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "26.2",
+      "Sentence_cn": "20年！",
+      "Sentence": "Twenty years!"
+    },
+    {
+      "voaid": "1089",
+      "EndTiming": "30.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "28.4",
+      "Sentence_cn": "这个时间可不短。",
+      "Sentence": "That's long time."
+    },
+    {
+      "voaid": "1089",
+      "EndTiming": "35.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "30.7",
+      "Sentence_cn": "是啊，从1976年起我就住在这里。",
+      "Sentence": "Yes, I've been here since 1976."
+    },
+    {
+      "voaid": "1089",
+      "EndTiming": "38.8",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "35.4",
+      "Sentence_cn": "那么，您为什么要卖掉它呢？",
+      "Sentence": "Then why do you want to sell it?"
+    },
+    {
+      "voaid": "1089",
+      "EndTiming": "41.8",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "39.5",
+      "Sentence_cn": "因为我刚退休。",
+      "Sentence": "Because I've just retired."
+    },
+    {
+      "voaid": "1089",
+      "EndTiming": "46.2",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "42.3",
+      "Sentence_cn": "我想在乡下买幢小房子。",
+      "Sentence": "I want to buy a small house in the country."
+    },
+    {
+      "voaid": "1089",
+      "EndTiming": "49.9",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "46.9",
+      "Sentence_cn": "这座房子卖多少钱？",
+      "Sentence": "How much does this house cost?"
+    },
+    {
+      "voaid": "1089",
+      "EndTiming": "53.6",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "50.6",
+      "Sentence_cn": "68,500英镑。",
+      "Sentence": "$68,500."
+    },
+    {
+      "voaid": "1089",
+      "EndTiming": "57.1",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "53.6",
+      "Sentence_cn": "那可真是一大笔钱呢！",
+      "Sentence": "That's a lot of money."
+    },
+    {
+      "voaid": "1089",
+      "EndTiming": "60.1",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "57.6",
+      "Sentence_cn": "它确确实实值这么多钱。",
+      "Sentence": "It's worth every penny of it."
+    },
+    {
+      "voaid": "1089",
+      "EndTiming": "63.2",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "60.6",
+      "Sentence_cn": "啊，我喜欢这房子，",
+      "Sentence": "Well, I like the house,"
+    },
+    {
+      "voaid": "1089",
+      "EndTiming": "66.2",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "63.6",
+      "Sentence_cn": "但我还不能决定。",
+      "Sentence": "but I can't decide yet."
+    },
+    {
+      "voaid": "1089",
+      "EndTiming": "69.7",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "67.0",
+      "Sentence_cn": "我妻子必须先来看一看。",
+      "Sentence": "My wife must see it first."
+    },
+    {
+      "voaid": "1089",
+      "EndTiming": "73.3",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "70.4",
+      "Sentence_cn": "女人总是最后说了算的。",
+      "Sentence": "Women always have the last word."
+    }
+  ],
+  "size": 22,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14284,14285",
+    "title_cn": "待售",
+    "title": "For sale"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_89.mp3"
+}

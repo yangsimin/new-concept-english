@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "voaid": "2041",
+      "EndTiming": "5.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.2",
+      "Sentence_cn": "你把那个叫帽子吗？",
+      "Sentence": "--- Lesson 41  Do you call that a hat?"
+    },
+    {
+      "voaid": "2041",
+      "EndTiming": "10.2",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.9",
+      "Sentence_cn": "“你把那个叫帽子吗？”我对妻子说。",
+      "Sentence": "'Do you call that a hat?' I said to my wife."
+    },
+    {
+      "voaid": "2041",
+      "EndTiming": "18.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.7",
+      "Sentence_cn": "“你说话没必要这样不客气，”我的妻子边回答边照着镜子。",
+      "Sentence": "'You needn't be so rude about it,' my wife answered as she looked at herself in the mirror."
+    },
+    {
+      "voaid": "2041",
+      "EndTiming": "24.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "18.7",
+      "Sentence_cn": "我坐在一个新式的满是网眼儿的椅子上，等待着。",
+      "Sentence": "I sat down on one of those modern chairs with holes in it and waited."
+    },
+    {
+      "voaid": "2041",
+      "EndTiming": "31.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "24.9",
+      "Sentence_cn": "我们在这家帽店已经呆了半个小时了，而我的妻子仍在镜子面前。",
+      "Sentence": "We had been in the hat shop for half an hour and my wife was still in front of the mirror."
+    },
+    {
+      "voaid": "2041",
+      "EndTiming": "41.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "32.1",
+      "Sentence_cn": "“我们不应该买我们不需要的东西，”我突然发表意见说，但马上又后悔说了这话。",
+      "Sentence": "'We mustn't buy things we don't need,' I remarked suddenly. I regretted saying it almost at once."
+    },
+    {
+      "voaid": "2041",
+      "EndTiming": "45.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "41.4",
+      "Sentence_cn": "“你没必要这么说，”我妻子回答说，",
+      "Sentence": "'You needn't have said that,' my wife answered."
+    },
+    {
+      "voaid": "2041",
+      "EndTiming": "50.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "45.8",
+      "Sentence_cn": "“我也不必提醒你昨天买的那条糟糕透了的领带。”",
+      "Sentence": "'I needn't remind you of that terrible tie you bought yesterday.'"
+    },
+    {
+      "voaid": "2041",
+      "EndTiming": "57.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "51.3",
+      "Sentence_cn": "“我觉得它好看，”我说，“男人有多少领带也不会嫌多。”",
+      "Sentence": "'I find it beautiful,' I said. 'A man can never have too many ties.'"
+    },
+    {
+      "voaid": "2041",
+      "EndTiming": "63.2",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "58.4",
+      "Sentence_cn": "“女人有多少帽子也不嫌多。”她回答。",
+      "Sentence": "'And a woman can't have too many hats,' she answered."
+    },
+    {
+      "voaid": "2041",
+      "EndTiming": "68.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "63.4",
+      "Sentence_cn": "10分钟以后，我们一道走出了商店。",
+      "Sentence": "Ten minutes later we walked out of the shop together."
+    },
+    {
+      "voaid": "2041",
+      "EndTiming": "72.9",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "68.6",
+      "Sentence_cn": "我妻子戴着一顶像灯塔一样的帽子。",
+      "Sentence": "My wife was wearing a hat that looked like a lighthouse!"
+    }
+  ],
+  "size": 12,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14417",
+    "title_cn": "你把那个叫帽子吗？",
+    "title": "Do you call that a hat?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_41.mp3"
+}

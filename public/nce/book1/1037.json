@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "voaid": "1037",
+      "EndTiming": "4.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "做书架",
+      "Sentence": "--- lesson 37  Making a bookcase"
+    },
+    {
+      "voaid": "1037",
+      "EndTiming": "7.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.5",
+      "Sentence_cn": "你干得真辛苦，乔治。",
+      "Sentence": "You're working hard, George."
+    },
+    {
+      "voaid": "1037",
+      "EndTiming": "10.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.5",
+      "Sentence_cn": "你在干什么呢？",
+      "Sentence": "What are you doing?"
+    },
+    {
+      "voaid": "1037",
+      "EndTiming": "13.1",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "10.8",
+      "Sentence_cn": "我正在做书架。",
+      "Sentence": "I'm making a bookcase."
+    },
+    {
+      "voaid": "1037",
+      "EndTiming": "16.4",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "13.9",
+      "Sentence_cn": "请把那把锤子拿给我。丹。",
+      "Sentence": "Give me that hammer please, Dan."
+    },
+    {
+      "voaid": "1037",
+      "EndTiming": "18.3",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "17.2",
+      "Sentence_cn": "哪一把？",
+      "Sentence": "Which hammer?"
+    },
+    {
+      "voaid": "1037",
+      "EndTiming": "19.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "19.1",
+      "Sentence_cn": "是这把吗？",
+      "Sentence": "This one?"
+    },
+    {
+      "voaid": "1037",
+      "EndTiming": "22.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "20.5",
+      "Sentence_cn": "不，不是那把。",
+      "Sentence": "No, not that one."
+    },
+    {
+      "voaid": "1037",
+      "EndTiming": "24.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "22.9",
+      "Sentence_cn": "是那把大的。",
+      "Sentence": "The big one."
+    },
+    {
+      "voaid": "1037",
+      "EndTiming": "25.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "24.8",
+      "Sentence_cn": "给你。",
+      "Sentence": "Here you are."
+    },
+    {
+      "voaid": "1037",
+      "EndTiming": "27.4",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "26.4",
+      "Sentence_cn": "谢谢。丹。",
+      "Sentence": "Thanks, Dan."
+    },
+    {
+      "voaid": "1037",
+      "EndTiming": "31.7",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "28.2",
+      "Sentence_cn": "你现在打算干什么，乔治？",
+      "Sentence": "What are you going to do now,George?"
+    },
+    {
+      "voaid": "1037",
+      "EndTiming": "34.5",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "32.5",
+      "Sentence_cn": "我打算把它漆一下。",
+      "Sentence": "I'm going to paint it."
+    },
+    {
+      "voaid": "1037",
+      "EndTiming": "38.4",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "35.3",
+      "Sentence_cn": "你打算把它漆成什么颜色？",
+      "Sentence": "What colour are you going to paint it?"
+    },
+    {
+      "voaid": "1037",
+      "EndTiming": "41.9",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "39.2",
+      "Sentence_cn": "我想漆成粉红色。",
+      "Sentence": "I'm going to paint it pink."
+    },
+    {
+      "voaid": "1037",
+      "EndTiming": "43.4",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "42.7",
+      "Sentence_cn": "粉红色！",
+      "Sentence": "Pink!"
+    },
+    {
+      "voaid": "1037",
+      "EndTiming": "46.7",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "44.4",
+      "Sentence_cn": "这个书架不是为我做的，",
+      "Sentence": "This bookcase isn't for me."
+    },
+    {
+      "voaid": "1037",
+      "EndTiming": "49.7",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "47.3",
+      "Sentence_cn": "是为我的女儿苏珊做的。",
+      "Sentence": "It's for my daughter, Susan."
+    },
+    {
+      "voaid": "1037",
+      "EndTiming": "52.8",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "50.5",
+      "Sentence_cn": "粉红色是她最喜欢的颜色。",
+      "Sentence": "Pink's her favourite colour."
+    }
+  ],
+  "size": 19,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14219,14220",
+    "title_cn": "做书架",
+    "title": "Making a bookcase"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_37.mp3"
+}

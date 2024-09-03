@@ -1,0 +1,291 @@
+{
+  "data": [
+    {
+      "voaid": "1016",
+      "EndTiming": "17.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "16.1",
+      "Sentence_cn": "你们的票是什么颜色的？",
+      "Sentence": "What colour are your tickets?"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "19.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "18.0",
+      "Sentence_cn": "是白色的吗？",
+      "Sentence": "Are they white?　"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "24.7",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "22.0",
+      "Sentence_cn": "我们的票不是白色的。是黄色的。",
+      "Sentence": "Our tickets are not white. They are yellow."
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "31.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "29.4",
+      "Sentence_cn": "你们的钢笔是什么颜色的？",
+      "Sentence": "What colour are your pens?"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "33.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "32.2",
+      "Sentence_cn": "是红色的吗？",
+      "Sentence": "Are they red?　"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "38.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "35.9",
+      "Sentence_cn": "我们的钢笔不是红色的。是蓝色的。",
+      "Sentence": "Our pens are not red. They are blue."
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "44.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "42.9",
+      "Sentence_cn": "你们的护照是什么颜色的？",
+      "Sentence": "What colour are your passports?　"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "46.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "45.4",
+      "Sentence_cn": "是蓝色的吗？",
+      "Sentence": "Are they blue?　"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "51.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "48.2",
+      "Sentence_cn": "我们的护照不是蓝色的。是绿色的。",
+      "Sentence": "Our passports are not blue. They are green."
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "113.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "111.0",
+      "Sentence_cn": "你们的手提包是什么颜色的？",
+      "Sentence": "What colour are your handbags?　"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "115.3",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "114.4",
+      "Sentence_cn": "是灰色的吗？",
+      "Sentence": "Are they grey?　"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "122.1",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "119.0",
+      "Sentence_cn": "我们的手提包不是灰色的。是白色的。",
+      "Sentence": "Our handbags are not grey. They are white.　"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "130.6",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "128.6",
+      "Sentence_cn": "你们的女装衬衫是什么颜色的？",
+      "Sentence": "What colour are your blouses? 　"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "132.2",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "131.0",
+      "Sentence_cn": "是桔色的吗？",
+      "Sentence": "Are they orange?"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "139.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "135.7",
+      "Sentence_cn": "我们的女装衬衫不是桔色的。是黄色的。",
+      "Sentence": "Our blouses are not orange. They are yellow.　"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "145.8",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "144.0",
+      "Sentence_cn": "你们的大衣是什么颜色的？",
+      "Sentence": "What colour are your coats?　"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "147.3",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "146.3",
+      "Sentence_cn": "是黑色的吗？",
+      "Sentence": "Are they black?　"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "153.5",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "150.6",
+      "Sentence_cn": "我们的大衣不是黑色的。是灰色的。",
+      "Sentence": "Our coats are not black. They are grey."
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "161.6",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "159.7",
+      "Sentence_cn": "你们的连衣裙是什么颜色的？",
+      "Sentence": "What colour are your dresses?　"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "162.8",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "161.2",
+      "Sentence_cn": "是棕色的吗？",
+      "Sentence": "Are they brown?　"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "170.0",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "165.0",
+      "Sentence_cn": "我们的连衣裙不是棕色的。是绿色的。",
+      "Sentence": "Our dresses are not brown. They are green.　"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "178.0",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "175.0",
+      "Sentence_cn": "你们的衬衫是什么颜色的？",
+      "Sentence": "What colour are your shirts?"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "182.5",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "181.6",
+      "Sentence_cn": "是蓝色的吗？",
+      "Sentence": "Are they blue?　"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "188.6",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "185.6",
+      "Sentence_cn": "我们的衬衫不是蓝色的。是白色的。",
+      "Sentence": "Our shirts are not blue. They are white.　"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "197.6",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "195.8",
+      "Sentence_cn": "你们的帽子是什么颜色的？",
+      "Sentence": "What colour are your hats?　"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "200.9",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "199.3",
+      "Sentence_cn": "是红绿相间的吗？",
+      "Sentence": "Are they green and red?　"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "205.2",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "203.1",
+      "Sentence_cn": "我们的帽子不是红绿相间的。",
+      "Sentence": "Our hats are not green and red."
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "207.2",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "205.7",
+      "Sentence_cn": "是黑灰相间的。",
+      "Sentence": "They are black and grey.　"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "216.3",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "214.3",
+      "Sentence_cn": "你们的领带是什么颜色的？",
+      "Sentence": "What colour are your ties?　"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "218.5",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "217.5",
+      "Sentence_cn": "是红色的吗？",
+      "Sentence": "Are they red?　"
+    },
+    {
+      "voaid": "1016",
+      "EndTiming": "224.3",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "221.3",
+      "Sentence_cn": "我们的领带不是红色的。是桔色的。",
+      "Sentence": "Our ties are not red. They are orange.　"
+    }
+  ],
+  "size": 31,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14196",
+    "title_cn": "你是……吗？",
+    "title": "Are you...?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_16.mp3"
+}

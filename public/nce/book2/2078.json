@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "voaid": "2078",
+      "EndTiming": "4.1",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "最后一枝吗？",
+      "Sentence": "--- Lesson 78  The last one?"
+    },
+    {
+      "voaid": "2078",
+      "EndTiming": "14.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.0",
+      "Sentence_cn": "读完一篇题为《吸烟与健康》的文章之后，我点上了一枝香烟，来镇定一下自己紧张的神经。",
+      "Sentence": "After reading an article entitled 'Cigarette Smoking and Your Health' I lit a cigarette to calm my nerves."
+    },
+    {
+      "voaid": "2078",
+      "EndTiming": "22.9",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "15.3",
+      "Sentence_cn": "我聚精会神而又愉快地吸着这枝烟。因为我确信这是我最后一枝烟了。",
+      "Sentence": "I smoked with concentration and pleasure as I was sure that this would be my last cigarette."
+    },
+    {
+      "voaid": "2078",
+      "EndTiming": "31.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "23.6",
+      "Sentence_cn": "整整一个星期我根本没有吸烟。在此期间，我妻子吃尽了苦头。",
+      "Sentence": "For a whole week I did not smoke at all and during this time, my wife suffered terribly."
+    },
+    {
+      "voaid": "2078",
+      "EndTiming": "41.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "32.2",
+      "Sentence_cn": "我具备了戒烟者通常表现出来的所有症状：脾气暴躁和食欲旺盛。",
+      "Sentence": "I had all the usual symptoms of someone giving up smoking: a bad temper and an enormous appetite."
+    },
+    {
+      "voaid": "2078",
+      "EndTiming": "46.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "42.0",
+      "Sentence_cn": "我的朋友们不断地向我递香烟和雪茄。",
+      "Sentence": "My friends kept on offering me cigarettes and cigars."
+    },
+    {
+      "voaid": "2078",
+      "EndTiming": "54.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "47.1",
+      "Sentence_cn": "每当我从口袋里掏出一包糖果时，他们都毫不掩饰地表现出他们对此感到非常好笑。",
+      "Sentence": "They made no effort to hide their amusement whenever I produced a packet of sweets from my pocket."
+    },
+    {
+      "voaid": "2078",
+      "EndTiming": "59.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "55.6",
+      "Sentence_cn": "这样过了7天以后，我去参加一次聚会。",
+      "Sentence": "After seven days of this I went to a party."
+    },
+    {
+      "voaid": "2078",
+      "EndTiming": "65.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "60.0",
+      "Sentence_cn": "我周围的每个人都在吸烟，我感到非常不自在。",
+      "Sentence": "Everybody around me was smoking and I felt extremely uncomfortable."
+    },
+    {
+      "voaid": "2078",
+      "EndTiming": "74.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "66.2",
+      "Sentence_cn": "当我的老朋友布赖恩极力劝我接受一枝香烟时，我再也忍不住了。",
+      "Sentence": "When my old friend Brian urged me to accept a cigarette, it was more than I could bear."
+    },
+    {
+      "voaid": "2078",
+      "EndTiming": "80.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "74.8",
+      "Sentence_cn": "我内疚地接过一枝点上，心满意足地抽起来。",
+      "Sentence": "I took one guiltily, lit it and smoked with satisfaction."
+    },
+    {
+      "voaid": "2078",
+      "EndTiming": "85.6",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "80.5",
+      "Sentence_cn": "一切又都恢复了正常，为此我妻子十分高兴。",
+      "Sentence": "My wife was delighted that things had returned to normal once more."
+    },
+    {
+      "voaid": "2078",
+      "EndTiming": "93.9",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "86.4",
+      "Sentence_cn": "不管怎么说，正如布赖恩指出的那样，戒烟是世界上最容易的事情，",
+      "Sentence": "Anyway, as Brian pointed out, it is the easiest thing in the world to give up smoking."
+    },
+    {
+      "voaid": "2078",
+      "EndTiming": "97.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "94.6",
+      "Sentence_cn": "他自己就已戒了很多次了！",
+      "Sentence": "He himself has done it lots of times!"
+    }
+  ],
+  "size": 14,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14482,14483",
+    "title_cn": "最后一枝吗？",
+    "title": "The last one?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_78.mp3"
+}

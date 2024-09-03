@@ -1,0 +1,300 @@
+{
+  "data": [
+    {
+      "voaid": "1006",
+      "EndTiming": "23.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "21.2",
+      "Sentence_cn": "那是台沃尔沃。",
+      "Sentence": "That's a Volvo."
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "29.2",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "24.6",
+      "Sentence_cn": "它是瑞典车还是法国车？",
+      "Sentence": "Is it a Swedish car or a French car?"
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "31.9",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "30.2",
+      "Sentence_cn": "它不是法国车。",
+      "Sentence": "It isn't a French car."
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "34.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "32.7",
+      "Sentence_cn": "它是台瑞典车。",
+      "Sentence": "It's a Swedish car."
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "42.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "40.5",
+      "Sentence_cn": "那是台标志车。",
+      "Sentence": "That's a Peugeot."
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "47.8",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "43.7",
+      "Sentence_cn": "它是法国车还是瑞典车？",
+      "Sentence": "Is it a French car or a Swedish car?"
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "51.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "49.2",
+      "Sentence_cn": "它不是瑞典车",
+      "Sentence": "It isn't a Swedish car."
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "53.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "51.6",
+      "Sentence_cn": "它是台法国车。",
+      "Sentence": "It's a French car."
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "60.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "59.0",
+      "Sentence_cn": "那是台梅塞德斯。",
+      "Sentence": "That's a Mercedes."
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "66.9",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "61.9",
+      "Sentence_cn": "它是德国车还是日本车？",
+      "Sentence": "Is it a German car or a Japanese car?"
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "69.9",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "67.8",
+      "Sentence_cn": "它不是日本车。",
+      "Sentence": "It isn't a Japanese car."
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "72.1",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "70.3",
+      "Sentence_cn": "它是德国车。",
+      "Sentence": "It's a German car."
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "148.9",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "147.3",
+      "Sentence_cn": "那是台丰田。",
+      "Sentence": "That's a Toyota."
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "154.1",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "150.1",
+      "Sentence_cn": "它是日本车还是德国车？",
+      "Sentence": "Is it a Japanese car or a German car?"
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "158.7",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "156.6",
+      "Sentence_cn": "它不是德国车。",
+      "Sentence": "It isn't a German car."
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "161.6",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "159.5",
+      "Sentence_cn": "它是日本车。",
+      "Sentence": "It's a Japanese car."
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "168.4",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "166.4",
+      "Sentence_cn": "那是台大宇车。",
+      "Sentence": "That's a Daewoo."
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "173.3",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "169.2",
+      "Sentence_cn": "它是英国车还是韩国车？",
+      "Sentence": "Is it a British car or a Korean car?"
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "177.5",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "175.5",
+      "Sentence_cn": "它不是英国车。",
+      "Sentence": "It isn't a British car."
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "180.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "178.3",
+      "Sentence_cn": "它是台韩国车。",
+      "Sentence": "It's a Korean car."
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "186.3",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "185.0",
+      "Sentence_cn": "那是台迷你车。",
+      "Sentence": "That's a Mini."
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "191.8",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "187.5",
+      "Sentence_cn": "它是美国车还是英国车？",
+      "Sentence": "Is it an American car or an English car?"
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "196.5",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "194.4",
+      "Sentence_cn": "它不是美国车。",
+      "Sentence": "It isn't an American car."
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "198.9",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "197.2",
+      "Sentence_cn": "它是台英国车。",
+      "Sentence": "It's an English car."
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "205.2",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "203.8",
+      "Sentence_cn": "那是台福特。",
+      "Sentence": "That's a Ford."
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "210.7",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "206.5",
+      "Sentence_cn": "它是瑞典车还是美国车？",
+      "Sentence": "Is it a Swedish car or an American car?"
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "215.7",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "213.6",
+      "Sentence_cn": "它不是瑞典车。",
+      "Sentence": "It isn't a Swedish car."
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "218.3",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "216.3",
+      "Sentence_cn": "它是美国车。",
+      "Sentence": "It's an American car."
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "225.1",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "223.8",
+      "Sentence_cn": "那是台非亚特。",
+      "Sentence": "That's a Fiat."
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "231.0",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "226.5",
+      "Sentence_cn": "它是意大利车还是美国车？",
+      "Sentence": "Is it an Italian car or an American car?"
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "235.3",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "233.2",
+      "Sentence_cn": "它不是美国车。",
+      "Sentence": "It isn't an American car."
+    },
+    {
+      "voaid": "1006",
+      "EndTiming": "237.9",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "235.8",
+      "Sentence_cn": "它是意大利车。",
+      "Sentence": "It's an Italian car."
+    }
+  ],
+  "size": 32,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14186",
+    "title_cn": "它是什么牌子的？",
+    "title": "What make is it?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_6.mp3"
+}

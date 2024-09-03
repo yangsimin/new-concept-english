@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "voaid": "2042",
+      "EndTiming": "4.6",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "并非很懂音乐",
+      "Sentence": "--- Lesson 42  Not very musical"
+    },
+    {
+      "voaid": "2042",
+      "EndTiming": "14.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.7",
+      "Sentence_cn": "当我们穿过旧德里的市场时走了很长一段路，我们在一个广场上停下来休息。",
+      "Sentence": "As we had had a long walk through one of the markets of old Delhi, we stopped at a square to have a rest."
+    },
+    {
+      "voaid": "2042",
+      "EndTiming": "25.9",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "14.6",
+      "Sentence_cn": "过了一会儿，我们注意到广场的那一边有一个带着两个大筐的耍蛇人，于是就走过去看看。",
+      "Sentence": "After a time, we noticed a snake charmer with two large baskets at the other side of the square, so we went to have a look at him."
+    },
+    {
+      "voaid": "2042",
+      "EndTiming": "34.2",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "25.9",
+      "Sentence_cn": "他一见我们，就拿起了一个长长的上面镶有硬币的管乐器，并掀开了一个筐的盖子。",
+      "Sentence": "As soon as he saw us, he picked up a long pipe which was covered with coins and opened one of the baskets."
+    },
+    {
+      "voaid": "2042",
+      "EndTiming": "40.9",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "35.0",
+      "Sentence_cn": "当他开始吹奏一支曲子时，我们才第一次看到那条蛇。",
+      "Sentence": "When he began to play a tune, we had our first glimpse of the snake."
+    },
+    {
+      "voaid": "2042",
+      "EndTiming": "47.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "41.6",
+      "Sentence_cn": "它从筐里探出身子，随着乐器的摆动而扭动。",
+      "Sentence": "It rose out of the basket and began to follow the movements of the pipe."
+    },
+    {
+      "voaid": "2042",
+      "EndTiming": "55.8",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "47.7",
+      "Sentence_cn": "当耍蛇人突然又吹奏起爵士乐和现代流行乐曲时，",
+      "Sentence": "We were very much surprised when the snake charmer suddenly began to play jazz and modern pop songs."
+    },
+    {
+      "voaid": "2042",
+      "EndTiming": "60.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "56.5",
+      "Sentence_cn": "我们感到非常惊奇。然而那蛇却还是缓慢地“舞动”着。",
+      "Sentence": "The snake, however, continued to 'dance' slowly."
+    },
+    {
+      "voaid": "2042",
+      "EndTiming": "67.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "61.5",
+      "Sentence_cn": "显然，它分辨不出印度音乐和爵士乐！",
+      "Sentence": "It obviously could not tell the difference between Indian music and jazz!"
+    }
+  ],
+  "size": 9,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14418,14419",
+    "title_cn": "并非很懂音乐",
+    "title": "Not very musical"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_42.mp3"
+}

@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "voaid": "1119",
+      "EndTiming": "4.7",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "一个真实的故事",
+      "Sentence": "--- lesson 119  A true story"
+    },
+    {
+      "voaid": "1119",
+      "EndTiming": "7.6",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.6",
+      "Sentence_cn": "你喜欢听故事吗？",
+      "Sentence": "Do you like stories?"
+    },
+    {
+      "voaid": "1119",
+      "EndTiming": "11.3",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.4",
+      "Sentence_cn": "我要告诉你一个真实的故事。",
+      "Sentence": "I want to tell you a true story."
+    },
+    {
+      "voaid": "1119",
+      "EndTiming": "15.8",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "12.1",
+      "Sentence_cn": "这是一年前发生在我的一个朋友身上的故事。",
+      "Sentence": "It happened to a friend of mine a year ago."
+    },
+    {
+      "voaid": "1119",
+      "EndTiming": "25.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "16.6",
+      "Sentence_cn": "当我的朋友乔治在床上看书时，两个小偷爬进了他的厨房。",
+      "Sentence": "While my friend, George, was reading in bed, two thieves climbed into his kitchen."
+    },
+    {
+      "voaid": "1119",
+      "EndTiming": "32.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "26.4",
+      "Sentence_cn": "他们进到屋里后，走进了饭厅。",
+      "Sentence": "After they had entered the house, they went into the dining room."
+    },
+    {
+      "voaid": "1119",
+      "EndTiming": "38.8",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "32.9",
+      "Sentence_cn": "饭厅里很暗，于是他们打开了手电筒。",
+      "Sentence": "It was very dark, so they turned on a torch."
+    },
+    {
+      "voaid": "1119",
+      "EndTiming": "43.8",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "39.6",
+      "Sentence_cn": "突然他们听到身后有声音。",
+      "Sentence": "Suddenly, they heard a voice behind them."
+    },
+    {
+      "voaid": "1119",
+      "EndTiming": "49.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "44.7",
+      "Sentence_cn": "“什么事？什么事？”有人叫着。",
+      "Sentence": "'What's up? What's up?' someone called."
+    },
+    {
+      "voaid": "1119",
+      "EndTiming": "56.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "49.8",
+      "Sentence_cn": "小偷扔下了手电筒，飞快地逃走了。",
+      "Sentence": "The thieves dropped the torch and ran away as quickly as they could."
+    },
+    {
+      "voaid": "1119",
+      "EndTiming": "62.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "57.6",
+      "Sentence_cn": "乔治听到了响声，迅速地下了楼。",
+      "Sentence": "George heard the noise and came downstairs quickly."
+    },
+    {
+      "voaid": "1119",
+      "EndTiming": "68.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "63.2",
+      "Sentence_cn": "他开了灯，但不见一个人。",
+      "Sentence": "He turned on the light, but he couldn't see anyone."
+    },
+    {
+      "voaid": "1119",
+      "EndTiming": "71.7",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "69.1",
+      "Sentence_cn": "小偷逃走了。",
+      "Sentence": "The thieves had already gone."
+    },
+    {
+      "voaid": "1119",
+      "EndTiming": "77.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "72.5",
+      "Sentence_cn": "但是乔治的鹦鹉亨利仍在那里。",
+      "Sentence": "But George's parrot, Henry, was still there."
+    },
+    {
+      "voaid": "1119",
+      "EndTiming": "80.7",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "77.9",
+      "Sentence_cn": "“什么事，乔治？”它叫着。",
+      "Sentence": "'What's up, George?' he called."
+    },
+    {
+      "voaid": "1119",
+      "EndTiming": "85.5",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "81.5",
+      "Sentence_cn": "“没事，亨利。” 乔治笑着说，",
+      "Sentence": "'Nothing, Henry,' George said and smiled."
+    },
+    {
+      "voaid": "1119",
+      "EndTiming": "87.7",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "86.3",
+      "Sentence_cn": "“接着睡觉吧。”",
+      "Sentence": "'Go back to sleep.'"
+    }
+  ],
+  "size": 17,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14320,14321",
+    "title_cn": "一个真实的故事",
+    "title": "A true story"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_119.mp3"
+}

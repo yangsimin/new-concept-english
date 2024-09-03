@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "3019",
+      "EndTiming": "4.6",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "一只贵重的宝贝猫",
+      "Sentence": "--- lesson 19  A very dear cat"
+    },
+    {
+      "voaid": "3019",
+      "EndTiming": "13.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.0",
+      "Sentence_cn": "绑架者很少对动物感兴趣。最近，绑架者却盯上了埃莉诺.拉姆齐太太的猫。",
+      "Sentence": "Kidnappers are rarely interested in animals, but they recently took considerable interest in Mrs. Eleanor Ramsay's cat."
+    },
+    {
+      "voaid": "3019",
+      "EndTiming": "23.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "14.1",
+      "Sentence_cn": "埃莉诺.拉姆齐太太是一个非常富有的老妇人，多年来，一直同她养的猫拉斯一起住在一所公寓里。",
+      "Sentence": "Mrs. Eleanor Ramsay, a very wealthy old lady, has shared a flat with her cat, Rastus, for a great many years."
+    },
+    {
+      "voaid": "3019",
+      "EndTiming": "26.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "24.1",
+      "Sentence_cn": "拉斯特斯生活很有规律，",
+      "Sentence": "Rastus leads an orderly life."
+    },
+    {
+      "voaid": "3019",
+      "EndTiming": "32.4",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "26.6",
+      "Sentence_cn": "傍晚常常出去溜达一会儿，并且总是在7点钟以前回来。",
+      "Sentence": "He usually takes a short walk in the evenings and is always home by seven o'clock."
+    },
+    {
+      "voaid": "3019",
+      "EndTiming": "36.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "33.0",
+      "Sentence_cn": "可是，有一天晚上，它出去后再也没回来。",
+      "Sentence": "One evening, however, he failed to arrive."
+    },
+    {
+      "voaid": "3019",
+      "EndTiming": "39.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "37.0",
+      "Sentence_cn": "拉姆齐太太急坏了，",
+      "Sentence": "Mrs. Ramsay got very worried."
+    },
+    {
+      "voaid": "3019",
+      "EndTiming": "44.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "39.6",
+      "Sentence_cn": "四处寻找，但没有找着。",
+      "Sentence": "She looked everywhere for him but could not find him."
+    },
+    {
+      "voaid": "3019",
+      "EndTiming": "50.6",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "44.2",
+      "Sentence_cn": "拉斯特斯失踪3天后，拉姆齐太太收到一封匿名信。",
+      "Sentence": "Three days after Rastus' disappearance, Mrs. Ramsay received an anonymous letter."
+    },
+    {
+      "voaid": "3019",
+      "EndTiming": "61.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "51.1",
+      "Sentence_cn": "写信人声称拉斯特斯安然无恙，只要拉姆齐太太愿意支付1,000 英镑赎金，可以立即将猫送还。",
+      "Sentence": "The writer stated that Rastus was in safe hands and would be returned immediately if Mrs. Ramsay paid a ransom of £1,000."
+    },
+    {
+      "voaid": "3019",
+      "EndTiming": "68.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "62.0",
+      "Sentence_cn": "他让拉姆齐太太把钱放在一个纸盒里，然后将纸盒放在门口。",
+      "Sentence": "Mrs. Ramsay was instructed to place the money in a cardboard box and to leave it outside her door."
+    },
+    {
+      "voaid": "3019",
+      "EndTiming": "72.1",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "68.7",
+      "Sentence_cn": "一开始拉姆齐太太打算报告警察，",
+      "Sentence": "At first, she decided to go to the police,"
+    },
+    {
+      "voaid": "3019",
+      "EndTiming": "81.2",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "72.8",
+      "Sentence_cn": "但又害怕再也见不到拉斯特斯了 --这点，信上说得十分明白--于是便改变了主意。",
+      "Sentence": "but fearing that she would never see Rastus again -- the letter had made that quite clear -- she changed her mind."
+    },
+    {
+      "voaid": "3019",
+      "EndTiming": "87.1",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "81.8",
+      "Sentence_cn": "她从银行取出1,000 英镑，并照绑架者的要求做了。",
+      "Sentence": "She withdrew £1000 from her bank and followed the kidnapper's instructions."
+    },
+    {
+      "voaid": "3019",
+      "EndTiming": "95.7",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "87.3",
+      "Sentence_cn": "第二天早晨，放钱的盒子不见了。但拉姆齐太太确信绑架者是会履行诺言的。",
+      "Sentence": "The next morning, the box had disappeared but Mrs. Ramsay was sure that the kidnapper would keep his word."
+    },
+    {
+      "voaid": "3019",
+      "EndTiming": "101.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "95.7",
+      "Sentence_cn": "果然，当天晚上7点正，拉斯特斯准时回来了。",
+      "Sentence": "Sure enough, Rastus arrived punctually at seven o'clock that evening."
+    },
+    {
+      "voaid": "3019",
+      "EndTiming": "108.3",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "101.0",
+      "Sentence_cn": "它看上去一切正常，只是口渴得很，喝了半瓶牛奶。",
+      "Sentence": "He looked very well, though he was rather thirsty, for he drank half a bottle of milk."
+    },
+    {
+      "voaid": "3019",
+      "EndTiming": "114.1",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "108.3",
+      "Sentence_cn": "拉姆齐太太把她所做的事告诉了警察，警察听后大为吃惊。",
+      "Sentence": "The police were astounded when Mrs. Ramsay told them what she had done."
+    },
+    {
+      "voaid": "3019",
+      "EndTiming": "117.2",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "114.2",
+      "Sentence_cn": "拉姆齐太太解释说她心疼她的猫拉斯特斯。",
+      "Sentence": "She explained that Rastus was very dear to her."
+    },
+    {
+      "voaid": "3019",
+      "EndTiming": "123.2",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "117.8",
+      "Sentence_cn": "想到她所花的那笔钱，她的心疼就具有双重意义了。",
+      "Sentence": "Considering the amount she paid, he was dear in more ways than one!"
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14573,14574",
+    "title_cn": "一只贵重的宝贝猫",
+    "title": "A very dear cat"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_19.mp3"
+}

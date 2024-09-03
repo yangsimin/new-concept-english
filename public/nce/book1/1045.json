@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "voaid": "1045",
+      "EndTiming": "4.6",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "老板的信",
+      "Sentence": "--- lesson 45  The boss's letter"
+    },
+    {
+      "voaid": "1045",
+      "EndTiming": "8.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.4",
+      "Sentence_cn": "请你来一下好吗，鲍勃？",
+      "Sentence": "Can you come here a minute please, Bob?"
+    },
+    {
+      "voaid": "1045",
+      "EndTiming": "10.4",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "9.5",
+      "Sentence_cn": "什么事，先生？",
+      "Sentence": "Yes, sir?"
+    },
+    {
+      "voaid": "1045",
+      "EndTiming": "12.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "11.2",
+      "Sentence_cn": "帕梅拉在哪儿？",
+      "Sentence": "Where's Pamela?"
+    },
+    {
+      "voaid": "1045",
+      "EndTiming": "14.9",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "13.4",
+      "Sentence_cn": "她在隔壁，",
+      "Sentence": "She's next door."
+    },
+    {
+      "voaid": "1045",
+      "EndTiming": "17.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "15.4",
+      "Sentence_cn": "在她的办公室里，先生。",
+      "Sentence": "She's in her office, sir."
+    },
+    {
+      "voaid": "1045",
+      "EndTiming": "21.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "18.2",
+      "Sentence_cn": "她能为我打一下这封信吗？",
+      "Sentence": "Can she type this letter for me?"
+    },
+    {
+      "voaid": "1045",
+      "EndTiming": "23.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "21.9",
+      "Sentence_cn": "请问问她。",
+      "Sentence": "Ask her please."
+    },
+    {
+      "voaid": "1045",
+      "EndTiming": "24.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "23.7",
+      "Sentence_cn": "好的，先生。",
+      "Sentence": "Yes, sir."
+    },
+    {
+      "voaid": "1045",
+      "EndTiming": "29.7",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "25.4",
+      "Sentence_cn": "请你把这封信给老板打一下可以吗，帕梅拉？",
+      "Sentence": "Can you type this letter for the boss please, Pamela?"
+    },
+    {
+      "voaid": "1045",
+      "EndTiming": "32.8",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "30.1",
+      "Sentence_cn": "可以，当然可以。",
+      "Sentence": "Yes, of course I can."
+    },
+    {
+      "voaid": "1045",
+      "EndTiming": "34.6",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "33.5",
+      "Sentence_cn": "给你这信。",
+      "Sentence": "Here you are."
+    },
+    {
+      "voaid": "1045",
+      "EndTiming": "36.6",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "35.1",
+      "Sentence_cn": "谢谢你，鲍勃。",
+      "Sentence": "Thank you, Bob."
+    },
+    {
+      "voaid": "1045",
+      "EndTiming": "38.1",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "37.4",
+      "Sentence_cn": "鲍勃！",
+      "Sentence": "Bob!"
+    },
+    {
+      "voaid": "1045",
+      "EndTiming": "39.5",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "38.6",
+      "Sentence_cn": "怎么了？",
+      "Sentence": "Yes?"
+    },
+    {
+      "voaid": "1045",
+      "EndTiming": "40.9",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "39.6",
+      "Sentence_cn": "怎么回事？",
+      "Sentence": "What's the matter?"
+    },
+    {
+      "voaid": "1045",
+      "EndTiming": "44.1",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "41.6",
+      "Sentence_cn": "我打不了这封信。",
+      "Sentence": "I can't type this letter."
+    },
+    {
+      "voaid": "1045",
+      "EndTiming": "46.4",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "44.7",
+      "Sentence_cn": "我看不懂这封信，",
+      "Sentence": "I can't read it!"
+    },
+    {
+      "voaid": "1045",
+      "EndTiming": "50.7",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "47.0",
+      "Sentence_cn": "老板的书写太糟糕了！",
+      "Sentence": "The boss's handwriting is terrible!"
+    }
+  ],
+  "size": 19,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14229",
+    "title_cn": "老板的信",
+    "title": "The boss's letter"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_45.mp3"
+}

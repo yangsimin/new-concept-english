@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "voaid": "1043",
+      "EndTiming": "3.7",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "快点！",
+      "Sentence": "--- lesson 43  Hurry up!"
+    },
+    {
+      "voaid": "1043",
+      "EndTiming": "7.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.6",
+      "Sentence_cn": "你会沏茶吗，萨姆？",
+      "Sentence": "Can you make the tea, Sam?"
+    },
+    {
+      "voaid": "1043",
+      "EndTiming": "11.3",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.0",
+      "Sentence_cn": "会的，我当然会，彭妮。",
+      "Sentence": "Yes, of course I can, Penny."
+    },
+    {
+      "voaid": "1043",
+      "EndTiming": "14.7",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "12.1",
+      "Sentence_cn": "这水壶里有水吗？",
+      "Sentence": "Is there any water in this kettle?"
+    },
+    {
+      "voaid": "1043",
+      "EndTiming": "17.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "15.6",
+      "Sentence_cn": "有水。",
+      "Sentence": "Yes, there is."
+    },
+    {
+      "voaid": "1043",
+      "EndTiming": "19.3",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "18.1",
+      "Sentence_cn": "茶叶在哪儿？",
+      "Sentence": "Where's the tea?"
+    },
+    {
+      "voaid": "1043",
+      "EndTiming": "23.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "19.8",
+      "Sentence_cn": "就在那儿，茶壶后面。",
+      "Sentence": "It's over there,behind the teapot."
+    },
+    {
+      "voaid": "1043",
+      "EndTiming": "25.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "24.3",
+      "Sentence_cn": "你看见了吗？",
+      "Sentence": "Can you see it?"
+    },
+    {
+      "voaid": "1043",
+      "EndTiming": "28.7",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "26.4",
+      "Sentence_cn": "茶壶我看见了，",
+      "Sentence": "I can see the teapot,"
+    },
+    {
+      "voaid": "1043",
+      "EndTiming": "32.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "29.4",
+      "Sentence_cn": "但茶叶没看到。",
+      "Sentence": "but I can't see the tea."
+    },
+    {
+      "voaid": "1043",
+      "EndTiming": "33.9",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "32.6",
+      "Sentence_cn": "那不是么！",
+      "Sentence": "There it is!"
+    },
+    {
+      "voaid": "1043",
+      "EndTiming": "35.9",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "34.2",
+      "Sentence_cn": "就在你眼前。",
+      "Sentence": "It's in front of you!"
+    },
+    {
+      "voaid": "1043",
+      "EndTiming": "40.4",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "36.5",
+      "Sentence_cn": "噢，是啊，我现在看到了。",
+      "Sentence": "Ah yes, I can see it now."
+    },
+    {
+      "voaid": "1043",
+      "EndTiming": "42.9",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "41.2",
+      "Sentence_cn": "茶杯在哪儿呢？",
+      "Sentence": "Where are the cups?"
+    },
+    {
+      "voaid": "1043",
+      "EndTiming": "45.8",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "43.6",
+      "Sentence_cn": "碗橱里有几只。",
+      "Sentence": "There are some in the cupboard."
+    },
+    {
+      "voaid": "1043",
+      "EndTiming": "48.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "46.4",
+      "Sentence_cn": "你找得到吗？",
+      "Sentence": "Can you find them?"
+    },
+    {
+      "voaid": "1043",
+      "EndTiming": "50.7",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "48.6",
+      "Sentence_cn": "找得到。就在这儿呢。",
+      "Sentence": "Yes. Here they are."
+    },
+    {
+      "voaid": "1043",
+      "EndTiming": "52.9",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "51.5",
+      "Sentence_cn": "快，萨姆。",
+      "Sentence": "Hurry up, Sam!"
+    },
+    {
+      "voaid": "1043",
+      "EndTiming": "55.1",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "53.3",
+      "Sentence_cn": "水开了！",
+      "Sentence": "The kettle's boiling!"
+    }
+  ],
+  "size": 19,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14227",
+    "title_cn": "快点！",
+    "title": "Hurry up!"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_43.mp3"
+}

@@ -1,0 +1,210 @@
+{
+  "data": [
+    {
+      "voaid": "4019",
+      "EndTiming": "4.7",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "1.0",
+      "Sentence_cn": "课文19  话说梦的本质",
+      "Sentence": "--- Lesson 19 The stuff of dreams"
+    },
+    {
+      "voaid": "4019",
+      "EndTiming": "16.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.8",
+      "Sentence_cn": "当一个人在睡眠中经历快速眼球运动时会发生什么?",
+      "Sentence": "What is going on when a person experiences rapid eye-movements during sleep?"
+    },
+    {
+      "voaid": "4019",
+      "EndTiming": "27.8",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "18.5",
+      "Sentence_cn": "很清楚，睡眠必然具有某种作用。睡眠占去那么多时间，所以其作用似乎还是很重要。",
+      "Sentence": "It is fairly clear that the sleeping period must have some function, and because there is so much of it the function would seem to be important."
+    },
+    {
+      "voaid": "4019",
+      "EndTiming": "34.2",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "28.7",
+      "Sentence_cn": "人们对睡眠作用的种种猜测，确实有数千年之久。",
+      "Sentence": "Speculations about its nature have been going on for literally thousands of years,"
+    },
+    {
+      "voaid": "4019",
+      "EndTiming": "44.8",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "35.2",
+      "Sentence_cn": "一项使人对这个问题感到困惑的奇怪的发现是，睡眠在很大程度似乎并不仅仅是为了使身体得到休息。",
+      "Sentence": "and one odd finding that makes the problem puzzling is that it looks very much as if sleeping is not simply a matter of giving the body a rest."
+    },
+    {
+      "voaid": "4019",
+      "EndTiming": "55.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "45.5",
+      "Sentence_cn": "“休息”，从使肌肉得到放松等方面来看，只要稍微躺一躺，甚至坐一坐就能达到。",
+      "Sentence": "'Rest', in terms of muscle relaxation and so on, can be achieved by a brief period lying, or even sitting down."
+    },
+    {
+      "voaid": "4019",
+      "EndTiming": "65.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "55.8",
+      "Sentence_cn": "人体组织在一定程度上有自我修补和自我恢复的能力，有张有弛地连续活动时，其功能最佳。",
+      "Sentence": "The body's tissues are self-repairing and self-restoring to a degree, and function best when more or less continuously active."
+    },
+    {
+      "voaid": "4019",
+      "EndTiming": "74.1",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "65.5",
+      "Sentence_cn": "事实上，睡眠状态下仍有着基本的活动量，以防止肌肉活动停止。",
+      "Sentence": "In fact a basic amount of movement occurs during sleep which is specifically concerned with preventing muscle inactivity."
+    },
+    {
+      "voaid": "4019",
+      "EndTiming": "82.7",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "75.8",
+      "Sentence_cn": "如果睡眠的功能不是在于使身体得到休息，那么也许是让大脑得以休息？",
+      "Sentence": "If it is not a question of resting the body, then perhaps it is the brain that needs resting?"
+    },
+    {
+      "voaid": "4019",
+      "EndTiming": "88.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "83.5",
+      "Sentence_cn": "若不是下面两点，这种假使似乎是有道理的。",
+      "Sentence": "This might be a plausible hypothesis were it not for two factors."
+    },
+    {
+      "voaid": "4019",
+      "EndTiming": "99.8",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "89.4",
+      "Sentence_cn": "第一点，脑电图记录仪（这是一个将电极贴在头皮上的简易记录大脑活动的设备）",
+      "Sentence": "First the electroencephalograph (which is simply a device for recording the electrical activity of the brain by attaching electrodes to the scalp)"
+    },
+    {
+      "voaid": "4019",
+      "EndTiming": "105.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "100.7",
+      "Sentence_cn": "显示，人在睡眠时大脑活动的方式有变化，",
+      "Sentence": "shows that while there is a change in the pattern of activity during sleep,"
+    },
+    {
+      "voaid": "4019",
+      "EndTiming": "110.2",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "105.2",
+      "Sentence_cn": "但没有迹象表明，其活动总量有任何减少。",
+      "Sentence": "there is no evidence that the total amount of activity is any less."
+    },
+    {
+      "voaid": "4019",
+      "EndTiming": "115.3",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "111.0",
+      "Sentence_cn": "第二点更有意思，也更重要。",
+      "Sentence": "The second factor is more interesting and more fundamental."
+    },
+    {
+      "voaid": "4019",
+      "EndTiming": "126.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "116.1",
+      "Sentence_cn": "前些年，美国一位精神病学者发表了一篇报告，报告中记录了眼球在睡眠时的活动情况。",
+      "Sentence": "Some years ago an American psychiatrist named William Dement published experiments dealing with the recording of eye-movements during sleep."
+    },
+    {
+      "voaid": "4019",
+      "EndTiming": "139.8",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "126.0",
+      "Sentence_cn": "他指出，平常人的睡眠周期中不时伴有一阵阵奇怪的眼球队活动，这些活动有的飘忽而缓慢，有的急剧而快速。",
+      "Sentence": "He showed that the average individual's sleep cycle is punctuated with peculiar bursts of eye-movements, some drifting and slow, others jerky and rapid."
+    },
+    {
+      "voaid": "4019",
+      "EndTiming": "146.1",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "140.4",
+      "Sentence_cn": "在眼球活动期间被叫醒的人都说自己在做梦；",
+      "Sentence": "People woken during these periods of eye-movements generally reported that they had been dreaming."
+    },
+    {
+      "voaid": "4019",
+      "EndTiming": "150.2",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "147.0",
+      "Sentence_cn": "在其他期间叫醒他们，则说没有做梦。",
+      "Sentence": "When woken at other times they reported no dreams."
+    },
+    {
+      "voaid": "4019",
+      "EndTiming": "156.8",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "150.9",
+      "Sentence_cn": "如果有两组人，一组人连续几夜在眼球队活动时被叫醒；",
+      "Sentence": "If one group of people were disturbed from their eye-movement sleep for several nights on end,"
+    },
+    {
+      "voaid": "4019",
+      "EndTiming": "164.8",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "157.2",
+      "Sentence_cn": "另一组人也是连续几夜被叫醒，但是在眼球队没活动时被叫醒的。",
+      "Sentence": "and another group were disturbed for an equal period of time but when they were not exhibiting eye-movements,"
+    },
+    {
+      "voaid": "4019",
+      "EndTiming": "173.8",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "165.5",
+      "Sentence_cn": "结果，第一组人开始出现性格失常，而第二组人似乎没受什么影响。",
+      "Sentence": "the first group began to show some personality disorders while the others seemed more or less unaffected."
+    },
+    {
+      "voaid": "4019",
+      "EndTiming": "193.3",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "174.9",
+      "Sentence_cn": "这一切暗示我们：睡眠受到干忧没关系，而做梦受到干忧是有问题的。",
+      "Sentence": "The implications of all this were that it was not the disturbance of sleep that mattered, but the disturbance of dreaming."
+    }
+  ],
+  "size": 22,
+  "title": {
+    "newCategoryid": 1154,
+    "newTitleId": "14751,14752,14753,14754",
+    "title_cn": "话说梦的本质",
+    "title": "The stuff of dreams"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/4_19.mp3"
+}

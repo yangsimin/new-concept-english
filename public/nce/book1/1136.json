@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "voaid": "1136",
+      "EndTiming": "20.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "19.1",
+      "Sentence_cn": "我将明天走。",
+      "Sentence": "I'll leave tomorrow."
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "22.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "21.3",
+      "Sentence_cn": "他说什么？",
+      "Sentence": "What did he say?"
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "24.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "22.4",
+      "Sentence_cn": "他说他将明天走。",
+      "Sentence": "He said he would leave tomorrow."
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "26.7",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "25.2",
+      "Sentence_cn": "我懂英语。",
+      "Sentence": "I can understand English."
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "28.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "27.5",
+      "Sentence_cn": "她说什么？",
+      "Sentence": "What did she tell you?"
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "32.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "29.3",
+      "Sentence_cn": "她说她懂英语。",
+      "Sentence": "She told me she could understand English."
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "35.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "33.2",
+      "Sentence_cn": "我可能今天晚上去电影院。",
+      "Sentence": "I may go to the cinema this evening."
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "37.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "36.7",
+      "Sentence_cn": "他说什么？",
+      "Sentence": "What did he say?"
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "41.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "38.5",
+      "Sentence_cn": "他说他可能今天晚上去电影院。",
+      "Sentence": "He said he might go to the cinema this evening."
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "44.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "42.9",
+      "Sentence_cn": "我打算明天来。",
+      "Sentence": "I'm not going to come tomorrow."
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "46.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "45.2",
+      "Sentence_cn": "她说什么？",
+      "Sentence": "What did she tell you?"
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "50.1",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "47.4",
+      "Sentence_cn": "她说她打算明天来。",
+      "Sentence": "She told me she was not going to come tomorrow."
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "110.9",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "108.7",
+      "Sentence_cn": "乔治不会乘飞机旅行。",
+      "Sentence": "George won't travel by air."
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "113.2",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "112.2",
+      "Sentence_cn": "他说什么？",
+      "Sentence": "What did he say?"
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "119.6",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "116.5",
+      "Sentence_cn": "他说乔治不会乘飞机旅行。",
+      "Sentence": "He said George wouldn't travel by air."
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "123.7",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "121.4",
+      "Sentence_cn": "我买不起新车。",
+      "Sentence": "I can't afford a new car."
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "125.9",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "124.7",
+      "Sentence_cn": "她告诉你什么？",
+      "Sentence": "What did she tell you?"
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "134.3",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "131.1",
+      "Sentence_cn": "她告诉我她买不起新车。",
+      "Sentence": "She told me she couldn't afford a new car."
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "138.9",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "137.4",
+      "Sentence_cn": "我不可能退休。",
+      "Sentence": "I may not retire."
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "141.3",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "140.3",
+      "Sentence_cn": "他说了什么？",
+      "Sentence": "What did he say?"
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "146.7",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "144.5",
+      "Sentence_cn": "他说他不可能退休。",
+      "Sentence": "He said he might not retire."
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "150.7",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "149.4",
+      "Sentence_cn": "明天会下雨。",
+      "Sentence": "It will rain tomorrow."
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "153.1",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "151.8",
+      "Sentence_cn": "她告诉你什么？",
+      "Sentence": "What did she tell you?"
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "159.9",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "157.6",
+      "Sentence_cn": "她告诉我，明天会下雨。",
+      "Sentence": "She told me it would rain tomorrow."
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "164.9",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "163.0",
+      "Sentence_cn": "孩子们可以和我们一起来。",
+      "Sentence": "The children can come with us."
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "167.2",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "166.3",
+      "Sentence_cn": "他说过什么？",
+      "Sentence": "What did he say?"
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "172.9",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "170.5",
+      "Sentence_cn": "他说孩子们可以和他们一起来。",
+      "Sentence": "He said the children can come with them."
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "175.6",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "174.1",
+      "Sentence_cn": "彭妮可能是对的。",
+      "Sentence": "Penny may be right."
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "177.6",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "176.3",
+      "Sentence_cn": "她告诉过你什么?",
+      "Sentence": "What did she tell you?"
+    },
+    {
+      "voaid": "1136",
+      "EndTiming": "183.6",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "181.2",
+      "Sentence_cn": "她告诉我说彭妮可能是对的。",
+      "Sentence": "She told me Penny might be right."
+    }
+  ],
+  "size": 30,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14338",
+    "title_cn": "他（曾）说他…… 他（曾）告诉我说他 ……",
+    "title": "He said (that) he ... He told me (that) he ..."
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_136.mp3"
+}

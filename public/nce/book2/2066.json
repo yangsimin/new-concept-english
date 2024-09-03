@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "voaid": "2066",
+      "EndTiming": "5.4",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "像蜜一样甜！",
+      "Sentence": "--- Lesson 66  Sweet as honey!"
+    },
+    {
+      "voaid": "2066",
+      "EndTiming": "16.6",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.4",
+      "Sentence_cn": "1963年，一架兰开斯特轰炸机在瓦立斯岛坠毁。那是南太平洋中一个很偏僻的小岛，位于萨摩亚群岛以西，距离群岛还有很长一段距离。",
+      "Sentence": "In 1963 a Lancaster bomber crashed on Wallis Island, a remote place in the South Pacific, a long way west of Samoa."
+    },
+    {
+      "voaid": "2066",
+      "EndTiming": "26.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "17.3",
+      "Sentence_cn": "飞机损坏的程度并不严重，但是，多年来这起飞机失事已被遗忘，飞机残骸也没受到破坏。",
+      "Sentence": "The plane wasn't too badly damaged, but over the years, the crash was forgotten and the wreck remained undisturbed."
+    },
+    {
+      "voaid": "2066",
+      "EndTiming": "39.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "26.8",
+      "Sentence_cn": "于是，到了1989年，飞机失事26年后，在对小岛的一次航空勘查中那架飞机被意外地发现了。",
+      "Sentence": "Then in 1989, twenty-six years after the crash, the plane was accidentally rediscovered in an aerial survey of the island."
+    },
+    {
+      "voaid": "2066",
+      "EndTiming": "47.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "39.7",
+      "Sentence_cn": "到了那个时候，状况良好的兰开斯特轰炸机实属罕见，值得抢救。",
+      "Sentence": "By this time, a Lancaster bomber in reasonable condition was rare and worth rescuing."
+    },
+    {
+      "voaid": "2066",
+      "EndTiming": "53.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "47.4",
+      "Sentence_cn": "法国政府让人把飞机包装起来，一部分一部分地搬回法国。",
+      "Sentence": "The French authorities had the plane packaged and moved in parts back to France."
+    },
+    {
+      "voaid": "2066",
+      "EndTiming": "58.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "54.3",
+      "Sentence_cn": "一群热心人计划修复这架飞机。",
+      "Sentence": "Now a group of enthusiasts are going to have the plane restored."
+    },
+    {
+      "voaid": "2066",
+      "EndTiming": "67.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "58.6",
+      "Sentence_cn": "该飞机装装配有4台罗尔斯-罗伊斯的默林发动机，但是他们只需要修复其中的3台。",
+      "Sentence": "It has four Rolls-Royce Merlin engines, but the group will need to have only three of them rebuilt."
+    },
+    {
+      "voaid": "2066",
+      "EndTiming": "80.8",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "68.0",
+      "Sentence_cn": "想一想他们所感受到的惊奇和兴奋 -- 当他们拆开包装箱时，他们发现第4台发动机就像蜂蜜一样甜 -- 发动机完好无损。",
+      "Sentence": "Imagine their surprise and delight when they broke open the packing cases and found that the fourth engine was sweet as honey -- still in perfect condition."
+    },
+    {
+      "voaid": "2066",
+      "EndTiming": "89.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "81.0",
+      "Sentence_cn": "一群蜜蜂把发动机当作了蜂房，发动机在蜂蜡中被完整地保存了下来。",
+      "Sentence": "A colony of bees had turned the engine into a hive and it was totally preserved in beeswax!"
+    }
+  ],
+  "size": 10,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14463,14464",
+    "title_cn": "像蜜一样甜！",
+    "title": "Sweet as honey!"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_66.mp3"
+}

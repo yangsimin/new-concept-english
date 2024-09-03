@@ -1,0 +1,264 @@
+{
+  "data": [
+    {
+      "voaid": "4038",
+      "EndTiming": "5.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.7",
+      "Sentence_cn": "课文38  水和旅行者",
+      "Sentence": "--- Lesson 38 Water and the traveller"
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "12.2",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "8.5",
+      "Sentence_cn": "这篇文章说了什么？",
+      "Sentence": "What does this text describe?"
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "20.9",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "13.4",
+      "Sentence_cn": "水源的污染通常是由于接近水源的地方卫条件太差而造成的：",
+      "Sentence": "Contamination of water supplies is usually due to poor sanitation close to water sources,"
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "32.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "20.9",
+      "Sentence_cn": "污水排入水源，污水渗入给水系统或工农业污水造成污染。",
+      "Sentence": "sewage disposal into the sources themselves, leakage of sewage into distribution systems or contamination with industrial or farm waste."
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "39.3",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "32.3",
+      "Sentence_cn": "即使管道供水系统在水源处安全的，等水到达龙头时就不一定总是安全的了。",
+      "Sentence": "Even if a piped water supply is safe at its source, it is not always safe by the time it reaches the tap."
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "45.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "39.5",
+      "Sentence_cn": "断断续续的水管应该被视为是非常可疑的。",
+      "Sentence": "Intermittent tap-water supplies should be regarded as particularly suspect."
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "50.8",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "45.1",
+      "Sentence_cn": "短途旅行到水质不保险的地区时，",
+      "Sentence": "Travellers on short trips to areas with water supplies of uncertain quality"
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "56.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "51.1",
+      "Sentence_cn": "应避免饮用水龙头的水或未经处理任何其他来源的水。",
+      "Sentence": "should avoid drinking tap-water, or untreated water from any other source."
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "68.2",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "56.3",
+      "Sentence_cn": "最好仅饮用开水，名牌瓶装或罐装水 -- 装瓶厂通常遵循国际水处理的标准。",
+      "Sentence": "It is best to keep to hot drinks, bottled or canned drinks of well-known brand names-international standard of water treatment are usually followed at bottling plants."
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "71.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "68.3",
+      "Sentence_cn": "碳酸饮料是酸性的，就更安全一些。",
+      "Sentence": "Carbonated drinks are acidic, and slightly safer."
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "78.3",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "72.3",
+      "Sentence_cn": "确保瓶子是当你面开启的，瓶口清洁干燥。",
+      "Sentence": "Make sure that all bottles are opened in your presence, and that their rims are clean and dry."
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "81.9",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "79.2",
+      "Sentence_cn": "烧开一直是水处理的一种好办法。",
+      "Sentence": "Boiling is always a good way of treating water."
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "89.1",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "81.9",
+      "Sentence_cn": "有的酒店根据要求可提供开水，这些开水可用于饮用和刷牙。",
+      "Sentence": "Some hotels supply boiled water on request and this can be used for drinking, or for brushing teeth."
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "97.4",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "89.5",
+      "Sentence_cn": "如果有相配的电压，可以煮少量水的便携式热水装置是有用的。",
+      "Sentence": "Portable boiling elements that can boil small quantities of water are useful when the right voltage of electricity is available."
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "102.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "97.9",
+      "Sentence_cn": "应谢绝任何不明来源的冷饮。",
+      "Sentence": "Refuse politely any cold drink from an unknown source."
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "106.7",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "103.2",
+      "Sentence_cn": "冰块只有当制造冰块的水安全时才是保险的，",
+      "Sentence": "Ice is only as safe as the water from which it is made,"
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "111.0",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "106.7",
+      "Sentence_cn": "只有知道冰块安全时才能加入饮料。",
+      "Sentence": "and should not be put in drinks unless it is known to be safe."
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "116.9",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "111.0",
+      "Sentence_cn": "可以把饮料置于冰块之上来冷却，而不是把冰块加进饮料之中。",
+      "Sentence": "Drinks can be cooled by placing them on ice rather than adding ice to them."
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "124.9",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "118.2",
+      "Sentence_cn": "酒精可能是医学上的消毒剂，但决不可用来消毒饮用水。",
+      "Sentence": "Alcohol may be a medical disinfectant, but should not be relied upon to sterilize water."
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "130.8",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "125.6",
+      "Sentence_cn": "乙醇的浓度为50%至70%时比较有效，",
+      "Sentence": "Ethanol is more effective at a concentration of 50-70 percent;"
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "135.4",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "130.8",
+      "Sentence_cn": "浓度低于20%时，杀菌能力基本上就不存在了。",
+      "Sentence": "below 20 per cent, its bactericidal action is negligible."
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "142.9",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "136.0",
+      "Sentence_cn": "强度标为95的酒中含有47%的酒精。",
+      "Sentence": "Spirits labelled 95 proof contain only about 47 per cent alcohol."
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "144.7",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "142.9",
+      "Sentence_cn": "要提防甲基化酒精，",
+      "Sentence": "Beware of methylated alcohol,"
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "149.6",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "144.9",
+      "Sentence_cn": "那是剧毒的，永远不能掺入饮用水。",
+      "Sentence": "which is very poisonous and should never be added to drinking water."
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "154.2",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "150.8",
+      "Sentence_cn": "如果没有其他安全的饮用水，",
+      "Sentence": "If no other safe water supply can be obtained,"
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "160.6",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "154.5",
+      "Sentence_cn": "水管中流出的烫手的水可以留下来冷却。这种水一般是安全的。",
+      "Sentence": "tap water that is too hot to touch can be left to cool and is generally safe to drink."
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "168.9",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "161.6",
+      "Sentence_cn": "那些计划去偏远地区旅行、或在没有现成饮用水的国家居住的人，",
+      "Sentence": "Those planning a trip to remote areas, or intending to live in countries where drinking water is not readily available,"
+    },
+    {
+      "voaid": "4038",
+      "EndTiming": "181.3",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "169.3",
+      "Sentence_cn": "应该知道如何使水适于饮用的各种办法。",
+      "Sentence": "should know about the various possible methods for making water safe."
+    }
+  ],
+  "size": 28,
+  "title": {
+    "newCategoryid": 1154,
+    "newTitleId": "14816,14817,14818,14819",
+    "title_cn": "水和旅行者",
+    "title": "Water and the traveller"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/4_38.mp3"
+}

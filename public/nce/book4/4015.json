@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "voaid": "4015",
+      "EndTiming": "9.8",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "课文15  工业中的秘密",
+      "Sentence": "--- Lesson 15 Secrecy in industry"
+    },
+    {
+      "voaid": "4015",
+      "EndTiming": "16.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "10.7",
+      "Sentence_cn": "为什么在化学工业中保密特别重要?",
+      "Sentence": "Why is secrecy particularly important in the chemical industries?"
+    },
+    {
+      "voaid": "4015",
+      "EndTiming": "24.3",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "17.9",
+      "Sentence_cn": "有两个因素严重地妨碍工业中科学研究的效率：",
+      "Sentence": "Two factors weigh heavily against the effectiveness of scientific research in industry."
+    },
+    {
+      "voaid": "4015",
+      "EndTiming": "30.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "25.3",
+      "Sentence_cn": "一是科研工作中普遍存在的保密气氛；",
+      "Sentence": "One is the general atmosphere of secrecy in which it is carried out,"
+    },
+    {
+      "voaid": "4015",
+      "EndTiming": "35.4",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "31.0",
+      "Sentence_cn": "二是研究人员缺乏个人自由。",
+      "Sentence": "the other the lack of freedom of the individual research worker."
+    },
+    {
+      "voaid": "4015",
+      "EndTiming": "39.7",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "36.2",
+      "Sentence_cn": "任何一项研究都涉及到保密，",
+      "Sentence": "In so far as any inquiry is a secret one,"
+    },
+    {
+      "voaid": "4015",
+      "EndTiming": "51.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "40.2",
+      "Sentence_cn": "那些从事科研的人员自然受到了限制。他们不能和其他国家、其他大学、",
+      "Sentence": "it naturally limits all those engaged in carrying it out from effective contact with their fellow scientists either in other countries or in universities,"
+    },
+    {
+      "voaid": "4015",
+      "EndTiming": "56.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "51.2",
+      "Sentence_cn": "甚至往往不能与本公司的其他部门的同行们进行有效的接触。",
+      "Sentence": "or even, often enough, in other departments of the same firm."
+    },
+    {
+      "voaid": "4015",
+      "EndTiming": "61.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "57.4",
+      "Sentence_cn": "保密程度自然差别很大。",
+      "Sentence": "The degree of secrecy naturally varies considerably."
+    },
+    {
+      "voaid": "4015",
+      "EndTiming": "69.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "61.9",
+      "Sentence_cn": "某些大公司进行的研究属于一般和基础的研究，",
+      "Sentence": "Some of the bigger firms are engaged in researches which are of such general and fundamental nature"
+    },
+    {
+      "voaid": "4015",
+      "EndTiming": "73.7",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "69.3",
+      "Sentence_cn": "因此不保密对他们才有利。",
+      "Sentence": "that it is a positive advantage to them not to keep them secret."
+    },
+    {
+      "voaid": "4015",
+      "EndTiming": "85.1",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "75.0",
+      "Sentence_cn": "然而，依赖这种研究的很多工艺程序是在完全保密的情况下进行的，直到可以取得专利权的阶段为止。",
+      "Sentence": "Yet a great many processes depending on such research are sought for with complete secrecy until the stage at which patents can be taken out."
+    },
+    {
+      "voaid": "4015",
+      "EndTiming": "91.7",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "85.8",
+      "Sentence_cn": "更多的工艺过程根本就不会取得专利权，而是作为秘方保存着。",
+      "Sentence": "Even more processes are never patented at all but kept as secret processes."
+    },
+    {
+      "voaid": "4015",
+      "EndTiming": "96.6",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "92.3",
+      "Sentence_cn": "在这化学工业方面尤为突出。",
+      "Sentence": "This applies particularly to chemical industries,"
+    },
+    {
+      "voaid": "4015",
+      "EndTiming": "104.1",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "97.1",
+      "Sentence_cn": "同物理和机械工业相比，化学工业中偶然发现的机会要多得多。",
+      "Sentence": "where chance discoveries play a much larger part than they do in physical and mechanical industries."
+    },
+    {
+      "voaid": "4015",
+      "EndTiming": "112.4",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "104.6",
+      "Sentence_cn": "有时，保密竟达到了这样的程度，即连研究工作的整个性质都不准提及。",
+      "Sentence": "Sometimes the secrecy goes to such an extent that the whole nature of the research cannot be mentioned."
+    },
+    {
+      "voaid": "4015",
+      "EndTiming": "120.8",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "113.2",
+      "Sentence_cn": "比如，很多公司向图书馆借阅科技书籍时感到困难，",
+      "Sentence": "Many firms, for instance have great difficulty in obtaining technical or scientific books from libraries"
+    },
+    {
+      "voaid": "4015",
+      "EndTiming": "127.0",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "120.9",
+      "Sentence_cn": "因为它们不愿让人家记下它们公司的名字和借阅的某一本书。",
+      "Sentence": "because they are unwilling to have their names entered as having taken out such and such a book,"
+    },
+    {
+      "voaid": "4015",
+      "EndTiming": "144.1",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "127.7",
+      "Sentence_cn": "他们生怕别的公司的情报人员据此摸到他们可能要从事的某项科研项目。",
+      "Sentence": "for fear the agents of other firms should be able to trace the kind of research they are likely to be undertaking."
+    }
+  ],
+  "size": 19,
+  "title": {
+    "newCategoryid": 1154,
+    "newTitleId": "14740,14741,14742",
+    "title_cn": "工业中的秘密",
+    "title": "Secrecy in industry"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/4_15.mp3"
+}

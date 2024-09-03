@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "voaid": "2062",
+      "EndTiming": "4.1",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.3",
+      "Sentence_cn": "大火之后",
+      "Sentence": "--- Lesson 62  After the fire"
+    },
+    {
+      "voaid": "2062",
+      "EndTiming": "12.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.8",
+      "Sentence_cn": "消防队员们同那场森林大火搏斗了将近3个星期才最后把火势控制住。",
+      "Sentence": "Firemen had been fighting the forest fire for nearly three weeks before they could get it under control."
+    },
+    {
+      "voaid": "2062",
+      "EndTiming": "19.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "12.7",
+      "Sentence_cn": "就在不久之前，参天大树还覆盖着方圆数英里的土地。",
+      "Sentence": "A short time before, great trees had covered the countryside for miles around."
+    },
+    {
+      "voaid": "2062",
+      "EndTiming": "26.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "20.0",
+      "Sentence_cn": "而现在，发热的地面上仍然升腾着烟雾，弥漫在荒凉的山丘上。",
+      "Sentence": "Now, smoke still rose up from the warm ground over the desolate hills."
+    },
+    {
+      "voaid": "2062",
+      "EndTiming": "33.3",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "27.1",
+      "Sentence_cn": "冬季即将来临，这些山丘对周围的村庄具有毁灭性的威胁，",
+      "Sentence": "Winter was coming on and the hills threatened the surrounding villages with destruction,"
+    },
+    {
+      "voaid": "2062",
+      "EndTiming": "41.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "33.9",
+      "Sentence_cn": "因为大雨不仅会冲走土壤，而且还会引起严重的水灾。",
+      "Sentence": "for heavy rain would not only wash away the soil but would cause serious floods as well."
+    },
+    {
+      "voaid": "2062",
+      "EndTiming": "44.8",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "41.8",
+      "Sentence_cn": "在大火最后被扑灭后，",
+      "Sentence": "When the fire had at last been put out,"
+    },
+    {
+      "voaid": "2062",
+      "EndTiming": "52.5",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "45.3",
+      "Sentence_cn": "森林管理当局订购了好几吨一种生长迅速的特殊类型的草籽。",
+      "Sentence": "the forest authorities ordered several tons of a special type of grass-seed which would grow quickly."
+    },
+    {
+      "voaid": "2062",
+      "EndTiming": "58.7",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "52.5",
+      "Sentence_cn": "飞机把这种草籽大量地撒播在地上。",
+      "Sentence": "The seed was sprayed over the ground in huge quantities by aeroplanes."
+    },
+    {
+      "voaid": "2062",
+      "EndTiming": "64.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "58.9",
+      "Sentence_cn": "飞机撒播近一个月后，开始下起雨来。",
+      "Sentence": "The planes had been planting seed for nearly a month when it began to rain."
+    },
+    {
+      "voaid": "2062",
+      "EndTiming": "71.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "65.2",
+      "Sentence_cn": "然而到那时，很多地方的草已经生了根。",
+      "Sentence": "By then, however, in many places the grass had already taken root."
+    },
+    {
+      "voaid": "2062",
+      "EndTiming": "81.4",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "71.7",
+      "Sentence_cn": "一片片的绿草开始出现在这片烧焦的土地上，代替了多少世纪以来一直生长在那里的参天大树。",
+      "Sentence": "In place of the great trees which had been growing there for centuries, patches of green had begun to appear in the blackened soil."
+    }
+  ],
+  "size": 12,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14456",
+    "title_cn": "大火之后",
+    "title": "After the fire"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_62.mp3"
+}

@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "voaid": "2071",
+      "EndTiming": "4.3",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "一个著名的大钟",
+      "Sentence": "--- Lesson 71  A famous clock"
+    },
+    {
+      "voaid": "2071",
+      "EndTiming": "17.1",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.7",
+      "Sentence_cn": "当你游览伦敦时，首先看到的东西之一就是“大本”钟，即那座从英国广播公司的广播中全世界都可以听到它的声音的著名大钟。",
+      "Sentence": "When you visit London, one of the first things you will see is Big Ben, the famous clock which can be heard all over the world on the B.B.C."
+    },
+    {
+      "voaid": "2071",
+      "EndTiming": "27.9",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "17.1",
+      "Sentence_cn": "如果不是国会大厦在1834年被焚毁的话，这座大钟永远也不会建造。",
+      "Sentence": "If the Houses of Parliament had not been burned down in 1834, the great clock would never have been erected."
+    },
+    {
+      "voaid": "2071",
+      "EndTiming": "39.8",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "28.1",
+      "Sentence_cn": "“大本”钟得名于本杰明.霍尔爵士，因为当建造新的国会大厦时，他负责建造大钟。",
+      "Sentence": "Big Ben takes its name from Sir Benjamin Hall who was responsible for the making of the clock when the new Houses of Parliament were being built."
+    },
+    {
+      "voaid": "2071",
+      "EndTiming": "47.1",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "40.4",
+      "Sentence_cn": "此钟不仅外型巨大，而且走时也非常准确。",
+      "Sentence": "It is not only of immense size, but is extremely accurate as well."
+    },
+    {
+      "voaid": "2071",
+      "EndTiming": "53.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "47.7",
+      "Sentence_cn": "格林尼治天文台的官员们每天两次派人矫正此钟。",
+      "Sentence": "Officials from Greenwich Observatory have the clock checked twice a day."
+    },
+    {
+      "voaid": "2071",
+      "EndTiming": "63.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "53.5",
+      "Sentence_cn": "当大钟打点的时候，你可以从英国广播公司的广播中听到，因为钟塔上接了麦克风。",
+      "Sentence": "On the B.B.C. you can hear the clock when it is actually striking because microphones are connected to the clock tower."
+    },
+    {
+      "voaid": "2071",
+      "EndTiming": "66.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "63.8",
+      "Sentence_cn": "“大本”钟很多出差错。",
+      "Sentence": "Big Ben has rarely gone wrong."
+    },
+    {
+      "voaid": "2071",
+      "EndTiming": "71.6",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "66.9",
+      "Sentence_cn": "然而有一次，它却把时间报错了。",
+      "Sentence": "Once, however, it failed to give the correct time."
+    },
+    {
+      "voaid": "2071",
+      "EndTiming": "80.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "72.3",
+      "Sentence_cn": "在钟塔上干活的一位油漆工把一只油漆桶挂在了一根指针上，把钟弄慢了！",
+      "Sentence": "A painter who had been working on the tower hung a pot of paint on one of the hands and slowed it down!"
+    }
+  ],
+  "size": 10,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14471",
+    "title_cn": "一个著名的大钟",
+    "title": "A famous clock"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_71.mp3"
+}

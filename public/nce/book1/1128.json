@@ -1,0 +1,264 @@
+{
+  "data": [
+    {
+      "voaid": "1128",
+      "EndTiming": "16.1",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "14.1",
+      "Sentence_cn": "他是医生还是牙医？",
+      "Sentence": "Is he a doctor or a dentist?"
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "19.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "16.9",
+      "Sentence_cn": "他不可能是医生。他肯定是牙医。",
+      "Sentence": "He can't be a doctor. He must be a dentist"
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "22.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "20.5",
+      "Sentence_cn": "她是丹麦人还是挪威人？",
+      "Sentence": "Is she Danish or Norwegian?"
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "26.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "23.1",
+      "Sentence_cn": "她不可能是丹麦人。她肯定是挪威人。",
+      "Sentence": "She can't be Danish. She must be Norwegian."
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "30.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "27.2",
+      "Sentence_cn": "他们在听音乐还是在看电视？",
+      "Sentence": "Are they listening to the stereo or watching television?"
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "33.7",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "31.4",
+      "Sentence_cn": "他们不可能听音乐。",
+      "Sentence": "They can't be listening to the stereo."
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "35.7",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "33.8",
+      "Sentence_cn": "他们一定在看电视。",
+      "Sentence": "They must be watching television."
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "84.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "81.6",
+      "Sentence_cn": "今天是一号还是二号？",
+      "Sentence": "Is it the 1st or the 2nd today?"
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "90.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "89.4",
+      "Sentence_cn": "不可能是一号。",
+      "Sentence": "It can't be the 1st."
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "92.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "91.5",
+      "Sentence_cn": "肯定是二号。",
+      "Sentence": "It must be the 2nd."
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "96.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "94.6",
+      "Sentence_cn": "他们是奥地利人还是德国人？",
+      "Sentence": "Are they Austrian or German?"
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "102.4",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "100.7",
+      "Sentence_cn": "他们不可能是奥地利人。",
+      "Sentence": "They can't be Austrian."
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "104.3",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "102.8",
+      "Sentence_cn": "他们一定是德国人。",
+      "Sentence": "They must be German."
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "107.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "105.0",
+      "Sentence_cn": "她是32岁还是30岁？",
+      "Sentence": "Is she 32 or 30?"
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "113.5",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "111.8",
+      "Sentence_cn": "她不可能是32岁。",
+      "Sentence": "She can't be 32."
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "115.1",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "113.9",
+      "Sentence_cn": "她一定是30岁。",
+      "Sentence": "She must be 30."
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "118.8",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "116.8",
+      "Sentence_cn": "它是便宜还是贵？",
+      "Sentence": "Is it cheap or expensive?"
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "124.7",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "123.4",
+      "Sentence_cn": "它不可能便宜。",
+      "Sentence": "It can't be cheap."
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "126.7",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "125.3",
+      "Sentence_cn": "它肯定很贵。",
+      "Sentence": "It must be expensive."
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "130.6",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "128.1",
+      "Sentence_cn": "他是在刮胡子还是在洗澡。",
+      "Sentence": "Is he shaving or having a bath?"
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "136.6",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "135.2",
+      "Sentence_cn": "他不可能在刮胡子。",
+      "Sentence": "He can't be shaving."
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "138.6",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "137.2",
+      "Sentence_cn": "他一定在洗澡。",
+      "Sentence": "He must be having a bath."
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "144.9",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "141.3",
+      "Sentence_cn": "他是家里最大的还是最小的？",
+      "Sentence": "Is he the oldest or the youngest in the family?"
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "150.9",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "149.5",
+      "Sentence_cn": "他不可能是最大的。",
+      "Sentence": "He can't be the oldest."
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "152.9",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "151.5",
+      "Sentence_cn": "他肯定是最小的。",
+      "Sentence": "He must be the youngest."
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "156.6",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "154.4",
+      "Sentence_cn": "他们是技师还是工程师？",
+      "Sentence": "Are they mechanics or engineers?"
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "162.3",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "160.7",
+      "Sentence_cn": "他不可能是技师。",
+      "Sentence": "They can't be mechanics."
+    },
+    {
+      "voaid": "1128",
+      "EndTiming": "164.4",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "162.8",
+      "Sentence_cn": "他肯定是工程师。",
+      "Sentence": "They must be engineers."
+    }
+  ],
+  "size": 28,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14330",
+    "title_cn": "他不可能…… 他肯定是……",
+    "title": "He cannot be...He must be ..."
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_128.mp3"
+}

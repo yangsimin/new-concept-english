@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "voaid": "1011",
+      "EndTiming": "4.7",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.3",
+      "Sentence_cn": "这是你的衬衫吗？",
+      "Sentence": "--- lesson 11  Is this your shirt?"
+    },
+    {
+      "voaid": "1011",
+      "EndTiming": "7.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.7",
+      "Sentence_cn": "那是谁的衬衫？",
+      "Sentence": "Whose shirt is that?"
+    },
+    {
+      "voaid": "1011",
+      "EndTiming": "10.4",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.0",
+      "Sentence_cn": "戴夫，这是你的衬衫吗？",
+      "Sentence": "Is this your shirt, Dave?"
+    },
+    {
+      "voaid": "1011",
+      "EndTiming": "12.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "10.9",
+      "Sentence_cn": "不， 先生。",
+      "Sentence": "No. Sir."
+    },
+    {
+      "voaid": "1011",
+      "EndTiming": "14.1",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "12.3",
+      "Sentence_cn": "这不是我的衬衫。",
+      "Sentence": "It's not my shirt."
+    },
+    {
+      "voaid": "1011",
+      "EndTiming": "17.2",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "14.3",
+      "Sentence_cn": "这是我的衬衫。",
+      "Sentence": "This is my shirt."
+    },
+    {
+      "voaid": "1011",
+      "EndTiming": "19.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "17.4",
+      "Sentence_cn": "我的衬衫是蓝色的。",
+      "Sentence": "My shirt's blue."
+    },
+    {
+      "voaid": "1011",
+      "EndTiming": "21.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "19.8",
+      "Sentence_cn": "这件衬衫是蒂姆的吗？",
+      "Sentence": "Is this shirt Tim's?"
+    },
+    {
+      "voaid": "1011",
+      "EndTiming": "24.6",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "21.9",
+      "Sentence_cn": "也许是，先生。",
+      "Sentence": "Perhaps it is, sir."
+    },
+    {
+      "voaid": "1011",
+      "EndTiming": "27.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "24.6",
+      "Sentence_cn": "蒂姆的衬衫是白色的。",
+      "Sentence": "Tim's shirt's white."
+    },
+    {
+      "voaid": "1011",
+      "EndTiming": "28.7",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "27.9",
+      "Sentence_cn": "蒂姆！",
+      "Sentence": "Tim!"
+    },
+    {
+      "voaid": "1011",
+      "EndTiming": "30.1",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "29.4",
+      "Sentence_cn": "什么事，先生？",
+      "Sentence": "Yes, sir?"
+    },
+    {
+      "voaid": "1011",
+      "EndTiming": "32.7",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "30.1",
+      "Sentence_cn": "这是你的衬衫吗？",
+      "Sentence": "Is this your shirt?"
+    },
+    {
+      "voaid": "1011",
+      "EndTiming": "33.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "32.9",
+      "Sentence_cn": "是的，先生。",
+      "Sentence": "Yes, sir."
+    },
+    {
+      "voaid": "1011",
+      "EndTiming": "35.6",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "34.1",
+      "Sentence_cn": "给你。",
+      "Sentence": "Here you are."
+    },
+    {
+      "voaid": "1011",
+      "EndTiming": "36.7",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "35.9",
+      "Sentence_cn": "接着！",
+      "Sentence": "Catch!"
+    },
+    {
+      "voaid": "1011",
+      "EndTiming": "38.4",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "37.1",
+      "Sentence_cn": "谢谢您，先生。",
+      "Sentence": "Thank you, sir."
+    }
+  ],
+  "size": 17,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14191",
+    "title_cn": "这是你的衬衫吗？",
+    "title": "Is this your shirt?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_11.mp3"
+}

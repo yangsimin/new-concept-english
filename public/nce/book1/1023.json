@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "voaid": "1023",
+      "EndTiming": "4.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "哪几只杯子",
+      "Sentence": "--- lesson 23  Which glasses?"
+    },
+    {
+      "voaid": "1023",
+      "EndTiming": "8.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.3",
+      "Sentence_cn": "请拿给我几只玻璃杯，简。",
+      "Sentence": "Give me some glasses please, Jane."
+    },
+    {
+      "voaid": "1023",
+      "EndTiming": "10.8",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "9.2",
+      "Sentence_cn": "哪几只？",
+      "Sentence": "Which glasses?"
+    },
+    {
+      "voaid": "1023",
+      "EndTiming": "13.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "11.4",
+      "Sentence_cn": "这几只吗？",
+      "Sentence": "These glasses?"
+    },
+    {
+      "voaid": "1023",
+      "EndTiming": "16.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "13.8",
+      "Sentence_cn": "不，不是那几只。",
+      "Sentence": "No, not those."
+    },
+    {
+      "voaid": "1023",
+      "EndTiming": "18.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "16.6",
+      "Sentence_cn": "是架子上的那几只。",
+      "Sentence": "The ones on the shelf."
+    },
+    {
+      "voaid": "1023",
+      "EndTiming": "20.3",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "19.2",
+      "Sentence_cn": "这几只？",
+      "Sentence": "These?"
+    },
+    {
+      "voaid": "1023",
+      "EndTiming": "22.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "20.6",
+      "Sentence_cn": "是的，请拿给我。",
+      "Sentence": "Yes, please."
+    },
+    {
+      "voaid": "1023",
+      "EndTiming": "24.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "22.2",
+      "Sentence_cn": "给你。",
+      "Sentence": "Here you are."
+    },
+    {
+      "voaid": "1023",
+      "EndTiming": "25.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "24.1",
+      "Sentence_cn": "谢谢。",
+      "Sentence": "Thanks."
+    }
+  ],
+  "size": 10,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14204",
+    "title_cn": "哪几只杯子？",
+    "title": "Which glasses?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_23.mp3"
+}

@@ -1,0 +1,237 @@
+{
+  "data": [
+    {
+      "voaid": "4005",
+      "EndTiming": "2.8",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "课文5  青年",
+      "Sentence": "--- Lesson 5 Youth"
+    },
+    {
+      "voaid": "4005",
+      "EndTiming": "12.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "2.8",
+      "Sentence_cn": "作者喜欢如何对待年轻人?",
+      "Sentence": "How does the writer like to treat young people?"
+    },
+    {
+      "voaid": "4005",
+      "EndTiming": "19.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "14.6",
+      "Sentence_cn": "人们总是在谈论“青年问题”。",
+      "Sentence": "People are always talking about 'the problem of youth'."
+    },
+    {
+      "voaid": "4005",
+      "EndTiming": "23.8",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "20.3",
+      "Sentence_cn": "如果这个问题存在的话 -- 请允许我对此持怀疑态度。",
+      "Sentence": "If there is one -- which I take leave to doubt"
+    },
+    {
+      "voaid": "4005",
+      "EndTiming": "29.3",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "24.4",
+      "Sentence_cn": "那么，这个问题是由老年人而不是青年人造成的。",
+      "Sentence": "-- then it is older people who create it, not the young themselves."
+    },
+    {
+      "voaid": "4005",
+      "EndTiming": "36.2",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "30.1",
+      "Sentence_cn": "让我们来认真研究一些基本事实：",
+      "Sentence": "Let us get down to fundamentals and agree that the young are after all human beings"
+    },
+    {
+      "voaid": "4005",
+      "EndTiming": "38.8",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "36.9",
+      "Sentence_cn": "承认青年人和他们的长辈一样也是人。",
+      "Sentence": "-- people just like their elders."
+    },
+    {
+      "voaid": "4005",
+      "EndTiming": "44.1",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "39.7",
+      "Sentence_cn": "老年人和青年人只有一个区别：",
+      "Sentence": "There is only one difference between an old man and a young one:"
+    },
+    {
+      "voaid": "4005",
+      "EndTiming": "48.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "45.1",
+      "Sentence_cn": "青年人有光辉灿烂的前景，",
+      "Sentence": "the young man has a glorious future before him"
+    },
+    {
+      "voaid": "4005",
+      "EndTiming": "55.9",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "48.9",
+      "Sentence_cn": "而老年人的辉煌已成为过去，问题的症结恐怕就在这里。",
+      "Sentence": "and the old one has a splendid future behind him: and maybe that is where the rub is."
+    },
+    {
+      "voaid": "4005",
+      "EndTiming": "62.8",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "57.3",
+      "Sentence_cn": "我十几岁时，总感到自己年轻，有些事拿不准。",
+      "Sentence": "When I was a teenager, I felt that I was just young and uncertain --"
+    },
+    {
+      "voaid": "4005",
+      "EndTiming": "66.3",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "63.6",
+      "Sentence_cn": "我是一所大学里的一名新生。",
+      "Sentence": "that I was a new boy in a huge school,"
+    },
+    {
+      "voaid": "4005",
+      "EndTiming": "73.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "66.8",
+      "Sentence_cn": "如果我当时真的被看成像一个问题那样有趣，我会感到很得意的。",
+      "Sentence": "and I would have been very pleased to be regarded as something so interesting as a problem."
+    },
+    {
+      "voaid": "4005",
+      "EndTiming": "78.4",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "73.7",
+      "Sentence_cn": "因为这至少使我得到了某种承认，",
+      "Sentence": "For one thing, being a problem gives you a certain identity,"
+    },
+    {
+      "voaid": "4005",
+      "EndTiming": "83.7",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "79.1",
+      "Sentence_cn": "这正是年轻人所热衷追求的。",
+      "Sentence": "and that is one of the things the young are busily engaged in seeking."
+    },
+    {
+      "voaid": "4005",
+      "EndTiming": "86.6",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "84.3",
+      "Sentence_cn": "我觉得年轻人令人振奋，",
+      "Sentence": "I find young people exciting."
+    },
+    {
+      "voaid": "4005",
+      "EndTiming": "88.9",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "87.2",
+      "Sentence_cn": "他们无拘无束。",
+      "Sentence": "They have an air of freedom,"
+    },
+    {
+      "voaid": "4005",
+      "EndTiming": "94.8",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "89.5",
+      "Sentence_cn": "既不追逐卑鄙的名利，也不贪图生活的舒适。",
+      "Sentence": "and they have not a dreary commitment to mean ambitions or love of comfort."
+    },
+    {
+      "voaid": "4005",
+      "EndTiming": "101.8",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "95.6",
+      "Sentence_cn": "他们不热衷于向上爬，也不一味追求物质享受。",
+      "Sentence": "They are not anxious social climbers, and they have no devotion to material things."
+    },
+    {
+      "voaid": "4005",
+      "EndTiming": "108.6",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "103.1",
+      "Sentence_cn": "在我看来，所有这些使他们与生命和万物之源联系在了一起。",
+      "Sentence": "All this seems to me to link them with life and the origins of things."
+    },
+    {
+      "voaid": "4005",
+      "EndTiming": "118.8",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "109.8",
+      "Sentence_cn": "从某种意义上讲，他们似乎是宇宙人，同我们这些凡夫俗子形成了强烈而鲜明的对照。",
+      "Sentence": "It's as if they were in some sense cosmic beings in violent and lovely contrast with us suburban creatures."
+    },
+    {
+      "voaid": "4005",
+      "EndTiming": "123.1",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "119.6",
+      "Sentence_cn": "每逢我遇到年轻人，脑子里就想到。",
+      "Sentence": "All that is in my mind when I meet a young person."
+    },
+    {
+      "voaid": "4005",
+      "EndTiming": "136.0",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "124.4",
+      "Sentence_cn": "这些年轻人也许狂妄自负，举止无理，傲慢放肆，愚昧无知，但我不会用应当尊重长者这一套陈词滥调来为我自己辨护，",
+      "Sentence": "He may be conceited, ill-mannered,  presumptuous or fatuous,  but I do not turn for protection to dreary cliches about respect for elders --"
+    },
+    {
+      "voaid": "4005",
+      "EndTiming": "140.3",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "136.8",
+      "Sentence_cn": "似乎年长就是受人尊敬的理由。",
+      "Sentence": "as if mere age were a reason for respect."
+    },
+    {
+      "voaid": "4005",
+      "EndTiming": "156.8",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "141.4",
+      "Sentence_cn": "我认为我和他们是平等的。如果我认为他们错了，我就以平等的身份和他们争个明白。",
+      "Sentence": "I accept that we are equals, and I will argue with him, as an equal, if I think he is wrong."
+    }
+  ],
+  "size": 25,
+  "title": {
+    "newCategoryid": 1154,
+    "newTitleId": "14710,14711,14712,14713",
+    "title_cn": "青年",
+    "title": "Youth"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/4_5.mp3"
+}

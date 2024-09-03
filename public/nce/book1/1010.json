@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "1010",
+      "EndTiming": "21.6",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "18.5",
+      "Sentence_cn": "那个男人是胖还是瘦？",
+      "Sentence": "Is that man fat or thin?"
+    },
+    {
+      "voaid": "1010",
+      "EndTiming": "25.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "22.5",
+      "Sentence_cn": "他不瘦。他胖。",
+      "Sentence": "He's not thin. He's fat."
+    },
+    {
+      "voaid": "1010",
+      "EndTiming": "32.8",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "30.2",
+      "Sentence_cn": "斯蒂文热还是冷？",
+      "Sentence": "Is Steven hot or cold?"
+    },
+    {
+      "voaid": "1010",
+      "EndTiming": "36.8",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "34.1",
+      "Sentence_cn": "他不冷。他热。",
+      "Sentence": "He's not cold. He's hot."
+    },
+    {
+      "voaid": "1010",
+      "EndTiming": "45.8",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "41.7",
+      "Sentence_cn": "那位空姐年轻还是年老？",
+      "Sentence": "Is that air hostess young or old?"
+    },
+    {
+      "voaid": "1010",
+      "EndTiming": "49.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "47.3",
+      "Sentence_cn": "她不老。她年轻。",
+      "Sentence": "She's not old. She's young."
+    },
+    {
+      "voaid": "1010",
+      "EndTiming": "114.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "110.8",
+      "Sentence_cn": "那位妇女是瘦还是胖？",
+      "Sentence": "Is that woman thin or fat?"
+    },
+    {
+      "voaid": "1010",
+      "EndTiming": "121.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "118.3",
+      "Sentence_cn": "她不胖。她瘦。",
+      "Sentence": "She's not fat. She's thin."
+    },
+    {
+      "voaid": "1010",
+      "EndTiming": "131.8",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "128.6",
+      "Sentence_cn": "埃玛冷还是热？",
+      "Sentence": "Is Emma cold or hot?"
+    },
+    {
+      "voaid": "1010",
+      "EndTiming": "138.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "134.8",
+      "Sentence_cn": "她不热。她冷。",
+      "Sentence": "She's not hot. She's cold."
+    },
+    {
+      "voaid": "1010",
+      "EndTiming": "149.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "144.3",
+      "Sentence_cn": "那位警察是矮还是高？",
+      "Sentence": "Is that policewoman short or tall?"
+    },
+    {
+      "voaid": "1010",
+      "EndTiming": "155.7",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "152.2",
+      "Sentence_cn": "她不高。她矮。",
+      "Sentence": "She's not tall. She's short."
+    },
+    {
+      "voaid": "1010",
+      "EndTiming": "165.9",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "162.4",
+      "Sentence_cn": "那位送奶工是年老还是年轻？",
+      "Sentence": "Is that milkman old or young?"
+    },
+    {
+      "voaid": "1010",
+      "EndTiming": "172.2",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "169.2",
+      "Sentence_cn": "他不年轻。他老。",
+      "Sentence": "He's not young. He's old."
+    },
+    {
+      "voaid": "1010",
+      "EndTiming": "183.1",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "178.5",
+      "Sentence_cn": "那位技工是脏还是干净？",
+      "Sentence": "Is that mechanic dirty or clean?"
+    },
+    {
+      "voaid": "1010",
+      "EndTiming": "189.2",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "185.9",
+      "Sentence_cn": "他不干净。他脏。",
+      "Sentence": "He's not clean. He's dirty."
+    },
+    {
+      "voaid": "1010",
+      "EndTiming": "199.9",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "196.1",
+      "Sentence_cn": "那位警察是高还是矮？",
+      "Sentence": "Is that policeman tall or short?"
+    },
+    {
+      "voaid": "1010",
+      "EndTiming": "206.4",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "203.4",
+      "Sentence_cn": "他不矮。他高。",
+      "Sentence": "He's not short. He's tall."
+    },
+    {
+      "voaid": "1010",
+      "EndTiming": "217.9",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "213.4",
+      "Sentence_cn": "那位护士是干净还是脏？",
+      "Sentence": "Is that nurse clean or dirty?"
+    },
+    {
+      "voaid": "1010",
+      "EndTiming": "224.1",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "220.5",
+      "Sentence_cn": "她不脏。她干净。",
+      "Sentence": "She's not dirty. She's clean."
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14190",
+    "title_cn": "看……",
+    "title": "Look at..."
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_10.mp3"
+}

@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "voaid": "2002",
+      "EndTiming": "4.4",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "早餐还是午餐？",
+      "Sentence": "--- Lesson 2 Breakfast or lunch?"
+    },
+    {
+      "voaid": "2002",
+      "EndTiming": "6.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.2",
+      "Sentence_cn": "那是个星期天，",
+      "Sentence": "It was Sunday. "
+    },
+    {
+      "voaid": "2002",
+      "EndTiming": "10.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "7.1",
+      "Sentence_cn": "而在星期天我是从来不早起的，",
+      "Sentence": "I never get up early on Sundays. "
+    },
+    {
+      "voaid": "2002",
+      "EndTiming": "14.7",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "11.1",
+      "Sentence_cn": "有时我要一直躺到吃午饭的时候。",
+      "Sentence": "I sometimes stay in bed until lunchtime. "
+    },
+    {
+      "voaid": "2002",
+      "EndTiming": "18.7",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "15.5",
+      "Sentence_cn": "上个星期天，我起得很晚。",
+      "Sentence": "Last Sunday I got up very late. "
+    },
+    {
+      "voaid": "2002",
+      "EndTiming": "23.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "19.5",
+      "Sentence_cn": "我望望窗外，外面一片昏暗。",
+      "Sentence": "I looked out of the window. It was dark outside. "
+    },
+    {
+      "voaid": "2002",
+      "EndTiming": "29.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "24.3",
+      "Sentence_cn": "“鬼天气！”我想，“又下雨了。”",
+      "Sentence": "'What a day!' I thought. 'It's raining again. '"
+    },
+    {
+      "voaid": "2002",
+      "EndTiming": "33.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "30.7",
+      "Sentence_cn": "正在这时，电话铃响了。",
+      "Sentence": "Just then, the telephone rang. "
+    },
+    {
+      "voaid": "2002",
+      "EndTiming": "35.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "34.1",
+      "Sentence_cn": "是我姑母露西打来的。",
+      "Sentence": "It was my aunt Lucy. "
+    },
+    {
+      "voaid": "2002",
+      "EndTiming": "42.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "36.6",
+      "Sentence_cn": "“我刚下火车，”她说，“我这就来看你。”",
+      "Sentence": "'I've just arrived by train, ' she said. 'I'm coming to see you. '"
+    },
+    {
+      "voaid": "2002",
+      "EndTiming": "46.9",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "43.2",
+      "Sentence_cn": "“但我还在吃早饭，”我说。",
+      "Sentence": "'But I'm still having breakfast, ' I said. "
+    },
+    {
+      "voaid": "2002",
+      "EndTiming": "50.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "47.7",
+      "Sentence_cn": "“你在干什么？”她问道。",
+      "Sentence": "'What are you doing?' she asked. "
+    },
+    {
+      "voaid": "2002",
+      "EndTiming": "53.9",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "51.0",
+      "Sentence_cn": "“我正在吃早饭，”我又说了一遍。",
+      "Sentence": "'I'm having breakfast, ' I repeated. "
+    },
+    {
+      "voaid": "2002",
+      "EndTiming": "61.9",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "54.6",
+      "Sentence_cn": "“天啊，”她说，“你总是起得这么晚吗？现在已经1点钟了！”",
+      "Sentence": "'Dear me, ' she said. 'Do you always get up so late? It's one o'clock!'"
+    }
+  ],
+  "size": 14,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14353",
+    "title_cn": "早餐还是午餐？",
+    "title": "Breakfast or lunch?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_2.mp3"
+}

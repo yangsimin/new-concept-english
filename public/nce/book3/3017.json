@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "voaid": "3017",
+      "EndTiming": "6.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "世界上最长的吊桥",
+      "Sentence": "--- lesson 17  The longest suspension bridge in the world"
+    },
+    {
+      "voaid": "3017",
+      "EndTiming": "17.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.9",
+      "Sentence_cn": "1524年，一位鲜为人知的意大利人维拉萨诺驾船驶进纽约港，并将该港名为安古拉姆。",
+      "Sentence": "Verrazano, an Italian about whom little is known, sailed into New York Harbour in 1524 and named it Angouleme."
+    },
+    {
+      "voaid": "3017",
+      "EndTiming": "28.4",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "18.1",
+      "Sentence_cn": "他对该港作了这样的描述：“地理位置十分适宜，位于两座小山的中间，一条大河从中间流过”。",
+      "Sentence": "He described it as 'a very agreeable situation located within two small hills in the midst of which flowed a great river.'"
+    },
+    {
+      "voaid": "3017",
+      "EndTiming": "37.1",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "28.9",
+      "Sentence_cn": "虽然维拉萨诺绝对算不上一个伟大的探险家，但他的名字将流芳百世，",
+      "Sentence": "Though Verrazano is by no means considered to be a great explorer, his name will probably remain immortal,"
+    },
+    {
+      "voaid": "3017",
+      "EndTiming": "46.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "37.5",
+      "Sentence_cn": "因为1964年11月21日建成的一座世界上最长的吊桥是以他的名字命名的。",
+      "Sentence": "for on November 21st, 1964, the longest suspension bridge in the world was named after him."
+    },
+    {
+      "voaid": "3017",
+      "EndTiming": "55.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "47.3",
+      "Sentence_cn": "维拉萨诺大桥由奥斯马.阿曼设计，连结着布鲁克林与斯塔顿岛，",
+      "Sentence": "The Verrazano Bridge, which was designed by Othmar Ammann, joins Brooklyn to Staten Island."
+    },
+    {
+      "voaid": "3017",
+      "EndTiming": "59.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "55.1",
+      "Sentence_cn": "桥长4,260英尺。",
+      "Sentence": "It has a span of 4,260 feet."
+    },
+    {
+      "voaid": "3017",
+      "EndTiming": "66.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "60.1",
+      "Sentence_cn": "由于桥身太长，设计者不得不考虑了地表的形状。",
+      "Sentence": "The bridge is so long that the shape of the earth had to be taken into account by its designer."
+    },
+    {
+      "voaid": "3017",
+      "EndTiming": "72.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "67.2",
+      "Sentence_cn": "两座巨塔支撑着4根粗大的钢缆。",
+      "Sentence": "Two great towers support four huge cables."
+    },
+    {
+      "voaid": "3017",
+      "EndTiming": "78.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "72.6",
+      "Sentence_cn": "塔身建在巨大的水下钢筋混凝土平台上。",
+      "Sentence": "The towers are built on immense underwater platforms made of steel and concrete."
+    },
+    {
+      "voaid": "3017",
+      "EndTiming": "83.7",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "79.0",
+      "Sentence_cn": "平台深入海底100英尺。",
+      "Sentence": "The platforms extend to a depth of over 100 feet under the sea."
+    },
+    {
+      "voaid": "3017",
+      "EndTiming": "87.6",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "84.3",
+      "Sentence_cn": "仅这两座塔就花了16个月才建成。",
+      "Sentence": "These alone took sixteen months to build."
+    },
+    {
+      "voaid": "3017",
+      "EndTiming": "94.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "88.1",
+      "Sentence_cn": "塔身高出水面将近700英尺。",
+      "Sentence": "Above the surface of the water, the towers rise to a height of nearly 700 feet."
+    },
+    {
+      "voaid": "3017",
+      "EndTiming": "98.4",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "94.7",
+      "Sentence_cn": "高塔支撑着钢缆，而钢缆又悬吊着大桥。",
+      "Sentence": "They support the cables from which the bridge has been suspended."
+    },
+    {
+      "voaid": "3017",
+      "EndTiming": "105.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "99.1",
+      "Sentence_cn": "4根钢缆中的每根由26，108股钢绳组成。",
+      "Sentence": "Each of the four cables contains 26,108 lengths of wire."
+    },
+    {
+      "voaid": "3017",
+      "EndTiming": "114.4",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "105.0",
+      "Sentence_cn": "据估计，若桥上摆满了汽车，也只不过是桥的总承载力的1/3。",
+      "Sentence": "It has been estimated that if the bridge were packed with cars, it would still only be carrying a third of its total capacity."
+    },
+    {
+      "voaid": "3017",
+      "EndTiming": "120.6",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "114.4",
+      "Sentence_cn": "然而，这座桥的重要特点不仅是它的规模与强度。",
+      "Sentence": "However, size and strength are not the only important things about this bridge."
+    },
+    {
+      "voaid": "3017",
+      "EndTiming": "126.2",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "121.3",
+      "Sentence_cn": "尽管此桥很大，但它的结构简单，造型优美，",
+      "Sentence": "Despite its immensity, it is both simple and elegant,"
+    },
+    {
+      "voaid": "3017",
+      "EndTiming": "134.7",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "126.8",
+      "Sentence_cn": "实现了设计者企图创造一个“尽量用细线条勾画出一个庞然大物”的梦想。",
+      "Sentence": "fulfilling its designer's dream to create 'an enormous object drawn as faintly as possible'."
+    }
+  ],
+  "size": 19,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14568,14569",
+    "title_cn": "世界上最长的吊桥",
+    "title": "The longest suspension bridge in the world"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_17.mp3"
+}

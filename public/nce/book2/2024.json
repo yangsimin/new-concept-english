@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "voaid": "2024",
+      "EndTiming": "4.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "不幸中之万幸",
+      "Sentence": "--- Lesson 24  It could be worse"
+    },
+    {
+      "voaid": "2024",
+      "EndTiming": "9.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.3",
+      "Sentence_cn": "我走进饭店经理的办公室，坐了下来。",
+      "Sentence": "I entered the hotel manager's office and sat down."
+    },
+    {
+      "voaid": "2024",
+      "EndTiming": "15.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.0",
+      "Sentence_cn": "我刚刚丢了50英镑，感到非常烦恼。",
+      "Sentence": "I had just lost £50 and I felt very upset."
+    },
+    {
+      "voaid": "2024",
+      "EndTiming": "21.9",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "15.8",
+      "Sentence_cn": "“我把钱放在房间里，”我说，“可现在没有了。”",
+      "Sentence": "'I left the money in my room,' I said, 'and it's not there now.'"
+    },
+    {
+      "voaid": "2024",
+      "EndTiming": "27.1",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "22.7",
+      "Sentence_cn": "经理深表同情，但却无能为力。",
+      "Sentence": "The manager was sympathetic, but he could do nothing."
+    },
+    {
+      "voaid": "2024",
+      "EndTiming": "32.2",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "28.0",
+      "Sentence_cn": "“现在大家都在丢钱，”他说。",
+      "Sentence": "'Everyone's losing money these days,' he said."
+    },
+    {
+      "voaid": "2024",
+      "EndTiming": "40.2",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "32.9",
+      "Sentence_cn": "他开始抱怨起这个邪恶的世道来，却被一阵敲门声打断了。",
+      "Sentence": "He started to complain about this wicked world but was interrupted by a knock at the door."
+    },
+    {
+      "voaid": "2024",
+      "EndTiming": "44.8",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "41.0",
+      "Sentence_cn": "一个姑娘走了进来，把一个信封放在了他桌上。",
+      "Sentence": "A girl came in and put an envelope on his desk."
+    },
+    {
+      "voaid": "2024",
+      "EndTiming": "47.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "44.8",
+      "Sentence_cn": "它里面装着50英镑。",
+      "Sentence": "It contained £50."
+    },
+    {
+      "voaid": "2024",
+      "EndTiming": "52.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "48.3",
+      "Sentence_cn": "“这是我在这位先生的房门外捡到的，”她说。",
+      "Sentence": "'I found this outside this gentleman's room,' she said."
+    },
+    {
+      "voaid": "2024",
+      "EndTiming": "60.2",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "53.3",
+      "Sentence_cn": "“是啊，”我对那位经理说，“这世界上还是有诚实可言的！”",
+      "Sentence": "'Well,' I said to the manager, 'there is still some honesty in this world!'"
+    }
+  ],
+  "size": 11,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14392,14393",
+    "title_cn": "不幸中之万幸",
+    "title": "It could be worse"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_24.mp3"
+}

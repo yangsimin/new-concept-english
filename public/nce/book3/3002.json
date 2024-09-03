@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "3002",
+      "EndTiming": "4.7",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "十三等于一",
+      "Sentence": "--- lesson 2  Thirteen equals one"
+    },
+    {
+      "voaid": "3002",
+      "EndTiming": "9.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.7",
+      "Sentence_cn": "我们教区的牧师总是为各种各样的事筹集资金，",
+      "Sentence": "Our vicar is always raising money for one cause or another,"
+    },
+    {
+      "voaid": "3002",
+      "EndTiming": "13.8",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "9.0",
+      "Sentence_cn": "但始终未能筹足资金把教堂的钟修好。",
+      "Sentence": "but he has never managed to get enough money to have the church clock repaired."
+    },
+    {
+      "voaid": "3002",
+      "EndTiming": "23.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "14.4",
+      "Sentence_cn": "教堂的钟很大，以前不分昼夜打点报时，但在很多年前遭到毁坏，从此便无声无息了。",
+      "Sentence": "The big clock which used to strike the hours day and night was damaged many years ago and has been silent ever since."
+    },
+    {
+      "voaid": "3002",
+      "EndTiming": "30.4",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "24.1",
+      "Sentence_cn": "一天夜里，我们的牧师突然被惊醒了，大钟又在“打点”报时了！",
+      "Sentence": "One night, however, our vicar woke up with a start: the clock was striking the hours!"
+    },
+    {
+      "voaid": "3002",
+      "EndTiming": "38.8",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "30.4",
+      "Sentence_cn": "他一看表，才1点钟，可是那钟一边敲了13下才停。",
+      "Sentence": "Looking at his watch, he saw that it was one o'clock, but the bell struck thirteen times before it stopped."
+    },
+    {
+      "voaid": "3002",
+      "EndTiming": "44.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "39.5",
+      "Sentence_cn": "牧师拿着一支电筒走上钟楼想去看看究竟发生了什么事情。",
+      "Sentence": "Armed with a torch, the vicar went up into the clock tower to see what was going on."
+    },
+    {
+      "voaid": "3002",
+      "EndTiming": "53.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "44.9",
+      "Sentence_cn": "借着电筒光。他看见一个人，马上认出那是本地杂货店店主比尔.威尔金斯。",
+      "Sentence": "In the torchlight, he caught sight of a figure whom he immediately recognized as Bill Wilkins, our local grocer."
+    },
+    {
+      "voaid": "3002",
+      "EndTiming": "58.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "53.7",
+      "Sentence_cn": "“你究竟在这上面干什么，比尔?”牧师惊讶地问。",
+      "Sentence": "'Whatever are you doing up here Bill?' asked the vicar in surprise."
+    },
+    {
+      "voaid": "3002",
+      "EndTiming": "61.9",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "58.0",
+      "Sentence_cn": "“我想把这口钟修好，”比尔回答说。",
+      "Sentence": "'I'm trying to repair the bell,' answered Bill."
+    },
+    {
+      "voaid": "3002",
+      "EndTiming": "65.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "62.5",
+      "Sentence_cn": "“好几个星期了，我天天夜里到钟楼上来。",
+      "Sentence": "'I've been coming up here night after night for weeks now."
+    },
+    {
+      "voaid": "3002",
+      "EndTiming": "68.6",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "65.5",
+      "Sentence_cn": "嗯，我是想让你大吃一惊。”",
+      "Sentence": "You see, I was hoping to give you a surprise.'"
+    },
+    {
+      "voaid": "3002",
+      "EndTiming": "72.7",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "69.3",
+      "Sentence_cn": "“你确实使我大吃了一惊！”牧师说，",
+      "Sentence": "'You certainly did give me a surprise!' said the vicar."
+    },
+    {
+      "voaid": "3002",
+      "EndTiming": "76.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "72.7",
+      "Sentence_cn": "“也许同时你把村里所有的人都吵醒了。",
+      "Sentence": "'You've probably woken up everyone in the village as well."
+    },
+    {
+      "voaid": "3002",
+      "EndTiming": "79.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "76.3",
+      "Sentence_cn": "不过，钟又能报时了，我还是很高兴的。”",
+      "Sentence": "Still, I'm glad the bell is working again.'"
+    },
+    {
+      "voaid": "3002",
+      "EndTiming": "82.1",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "79.2",
+      "Sentence_cn": "“问题就在这里，牧师，”比尔回答说。",
+      "Sentence": "'That's the trouble, vicar,' answered Bill."
+    },
+    {
+      "voaid": "3002",
+      "EndTiming": "91.5",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "82.1",
+      "Sentence_cn": "“不错，钟能报时了，但是，恐怕每到1点钟，它总要敲13下，对此我已无能为力了。”",
+      "Sentence": "'It's working all right, but I'm afraid that at one o'clock it will strike thirteen times and there's nothing I can do about it.'"
+    },
+    {
+      "voaid": "3002",
+      "EndTiming": "94.5",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "91.6",
+      "Sentence_cn": "“大家慢慢就习惯了，比尔，”牧师说。",
+      "Sentence": "'We'll get used to that, Bill,' said the vicar."
+    },
+    {
+      "voaid": "3002",
+      "EndTiming": "98.9",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "94.5",
+      "Sentence_cn": "“13下是不如1下好，但总比1下也不敲强。",
+      "Sentence": "'Thirteen is not as good as one, but it's better than nothing."
+    },
+    {
+      "voaid": "3002",
+      "EndTiming": "102.6",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "99.4",
+      "Sentence_cn": "来，咱们下楼去喝杯茶吧。”",
+      "Sentence": "Now let's go downstairs and have a cup of tea.'"
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14533,14534",
+    "title_cn": "十三等于一",
+    "title": "Thirteen equals one"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_2.mp3"
+}

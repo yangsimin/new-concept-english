@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "voaid": "1035",
+      "EndTiming": "4.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.7",
+      "Sentence_cn": "我们的村庄",
+      "Sentence": "--- lesson 35  Our village"
+    },
+    {
+      "voaid": "1035",
+      "EndTiming": "8.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.3",
+      "Sentence_cn": "这是我们村庄的一张照片。",
+      "Sentence": "This is a photograph of our village."
+    },
+    {
+      "voaid": "1035",
+      "EndTiming": "12.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "9.7",
+      "Sentence_cn": "我们的村庄坐落在一个山谷之中。",
+      "Sentence": "Our village is in a valley."
+    },
+    {
+      "voaid": "1035",
+      "EndTiming": "15.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "13.0",
+      "Sentence_cn": "它位于两座小山之间。",
+      "Sentence": "It is between two hills."
+    },
+    {
+      "voaid": "1035",
+      "EndTiming": "18.7",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "16.3",
+      "Sentence_cn": "它靠近一条小河。",
+      "Sentence": "The village is on a river."
+    },
+    {
+      "voaid": "1035",
+      "EndTiming": "23.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "19.4",
+      "Sentence_cn": "这是我们村庄的另一张照片。",
+      "Sentence": "Here is another photograph of the village."
+    },
+    {
+      "voaid": "1035",
+      "EndTiming": "29.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "24.2",
+      "Sentence_cn": "我和妻子正沿河岸走着。",
+      "Sentence": "My wife and I are walking along the banks of the river."
+    },
+    {
+      "voaid": "1035",
+      "EndTiming": "32.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "30.7",
+      "Sentence_cn": "我们在河的左侧。",
+      "Sentence": "We are on the left."
+    },
+    {
+      "voaid": "1035",
+      "EndTiming": "35.8",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "33.4",
+      "Sentence_cn": "河里面有个男孩。",
+      "Sentence": "There is a boy in the water."
+    },
+    {
+      "voaid": "1035",
+      "EndTiming": "39.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "36.6",
+      "Sentence_cn": "他正横渡小河。",
+      "Sentence": "He is swimming across the river."
+    },
+    {
+      "voaid": "1035",
+      "EndTiming": "42.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "40.1",
+      "Sentence_cn": "这是另一张照片。",
+      "Sentence": "Here is another photograph."
+    },
+    {
+      "voaid": "1035",
+      "EndTiming": "45.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "43.1",
+      "Sentence_cn": "这是学校大楼。",
+      "Sentence": "This is the school building."
+    },
+    {
+      "voaid": "1035",
+      "EndTiming": "48.3",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "46.0",
+      "Sentence_cn": "它位于公园的旁边。",
+      "Sentence": "It is beside a park."
+    },
+    {
+      "voaid": "1035",
+      "EndTiming": "51.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "49.1",
+      "Sentence_cn": "公园在右面。",
+      "Sentence": "The park is on the right."
+    },
+    {
+      "voaid": "1035",
+      "EndTiming": "55.9",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "52.3",
+      "Sentence_cn": "一些孩子正从楼里出来。",
+      "Sentence": "Some children are coming out of the building."
+    },
+    {
+      "voaid": "1035",
+      "EndTiming": "60.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "56.6",
+      "Sentence_cn": "他们中有几个正走进公园。",
+      "Sentence": "Some of them are going into the park."
+    }
+  ],
+  "size": 16,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14217",
+    "title_cn": "我们的村庄",
+    "title": "Our village"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_35.mp3"
+}

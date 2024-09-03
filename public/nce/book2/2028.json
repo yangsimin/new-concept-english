@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "voaid": "2028",
+      "EndTiming": "3.8",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "禁止停车",
+      "Sentence": "--- Lesson 28  No parking"
+    },
+    {
+      "voaid": "2028",
+      "EndTiming": "9.9",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.5",
+      "Sentence_cn": "贾斯珀.怀特是少有的相信古代神话的人之一。",
+      "Sentence": "Jasper White is one of those rare people who believes in ancient myths."
+    },
+    {
+      "voaid": "2028",
+      "EndTiming": "14.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.8",
+      "Sentence_cn": "他刚在城里买下一所新房子，",
+      "Sentence": "he has just bought a new house in the city,"
+    },
+    {
+      "voaid": "2028",
+      "EndTiming": "20.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "14.6",
+      "Sentence_cn": "但自从搬进去后，就和汽车及车主们发生了摩擦。",
+      "Sentence": "but ever since he moved in, he has had trouble with cars and their owners."
+    },
+    {
+      "voaid": "2028",
+      "EndTiming": "29.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "21.4",
+      "Sentence_cn": "当他夜里回到家时，总是发现有人把车停在他家大门外。",
+      "Sentence": "When he returns home at night, he always finds that someone has parked a car outside his gate."
+    },
+    {
+      "voaid": "2028",
+      "EndTiming": "37.3",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "29.8",
+      "Sentence_cn": "为此，他甚至一次也没能把自己的车开进车库。",
+      "Sentence": "Because of this, he has not been able to get his own car into his garage even once."
+    },
+    {
+      "voaid": "2028",
+      "EndTiming": "46.8",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "38.2",
+      "Sentence_cn": "贾斯珀曾把几块“禁止停车”的牌子挂在大门外边，但没有任何效果。",
+      "Sentence": "Jasper has put up 'No Parking' signs outside his gate, but these have not had any effect."
+    },
+    {
+      "voaid": "2028",
+      "EndTiming": "51.8",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "47.6",
+      "Sentence_cn": "现在他把一个丑陋的石雕头像放在了大门上边，",
+      "Sentence": "Now he has put an ugly stone head over the gate."
+    },
+    {
+      "voaid": "2028",
+      "EndTiming": "57.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "52.6",
+      "Sentence_cn": "这是我见过的最丑陋的头像之一。",
+      "Sentence": "It is one of the ugliest faces I have ever seen."
+    },
+    {
+      "voaid": "2028",
+      "EndTiming": "64.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "57.9",
+      "Sentence_cn": "我问他那是什么？他告诉我那是蛇发女怪美杜莎。",
+      "Sentence": "I asked him what it was and he told me that it was Medusa, the Gorgon."
+    },
+    {
+      "voaid": "2028",
+      "EndTiming": "70.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "65.0",
+      "Sentence_cn": "贾斯珀希望她把汽车和车主们都变成石头。",
+      "Sentence": "jasper hopes that she will turn cars and their owners to stone."
+    },
+    {
+      "voaid": "2028",
+      "EndTiming": "74.3",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "70.8",
+      "Sentence_cn": "但到目前为止还没有一个变成石头呢！",
+      "Sentence": "But none of them has been turned to stone yet!"
+    }
+  ],
+  "size": 12,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14399,14400",
+    "title_cn": "禁止停车",
+    "title": "No parking"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_28.mp3"
+}

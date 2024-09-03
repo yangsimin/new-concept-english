@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "voaid": "1100",
+      "EndTiming": "15.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "12.2",
+      "Sentence_cn": "我感觉很累。",
+      "Sentence": "Look at number 1. I feel tired."
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "17.6",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "16.9",
+      "Sentence_cn": "什么？",
+      "Sentence": "What's that?"
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "21.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "19.0",
+      "Sentence_cn": "他说他感觉很累。",
+      "Sentence": "He says that he feels tired."
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "27.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "24.2",
+      "Sentence_cn": "我头痛.",
+      "Sentence": "Number 6. I've got a headache."
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "28.7",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "28.0",
+      "Sentence_cn": "什么？",
+      "Sentence": "What's that?"
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "33.3",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "31.1",
+      "Sentence_cn": "她说她头痛。",
+      "Sentence": "She says that she's got a headache."
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "38.7",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "34.9",
+      "Sentence_cn": "我们想要一些钱。",
+      "Sentence": "Number 12. We want some money."
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "40.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "39.8",
+      "Sentence_cn": "什么？",
+      "Sentence": "What's that??"
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "45.7",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "40.7",
+      "Sentence_cn": "他们说他们想要一些钱。",
+      "Sentence": "They say that they want some money."
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "100.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "96.0",
+      "Sentence_cn": "我很冷。",
+      "Sentence": "Number 3. I' m cold."
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "101.8",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "101.1",
+      "Sentence_cn": "什么？",
+      "Sentence": "What's that?"
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "108.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "105.3",
+      "Sentence_cn": "她说她很冷。",
+      "Sentence": "She says that she is cold."
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "114.8",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "110.0",
+      "Sentence_cn": "我们牙痛。",
+      "Sentence": "Number 8. We have toothache."
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "118.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "117.3",
+      "Sentence_cn": "什么？",
+      "Sentence": "What's that?"
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "122.5",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "120.1",
+      "Sentence_cn": "他们说他们牙痛。",
+      "Sentence": "They say that they have toothache."
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "132.4",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "126.7",
+      "Sentence_cn": "我们照X光。",
+      "Sentence": "Number 11. I need an x-ray."
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "134.7",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "131.9",
+      "Sentence_cn": "什么？",
+      "Sentence": "What's that?"
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "140.8",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "138.5",
+      "Sentence_cn": "他说他需要照X光。",
+      "Sentence": "He says that he needs an x-ray."
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "149.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "143.3",
+      "Sentence_cn": "我们可以修理这辆车。",
+      "Sentence": "Number 15. We can repair this car."
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "151.4",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "150.5",
+      "Sentence_cn": "什么？",
+      "Sentence": "What's that?"
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "158.3",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "155.3",
+      "Sentence_cn": "他们说他们能修理这辆车。",
+      "Sentence": "They say that they can repair this car."
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "164.0",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "159.8",
+      "Sentence_cn": "我应该等汽车。",
+      "Sentence": "Number 13. I must wait for a bus."
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "166.7",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "165.8",
+      "Sentence_cn": "什么？",
+      "Sentence": "What's that?"
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "173.2",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "170.2",
+      "Sentence_cn": "她说她应该等汽车。",
+      "Sentence": "She says that she must wait for a bus."
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "179.7",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "175.5",
+      "Sentence_cn": "我们感觉口渴。",
+      "Sentence": "Number 2. We feel thirsty."
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "182.8",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "181.8",
+      "Sentence_cn": "什么？",
+      "Sentence": "What's that?"
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "188.0",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "185.5",
+      "Sentence_cn": "他们说他们感到渴。",
+      "Sentence": "They say that they feel thirsty."
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "196.3",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "191.9",
+      "Sentence_cn": "我将去赶汽车。",
+      "Sentence": "Number 14. I shall catch the bus."
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "198.4",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "197.6",
+      "Sentence_cn": "什么？",
+      "Sentence": "What's that?"
+    },
+    {
+      "voaid": "1100",
+      "EndTiming": "205.5",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "203.3",
+      "Sentence_cn": "他说他将去赶汽车。",
+      "Sentence": "He says that he will catch the bus."
+    }
+  ],
+  "size": 30,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14300",
+    "title_cn": "他/她/他们说……",
+    "title": "He says that... She says that...They say that..."
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_100.mp3"
+}

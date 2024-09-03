@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "voaid": "2074",
+      "EndTiming": "5.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "舞台之外",
+      "Sentence": "--- Lesson 74  Out of the limelight"
+    },
+    {
+      "voaid": "2074",
+      "EndTiming": "13.6",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.6",
+      "Sentence_cn": "一辆古旧的汽车停在一条干涸的河床边，一群著名男女演员下了车。",
+      "Sentence": "An ancient bus stopped by a dry river bed and a party of famous actors and actresses got off."
+    },
+    {
+      "voaid": "2074",
+      "EndTiming": "23.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "14.1",
+      "Sentence_cn": "他们戴着墨镜，穿着旧衣裳，特别小心以防别人认出他们。",
+      "Sentence": "Dressed in dark glasses and old clothes, they had taken special precautions so that no one should recognize them."
+    },
+    {
+      "voaid": "2074",
+      "EndTiming": "30.1",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "23.8",
+      "Sentence_cn": "但他们很快就发觉，化装的效果有时过分完美了。",
+      "Sentence": "But as they soon discovered, disguises can sometimes be too perfect."
+    },
+    {
+      "voaid": "2074",
+      "EndTiming": "35.9",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "30.7",
+      "Sentence_cn": "“在这个地方野餐简直太妙了，”格格利亚.格利姆说。",
+      "Sentence": "'This is a wonderful place for a picnic,' said Gloria Gleam."
+    },
+    {
+      "voaid": "2074",
+      "EndTiming": "41.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "36.6",
+      "Sentence_cn": "“是再好不过的了，格格利亚。”布林克斯利.米尔斯表示同意，",
+      "Sentence": "'It couldn't be better, Gloria,' Brinksley Meers agreed."
+    },
+    {
+      "voaid": "2074",
+      "EndTiming": "48.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "42.1",
+      "Sentence_cn": "“没有记者，没有影迷！我们为什么不经常来这里呢？”",
+      "Sentence": "'No newspaper men, no film fans! Why don't we come more often?'"
+    },
+    {
+      "voaid": "2074",
+      "EndTiming": "62.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "49.1",
+      "Sentence_cn": "此时，另外两位演员，罗克沃尔.斯林格和默林.格里夫斯，已经把两个大食品篮子提到了一片树荫下。",
+      "Sentence": "Meanwhile, two other actors, Rockwall Slinger and Merlin Greeves, had carried two large food baskets to a shady spot under some trees."
+    },
+    {
+      "voaid": "2074",
+      "EndTiming": "68.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "62.9",
+      "Sentence_cn": "当他们都已安排舒适时，一个陌生人出现了。",
+      "Sentence": "When they had all made themselves comfortable, a stranger appeared."
+    },
+    {
+      "voaid": "2074",
+      "EndTiming": "70.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "68.7",
+      "Sentence_cn": "他看上去非常气愤。",
+      "Sentence": "He looked very angry."
+    },
+    {
+      "voaid": "2074",
+      "EndTiming": "87.8",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "71.6",
+      "Sentence_cn": "“你们都从这里走开，全都走开！”他大叫着，\"我是这里的司法长官。你们看到那个公告牌了吗？上面写着‘禁止野营’——除非你们不识字！”",
+      "Sentence": "'Now you get out of here, all of you!' he shouted. 'I'm sheriff here. Do you See that notice? It says\" No Camping\"—in case you can't read!'"
+    },
+    {
+      "voaid": "2074",
+      "EndTiming": "94.6",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "88.0",
+      "Sentence_cn": "“好了，好了，司法官，”罗克沃尔说， “别使我们难堪。",
+      "Sentence": "'Look, sheriff,' said Rockwall, 'don't be too hard on us."
+    },
+    {
+      "voaid": "2074",
+      "EndTiming": "99.6",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "94.7",
+      "Sentence_cn": "我是罗克沃尔·斯林格，这位是默林·格里夫斯。”",
+      "Sentence": "I'm Rockwall Slinger and this is Merlin Greeves.'"
+    },
+    {
+      "voaid": "2074",
+      "EndTiming": "104.7",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "100.5",
+      "Sentence_cn": "“噢，是吗？”那位司法长官冷笑一声说道，",
+      "Sentence": "'Oh, is it?' said the sheriff with a sneer."
+    },
+    {
+      "voaid": "2074",
+      "EndTiming": "110.8",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "105.0",
+      "Sentence_cn": "“好，我就是布林克斯利·米尔斯。我还有一个名字叫格格利亚·格利姆。",
+      "Sentence": "'Well, I'm Brinksley Meers, and my other name is Gloria Gleam."
+    },
+    {
+      "voaid": "2074",
+      "EndTiming": "114.8",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "111.5",
+      "Sentence_cn": "现在你们赶快滚吧！”",
+      "Sentence": "Now you get out of here fast!'"
+    }
+  ],
+  "size": 16,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14475",
+    "title_cn": "舞台之外",
+    "title": "Out of the limelight"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_74.mp3"
+}

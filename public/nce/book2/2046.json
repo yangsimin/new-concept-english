@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "voaid": "2046",
+      "EndTiming": "5.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "既昂贵又受罪",
+      "Sentence": "--- Lesson 46  Expensive and uncomfortable"
+    },
+    {
+      "voaid": "2046",
+      "EndTiming": "10.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.8",
+      "Sentence_cn": "当一架来自伦敦的飞机抵达悉尼机场时，",
+      "Sentence": "When a plane from London arrived at Sydney airport,"
+    },
+    {
+      "voaid": "2046",
+      "EndTiming": "17.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.5",
+      "Sentence_cn": "工人们开始卸下装有服装的一批木箱。",
+      "Sentence": "workers began to unload a number of wooden boxes which contained clothing."
+    },
+    {
+      "voaid": "2046",
+      "EndTiming": "23.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "17.2",
+      "Sentence_cn": "其中有只箱子特别重，可谁也弄不清是怎么回事。",
+      "Sentence": "No one could account for the fact that one of the boxes was extremely heavy."
+    },
+    {
+      "voaid": "2046",
+      "EndTiming": "29.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "23.9",
+      "Sentence_cn": "突然一个工人想到打开箱子看看。",
+      "Sentence": "It suddenly occurred to one of the workers to open up the box."
+    },
+    {
+      "voaid": "2046",
+      "EndTiming": "33.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "29.0",
+      "Sentence_cn": "看到的情景使他吃惊，",
+      "Sentence": "He was astonished at what he found."
+    },
+    {
+      "voaid": "2046",
+      "EndTiming": "39.3",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "33.7",
+      "Sentence_cn": "箱内有一个人正躺在一堆毛织品之上。",
+      "Sentence": "A man was lying in the box on top of a pile of woollen goods."
+    },
+    {
+      "voaid": "2046",
+      "EndTiming": "47.1",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "39.3",
+      "Sentence_cn": "他由于被人发现而感到非常吃惊，甚至都没有企图逃跑。",
+      "Sentence": "He was so surprised at being discovered that he did not even try to run away."
+    },
+    {
+      "voaid": "2046",
+      "EndTiming": "55.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "47.1",
+      "Sentence_cn": "此人被逮捕后，承认他是在飞机离开伦敦前躲进箱里的。",
+      "Sentence": "After he was arrested, the man admitted hiding in the box before the plane left London."
+    },
+    {
+      "voaid": "2046",
+      "EndTiming": "66.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "55.3",
+      "Sentence_cn": "他经历了一次漫长而又难受的旅程，因为他在那木箱里闷了18个多小时。",
+      "Sentence": "He had had a long and uncomfortable trip, for he had been confined to the wooden box for over eighteen hours."
+    },
+    {
+      "voaid": "2046",
+      "EndTiming": "74.2",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "67.3",
+      "Sentence_cn": "此人被责令交付旅费3,500英镑，",
+      "Sentence": "The man was ordered to pay $3,500 for the cost of the trip."
+    },
+    {
+      "voaid": "2046",
+      "EndTiming": "79.1",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "75.0",
+      "Sentence_cn": "而正常票价是2,000英镑！",
+      "Sentence": "The normal price of a ticket is $2,000!"
+    }
+  ],
+  "size": 12,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14425,14426",
+    "title_cn": "既昂贵又受罪",
+    "title": "Expensive and uncomfortable"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_46.mp3"
+}

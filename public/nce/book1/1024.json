@@ -1,0 +1,372 @@
+{
+  "data": [
+    {
+      "voaid": "1024",
+      "EndTiming": "20.1",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "15.0",
+      "Sentence_cn": "",
+      "Sentence": "Look at number 1,117."
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "23.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "21.5",
+      "Sentence_cn": "请给我一些钢笔。",
+      "Sentence": "Give me some pens please.　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "24.3",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "23.5",
+      "Sentence_cn": "哪些？",
+      "Sentence": "Which ones?　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "26.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "25.1",
+      "Sentence_cn": "桌子上的那些。",
+      "Sentence": "The ones on the desk.　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "33.9",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "29.2",
+      "Sentence_cn": "",
+      "Sentence": "Number 1,218."
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "37.3",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "35.2",
+      "Sentence_cn": "请给我一些领带。",
+      "Sentence": "Give me some ties please.　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "38.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "37.7",
+      "Sentence_cn": "哪些？",
+      "Sentence": "Which ones?　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "40.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "39.1",
+      "Sentence_cn": "椅子上的那些。",
+      "Sentence": "The ones on the chair.　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "47.6",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "42.5",
+      "Sentence_cn": "",
+      "Sentence": "Number 1,319."
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "50.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "48.7",
+      "Sentence_cn": "请给我一些匙。",
+      "Sentence": "Give me some spoons please.　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "52.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "51.4",
+      "Sentence_cn": "哪些？",
+      "Sentence": "Which ones?　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "54.7",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "53.1",
+      "Sentence_cn": "桌子上的那些。",
+      "Sentence": "The ones on the table.　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "126.2",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "121.7",
+      "Sentence_cn": "",
+      "Sentence": "Number 1,420."
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "131.6",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "129.2",
+      "Sentence_cn": "请给我一些盘子。",
+      "Sentence": "Give me some plates please.　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "133.5",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "132.3",
+      "Sentence_cn": "哪些？",
+      "Sentence": "Which ones?　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "137.9",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "136.1",
+      "Sentence_cn": "碗橱上的那些。",
+      "Sentence": "The ones on the cupboard.　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "146.3",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "140.5",
+      "Sentence_cn": "",
+      "Sentence": "Number 1,521.　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "152.3",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "149.7",
+      "Sentence_cn": "请给我一些香烟？",
+      "Sentence": "Give me some cigarettes please.　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "154.9",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "153.9",
+      "Sentence_cn": "哪些？",
+      "Sentence": "Which ones?　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "158.6",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "156.7",
+      "Sentence_cn": "电视机上的那些。",
+      "Sentence": "The ones on the television.　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "167.9",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "161.9",
+      "Sentence_cn": "",
+      "Sentence": "Number 1,622."
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "172.5",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "170.5",
+      "Sentence_cn": "请给我一些盒子。",
+      "Sentence": "Give me some boxes please.　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "174.8",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "173.3",
+      "Sentence_cn": "哪些？",
+      "Sentence": "Which ones?　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "179.7",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "178.0",
+      "Sentence_cn": "地板上的那些。",
+      "Sentence": "The ones on the floor.　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "188.8",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "183.5",
+      "Sentence_cn": "",
+      "Sentence": "Number 1,723."
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "193.3",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "191.0",
+      "Sentence_cn": "请给我一些瓶子。",
+      "Sentence": "Give me some bottles please.　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "195.5",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "194.4",
+      "Sentence_cn": "哪些？",
+      "Sentence": "Which ones?　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "200.3",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "198.0",
+      "Sentence_cn": "梳妆台上的那些。",
+      "Sentence": "The ones on the dressing table.　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "208.2",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "202.6",
+      "Sentence_cn": "",
+      "Sentence": "Number 1,824."
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "214.0",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "211.8",
+      "Sentence_cn": "请给我一些书。",
+      "Sentence": "Give me some books please.　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "216.4",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "215.1",
+      "Sentence_cn": "哪些？",
+      "Sentence": "Which ones?　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "221.2",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "219.2",
+      "Sentence_cn": "架子上的那些。",
+      "Sentence": "The ones on the shelf.　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "229.5",
+      "Paraid": "1",
+      "IdIndex": "33",
+      "Timing": "223.7",
+      "Sentence_cn": "",
+      "Sentence": "Number 1,925."
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "235.7",
+      "Paraid": "1",
+      "IdIndex": "34",
+      "Timing": "233.0",
+      "Sentence_cn": "请给我一些杂志。",
+      "Sentence": "Give me some magazines please.　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "238.0",
+      "Paraid": "1",
+      "IdIndex": "35",
+      "Timing": "236.7",
+      "Sentence_cn": "哪些?",
+      "Sentence": "Which ones?　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "242.1",
+      "Paraid": "1",
+      "IdIndex": "36",
+      "Timing": "240.0",
+      "Sentence_cn": "床上的那些。",
+      "Sentence": "The ones on the bed.　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "247.0",
+      "Paraid": "1",
+      "IdIndex": "37",
+      "Timing": "244.6",
+      "Sentence_cn": "",
+      "Sentence": "Number 2,000."
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "253.7",
+      "Paraid": "1",
+      "IdIndex": "38",
+      "Timing": "251.1",
+      "Sentence_cn": "请给我一些报纸。",
+      "Sentence": "Give me some newspapers please.　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "255.8",
+      "Paraid": "1",
+      "IdIndex": "39",
+      "Timing": "254.4",
+      "Sentence_cn": "哪些？",
+      "Sentence": "Which ones?　"
+    },
+    {
+      "voaid": "1024",
+      "EndTiming": "260.6",
+      "Paraid": "1",
+      "IdIndex": "40",
+      "Timing": "258.6",
+      "Sentence_cn": "音响上的那些。",
+      "Sentence": "The ones on the stereo.　"
+    }
+  ],
+  "size": 40,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14205",
+    "title_cn": "给我/他/她/我们/他们一些…… 哪些……？",
+    "title": "Give me/him/her/us/them some ... Which ones?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_24.mp3"
+}

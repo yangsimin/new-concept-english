@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "voaid": "2023",
+      "EndTiming": "4.3",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "新居",
+      "Sentence": "--- Lesson 23  A new house"
+    },
+    {
+      "voaid": "2023",
+      "EndTiming": "8.1",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.0",
+      "Sentence_cn": "昨天我收到了姐姐的一封信，",
+      "Sentence": "I had a letter from my sister yesterday."
+    },
+    {
+      "voaid": "2023",
+      "EndTiming": "10.8",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.8",
+      "Sentence_cn": "她住在尼日利亚。",
+      "Sentence": "She lives in Nigeria."
+    },
+    {
+      "voaid": "2023",
+      "EndTiming": "16.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "11.6",
+      "Sentence_cn": "在信中她说她明年将到英国来。",
+      "Sentence": "In her letter, she said that she would come to England next year."
+    },
+    {
+      "voaid": "2023",
+      "EndTiming": "20.3",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "17.2",
+      "Sentence_cn": "如果她来了，她会感到非常惊奇的。",
+      "Sentence": "If she comes, she will get a surprise."
+    },
+    {
+      "voaid": "2023",
+      "EndTiming": "25.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "21.1",
+      "Sentence_cn": "我们现在住在乡间的一栋漂亮的新住宅里。",
+      "Sentence": "We are now living in a beautiful new house in the country."
+    },
+    {
+      "voaid": "2023",
+      "EndTiming": "30.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "26.1",
+      "Sentence_cn": "这栋房子在我姐姐离开之前就已动工了，",
+      "Sentence": "Work on it had begun before my sister left."
+    },
+    {
+      "voaid": "2023",
+      "EndTiming": "33.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "30.8",
+      "Sentence_cn": "是在5个月以前竣工的。",
+      "Sentence": "The house was completed five months ago."
+    },
+    {
+      "voaid": "2023",
+      "EndTiming": "38.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "34.4",
+      "Sentence_cn": "我在信中告诉她，她可以和我们住在一起。",
+      "Sentence": "In my letter, I told her that she could stay with us."
+    },
+    {
+      "voaid": "2023",
+      "EndTiming": "44.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "39.4",
+      "Sentence_cn": "这栋房子里有许多房间，还有一个漂亮的花园。",
+      "Sentence": "The house has many large rooms and there is a lovely garden."
+    },
+    {
+      "voaid": "2023",
+      "EndTiming": "50.3",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "44.9",
+      "Sentence_cn": "它是一栋非常现代化的住宅，因此在有些人看来很古怪。",
+      "Sentence": "It is a very modern house, so it looks strange to some people."
+    },
+    {
+      "voaid": "2023",
+      "EndTiming": "55.1",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "51.1",
+      "Sentence_cn": "它肯定是这个地区唯一的一栋现代化住宅。",
+      "Sentence": "It must be the only modern house in the district."
+    }
+  ],
+  "size": 12,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14390,14391",
+    "title_cn": "新居",
+    "title": "A new house"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_23.mp3"
+}

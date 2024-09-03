@@ -1,0 +1,273 @@
+{
+  "data": [
+    {
+      "voaid": "1084",
+      "EndTiming": "20.7",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "15.0",
+      "Sentence_cn": "你吃蔬菜了吗？",
+      "Sentence": "Look at number 1,000. Have you had any vegetables?"
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "23.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "21.0",
+      "Sentence_cn": "我没吃蔬菜。",
+      "Sentence": "I haven't had any vegetables."
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "25.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "23.2",
+      "Sentence_cn": "我只吃了一些水果。",
+      "Sentence": "I've just had some fruit."
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "30.8",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "26.0",
+      "Sentence_cn": "他吃一些豆角了吗？",
+      "Sentence": "Number 9,000. Has he had any beans?"
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "33.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "31.3",
+      "Sentence_cn": "他没有吃豆角。",
+      "Sentence": "He hasn't had any beans."
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "35.2",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "33.4",
+      "Sentence_cn": "他只吃了一些豌豆。",
+      "Sentence": "He's just had some peas."
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "41.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "36.3",
+      "Sentence_cn": "他们喝咖啡了吗？",
+      "Sentence": "Number 17,000. Have they had any coffee?"
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "44.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "42.0",
+      "Sentence_cn": "他们没喝咖啡。",
+      "Sentence": "They haven't had any coffee."
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "46.2",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "44.1",
+      "Sentence_cn": "他们只喝了一些茶。",
+      "Sentence": "They've just had some tea."
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "102.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "96.0",
+      "Sentence_cn": "你吃苹果了吗？",
+      "Sentence": "Number 4,000. Have you had any apples?"
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "107.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "105.0",
+      "Sentence_cn": "我没吃苹果。",
+      "Sentence": "I haven't had any apples."
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "110.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "107.9",
+      "Sentence_cn": "我只吃了一些桃子。",
+      "Sentence": "I've just had some peaches."
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "117.5",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "112.0",
+      "Sentence_cn": "我吃卷心菜了吗？",
+      "Sentence": "Number 7,000. Have I had any cabbage?"
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "123.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "121.0",
+      "Sentence_cn": "你没吃卷心菜。",
+      "Sentence": "You haven't had any cabbage."
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "126.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "123.8",
+      "Sentence_cn": "你只吃了一些莴苣",
+      "Sentence": "You've just had some lettuce."
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "132.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "127.0",
+      "Sentence_cn": "你喝啤酒了吗？",
+      "Sentence": "Number 19,000. Have you had any beer?"
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "136.0",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "134.3",
+      "Sentence_cn": "我没喝啤酒。",
+      "Sentence": "I haven't had any beer."
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "138.5",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "136.5",
+      "Sentence_cn": "我只喝了一些果酒。",
+      "Sentence": "I've just had some wine."
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "145.2",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "139.8",
+      "Sentence_cn": "他吃羔羊肉了吗？",
+      "Sentence": "Number 12,000. Has he had any lamb?"
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "151.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "149.0",
+      "Sentence_cn": "他没吃羔羊肉。",
+      "Sentence": "He hasn't had any lamb."
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "154.0",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "151.5",
+      "Sentence_cn": "他只吃了一些牛肉",
+      "Sentence": "He's just had some beef."
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "160.0",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "154.5",
+      "Sentence_cn": "他们喝茶了吗？",
+      "Sentence": "Number 16,000. Have they had any tea?"
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "165.0",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "161.5",
+      "Sentence_cn": "他们没有喝茶。",
+      "Sentence": "They haven't had any tea."
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "168.0",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "165.5",
+      "Sentence_cn": "他们只喝了一些牛奶。",
+      "Sentence": "They've just had some milk."
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "175.0",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "169.0",
+      "Sentence_cn": "她吃肉了吗？",
+      "Sentence": "Number 6,000. Has she had any meat"
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "180.0",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "178.0",
+      "Sentence_cn": "她没吃肉。",
+      "Sentence": "She hasn't had any meat."
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "183.0",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "180.5",
+      "Sentence_cn": "她只吃了一些蔬菜。",
+      "Sentence": "She's just had some vegetables."
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "190.0",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "184.0",
+      "Sentence_cn": "你吃鸡肉了吗？",
+      "Sentence": "Number 14,000. Have you had any chicken?"
+    },
+    {
+      "voaid": "1084",
+      "EndTiming": "198.0",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "192.0",
+      "Sentence_cn": "我没有吃鸡肉。我只吃了一些牛排。",
+      "Sentence": "I haven't had any chicken. I just had some steaks."
+    }
+  ],
+  "size": 29,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14277",
+    "title_cn": "你已经......了吗？",
+    "title": "Have you had...?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_84.mp3"
+}

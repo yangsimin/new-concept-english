@@ -1,0 +1,246 @@
+{
+  "data": [
+    {
+      "voaid": "1060",
+      "EndTiming": "16.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "14.9",
+      "Sentence_cn": "你有黄油吗？",
+      "Sentence": "Do you have any butter?"
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "21.1",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "17.0",
+      "Sentence_cn": "我没有黄油，但是我有一些奶酪。",
+      "Sentence": "I don't have any butter, but I have some cheese."
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "26.4",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "23.7",
+      "Sentence_cn": "你和彭妮有豆角吗？",
+      "Sentence": "Do you and Penny have any beans?"
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "30.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "26.5",
+      "Sentence_cn": "我们没有豆角，但是我们有一些土豆。",
+      "Sentence": "We don't have any beans, but we have some potatoes."
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "36.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "33.6",
+      "Sentence_cn": "彭妮和汤姆有葡萄酒吗？",
+      "Sentence": "Do Penny and Tom have any wine?"
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "40.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "36.7",
+      "Sentence_cn": "他们没有葡萄酒，但他们有一些啤酒。",
+      "Sentence": "They don't have any wine, but they have some beer."
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "54.8",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "51.5",
+      "Sentence_cn": "你有黄油吗？",
+      "Sentence": "Do you have any butter?"
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "60.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "54.9",
+      "Sentence_cn": "我没有黄油，但是我有一些奶酪。",
+      "Sentence": "I don't have any butter, but I have some cheese."
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "70.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "66.2",
+      "Sentence_cn": "你和彭妮有豆角吗？",
+      "Sentence": "Do you and Penny have any beans?"
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "76.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "70.5",
+      "Sentence_cn": "我们没有豆角，但是我们有一些土豆。",
+      "Sentence": "We don't have any beans, but we have some potatoes."
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "86.4",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "81.8",
+      "Sentence_cn": "彭妮和汤姆有葡萄酒吗？",
+      "Sentence": "Do Penny and Tom have any wine?"
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "92.8",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "86.5",
+      "Sentence_cn": "他们没有葡萄酒，但他们有一些啤酒。",
+      "Sentence": "They don't have any wine, but they have some beer."
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "101.7",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "98.2",
+      "Sentence_cn": "你有蜂蜜吗？",
+      "Sentence": "Do you have any honey?"
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "108.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "101.8",
+      "Sentence_cn": "我没有蜂蜜，但是我有一些果酱。",
+      "Sentence": "I don't have any honey, but I have some jam."
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "117.8",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "113.5",
+      "Sentence_cn": "你和汤姆有面包吗？",
+      "Sentence": "Do you and Tom have any bread?"
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "123.9",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "117.9",
+      "Sentence_cn": "我们没有面包，但是我们有一些饼干。",
+      "Sentence": "We don't have any bread, but we have some biscuits."
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "133.8",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "129.0",
+      "Sentence_cn": "汤姆和彭妮有葡萄吗？",
+      "Sentence": "Do Tom and Penny have any grapes?"
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "140.0",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "133.9",
+      "Sentence_cn": "他们没有葡萄。但是他们有一些 香蕉。",
+      "Sentence": "They don't have any grapes, but they have some bananas."
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "149.3",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "145.6",
+      "Sentence_cn": "你有肉馅吗？",
+      "Sentence": "Do you have any mince?"
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "155.3",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "149.4",
+      "Sentence_cn": "我没有肉馅，但是我有一些牛排。",
+      "Sentence": "I don't have any mince, but I have some steak."
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "165.7",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "162.0",
+      "Sentence_cn": "孩子们有黄油吗？",
+      "Sentence": "Do the children have any butter?"
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "171.9",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "165.8",
+      "Sentence_cn": "他们没有黄油，但是他们有一些鸡蛋。",
+      "Sentence": "They don't have any butter, but they have some eggs."
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "180.2",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "176.3",
+      "Sentence_cn": "你有莴苣吗？",
+      "Sentence": "Do you have any lettuces?"
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "186.8",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "180.3",
+      "Sentence_cn": "我没有莴苣，但是我有一些卷心菜。",
+      "Sentence": "I don't have any lettuces, but I have some cabbages."
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "196.5",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "192.2",
+      "Sentence_cn": "你和彭妮有豆角吗？",
+      "Sentence": "Do you and Penny have any beans?"
+    },
+    {
+      "voaid": "1060",
+      "EndTiming": "202.7",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "196.6",
+      "Sentence_cn": "我们没有豆角，但是我们有一些豌豆。",
+      "Sentence": "We don't have any beans, but we have some peas."
+    }
+  ],
+  "size": 26,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14245",
+    "title_cn": "几点钟？",
+    "title": "What's the time?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_60.mp3"
+}

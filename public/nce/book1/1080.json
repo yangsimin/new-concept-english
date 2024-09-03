@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "1080",
+      "EndTiming": "13.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "9.0",
+      "Sentence_cn": "你有吗？",
+      "Sentence": "Look at number 120. Have you got any?"
+    },
+    {
+      "voaid": "1080",
+      "EndTiming": "17.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "14.0",
+      "Sentence_cn": "我需要一些奶酪，我没有多少了。",
+      "Sentence": "I need a lot of cheese. I haven't got much."
+    },
+    {
+      "voaid": "1080",
+      "EndTiming": "23.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "18.0",
+      "Sentence_cn": "他有吗？",
+      "Sentence": "Number 438. Has he got any?"
+    },
+    {
+      "voaid": "1080",
+      "EndTiming": "28.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "24.0",
+      "Sentence_cn": "他需要一些信封，他没有多少了。",
+      "Sentence": "He needs a lot of envelopes. He hasn't got many."
+    },
+    {
+      "voaid": "1080",
+      "EndTiming": "34.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "28.5",
+      "Sentence_cn": "他们有吗？",
+      "Sentence": "Number 543. Have they got any?"
+    },
+    {
+      "voaid": "1080",
+      "EndTiming": "37.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "34.1",
+      "Sentence_cn": "他们需要一些面包，他们没有多少了。",
+      "Sentence": "They need a lot of bread. They haven't got much."
+    },
+    {
+      "voaid": "1080",
+      "EndTiming": "94.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "86.4",
+      "Sentence_cn": "她有吗？",
+      "Sentence": "Number 121. Has she got any?"
+    },
+    {
+      "voaid": "1080",
+      "EndTiming": "100.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "95.0",
+      "Sentence_cn": "她需要一些鸡蛋。她没有多少了",
+      "Sentence": "She needs a lot of eggs. She hasn't got many."
+    },
+    {
+      "voaid": "1080",
+      "EndTiming": "107.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "100.7",
+      "Sentence_cn": "他有吗？",
+      "Sentence": "Number 439. Has he got any?"
+    },
+    {
+      "voaid": "1080",
+      "EndTiming": "115.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "110.0",
+      "Sentence_cn": "他需要一些信纸，他没有多少了。",
+      "Sentence": "He needs a lot of writing paper. He hasn't got much."
+    },
+    {
+      "voaid": "1080",
+      "EndTiming": "122.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "115.4",
+      "Sentence_cn": "我有吗？",
+      "Sentence": "Number 441. Have I got any?"
+    },
+    {
+      "voaid": "1080",
+      "EndTiming": "130.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "124.0",
+      "Sentence_cn": "你需要一些杂志，你没有多少了。",
+      "Sentence": "You need a lot of magazines. You haven't got many."
+    },
+    {
+      "voaid": "1080",
+      "EndTiming": "138.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "130.8",
+      "Sentence_cn": "你有吗？",
+      "Sentence": "Number 333. Have you got any?"
+    },
+    {
+      "voaid": "1080",
+      "EndTiming": "146.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "140.0",
+      "Sentence_cn": ".我需要一些牛肉，我没有多少了。",
+      "Sentence": "I need a lot of beef. I haven't got much."
+    },
+    {
+      "voaid": "1080",
+      "EndTiming": "154.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "147.0",
+      "Sentence_cn": "她有吗？",
+      "Sentence": "Number 122. Has she got any?"
+    },
+    {
+      "voaid": "1080",
+      "EndTiming": "162.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "156.0",
+      "Sentence_cn": "需要一些黄油，她没有多少了。",
+      "Sentence": "She needs a lot of butter. She hasn't got much."
+    },
+    {
+      "voaid": "1080",
+      "EndTiming": "170.0",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "162.5",
+      "Sentence_cn": "他们有吗？",
+      "Sentence": "Number 228. Have they got any? ."
+    },
+    {
+      "voaid": "1080",
+      "EndTiming": "178.0",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "172.0",
+      "Sentence_cn": "他们需要许多香蕉，他们没有多少了。",
+      "Sentence": "They need a lot of bananas. They haven't got many."
+    },
+    {
+      "voaid": "1080",
+      "EndTiming": "185.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "178.5",
+      "Sentence_cn": "我有吗？",
+      "Sentence": "Number 546. Have I got any?"
+    },
+    {
+      "voaid": "1080",
+      "EndTiming": "192.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "187.0",
+      "Sentence_cn": "你需要许多药，你有的不多。",
+      "Sentence": "You need a lot of medicine. You haven't got much："
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14270",
+    "title_cn": "我必须去……",
+    "title": "I must go to the..."
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_80.mp3"
+}

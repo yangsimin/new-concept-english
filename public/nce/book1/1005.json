@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "voaid": "1005",
+      "EndTiming": "3.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "很高兴见到你。",
+      "Sentence": "--- lesson 5  Nice to meet you."
+    },
+    {
+      "voaid": "1005",
+      "EndTiming": "5.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.6",
+      "Sentence_cn": "早上好。",
+      "Sentence": "Good morning."
+    },
+    {
+      "voaid": "1005",
+      "EndTiming": "8.8",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "6.2",
+      "Sentence_cn": "早上好，布莱克先生。",
+      "Sentence": "Good morning, Mr. Blake."
+    },
+    {
+      "voaid": "1005",
+      "EndTiming": "13.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "9.7",
+      "Sentence_cn": "这位是索菲娅.杜邦小姐。",
+      "Sentence": "This is Miss Sophie Dupont."
+    },
+    {
+      "voaid": "1005",
+      "EndTiming": "15.9",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "13.5",
+      "Sentence_cn": "索菲娅是个新学生。",
+      "Sentence": "Sophie is a new student."
+    },
+    {
+      "voaid": "1005",
+      "EndTiming": "18.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "16.5",
+      "Sentence_cn": "她是法国人。",
+      "Sentence": "She is French."
+    },
+    {
+      "voaid": "1005",
+      "EndTiming": "21.8",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "18.9",
+      "Sentence_cn": "索菲娅，这位是汉斯。",
+      "Sentence": "Sophie, this is Hans."
+    },
+    {
+      "voaid": "1005",
+      "EndTiming": "23.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "22.4",
+      "Sentence_cn": "他是德国人。",
+      "Sentence": "He is German."
+    },
+    {
+      "voaid": "1005",
+      "EndTiming": "25.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "24.4",
+      "Sentence_cn": "很高兴见到你。",
+      "Sentence": "Nice to meet you."
+    },
+    {
+      "voaid": "1005",
+      "EndTiming": "28.7",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "26.8",
+      "Sentence_cn": "这位是直子。",
+      "Sentence": "And this is Naoko."
+    },
+    {
+      "voaid": "1005",
+      "EndTiming": "31.2",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "29.5",
+      "Sentence_cn": "她是日本人。",
+      "Sentence": "She's Japanese."
+    },
+    {
+      "voaid": "1005",
+      "EndTiming": "33.3",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "31.7",
+      "Sentence_cn": "很高兴见到你。",
+      "Sentence": "Nice to meet you."
+    },
+    {
+      "voaid": "1005",
+      "EndTiming": "36.2",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "34.1",
+      "Sentence_cn": "这位是昌宇。",
+      "Sentence": "And this is Chang-woo."
+    },
+    {
+      "voaid": "1005",
+      "EndTiming": "38.1",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "36.8",
+      "Sentence_cn": "他是韩国人。",
+      "Sentence": "He's Korean."
+    },
+    {
+      "voaid": "1005",
+      "EndTiming": "40.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "38.5",
+      "Sentence_cn": "很高兴见到你。",
+      "Sentence": "Nice to meet you."
+    },
+    {
+      "voaid": "1005",
+      "EndTiming": "42.8",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "40.8",
+      "Sentence_cn": "这位是鲁明。",
+      "Sentence": "And this is Luming."
+    },
+    {
+      "voaid": "1005",
+      "EndTiming": "44.8",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "43.3",
+      "Sentence_cn": "他是中国人。",
+      "Sentence": "He is Chinese."
+    },
+    {
+      "voaid": "1005",
+      "EndTiming": "46.6",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "45.3",
+      "Sentence_cn": "很高兴见到你。",
+      "Sentence": "Nice to meet you."
+    },
+    {
+      "voaid": "1005",
+      "EndTiming": "50.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "47.5",
+      "Sentence_cn": "这位是晓惠。",
+      "Sentence": "And this is Xiaohui."
+    },
+    {
+      "voaid": "1005",
+      "EndTiming": "52.4",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "50.6",
+      "Sentence_cn": "她也是中国人。",
+      "Sentence": "She's Chinese, too."
+    },
+    {
+      "voaid": "1005",
+      "EndTiming": "54.4",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "53.1",
+      "Sentence_cn": "很高兴见到你。",
+      "Sentence": "Nice to meet you."
+    }
+  ],
+  "size": 21,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14185",
+    "title_cn": "很高兴见到你。",
+    "title": "Nice to meet you."
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_5.mp3"
+}

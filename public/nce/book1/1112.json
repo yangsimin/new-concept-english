@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "voaid": "1112",
+      "EndTiming": "18.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "12.0",
+      "Sentence_cn": "红的苹果要比绿的苹果更甜吗？",
+      "Sentence": "Picture a. Is the red apple sweeter than the green one?"
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "20.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "19.0",
+      "Sentence_cn": "不，不是的。",
+      "Sentence": "No, it isn't."
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "24.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "20.7",
+      "Sentence_cn": "红的苹果和绿的苹果一样甜。",
+      "Sentence": "The red apple is as sweet as the green one."
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "31.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "25.0",
+      "Sentence_cn": "那个男人比那个女人矮吗？",
+      "Sentence": "Picture c. Is the man shorter than the woman?"
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "32.4",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "31.3",
+      "Sentence_cn": "不，不是。",
+      "Sentence": "No, he isn't."
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "35.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "32.7",
+      "Sentence_cn": "那个男人和那个女人一样矮。",
+      "Sentence": "The man is as short as the woman."
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "44.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "36.0",
+      "Sentence_cn": "左边的那台电视比右边那台电视贵吗？",
+      "Sentence": "Picture l. Is the television on the left more expensive than the television on the right?"
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "46.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "45.0",
+      "Sentence_cn": "不，不是。",
+      "Sentence": "No, it isn't."
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "51.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "46.2",
+      "Sentence_cn": "左边的电视和右边的电视一样贵。",
+      "Sentence": "The television on the left is not as expensive as the television on the right."
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "116.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "109.0",
+      "Sentence_cn": "红色的铅笔要比绿色的铅笔钝吗？",
+      "Sentence": "Picture e. Is the red pencil blunter than the green one?"
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "121.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "118.0",
+      "Sentence_cn": "不，不是的。",
+      "Sentence": "No, it isn't."
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "125.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "121.2",
+      "Sentence_cn": "红色的铅笔和绿色的铅笔一样钝。",
+      "Sentence": "The red pencil is as blunt as the green one."
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "134.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "126.0",
+      "Sentence_cn": "白色的手提包比黑色的手提包更新吗？",
+      "Sentence": "Picture k. Is the white handbag newer than the black one?"
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "138.7",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "136.0",
+      "Sentence_cn": "不，不是的。",
+      "Sentence": "No, it isn't."
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "143.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "139.0",
+      "Sentence_cn": "白色的手提包没有黑色的手提包新",
+      "Sentence": "The white handbag is not as new as the black one."
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "150.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "143.3",
+      "Sentence_cn": "男警察比那个女警察高吗？",
+      "Sentence": "Picture b. Is the policeman taller than the policewoman?"
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "154.0",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "152.0",
+      "Sentence_cn": "不，不是的。",
+      "Sentence": "No, he isn't."
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "158.0",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "154.5",
+      "Sentence_cn": "男警察和女警察一样高。",
+      "Sentence": "The policeman is as tall as the policewoman."
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "167.0",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "158.5",
+      "Sentence_cn": "左边的女人比右边的女人聪明吗？",
+      "Sentence": "Picture i. Is the woman on the left smarter than the woman on the right?"
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "172.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "169.0",
+      "Sentence_cn": "不，不是的。",
+      "Sentence": "No, she isn't."
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "176.2",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "172.1",
+      "Sentence_cn": "左边的女人没有右边的女人聪明。",
+      "Sentence": "The woman on the left is not as smart as the woman on the right."
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "183.0",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "177.0",
+      "Sentence_cn": "男孩比女孩大吗？",
+      "Sentence": "Picture d. Is the boy older than the girl?"
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "187.5",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "184.0",
+      "Sentence_cn": "不，不是的。",
+      "Sentence": "No, he isn't."
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "190.5",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "188.0",
+      "Sentence_cn": "男孩和女孩一样大。",
+      "Sentence": "The boy is as old as the girl."
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "198.0",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "191.0",
+      "Sentence_cn": "棕色的箱子要比蓝色的箱子轻吗？",
+      "Sentence": "Picture j. Is the brown case lighter than the blue one?"
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "204.0",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "201.0",
+      "Sentence_cn": "不，不是的。",
+      "Sentence": "No, it isn't."
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "208.0",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "204.2",
+      "Sentence_cn": "棕色的箱子不如蓝色的轻。",
+      "Sentence": "The brown case is not as light as the blue one."
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "217.0",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "209.5",
+      "Sentence_cn": "白色的刀要比黑色的刀更锋利吗？",
+      "Sentence": "Picture f. Is the white knife sharper than the black one?"
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "222.0",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "220.0",
+      "Sentence_cn": "不，不是的。",
+      "Sentence": "No, it isn't."
+    },
+    {
+      "voaid": "1112",
+      "EndTiming": "225.0",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "222.0",
+      "Sentence_cn": "白色的刀和黑色的刀一样锋利。",
+      "Sentence": "The white knife is as sharp as the black one."
+    }
+  ],
+  "size": 30,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14312",
+    "title_cn": "比一比",
+    "title": "How do they compare?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_112.mp3"
+}

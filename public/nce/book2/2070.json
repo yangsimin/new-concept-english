@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "voaid": "2070",
+      "EndTiming": "4.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "危险的红色",
+      "Sentence": "--- Lesson 70  Red for danger"
+    },
+    {
+      "voaid": "2070",
+      "EndTiming": "10.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.2",
+      "Sentence_cn": "在一次斗牛时，一个醉汉突然溜达到斗牛场中间，",
+      "Sentence": "During a bullfight, a drunk suddenly wandered into the middle of the ring."
+    },
+    {
+      "voaid": "2070",
+      "EndTiming": "17.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "11.3",
+      "Sentence_cn": "人们开始大叫起来，但醉汉却没有意识到危险。",
+      "Sentence": "The crowd began to shout, but the drunk was unaware of the danger."
+    },
+    {
+      "voaid": "2070",
+      "EndTiming": "21.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "17.8",
+      "Sentence_cn": "当时那公牛正忙于对付斗牛士，",
+      "Sentence": "The bull was busy with the matador at the time,"
+    },
+    {
+      "voaid": "2070",
+      "EndTiming": "29.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "21.5",
+      "Sentence_cn": "但突然它看见了醉汉，只见他正大声说着粗鲁的话，手里挥动着一顶红帽子。",
+      "Sentence": "but it suddenly caught sight of the drunk who was shouting rude remarks and waving a red cap."
+    },
+    {
+      "voaid": "2070",
+      "EndTiming": "38.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "29.7",
+      "Sentence_cn": "对挑衅显然非常敏感的公牛完全撇开斗牛士，直奔醉汉而来。",
+      "Sentence": "Apparently sensitive to criticism, the bull forgot all about the matador and charged at the drunk."
+    },
+    {
+      "voaid": "2070",
+      "EndTiming": "41.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "38.9",
+      "Sentence_cn": "观众突然静了下来，",
+      "Sentence": "The crowd suddenly grew quiet."
+    },
+    {
+      "voaid": "2070",
+      "EndTiming": "46.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "42.5",
+      "Sentence_cn": "可这醉汉像是很有把握似的。",
+      "Sentence": "The drunk, however, seemed quite sure of himself."
+    },
+    {
+      "voaid": "2070",
+      "EndTiming": "52.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "46.2",
+      "Sentence_cn": "当公牛逼近他时，他踉跄地住旁边一闪，牛扑空了。",
+      "Sentence": "When the bull got close to him, he clumsily stepped aside to let it pass."
+    },
+    {
+      "voaid": "2070",
+      "EndTiming": "57.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "53.6",
+      "Sentence_cn": "观众欢呼起来，醉汉向人们鞠躬致谢。",
+      "Sentence": "The crowd broke into cheers and the drunk bowed."
+    },
+    {
+      "voaid": "2070",
+      "EndTiming": "65.9",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "58.1",
+      "Sentence_cn": "然而，此时已有3个人进入斗牛场，迅速把醉汉拉到安全的地方。",
+      "Sentence": "By this time, however, three men had come into the ring and they quickly dragged the drunk to safety."
+    },
+    {
+      "voaid": "2070",
+      "EndTiming": "70.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "65.9",
+      "Sentence_cn": "好像连牛也在为他感到遗憾，",
+      "Sentence": "Even the bull seemed to feel sorry for him,"
+    },
+    {
+      "voaid": "2070",
+      "EndTiming": "79.8",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "70.4",
+      "Sentence_cn": "因为它一直同情地看着醉汉，直到他的背影消逝，才重新将注意力转向斗牛士。",
+      "Sentence": "for it looked on sympathetically until the drunk was out of the way before once more turning its attention to the matador."
+    }
+  ],
+  "size": 13,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14469,14470",
+    "title_cn": "危险的红色",
+    "title": "Red for danger"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_70.mp3"
+}

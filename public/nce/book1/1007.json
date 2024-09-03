@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "voaid": "1007",
+      "EndTiming": "5.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "你是教师吗？",
+      "Sentence": "lesson 7 Are you a teacher?"
+    },
+    {
+      "voaid": "1007",
+      "EndTiming": "7.6",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.4",
+      "Sentence_cn": "我是个新学生，",
+      "Sentence": "I am a new student."
+    },
+    {
+      "voaid": "1007",
+      "EndTiming": "10.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.3",
+      "Sentence_cn": "我的名字叫罗伯特。",
+      "Sentence": "My name's Robert."
+    },
+    {
+      "voaid": "1007",
+      "EndTiming": "12.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "10.9",
+      "Sentence_cn": "很高兴见到你。",
+      "Sentence": "Nice to meet you."
+    },
+    {
+      "voaid": "1007",
+      "EndTiming": "14.7",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "12.7",
+      "Sentence_cn": "我的名字叫索菲娅。",
+      "Sentence": "My name's Sophie."
+    },
+    {
+      "voaid": "1007",
+      "EndTiming": "16.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "15.1",
+      "Sentence_cn": "你是法国人吗？",
+      "Sentence": "Are you French?"
+    },
+    {
+      "voaid": "1007",
+      "EndTiming": "18.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "17.3",
+      "Sentence_cn": "是的，我是法国人。",
+      "Sentence": "Yes, I am."
+    },
+    {
+      "voaid": "1007",
+      "EndTiming": "21.8",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "19.8",
+      "Sentence_cn": "你也是法国人吗？",
+      "Sentence": "Are you French too?"
+    },
+    {
+      "voaid": "1007",
+      "EndTiming": "25.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "22.6",
+      "Sentence_cn": "不，我不是。",
+      "Sentence": "No, I am not."
+    },
+    {
+      "voaid": "1007",
+      "EndTiming": "28.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "25.9",
+      "Sentence_cn": "你是哪国人？",
+      "Sentence": "What nationality are you?"
+    },
+    {
+      "voaid": "1007",
+      "EndTiming": "30.8",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "28.9",
+      "Sentence_cn": "我是意大利人。",
+      "Sentence": "I'm Italian."
+    },
+    {
+      "voaid": "1007",
+      "EndTiming": "33.4",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "31.4",
+      "Sentence_cn": "你是教师吗？",
+      "Sentence": "Are you a teacher?"
+    },
+    {
+      "voaid": "1007",
+      "EndTiming": "35.7",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "33.9",
+      "Sentence_cn": "不，我不是。",
+      "Sentence": "No, I'm not."
+    },
+    {
+      "voaid": "1007",
+      "EndTiming": "38.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "36.4",
+      "Sentence_cn": "你是做什么工作的？",
+      "Sentence": "What's your job?"
+    },
+    {
+      "voaid": "1007",
+      "EndTiming": "41.3",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "38.6",
+      "Sentence_cn": "我是电脑录入员。",
+      "Sentence": "I'm a keyboard operator."
+    },
+    {
+      "voaid": "1007",
+      "EndTiming": "43.6",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "42.0",
+      "Sentence_cn": "你是做什么工作的？",
+      "Sentence": "What's your job?"
+    },
+    {
+      "voaid": "1007",
+      "EndTiming": "46.2",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "44.1",
+      "Sentence_cn": "我是工程师。",
+      "Sentence": "I'm an engineer."
+    }
+  ],
+  "size": 17,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14187",
+    "title_cn": "你是教师吗？",
+    "title": "Are you a teacher?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_7.mp3"
+}

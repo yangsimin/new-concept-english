@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "voaid": "1071",
+      "EndTiming": "4.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.3",
+      "Sentence_cn": "他讨厌透了！",
+      "Sentence": "--- lesson 71  He's awful!"
+    },
+    {
+      "voaid": "1071",
+      "EndTiming": "8.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.7",
+      "Sentence_cn": "波淋，朗.马顿是怎样一个人？",
+      "Sentence": "What's Ron Marston like,Pauline?"
+    },
+    {
+      "voaid": "1071",
+      "EndTiming": "10.8",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.7",
+      "Sentence_cn": "他讨厌透了！",
+      "Sentence": "He's awful!"
+    },
+    {
+      "voaid": "1071",
+      "EndTiming": "20.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "11.2",
+      "Sentence_cn": "他昨天给我打了4次电话，前天打了3次。",
+      "Sentence": "He telephoned me four times Yesterday, and three times the day before yesterday."
+    },
+    {
+      "voaid": "1071",
+      "EndTiming": "28.7",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "21.1",
+      "Sentence_cn": "他昨天上午和下午把电话打到了我的办公室，",
+      "Sentence": "He telephoned the office yesterday morning and yesterday afternoon."
+    },
+    {
+      "voaid": "1071",
+      "EndTiming": "32.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "29.4",
+      "Sentence_cn": "是我的老板接的。",
+      "Sentence": "My boss answered the telephone."
+    },
+    {
+      "voaid": "1071",
+      "EndTiming": "35.7",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "33.3",
+      "Sentence_cn": "你老板是怎么对他说的？",
+      "Sentence": "What did your boss say to him?"
+    },
+    {
+      "voaid": "1071",
+      "EndTiming": "43.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "36.5",
+      "Sentence_cn": "他说：“波淋正在打信，她现在不能同你讲话！”",
+      "Sentence": "He said, 'Pauline is typing letters.She can't speak to you now!'"
+    },
+    {
+      "voaid": "1071",
+      "EndTiming": "50.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "44.4",
+      "Sentence_cn": "后来，我昨晚6点钟回到家里。",
+      "Sentence": "Then I arrived home at six o'clock yesterday evening."
+    },
+    {
+      "voaid": "1071",
+      "EndTiming": "53.2",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "50.7",
+      "Sentence_cn": "他又打来电话，",
+      "Sentence": "He telephoned again."
+    },
+    {
+      "voaid": "1071",
+      "EndTiming": "56.3",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "53.6",
+      "Sentence_cn": "但我没接。",
+      "Sentence": "But I didn't answer the phone!"
+    },
+    {
+      "voaid": "1071",
+      "EndTiming": "60.3",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "57.1",
+      "Sentence_cn": "他昨天夜里又打电话了吗？",
+      "Sentence": "Did he telephone again last night?"
+    },
+    {
+      "voaid": "1071",
+      "EndTiming": "62.9",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "61.1",
+      "Sentence_cn": "是的，打了。",
+      "Sentence": "Yes, he did."
+    },
+    {
+      "voaid": "1071",
+      "EndTiming": "66.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "63.4",
+      "Sentence_cn": "他在9点钟又打来了电话。",
+      "Sentence": "He telephoned at nine o'clock."
+    },
+    {
+      "voaid": "1071",
+      "EndTiming": "69.3",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "67.3",
+      "Sentence_cn": "你对他怎么说的？",
+      "Sentence": "What did you say to him?"
+    },
+    {
+      "voaid": "1071",
+      "EndTiming": "74.1",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "70.2",
+      "Sentence_cn": "我说：“我是波淋的母亲。",
+      "Sentence": "I said, 'This is Pauline's mother."
+    },
+    {
+      "voaid": "1071",
+      "EndTiming": "78.7",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "74.3",
+      "Sentence_cn": "请不要再给我女儿打电话了！”",
+      "Sentence": "Please don't telephone my daughter again!'"
+    },
+    {
+      "voaid": "1071",
+      "EndTiming": "81.6",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "79.5",
+      "Sentence_cn": "他又打了没有？",
+      "Sentence": "Did he telephone again?"
+    },
+    {
+      "voaid": "1071",
+      "EndTiming": "84.7",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "82.2",
+      "Sentence_cn": "没有！",
+      "Sentence": "No, he didn't!"
+    }
+  ],
+  "size": 19,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14260",
+    "title_cn": "他讨厌透了！",
+    "title": "He's awful!"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_71.mp3"
+}

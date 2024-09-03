@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "voaid": "2080",
+      "EndTiming": "3.7",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "水晶宫",
+      "Sentence": "--- Lesson 80  The Crystal Palace"
+    },
+    {
+      "voaid": "2080",
+      "EndTiming": "11.6",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.7",
+      "Sentence_cn": "19世纪最不寻常的建筑也许要数水晶宫了，",
+      "Sentence": "Perhaps the most extraordinary building of the nineteenth century was the Crystal Palace,"
+    },
+    {
+      "voaid": "2080",
+      "EndTiming": "18.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "12.6",
+      "Sentence_cn": "它是为1851年的“世界博览会”而建在海德公园的。",
+      "Sentence": "which was built in Hyde Park for the Great Exhibition of 1851."
+    },
+    {
+      "voaid": "2080",
+      "EndTiming": "27.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "19.0",
+      "Sentence_cn": "这座水晶宫不同于世界上所有的其他建筑，因为它是用钢和玻璃建成的。",
+      "Sentence": "The Crystal Palace was different from all other buildings in the world, for it was made of iron and glass."
+    },
+    {
+      "voaid": "2080",
+      "EndTiming": "36.3",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "28.4",
+      "Sentence_cn": "它是有史以来最高大的建筑物之一，因此，人们从各个国家纷纷前来参观。",
+      "Sentence": "It was one of the biggest buildings of all time and a lot of people from many countries came to see it."
+    },
+    {
+      "voaid": "2080",
+      "EndTiming": "42.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "37.1",
+      "Sentence_cn": "大量的商品从世界各地运送到了博览会，",
+      "Sentence": "A great many goods were sent to the exhibition from various parts of the world."
+    },
+    {
+      "voaid": "2080",
+      "EndTiming": "47.3",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "43.2",
+      "Sentence_cn": "参展的还有很多机器，",
+      "Sentence": "There was also a great deal of machinery on display."
+    },
+    {
+      "voaid": "2080",
+      "EndTiming": "54.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "48.0",
+      "Sentence_cn": "其中最奇妙的是内史密斯的蒸汽锤。",
+      "Sentence": "The most wonderful piece of machinery on show was Nasmyth's steam hammer."
+    },
+    {
+      "voaid": "2080",
+      "EndTiming": "66.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "54.3",
+      "Sentence_cn": "尽管在当时旅行不像现在这么容易，但汽船还是把成千上万的参观者从欧洲大陆送过了英吉利海峡。",
+      "Sentence": "Though in those days, travelling was not as easy as it is today, steam boats carried thousands of visitors across the Channel from Europe."
+    },
+    {
+      "voaid": "2080",
+      "EndTiming": "72.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "66.9",
+      "Sentence_cn": "一到英国，火车就把他们送到了水晶宫。",
+      "Sentence": "On arriving in England, they were taken to the Crystal Palace by train."
+    },
+    {
+      "voaid": "2080",
+      "EndTiming": "82.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "72.4",
+      "Sentence_cn": "参观的人数总共是600万。博览会的赢利用来建造博物馆和高等学校。",
+      "Sentence": "There were six million visitors in all, and the profits from the exhibition were used to build museums and colleges."
+    },
+    {
+      "voaid": "2080",
+      "EndTiming": "86.6",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "82.7",
+      "Sentence_cn": "后来，“水晶宫”被移到了伦敦南部。",
+      "Sentence": "Later, the Crystal Palace was moved to South London."
+    },
+    {
+      "voaid": "2080",
+      "EndTiming": "95.6",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "86.6",
+      "Sentence_cn": "在1936年被焚毁之前，它一直是世界上最著名的建筑物之一。",
+      "Sentence": "It remained one of the most famous buildings in the world until it was burnt down in 1936."
+    }
+  ],
+  "size": 13,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14486,14487",
+    "title_cn": "水晶宫",
+    "title": "The Crystal Palace"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_80.mp3"
+}

@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "voaid": "1017",
+      "EndTiming": "4.6",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "你好！",
+      "Sentence": "--- lesson 17  How do you do?"
+    },
+    {
+      "voaid": "1017",
+      "EndTiming": "9.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.0",
+      "Sentence_cn": "来见见我们的雇员，理查兹先生。",
+      "Sentence": "Come and meet our employees, Mr.Richards."
+    },
+    {
+      "voaid": "1017",
+      "EndTiming": "12.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.0",
+      "Sentence_cn": "谢谢，杰克逊先生。",
+      "Sentence": "Thank you, Mr.Jackson."
+    },
+    {
+      "voaid": "1017",
+      "EndTiming": "18.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "12.3",
+      "Sentence_cn": "这位是尼克拉.格雷，这位是克莱尔.泰勒。",
+      "Sentence": "This is Nicola Grey,and this is Claire Taylor."
+    },
+    {
+      "voaid": "1017",
+      "EndTiming": "20.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "18.4",
+      "Sentence_cn": "你们好！",
+      "Sentence": "How do you do?"
+    },
+    {
+      "voaid": "1017",
+      "EndTiming": "24.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "20.5",
+      "Sentence_cn": "那些姑娘很勤快。",
+      "Sentence": "Those women are very hard-working."
+    },
+    {
+      "voaid": "1017",
+      "EndTiming": "27.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "25.2",
+      "Sentence_cn": "她们是做什么工作的？",
+      "Sentence": "What are their jobs?"
+    },
+    {
+      "voaid": "1017",
+      "EndTiming": "30.5",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "27.7",
+      "Sentence_cn": "她们是电脑录入员。",
+      "Sentence": "They're keyboard operators."
+    },
+    {
+      "voaid": "1017",
+      "EndTiming": "36.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "30.7",
+      "Sentence_cn": "这位是迈克尔.贝克，这位是杰里米.肖特。",
+      "Sentence": "This is Michael Baker,and this is Jeremy Short."
+    },
+    {
+      "voaid": "1017",
+      "EndTiming": "39.2",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "37.5",
+      "Sentence_cn": "你们好！",
+      "Sentence": "How do you do?"
+    },
+    {
+      "voaid": "1017",
+      "EndTiming": "42.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "39.2",
+      "Sentence_cn": "他们不很忙吧！",
+      "Sentence": "They aren't very busy!"
+    },
+    {
+      "voaid": "1017",
+      "EndTiming": "45.1",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "42.8",
+      "Sentence_cn": "他们是做什么工作的？",
+      "Sentence": "What are their jobs?"
+    },
+    {
+      "voaid": "1017",
+      "EndTiming": "47.5",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "45.7",
+      "Sentence_cn": "他们是推销员，",
+      "Sentence": "They're sales reps."
+    },
+    {
+      "voaid": "1017",
+      "EndTiming": "50.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "47.5",
+      "Sentence_cn": "他们非常懒。",
+      "Sentence": "They're very lazy."
+    },
+    {
+      "voaid": "1017",
+      "EndTiming": "53.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "50.6",
+      "Sentence_cn": "这个年轻人是谁？",
+      "Sentence": "Who is this young man?"
+    },
+    {
+      "voaid": "1017",
+      "EndTiming": "58.8",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "53.6",
+      "Sentence_cn": "他是吉姆，是我们办公室的勤杂人员。",
+      "Sentence": "This is Jim. He's our office assistant."
+    }
+  ],
+  "size": 16,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14197",
+    "title_cn": "你好！",
+    "title": "How do you do?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_17.mp3"
+}

@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "voaid": "2096",
+      "EndTiming": "4.7",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "亡灵返乡",
+      "Sentence": "--- Lesson 96  The dead return"
+    },
+    {
+      "voaid": "2096",
+      "EndTiming": "9.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.4",
+      "Sentence_cn": "日本每年过一次“亡灵节”。",
+      "Sentence": "A Festival for the Dead is held once a year in Japan."
+    },
+    {
+      "voaid": "2096",
+      "EndTiming": "13.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.3",
+      "Sentence_cn": "这个节日是个欢乐的日子，",
+      "Sentence": "This festival is a cheerful occasion,"
+    },
+    {
+      "voaid": "2096",
+      "EndTiming": "20.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "13.6",
+      "Sentence_cn": "因为在这一天，据说死去的人要回到他们的家里来，活着的人则对他们表示欢迎。",
+      "Sentence": "for on this day, the dead are said to return to their homes and they are welcomed by the living."
+    },
+    {
+      "voaid": "2096",
+      "EndTiming": "28.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "21.0",
+      "Sentence_cn": "因为预料到他们在经过长途旅行之后会感到饥饿，所以为他们摆放好了食品。",
+      "Sentence": "As they are expected to be hungry after their long journey, food is laid out for them."
+    },
+    {
+      "voaid": "2096",
+      "EndTiming": "34.8",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "28.5",
+      "Sentence_cn": "特制的灯笼挂在各家的门外，为的是帮助亡灵看清道路。",
+      "Sentence": "Specially-made lanterns are hung outside each house to help the dead to find their way."
+    },
+    {
+      "voaid": "2096",
+      "EndTiming": "39.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "35.5",
+      "Sentence_cn": "整个夜晚人们载歌载舞。",
+      "Sentence": "All night long, people dance and sing."
+    },
+    {
+      "voaid": "2096",
+      "EndTiming": "48.5",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "39.7",
+      "Sentence_cn": "一大早，人们便把为死者摆放的食品扔进河中或海里，",
+      "Sentence": "In the early morning, the food that had been laid out for the dead is thrown into a river or into the sea"
+    },
+    {
+      "voaid": "2096",
+      "EndTiming": "53.2",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "48.9",
+      "Sentence_cn": "因为人们认为活着的人吃了这些东西是不吉利的。",
+      "Sentence": "as it is considered unlucky for anyone living to eat it."
+    },
+    {
+      "voaid": "2096",
+      "EndTiming": "56.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "53.2",
+      "Sentence_cn": "在靠海的城镇中，",
+      "Sentence": "In towns that are near the sea,"
+    },
+    {
+      "voaid": "2096",
+      "EndTiming": "66.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "56.8",
+      "Sentence_cn": "头天夜里挂在大街小巷的小灯笼在节后就放在了水里。",
+      "Sentence": "the tiny lanterns which had been hung in the streets the night before,are placed into the water when the festival is over."
+    },
+    {
+      "voaid": "2096",
+      "EndTiming": "75.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "66.2",
+      "Sentence_cn": "成千上万只灯笼慢慢漂向大海，指引着亡灵返回另一个世界。",
+      "Sentence": "Thousands of lanterns slowly drift out to sea guiding the dead on their return journey to the other world."
+    },
+    {
+      "voaid": "2096",
+      "EndTiming": "78.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "76.0",
+      "Sentence_cn": "这是一个感人的场面，",
+      "Sentence": "This is a moving spectacle,"
+    },
+    {
+      "voaid": "2096",
+      "EndTiming": "86.6",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "78.4",
+      "Sentence_cn": "人们成群地伫立在海岸上，注视着灯笼远去，直到再也看不见为止。---制作人:lintelite",
+      "Sentence": "for crowds of people stand on the shore watching the lanterns drifting away until they can be seen no more."
+    }
+  ],
+  "size": 14,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14515,14516,14517",
+    "title_cn": "亡灵返乡",
+    "title": "The dead return"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_96.mp3"
+}

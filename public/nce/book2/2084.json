@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "voaid": "2084",
+      "EndTiming": "3.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "罢工",
+      "Sentence": "--- Lesson 84  On strike."
+    },
+    {
+      "voaid": "2084",
+      "EndTiming": "8.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "3.9",
+      "Sentence_cn": "公共汽车司机决定下星期罢工。",
+      "Sentence": "Busmen have decided to go on strike next week."
+    },
+    {
+      "voaid": "2084",
+      "EndTiming": "12.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.3",
+      "Sentence_cn": "罢工定于星期二开始，",
+      "Sentence": "The strike is due to begin on Tuesday."
+    },
+    {
+      "voaid": "2084",
+      "EndTiming": "15.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "12.8",
+      "Sentence_cn": "谁也不知道会持续多久。",
+      "Sentence": "No one knows how long it will last."
+    },
+    {
+      "voaid": "2084",
+      "EndTiming": "25.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "15.6",
+      "Sentence_cn": "司机们声称此次罢工将一直持续到就工资和工作条件问题达成全面协议的时候为止。",
+      "Sentence": "The busmen have stated that the strike will continue until general agreement is reached about pay and working conditions."
+    },
+    {
+      "voaid": "2084",
+      "EndTiming": "30.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "26.1",
+      "Sentence_cn": "多数人认为此次罢工至少会持续一个星期。",
+      "Sentence": "Most people believe that the strike will last for at least a week."
+    },
+    {
+      "voaid": "2084",
+      "EndTiming": "38.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "31.4",
+      "Sentence_cn": "很多私人汽车的车主正准备为乘车上班的人们提供“免费乘车”的服务，",
+      "Sentence": "Many owners of private cars are going to offer 'free rides' to people on their way to work."
+    },
+    {
+      "voaid": "2084",
+      "EndTiming": "42.5",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "38.1",
+      "Sentence_cn": "这将在某种程度上减轻对火车的压力。",
+      "Sentence": "This will relieve pressure on the trains to some extent."
+    },
+    {
+      "voaid": "2084",
+      "EndTiming": "51.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "43.3",
+      "Sentence_cn": "与此同时，有一部分大学生自愿在罢工期间驾驶公共汽车。",
+      "Sentence": "Meanwhile, a number of university students have volunteered to drive buses while the strike lasts."
+    },
+    {
+      "voaid": "2084",
+      "EndTiming": "54.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "51.7",
+      "Sentence_cn": "所有的学生都是开车的能手，",
+      "Sentence": "All the students are expert drivers,"
+    },
+    {
+      "voaid": "2084",
+      "EndTiming": "61.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "55.0",
+      "Sentence_cn": "但在驾驶公共汽车之前，他们必须通过一项专门测验。",
+      "Sentence": "but before they drive any of the buses, they will have to pass a special test."
+    },
+    {
+      "voaid": "2084",
+      "EndTiming": "65.8",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "61.1",
+      "Sentence_cn": "学生们准备在两天后就接受测验。",
+      "Sentence": "The students are going to take the test in two days' time."
+    },
+    {
+      "voaid": "2084",
+      "EndTiming": "71.5",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "66.5",
+      "Sentence_cn": "即使这样，人们仍会感到上班有困难。",
+      "Sentence": "Even so, people are going to find it difficult to get to work."
+    },
+    {
+      "voaid": "2084",
+      "EndTiming": "79.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "72.1",
+      "Sentence_cn": "但到目前为止，公众已经向新闻界写信表达他们对学生们的感激之情了。",
+      "Sentence": "But so far, the public has expressed its gratitude to the students in letters to the Press."
+    },
+    {
+      "voaid": "2084",
+      "EndTiming": "85.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "79.7",
+      "Sentence_cn": "只有一两个人提出反对意见，说学生们会把车开得太快！",
+      "Sentence": "Only one or two people have objected that the students will drive too fast!"
+    }
+  ],
+  "size": 15,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14494,14495",
+    "title_cn": "罢工",
+    "title": "On strike."
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_84.mp3"
+}

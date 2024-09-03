@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "voaid": "1123",
+      "EndTiming": "5.7",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "澳大利亚之行",
+      "Sentence": "--- lesson 123  A Trip to Australia"
+    },
+    {
+      "voaid": "1123",
+      "EndTiming": "14.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.5",
+      "Sentence_cn": "看，这是我到澳大利亚旅行时拍的一张照片。",
+      "Sentence": "Look, Scott. This is a photograph I took during my trip to Australia."
+    },
+    {
+      "voaid": "1123",
+      "EndTiming": "16.8",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "15.1",
+      "Sentence_cn": "让我看看，迈克。",
+      "Sentence": "Let me see it, Mike."
+    },
+    {
+      "voaid": "1123",
+      "EndTiming": "19.8",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "17.5",
+      "Sentence_cn": "这是一张很好的照片。",
+      "Sentence": "This is a good photograph."
+    },
+    {
+      "voaid": "1123",
+      "EndTiming": "22.1",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "20.4",
+      "Sentence_cn": "这些人是谁？",
+      "Sentence": "Who are these people?"
+    },
+    {
+      "voaid": "1123",
+      "EndTiming": "25.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "22.8",
+      "Sentence_cn": "他们是我旅行时认识的人。",
+      "Sentence": "They're people I met during the trip."
+    },
+    {
+      "voaid": "1123",
+      "EndTiming": "29.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "26.8",
+      "Sentence_cn": "这是我们所乘的那条船。",
+      "Sentence": "That's the ship we travelled on."
+    },
+    {
+      "voaid": "1123",
+      "EndTiming": "31.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "29.7",
+      "Sentence_cn": "多漂亮的船啊！",
+      "Sentence": "What a beautiful ship!"
+    },
+    {
+      "voaid": "1123",
+      "EndTiming": "33.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "32.3",
+      "Sentence_cn": "这是谁？",
+      "Sentence": "Who's this?"
+    },
+    {
+      "voaid": "1123",
+      "EndTiming": "36.9",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "34.2",
+      "Sentence_cn": "这就是我跟你说过的那个人。",
+      "Sentence": "That's the man I told you about."
+    },
+    {
+      "voaid": "1123",
+      "EndTiming": "38.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "37.3",
+      "Sentence_cn": "还记得吗？",
+      "Sentence": "Remember?"
+    },
+    {
+      "voaid": "1123",
+      "EndTiming": "39.9",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "38.7",
+      "Sentence_cn": "啊，记得。",
+      "Sentence": "Ah yes."
+    },
+    {
+      "voaid": "1123",
+      "EndTiming": "43.8",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "40.2",
+      "Sentence_cn": "就是在澳大利亚给你工作的那个人。",
+      "Sentence": "The one who offered you a job in Australia. "
+    },
+    {
+      "voaid": "1123",
+      "EndTiming": "45.3",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "44.5",
+      "Sentence_cn": "对。",
+      "Sentence": "That's right."
+    },
+    {
+      "voaid": "1123",
+      "EndTiming": "47.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "46.0",
+      "Sentence_cn": "这是谁？",
+      "Sentence": "Who's this?"
+    },
+    {
+      "voaid": "1123",
+      "EndTiming": "48.4",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "47.7",
+      "Sentence_cn": "你猜！",
+      "Sentence": "Guess!"
+    },
+    {
+      "voaid": "1123",
+      "EndTiming": "52.6",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "48.8",
+      "Sentence_cn": "这不是你，对吗？不，是我。",
+      "Sentence": "It's not you, is it? That's right."
+    },
+    {
+      "voaid": "1123",
+      "EndTiming": "55.7",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "52.9",
+      "Sentence_cn": "我在旅行时留了胡子，",
+      "Sentence": "I grew a beard during the trip."
+    },
+    {
+      "voaid": "1123",
+      "EndTiming": "59.6",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "56.2",
+      "Sentence_cn": "但我回到家时就把它刮了。",
+      "Sentence": "but I shaved it off when I came home."
+    },
+    {
+      "voaid": "1123",
+      "EndTiming": "62.1",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "60.0",
+      "Sentence_cn": "你为什么把它刮了？",
+      "Sentence": "Why did you shave it off?"
+    },
+    {
+      "voaid": "1123",
+      "EndTiming": "64.8",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "62.7",
+      "Sentence_cn": "我妻子不喜欢！",
+      "Sentence": "My wife didn't like it!"
+    }
+  ],
+  "size": 21,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14325",
+    "title_cn": "澳大利亚之行",
+    "title": "A trip to Australia"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_123.mp3"
+}

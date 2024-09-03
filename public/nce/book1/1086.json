@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "voaid": "1086",
+      "EndTiming": "14.3",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "10.9",
+      "Sentence_cn": "她刚才做了什么？",
+      "Sentence": "Look at the first picture. What has she just done?"
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "17.1",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "15.1",
+      "Sentence_cn": "她刚已经给房间通风。",
+      "Sentence": "She has just aired the room."
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "22.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "18.1",
+      "Sentence_cn": "他们刚才做了什么？",
+      "Sentence": "The second picture. What have they just done?"
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "25.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "22.8",
+      "Sentence_cn": "他们刚已经擦了鞋。",
+      "Sentence": "They have just cleaned their shoes."
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "29.9",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "25.0",
+      "Sentence_cn": "他刚才做了什么？",
+      "Sentence": "The third picture. What has he just done?"
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "32.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "30.7",
+      "Sentence_cn": "他刚已经打开了窗户。",
+      "Sentence": "He has just opened the window."
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "80.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "75.5",
+      "Sentence_cn": "他刚才做了什么？",
+      "Sentence": "The fourth picture. What has he just done?"
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "86.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "84.0",
+      "Sentence_cn": "他刚已经削了铅笔。",
+      "Sentence": "He has just sharpened his pencil."
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "92.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "87.8",
+      "Sentence_cn": "她刚才做了什么？",
+      "Sentence": "The fifth picture. What has she just done?"
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "98.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "95.4",
+      "Sentence_cn": "她刚已经打开了电视机。",
+      "Sentence": "She has just turned on the television."
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "105.2",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "100.2",
+      "Sentence_cn": "他们刚才做了什么？",
+      "Sentence": "The sixth picture. What have they just done?"
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "111.7",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "109.4",
+      "Sentence_cn": "他们刚已经收听了新闻。",
+      "Sentence": "They have just listened to the news."
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "118.5",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "113.2",
+      "Sentence_cn": "她刚才做了什么?",
+      "Sentence": "The seventh picture. What has she just done?"
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "124.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "122.4",
+      "Sentence_cn": "她刚已经煮了一些牛奶。",
+      "Sentence": "She has just boiled some milk."
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "130.5",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "126.4",
+      "Sentence_cn": "他刚才做了什么？",
+      "Sentence": "The eighth picture. What has he just done?"
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "136.5",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "133.8",
+      "Sentence_cn": "他刚已经接了电话。",
+      "Sentence": "He has just answered the telephone."
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "142.8",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "138.1",
+      "Sentence_cn": "她刚才做了什么？",
+      "Sentence": "The ninth picture. What has she just done?"
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "149.4",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "146.9",
+      "Sentence_cn": "他刚已经清空了篮子。",
+      "Sentence": "She has just emptied the basket."
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "156.4",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "151.7",
+      "Sentence_cn": "她刚才做了什么？",
+      "Sentence": "The tenth picture. What has she just done?"
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "163.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "160.7",
+      "Sentence_cn": "她刚已经问了一个问题。",
+      "Sentence": "She has just asked a question."
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "170.2",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "164.4",
+      "Sentence_cn": "她刚才做了什么？",
+      "Sentence": "The eleventh picture. What has she just done?"
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "176.8",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "174.6",
+      "Sentence_cn": "她刚已经打了一封信。",
+      "Sentence": "She has just typed a letter."
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "190.4",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "182.5",
+      "Sentence_cn": "她刚才做了什么？",
+      "Sentence": "The twelfth picture. What has she just done?"
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "190.4",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "188.0",
+      "Sentence_cn": "她刚已经洗了手。",
+      "Sentence": "She has just washed her hands."
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "196.9",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "192.0",
+      "Sentence_cn": "他刚才做了什么？",
+      "Sentence": "The thirteenth picture. What has he just done?"
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "203.3",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "200.6",
+      "Sentence_cn": "他刚已经步行穿过公园。",
+      "Sentence": "He has just walked across the park."
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "210.4",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "204.9",
+      "Sentence_cn": "他刚才做了什么？",
+      "Sentence": "The fourteenth picture. What has he just done?"
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "216.4",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "213.9",
+      "Sentence_cn": "他刚已经漆了书架。",
+      "Sentence": "He has just painted the bookcase."
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "223.6",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "218.2",
+      "Sentence_cn": "他刚才做了什么？",
+      "Sentence": "The fifteenth picture. What has she just done?"
+    },
+    {
+      "voaid": "1086",
+      "EndTiming": "229.0",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "226.6",
+      "Sentence_cn": "她刚已经打扫了橱柜。",
+      "Sentence": "She has just dusted the cupboard."
+    }
+  ],
+  "size": 30,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14279,14280",
+    "title_cn": "你已经做了什么？",
+    "title": "What have you done?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_86.mp3"
+}

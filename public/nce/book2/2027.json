@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "voaid": "2027",
+      "EndTiming": "4.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "雨夜",
+      "Sentence": "--- Lesson 27  A wet night"
+    },
+    {
+      "voaid": "2027",
+      "EndTiming": "10.6",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.8",
+      "Sentence_cn": "傍晚时分，孩子们在田野中央搭起了帐篷。",
+      "Sentence": "Late in the afternoon, the boys put up their tent in the middle of a field."
+    },
+    {
+      "voaid": "2027",
+      "EndTiming": "16.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "11.3",
+      "Sentence_cn": "这件事刚刚做完，他们就在篝火上烧起了饭。",
+      "Sentence": "As soon as this was done, they cooked a meal over an open fire."
+    },
+    {
+      "voaid": "2027",
+      "EndTiming": "21.2",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "17.3",
+      "Sentence_cn": "他们全都饿了，饭菜散发出阵阵香味。",
+      "Sentence": "They were all hungry and the food smelled good."
+    },
+    {
+      "voaid": "2027",
+      "EndTiming": "28.8",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "22.0",
+      "Sentence_cn": "他们美美地吃了一顿饭后，就围在营火旁讲起了故事，唱起了歌。",
+      "Sentence": "After a wonderful meal, they told stories and sang songs by the campfire."
+    },
+    {
+      "voaid": "2027",
+      "EndTiming": "32.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "29.6",
+      "Sentence_cn": "但过了一阵子。天下起雨来，",
+      "Sentence": "But some time later it began to rain."
+    },
+    {
+      "voaid": "2027",
+      "EndTiming": "39.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "33.1",
+      "Sentence_cn": "于是他们扑灭了篝火，钻进了帐篷。",
+      "Sentence": "The boys felt tired so they put out the fire and crept into their tent."
+    },
+    {
+      "voaid": "2027",
+      "EndTiming": "46.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "39.8",
+      "Sentence_cn": "睡袋既暖和又舒服，所以，他们都睡得很香。",
+      "Sentence": "Their sleeping bags were warm and comfortable, so they all slept soundly."
+    },
+    {
+      "voaid": "2027",
+      "EndTiming": "51.7",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "46.7",
+      "Sentence_cn": "午夜前后，有两个孩子醒了，大声叫了起来。",
+      "Sentence": "In the middle of the night, two boys woke up and began shouting."
+    },
+    {
+      "voaid": "2027",
+      "EndTiming": "54.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "52.5",
+      "Sentence_cn": "原来帐篷里到处都是水！",
+      "Sentence": "The tent was full of water!"
+    },
+    {
+      "voaid": "2027",
+      "EndTiming": "60.7",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "55.5",
+      "Sentence_cn": "他们全都跳出睡袋，跑到外面。",
+      "Sentence": "They all leapt out of their sleeping bags and hurried outside."
+    },
+    {
+      "voaid": "2027",
+      "EndTiming": "66.9",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "61.5",
+      "Sentence_cn": "雨下得很大，他们发现地上已经形成了一条小溪。",
+      "Sentence": "It was raining heavily and they found that a stream had formed in the field."
+    },
+    {
+      "voaid": "2027",
+      "EndTiming": "73.8",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "67.7",
+      "Sentence_cn": "那小溪弯弯曲曲穿过田野，然后正好从他们的帐篷底下流过去！",
+      "Sentence": "The stream wound its way across the field and then flowed right under their tent!"
+    }
+  ],
+  "size": 13,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14397,14398",
+    "title_cn": "雨夜",
+    "title": "A wet night"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_27.mp3"
+}

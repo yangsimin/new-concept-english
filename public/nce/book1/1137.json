@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "voaid": "1137",
+      "EndTiming": "4.8",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "美好的梦",
+      "Sentence": "--- lesson 137  A pleasant dream"
+    },
+    {
+      "voaid": "1137",
+      "EndTiming": "9.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.6",
+      "Sentence_cn": "布赖恩，你正在下足球赛的赌注吗？",
+      "Sentence": "Are you doing the football pools, Brain?"
+    },
+    {
+      "voaid": "1137",
+      "EndTiming": "12.9",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.2",
+      "Sentence_cn": "是的。我这就做完了，朱莉。",
+      "Sentence": "Yes, I've nearly finished, Julie."
+    },
+    {
+      "voaid": "1137",
+      "EndTiming": "16.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "13.5",
+      "Sentence_cn": "我敢肯定这星期我们会赢一点的。",
+      "Sentence": "I'm sure we'll win something this week."
+    },
+    {
+      "voaid": "1137",
+      "EndTiming": "22.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "17.2",
+      "Sentence_cn": "你老是那样说，但是我们从来没赢过！",
+      "Sentence": "You always say that, but we never win anything!"
+    },
+    {
+      "voaid": "1137",
+      "EndTiming": "27.3",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "23.4",
+      "Sentence_cn": "要是你赢了许多钱，你打算做什么呢？",
+      "Sentence": "What will you do if you win a lot of money?"
+    },
+    {
+      "voaid": "1137",
+      "EndTiming": "33.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "28.1",
+      "Sentence_cn": "要是我赢了许多钱，我给你买件貂皮大衣。",
+      "Sentence": "If I win a lot of money I'll buy you a mink coat!"
+    },
+    {
+      "voaid": "1137",
+      "EndTiming": "36.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "34.2",
+      "Sentence_cn": "我不要貂皮大衣。",
+      "Sentence": "I don't want a mink coat!"
+    },
+    {
+      "voaid": "1137",
+      "EndTiming": "40.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "37.5",
+      "Sentence_cn": "我要去见见世面。",
+      "Sentence": "I want to see the world."
+    },
+    {
+      "voaid": "1137",
+      "EndTiming": "44.9",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "41.0",
+      "Sentence_cn": "好吧。要是我们赢了很多钱，",
+      "Sentence": "All right. If we win a lot of money,"
+    },
+    {
+      "voaid": "1137",
+      "EndTiming": "50.8",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "45.4",
+      "Sentence_cn": "我们就去周游世界，并且住最好的旅馆。",
+      "Sentence": "we'll travel round the world and we'll stay at the best hotels."
+    },
+    {
+      "voaid": "1137",
+      "EndTiming": "57.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "51.5",
+      "Sentence_cn": "然后我们返回家园，在乡下买幢大房子。",
+      "Sentence": "Then we'll return home and buy a big house in the country."
+    },
+    {
+      "voaid": "1137",
+      "EndTiming": "61.3",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "57.9",
+      "Sentence_cn": "我们将有一个漂亮的花园和……",
+      "Sentence": "We'll have a beautiful garden and ..."
+    },
+    {
+      "voaid": "1137",
+      "EndTiming": "67.2",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "61.8",
+      "Sentence_cn": "但是如果我们把所有钱都花光了，我们又会变穷的。",
+      "Sentence": "But if we spend all that money we'll be poor again."
+    },
+    {
+      "voaid": "1137",
+      "EndTiming": "69.9",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "67.8",
+      "Sentence_cn": "那时我们怎么办呢？",
+      "Sentence": "What'll we do then?"
+    },
+    {
+      "voaid": "1137",
+      "EndTiming": "76.8",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "70.8",
+      "Sentence_cn": "如果我们花光了所有钱，我们设法在足球赛赌注上再赢一次。",
+      "Sentence": "If we spend all the money,we'll try and win the football pools again."
+    },
+    {
+      "voaid": "1137",
+      "EndTiming": "83.5",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "77.5",
+      "Sentence_cn": "这是个美好的梦，但一切都取决于“如果”！",
+      "Sentence": "It's a pleasant dream but everything depends on 'if'!"
+    }
+  ],
+  "size": 17,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14339",
+    "title_cn": "美好的梦",
+    "title": "A pleasant dream"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_137.mp3"
+}

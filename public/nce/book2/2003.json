@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "voaid": "2003",
+      "EndTiming": "5.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "请给我寄一张明信片",
+      "Sentence": "--- Lesson 3 Please send me a card"
+    },
+    {
+      "voaid": "2003",
+      "EndTiming": "9.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.8",
+      "Sentence_cn": "明信片总搅得我假日不得安宁。",
+      "Sentence": "Postcards always spoil my holidays. "
+    },
+    {
+      "voaid": "2003",
+      "EndTiming": "12.7",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.1",
+      "Sentence_cn": "去年夏天，我去了意大利。",
+      "Sentence": "Last summer, I went to Italy. "
+    },
+    {
+      "voaid": "2003",
+      "EndTiming": "17.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "13.3",
+      "Sentence_cn": "我参观了博物馆，还去了公园。",
+      "Sentence": "I visited museums and sat in public gardens. "
+    },
+    {
+      "voaid": "2003",
+      "EndTiming": "24.3",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "18.1",
+      "Sentence_cn": "一位好客的服务员教了我几句意大利语，之后还借给我一本书。",
+      "Sentence": "A friendly waiter taught me a few words of Italian. Then he lent me a book. "
+    },
+    {
+      "voaid": "2003",
+      "EndTiming": "29.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "25.1",
+      "Sentence_cn": "我读了几行，但一个字也不懂。",
+      "Sentence": "I read a few lines, but I did not understand a word. "
+    },
+    {
+      "voaid": "2003",
+      "EndTiming": "33.8",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "30.4",
+      "Sentence_cn": "我每天都想着明信片的事。",
+      "Sentence": "Every day I thought about postcards. "
+    },
+    {
+      "voaid": "2003",
+      "EndTiming": "40.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "34.6",
+      "Sentence_cn": "假期过得真快，可我还没有给我的朋友们寄过一张明信片。",
+      "Sentence": "My holidays passed quickly, but I did not send cards to my friends. "
+    },
+    {
+      "voaid": "2003",
+      "EndTiming": "44.8",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "41.1",
+      "Sentence_cn": "到了最后一天，我作出了一项重大决定。",
+      "Sentence": "On the last day I made a big decision. "
+    },
+    {
+      "voaid": "2003",
+      "EndTiming": "50.2",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "45.6",
+      "Sentence_cn": "我早早起了床，买来了37张明信片。",
+      "Sentence": "I got up early and bought thirty-seven cards. "
+    },
+    {
+      "voaid": "2003",
+      "EndTiming": "57.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "50.9",
+      "Sentence_cn": "我在房间里关了整整一天。然而竟连一张明信片也没写成！",
+      "Sentence": "I spent the whole day in my room, but I did not write a single card!"
+    }
+  ],
+  "size": 11,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14354,14355",
+    "title_cn": "请给我寄一张明信片",
+    "title": "Please send me a card"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_3.mp3"
+}

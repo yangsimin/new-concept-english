@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "voaid": "1101",
+      "EndTiming": "5.6",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "吉米的明信片",
+      "Sentence": "--- lesson 101  A card from Jimmy"
+    },
+    {
+      "voaid": "1101",
+      "EndTiming": "10.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.4",
+      "Sentence_cn": "请把吉米的明信片念给我听听，彭妮。",
+      "Sentence": "Read Jimmy's card to me please, Penny."
+    },
+    {
+      "voaid": "1101",
+      "EndTiming": "18.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "11.1",
+      "Sentence_cn": "“我刚到苏格兰，我现住在一家青年招待所。”",
+      "Sentence": "'I have just arrived in Scotland and I'm staying at a Youth Hostel.'"
+    },
+    {
+      "voaid": "1101",
+      "EndTiming": "19.9",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "19.3",
+      "Sentence_cn": "什么？",
+      "Sentence": "Eh?"
+    },
+    {
+      "voaid": "1101",
+      "EndTiming": "25.3",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "20.6",
+      "Sentence_cn": "他说他刚到苏格兰。",
+      "Sentence": "He says he's just arrived in Scotland."
+    },
+    {
+      "voaid": "1101",
+      "EndTiming": "30.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "25.8",
+      "Sentence_cn": "他说他现住在一家青年招待所。",
+      "Sentence": "He says he's staying at a Youth Hostel."
+    },
+    {
+      "voaid": "1101",
+      "EndTiming": "36.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "31.2",
+      "Sentence_cn": "您知道，他是“青招协”的一个成员。",
+      "Sentence": "You know he's a member of the Y.H.A."
+    },
+    {
+      "voaid": "1101",
+      "EndTiming": "38.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "37.4",
+      "Sentence_cn": "什么？",
+      "Sentence": "The what?"
+    },
+    {
+      "voaid": "1101",
+      "EndTiming": "45.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "39.2",
+      "Sentence_cn": "“青招协”，妈妈。青年招待所协会。",
+      "Sentence": "The Y.H.A., Mum. The Youth Hostels Association."
+    },
+    {
+      "voaid": "1101",
+      "EndTiming": "48.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "46.4",
+      "Sentence_cn": "他还说了些什么？",
+      "Sentence": "What else does he say?"
+    },
+    {
+      "voaid": "1101",
+      "EndTiming": "55.4",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "49.4",
+      "Sentence_cn": "“我很快会写信的。祝你们大家身体都好。”",
+      "Sentence": "'I'll write a letter soon. I hope you are all well.'"
+    },
+    {
+      "voaid": "1101",
+      "EndTiming": "59.1",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "56.0",
+      "Sentence_cn": "什么？彭妮，大声一点。",
+      "Sentence": "What? Speak up. Penny."
+    },
+    {
+      "voaid": "1101",
+      "EndTiming": "62.4",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "59.6",
+      "Sentence_cn": "我可听不见你念的。",
+      "Sentence": "I'm afraid I can't hear you"
+    },
+    {
+      "voaid": "1101",
+      "EndTiming": "66.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "63.1",
+      "Sentence_cn": "他说他很快会写信的。",
+      "Sentence": "He says he'll write a letter soon."
+    },
+    {
+      "voaid": "1101",
+      "EndTiming": "70.5",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "67.4",
+      "Sentence_cn": "他祝我们大家身体好。",
+      "Sentence": "He hopes we are all well."
+    },
+    {
+      "voaid": "1101",
+      "EndTiming": "73.1",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "71.3",
+      "Sentence_cn": "“谨此问候，吉米。”",
+      "Sentence": "'Love, Jimmy.'"
+    },
+    {
+      "voaid": "1101",
+      "EndTiming": "75.3",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "74.0",
+      "Sentence_cn": "就这些吗？",
+      "Sentence": "Is that all?"
+    },
+    {
+      "voaid": "1101",
+      "EndTiming": "79.5",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "76.0",
+      "Sentence_cn": "他没写许多，是吗？",
+      "Sentence": "He doesn't say very much,does he?"
+    },
+    {
+      "voaid": "1101",
+      "EndTiming": "84.7",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "80.3",
+      "Sentence_cn": "在明信片上他写不了很多，妈妈。",
+      "Sentence": "He can't write very much on a card, Mum."
+    }
+  ],
+  "size": 19,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14301",
+    "title_cn": "吉米的明信片",
+    "title": "A card from Jimmy"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_101.mp3"
+}

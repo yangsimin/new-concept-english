@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "voaid": "1050",
+      "EndTiming": "22.8",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "19.1",
+      "Sentence_cn": "彭妮喜欢西红柿吗？",
+      "Sentence": "Does Penny like tomatoes?"
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "30.2",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "22.9",
+      "Sentence_cn": "是的。她喜欢西红柿，但是她不想要。",
+      "Sentence": "Yes, she does. She likes tomatoes, but she doesn't want any."
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "38.3",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "34.9",
+      "Sentence_cn": "你喜欢土豆吗？",
+      "Sentence": "Do you like potatoes?"
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "45.1",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "38.4",
+      "Sentence_cn": "是的。我喜欢西红柿，但是我不想要。",
+      "Sentence": "Yes, I do. I like potatoes, but I don't want any."
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "53.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "49.7",
+      "Sentence_cn": "汤姆喜欢卷心菜吗？",
+      "Sentence": "Does Tom like cabbage?"
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "60.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "53.7",
+      "Sentence_cn": "是的。他喜欢卷心菜，但是他不想要。",
+      "Sentence": "Yes, he does. He likes cabbage, but he doesn't want any."
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "77.2",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "72.6",
+      "Sentence_cn": "彭妮喜欢西红柿吗？",
+      "Sentence": "Does Penny like tomatoes?"
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "85.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "77.3",
+      "Sentence_cn": "是的。她喜欢西红柿，但是她不想要。",
+      "Sentence": "Yes, she does. She likes tomatoes, but she doesn't want any."
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "95.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "91.4",
+      "Sentence_cn": "你喜欢土豆吗？",
+      "Sentence": "Do you like potatoes?"
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "103.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "95.6",
+      "Sentence_cn": "是的。我喜欢西红柿，但是我不想要。",
+      "Sentence": "Yes, I do. I like potatoes, but I don't want any."
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "113.4",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "109.1",
+      "Sentence_cn": "汤姆喜欢卷心菜吗？",
+      "Sentence": "Does Tom like cabbage?"
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "121.5",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "113.5",
+      "Sentence_cn": "是的。他喜欢卷心菜，但是他不想要。",
+      "Sentence": "Yes, he does. He likes cabbage, but be doesn't want any."
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "132.2",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "127.6",
+      "Sentence_cn": "汤姆喜欢莴苣吗？",
+      "Sentence": "Does Tom like lettuce?"
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "140.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "132.3",
+      "Sentence_cn": "是的，他喜欢莴苣，但是他不想要。",
+      "Sentence": "Yes, he does. He likes lettuce, but he doesn't want any."
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "150.2",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "145.4",
+      "Sentence_cn": "你喜欢豌豆吗？",
+      "Sentence": "Do you like peas?"
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "158.3",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "150.3",
+      "Sentence_cn": "是的。我喜欢豌豆，但是我不想要。",
+      "Sentence": "Yes, I do. I like peas, but I don't want any."
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "169.2",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "164.1",
+      "Sentence_cn": "安喜欢豆角吗？",
+      "Sentence": "Does Anna like beaus?"
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "177.2",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "169.3",
+      "Sentence_cn": "是的。她喜欢豆角，但是她不想要。",
+      "Sentence": "Yes, she does.  She likes beans, but she doesn't want any."
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "186.3",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "182.1",
+      "Sentence_cn": "你喜欢香蕉吗？",
+      "Sentence": "Do you like bananas?"
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "194.3",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "186.4",
+      "Sentence_cn": "是的，我喜欢香蕉，但是我不想要。",
+      "Sentence": "Yes, I do.  I like bananas, but I don't want any."
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "203.4",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "198.3",
+      "Sentence_cn": "琼斯先生喜欢桔子吗？",
+      "Sentence": "Does Mr. Jones like oranges?"
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "211.2",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "203.5",
+      "Sentence_cn": "是的，他喜欢桔子，但是他不想要。",
+      "Sentence": "Yes, he does. He likes oranges, but he doesn't want any."
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "221.4",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "216.1",
+      "Sentence_cn": "乔治喜欢苹果吗？",
+      "Sentence": "Does George like apples?"
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "230.0",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "221.5",
+      "Sentence_cn": "是的，他喜欢苹果，但是他不想要。",
+      "Sentence": "Yes, he does. He likes apples, but he doesn't want any."
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "239.7",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "234.7",
+      "Sentence_cn": "伊丽莎白喜欢梨吗？",
+      "Sentence": "Does Elizabeth like pears?"
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "247.5",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "239.8",
+      "Sentence_cn": "是的，她喜欢梨，但是她不想要。",
+      "Sentence": "Yes, she does. She likes pears, but she doesn't want any."
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "256.3",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "252.1",
+      "Sentence_cn": "你喜欢葡萄吗？",
+      "Sentence": "Do you like grapes?"
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "264.1",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "256.4",
+      "Sentence_cn": "是的，我喜欢葡萄，但是我不想要。",
+      "Sentence": "Yes, I do. I like grapes, but I don't want any."
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "273.8",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "269.3",
+      "Sentence_cn": "贝蒂喜欢桃子吗？",
+      "Sentence": "Does Betty like peaches?"
+    },
+    {
+      "voaid": "1050",
+      "EndTiming": "282.2",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "273.9",
+      "Sentence_cn": "是的，她喜欢桃子，但是她不想要。",
+      "Sentence": "Yes, she does. She likes peaches, but she doesn't want any."
+    }
+  ],
+  "size": 30,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14234",
+    "title_cn": "他喜欢……但是他不喜欢……",
+    "title": "He likes... But he doesn't like ..."
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_50.mp3"
+}

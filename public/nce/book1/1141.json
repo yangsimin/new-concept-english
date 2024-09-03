@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "voaid": "1141",
+      "EndTiming": "5.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "萨莉第一交乘火车旅行",
+      "Sentence": "--- lesson 141  Sally's first train ride"
+    },
+    {
+      "voaid": "1141",
+      "EndTiming": "14.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.8",
+      "Sentence_cn": "上周，我4岁的女儿萨莉被邀请去参加一个儿童聚会。",
+      "Sentence": "Last week, my four-year-old daughter, Sally, was invited to a children's party."
+    },
+    {
+      "voaid": "1141",
+      "EndTiming": "18.2",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "15.1",
+      "Sentence_cn": "我决定带她乘火车去。",
+      "Sentence": "I decided to take her by train."
+    },
+    {
+      "voaid": "1141",
+      "EndTiming": "26.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "19.0",
+      "Sentence_cn": "萨莉非常激动，因为她从未乘过火车。",
+      "Sentence": "Sally was very excited because she had never travelled on a train before."
+    },
+    {
+      "voaid": "1141",
+      "EndTiming": "34.8",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "27.3",
+      "Sentence_cn": "她靠车窗坐着，对她所看到的一切都要问个明白。",
+      "Sentence": "She sat near the window and asked questions about everything she saw."
+    },
+    {
+      "voaid": "1141",
+      "EndTiming": "43.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "35.7",
+      "Sentence_cn": "突然，一个中年妇女上了火车，坐在萨莉的对面。",
+      "Sentence": "Suddenly, a middle-age lady got on the train and sat opposite Sally."
+    },
+    {
+      "voaid": "1141",
+      "EndTiming": "48.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "44.5",
+      "Sentence_cn": "“你好，小姑娘，”她说。",
+      "Sentence": "'Hello, little girl,' she said."
+    },
+    {
+      "voaid": "1141",
+      "EndTiming": "53.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "48.8",
+      "Sentence_cn": "萨莉没回答，却好奇地看着她。",
+      "Sentence": "Sally did not answer, but looked at her curiously."
+    },
+    {
+      "voaid": "1141",
+      "EndTiming": "60.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "54.3",
+      "Sentence_cn": "那位妇女穿着一件蓝色的大衣，戴着一顶大而滑稽的帽子。",
+      "Sentence": "The lady was dressed in a blue coat and a large, funny hat."
+    },
+    {
+      "voaid": "1141",
+      "EndTiming": "71.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "61.7",
+      "Sentence_cn": "火车开出车站后，那位妇女找开了手提包，拿出了粉盒。",
+      "Sentence": "After the train had left the station, the lady opened her handbag and took out her powder compact."
+    },
+    {
+      "voaid": "1141",
+      "EndTiming": "76.4",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "72.5",
+      "Sentence_cn": "然后她开始打扮起来。",
+      "Sentence": "She then began to make up her face."
+    },
+    {
+      "voaid": "1141",
+      "EndTiming": "81.3",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "77.2",
+      "Sentence_cn": "“你为什么要那样做呢？”萨莉问。",
+      "Sentence": "'Why are you doing that?' Sally asked."
+    },
+    {
+      "voaid": "1141",
+      "EndTiming": "86.9",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "81.9",
+      "Sentence_cn": "“为了把自己打扮漂亮啊，”那位妇女答道。",
+      "Sentence": "'To make myself beautiful,' the lady answered."
+    },
+    {
+      "voaid": "1141",
+      "EndTiming": "92.3",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "87.6",
+      "Sentence_cn": "她放好了粉盒，慈祥地微笑着。",
+      "Sentence": "She put away her compact and smiled kindly."
+    },
+    {
+      "voaid": "1141",
+      "EndTiming": "97.3",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "93.0",
+      "Sentence_cn": "“可是你仍然难看呀，”萨莉说。",
+      "Sentence": "'But you are still ugly,' Sally said."
+    },
+    {
+      "voaid": "1141",
+      "EndTiming": "104.3",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "98.0",
+      "Sentence_cn": "萨莉感到很有趣，而我却很尴尬。",
+      "Sentence": "Sally was amused, but I was very embarrassed!"
+    }
+  ],
+  "size": 16,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14343,14344",
+    "title_cn": "萨莉第一交乘火车旅行",
+    "title": "Sally's first train ride"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_141.mp3"
+}

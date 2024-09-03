@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "voaid": "1067",
+      "EndTiming": "3.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "周末",
+      "Sentence": "--- lesson 67  The weekend"
+    },
+    {
+      "voaid": "1067",
+      "EndTiming": "8.1",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.7",
+      "Sentence_cn": "您好。刚才您在肉店里吗？",
+      "Sentence": "Hello. Were you at the butcher's?"
+    },
+    {
+      "voaid": "1067",
+      "EndTiming": "10.4",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.8",
+      "Sentence_cn": "是的，我在肉店里。",
+      "Sentence": "Yes. I was."
+    },
+    {
+      "voaid": "1067",
+      "EndTiming": "13.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "10.7",
+      "Sentence_cn": "您也在肉店里吗？",
+      "Sentence": "Were you at the butcher's, too?"
+    },
+    {
+      "voaid": "1067",
+      "EndTiming": "16.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "14.3",
+      "Sentence_cn": "不，我不是。",
+      "Sentence": "No, I wasn't."
+    },
+    {
+      "voaid": "1067",
+      "EndTiming": "20.3",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "17.3",
+      "Sentence_cn": "我在蔬菜水果店里。",
+      "Sentence": "I was at the greengrocer's."
+    },
+    {
+      "voaid": "1067",
+      "EndTiming": "22.8",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "21.0",
+      "Sentence_cn": "吉米今天怎么样？",
+      "Sentence": "How's Jimmy today?"
+    },
+    {
+      "voaid": "1067",
+      "EndTiming": "26.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "23.6",
+      "Sentence_cn": "他很好，谢谢您。",
+      "Sentence": "He's very well, thank you."
+    },
+    {
+      "voaid": "1067",
+      "EndTiming": "30.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "27.1",
+      "Sentence_cn": "上星期他没上学吧？",
+      "Sentence": "Was he absent from school last week?"
+    },
+    {
+      "voaid": "1067",
+      "EndTiming": "33.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "31.7",
+      "Sentence_cn": "是的，他没上学。",
+      "Sentence": "Yes, he was."
+    },
+    {
+      "voaid": "1067",
+      "EndTiming": "40.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "34.1",
+      "Sentence_cn": "他星期一、星期二、星期三和星期四没去上学。",
+      "Sentence": "He was absent on Monday,Tuesday,Wednesday and Thursday."
+    },
+    {
+      "voaid": "1067",
+      "EndTiming": "43.7",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "41.3",
+      "Sentence_cn": "你们身体都好吗？",
+      "Sentence": "How are you all keeping?"
+    },
+    {
+      "voaid": "1067",
+      "EndTiming": "46.6",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "44.4",
+      "Sentence_cn": "很好，谢谢您。",
+      "Sentence": "Very well, thank you."
+    },
+    {
+      "voaid": "1067",
+      "EndTiming": "51.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "47.3",
+      "Sentence_cn": "我们打算到乡下去三天，",
+      "Sentence": "We're going to spend three days in the country."
+    },
+    {
+      "voaid": "1067",
+      "EndTiming": "56.8",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "52.3",
+      "Sentence_cn": "在我母亲家度周末。",
+      "Sentence": "We're going to stay at my mother's for the weekend."
+    },
+    {
+      "voaid": "1067",
+      "EndTiming": "62.3",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "57.4",
+      "Sentence_cn": "星期五、星期六和星期日在乡下过！",
+      "Sentence": "Friday, Saturday and Sunday in the country!"
+    },
+    {
+      "voaid": "1067",
+      "EndTiming": "65.3",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "63.0",
+      "Sentence_cn": "你们真幸运啊！",
+      "Sentence": "Aren't you lucky!"
+    }
+  ],
+  "size": 17,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14255",
+    "title_cn": "周末",
+    "title": "The weekend"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_67.mp3"
+}

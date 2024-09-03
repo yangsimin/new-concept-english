@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "voaid": "2056",
+      "EndTiming": "4.7",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "比声音还快！",
+      "Sentence": "--- Lesson 56  Faster than sound!"
+    },
+    {
+      "voaid": "2056",
+      "EndTiming": "9.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.5",
+      "Sentence_cn": "旧式汽车的比赛每年举行一次。",
+      "Sentence": "Once a year, a race is held for old cars."
+    },
+    {
+      "voaid": "2056",
+      "EndTiming": "18.7",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.3",
+      "Sentence_cn": "去年有很多汽车参加了这项比赛。比赛开始之前，人们异常激动。",
+      "Sentence": "A lot of cars entered for this race last year and there was a great deal of excitement just before it began."
+    },
+    {
+      "voaid": "2056",
+      "EndTiming": "24.7",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "18.7",
+      "Sentence_cn": "最漂亮的汽车之一是罗尔斯--罗伊斯生产的银鬼汽车，",
+      "Sentence": "One of the most handsome cars was a Rolls-Royce Silver Ghost."
+    },
+    {
+      "voaid": "2056",
+      "EndTiming": "31.1",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "25.3",
+      "Sentence_cn": "而最不寻常的一辆则要属只有3只轮子的奔驰牌汽车了。",
+      "Sentence": "The most unusual car was a Benz which had only three wheels."
+    },
+    {
+      "voaid": "2056",
+      "EndTiming": "37.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "31.1",
+      "Sentence_cn": "该车造于1885年，是参赛车中最老的一辆。",
+      "Sentence": "Built in 1885, it was the oldest car taking part."
+    },
+    {
+      "voaid": "2056",
+      "EndTiming": "42.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "37.6",
+      "Sentence_cn": "在好一阵喧闹的爆炸声之后，比赛开始了。",
+      "Sentence": "After a great many loud explosions, the race began."
+    },
+    {
+      "voaid": "2056",
+      "EndTiming": "52.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "43.6",
+      "Sentence_cn": "很多汽车在途中就抛了锚，而有些驾驶员花在汽车底下的时间比坐在汽车里面的时间还长。",
+      "Sentence": "Many of the cars broke down on the course and some drivers spent more time under their cars than in them!"
+    },
+    {
+      "voaid": "2056",
+      "EndTiming": "64.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "52.9",
+      "Sentence_cn": "然而还是有几辆汽车跑完了全程。获胜的那辆车达到了时速40英里--远远超过任何对手。",
+      "Sentence": "A few cars, however, completed the race. The winning car reached a speed of forty miles an hour -- much faster than any of its rivals."
+    },
+    {
+      "voaid": "2056",
+      "EndTiming": "71.7",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "65.2",
+      "Sentence_cn": "它在接近终点时，冲下了山坡，驾驶员费了好大劲才把车停下来。",
+      "Sentence": "It sped downhill at the end of the race and its driver had a lot of trouble trying to stop it."
+    },
+    {
+      "voaid": "2056",
+      "EndTiming": "76.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "71.7",
+      "Sentence_cn": "这次比赛使每个人都挺开心。",
+      "Sentence": "The race gave everyone a great deal of pleasure."
+    },
+    {
+      "voaid": "2056",
+      "EndTiming": "82.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "76.3",
+      "Sentence_cn": "它虽然与现代汽车比赛大不相同，但激动人心的程度并不亚于现代化汽车大赛。",
+      "Sentence": "It was very different from modern car races but no less exciting."
+    }
+  ],
+  "size": 12,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14445,14446",
+    "title_cn": "比声音还快！",
+    "title": "Faster than sound!"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_56.mp3"
+}

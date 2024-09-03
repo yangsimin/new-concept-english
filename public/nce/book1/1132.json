@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "voaid": "1132",
+      "EndTiming": "19.4",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "18.0",
+      "Sentence_cn": "你认为他在房间里吗？",
+      "Sentence": "Do you think he's in his room?"
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "21.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "20.5",
+      "Sentence_cn": "我不敢确定。",
+      "Sentence": "I'm not sure."
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "23.4",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "22.1",
+      "Sentence_cn": "他可能在房间里。",
+      "Sentence": "He may be in his room."
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "26.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "24.8",
+      "Sentence_cn": "你认为他们在阅读吗？",
+      "Sentence": "Do you think they were reading?"
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "28.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "27.3",
+      "Sentence_cn": "我不敢确定。",
+      "Sentence": "I'm not sure."
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "30.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "29.0",
+      "Sentence_cn": "他们可能在阅读。",
+      "Sentence": "They may have been reading."
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "34.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "32.1",
+      "Sentence_cn": "你认为他们那时在花园里吗?",
+      "Sentence": "Do you think they were in the garden?"
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "36.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "35.4",
+      "Sentence_cn": "我不敢确定。",
+      "Sentence": "I'm not sure."
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "38.8",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "37.1",
+      "Sentence_cn": "他们可能在花园。",
+      "Sentence": "They may have been in the garden."
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "79.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "77.3",
+      "Sentence_cn": "你认为这个面包新鲜吗？",
+      "Sentence": "Do you think this bread is fresh ?"
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "84.8",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "83.5",
+      "Sentence_cn": "我不敢确定。",
+      "Sentence": "I'm not sure."
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "86.5",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "85.2",
+      "Sentence_cn": "它可能是新鲜的。",
+      "Sentence": "It may be fresh."
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "90.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "88.1",
+      "Sentence_cn": "你认为她是丹麦人吗？",
+      "Sentence": "Do you think she was Danish?"
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "95.4",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "94.0",
+      "Sentence_cn": "我不敢确定。",
+      "Sentence": "I'm not sure."
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "97.4",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "95.8",
+      "Sentence_cn": "她可能是丹麦人。",
+      "Sentence": "She may have been Danish."
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "101.1",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "98.6",
+      "Sentence_cn": "你认为他在修理汽车吗？",
+      "Sentence": "Do you think he was repairing the car?"
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "106.8",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "105.6",
+      "Sentence_cn": "我不敢确定。",
+      "Sentence": "I'm not sure."
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "109.5",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "107.4",
+      "Sentence_cn": "他可能在修理汽车。",
+      "Sentence": "He may have been repairing the car."
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "113.4",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "111.0",
+      "Sentence_cn": "你认为他们在花园里玩吗？",
+      "Sentence": "Do you think they are playing in the garden?"
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "118.8",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "117.5",
+      "Sentence_cn": "我不敢确定。",
+      "Sentence": "I'm not sure."
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "121.5",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "119.4",
+      "Sentence_cn": "他们可能在花园里玩。",
+      "Sentence": "They may be playing in the garden."
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "124.9",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "122.9",
+      "Sentence_cn": "你认为他们会给你工作吗？",
+      "Sentence": "Do you think they will offer you a job?"
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "130.0",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "128.8",
+      "Sentence_cn": "我不敢确定。",
+      "Sentence": "I'm not sure."
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "132.3",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "130.8",
+      "Sentence_cn": "他们可能给我工作。",
+      "Sentence": "They may offer me a job."
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "136.5",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "134.2",
+      "Sentence_cn": "你认为她是29吗？",
+      "Sentence": "Do you think she's only 29?"
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "141.4",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "140.2",
+      "Sentence_cn": "我不敢确定。",
+      "Sentence": "I'm not sure."
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "143.9",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "142.0",
+      "Sentence_cn": "她可能只有29。",
+      "Sentence": "She may be only 29."
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "147.4",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "145.3",
+      "Sentence_cn": "你认为我那时的回答对吗？",
+      "Sentence": "Do you think my answer was right?"
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "151.6",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "150.5",
+      "Sentence_cn": "我不敢确定。",
+      "Sentence": "I'm not sure."
+    },
+    {
+      "voaid": "1132",
+      "EndTiming": "153.4",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "152.1",
+      "Sentence_cn": "它那时可能是对的。",
+      "Sentence": "It may have been right."
+    }
+  ],
+  "size": 30,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14334",
+    "title_cn": "他可能是…… 他可能已经…… 我不敢肯定。",
+    "title": "He may be ... He may have been ...I’m not sure."
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_132.mp3"
+}

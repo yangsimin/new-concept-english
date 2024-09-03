@@ -1,0 +1,309 @@
+{
+  "data": [
+    {
+      "voaid": "3056",
+      "EndTiming": "4.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "河流，我们的邻居",
+      "Sentence": "--- lesson 56  Our neighbour, the river"
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "12.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.3",
+      "Sentence_cn": "形成我们农场东部边界的一条河流一直在我们生活中发挥着重要作用。",
+      "Sentence": "The river which forms the eastern boundary of our farm has always played an important part in our lives."
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "14.9",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "12.6",
+      "Sentence_cn": "要是没有这条河，我们就无法生存下去。",
+      "Sentence": "Without it we could not make a living."
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "23.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "15.6",
+      "Sentence_cn": "泉水只能满足家庭生活用水，因此我们必须从河里抽水以用于农业生产。",
+      "Sentence": "There is only enough spring water to supply the needs of the house, so we have to pump from the river for farm use."
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "26.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "23.5",
+      "Sentence_cn": "我们向那条河倾诉我们的秘密。",
+      "Sentence": "We tell the river all our secrets."
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "31.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "26.7",
+      "Sentence_cn": "我们本能地懂得，就像养蜂人和他的蜜蜂那样，",
+      "Sentence": "We know instinctively, just as beekeepers with their bees,"
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "38.3",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "31.0",
+      "Sentence_cn": "要是我们不把生活中的重大事件告诉那条河，就可能大祸临头。",
+      "Sentence": "that misfortune might overtake us if the important events of our lives were not related to it."
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "42.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "39.0",
+      "Sentence_cn": "夏天，我们为这条河举办特殊的生日宴会。",
+      "Sentence": "We have special river birthday parties in the summer."
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "46.6",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "42.9",
+      "Sentence_cn": "有时，我们溯流而上来到我们喜爱的回水河汊举办；",
+      "Sentence": "Sometimes we go upstream to a favourite backwater,"
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "49.3",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "46.7",
+      "Sentence_cn": "有时在船坞举办。",
+      "Sentence": "sometimes we have our party at the boathouse,"
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "57.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "49.9",
+      "Sentence_cn": "那船坞是农场一位前辈在一块草地上盖的，草地紧挨着一个专供游泳、跳水的深水池。",
+      "Sentence": "which a predecessor of ours at the farm built in the meadow hard by the deepest pool for swimming and diving."
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "63.8",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "57.8",
+      "Sentence_cn": "天气炎热时，我们便选择在半夜举办生日聚会，这种聚会是最令人激动的。",
+      "Sentence": "In a heat wave we choose a midnight birthday party and that is the most exciting of all."
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "70.5",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "64.5",
+      "Sentence_cn": "我们在河边迎接一年四季。春天在河边为最年轻的姑娘戴上花冠，",
+      "Sentence": "We welcome the seasons by the riverside, crowning the youngest girl with flowers in the spring,"
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "77.4",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "70.5",
+      "Sentence_cn": "夏天在河边欢庆“仲夏前夜”，秋天在河边丰收而感恩，",
+      "Sentence": "holding a summer festival on Midsummer Eve, giving thanks for the harvest in the autumn,"
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "81.7",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "78.0",
+      "Sentence_cn": "冬天往河中抛撒一个冬青花环。",
+      "Sentence": "and throwing a holly wreath into the current in the winter."
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "87.1",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "82.4",
+      "Sentence_cn": "久雨之后，河水会泛滥成灾，",
+      "Sentence": "After a long period of rain the river may overflow its banks."
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "92.2",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "87.7",
+      "Sentence_cn": "但是在我们这里，气候很少发生异常，河水极少泛滥。",
+      "Sentence": "This is a rare occurrence as our climate seldom goes to extremes."
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "100.8",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "92.8",
+      "Sentence_cn": "值得庆幸的是，只有低洼地受到洪水影响，而低洼地在我们农场比例很小。",
+      "Sentence": "We are lucky in that only the lower fields, which make up a very small proportion of our farm, are affected by flooding,"
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "108.8",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "101.2",
+      "Sentence_cn": "其他农场地势欠佳，洪水有时会给农场主带来灾难。",
+      "Sentence": "but other farms are less favorably sited, and flooding can sometimes spell disaster for their owners."
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "114.1",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "109.3",
+      "Sentence_cn": "有一年冬天，天气不好，我们眼看着河水浸没了地势较低的草场。",
+      "Sentence": "One had winter we watched the river creep up the lower meadows."
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "119.3",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "114.8",
+      "Sentence_cn": "所有的牲口已提前转移到畜圈里，没有造成什么损失。",
+      "Sentence": "All the cattle had been moved into stalls and we stood to lose little."
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "127.8",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "119.9",
+      "Sentence_cn": "不过，我们很为我们的近邻担心。他们的农场地势低洼，而且他们又新来乍到。",
+      "Sentence": "We were, however, worried about our nearest neighbours, whose farm was low lying and who were newcomers to the district."
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "134.2",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "128.6",
+      "Sentence_cn": "由于洪水造成了电话中断，我们无法了解他们情况。",
+      "Sentence": "As the floods had put the telephone out of order, we could not find out how they were managing."
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "140.8",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "134.2",
+      "Sentence_cn": "从顶楼窗口看去，我们农场与他们农场接壤处的那段河流一览无余。",
+      "Sentence": "From an attic window we could get a sweeping view of the river where their land joined ours,"
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "145.9",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "140.8",
+      "Sentence_cn": "在最紧急的时刻，我们轮流监视那段河流的险情。",
+      "Sentence": "and at the most critical juncture we took turns in watching that point."
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "150.9",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "146.2",
+      "Sentence_cn": "灾难的第一迹象是一只死羊顺流而下，",
+      "Sentence": "The first sign of disaster was a dead sheep floating down."
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "154.5",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "150.9",
+      "Sentence_cn": "接着一匹活马勇敢地与水搏击。",
+      "Sentence": "Next came a horse, swimming bravely,"
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "161.5",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "154.0",
+      "Sentence_cn": "但我们担心，洪水力量将使它上岸之前就筋疲力尽了。",
+      "Sentence": "but we were afraid that the strength of the current would prevent its landing anywhere before it became exhausted."
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "173.6",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "162.2",
+      "Sentence_cn": "突然，出现了一只筏子，看起来很像诺亚方舟，上面载着他们全家老小，还有几只母鸡、几只狗、一只猫与一只鸟笼，那里头有一只小鸟。",
+      "Sentence": "Suddenly a raft appeared, looking rather like Noah's ark, carrying the whole family, a few hens, the dogs, a cat, and a bird in a cage."
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "179.9",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "174.3",
+      "Sentence_cn": "我们意识到他们一定是被不断上涨的洪水吓坏了。",
+      "Sentence": "We realized that they must have become unduly frightened by the rising flood,"
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "188.0",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "180.0",
+      "Sentence_cn": "因为他们的房子地基牢固，即使洪水几乎灭顶也不会倒塌。",
+      "Sentence": "for their house, which had sound foundations, would have stood stoutly even if it had been almost submerged."
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "201.3",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "188.1",
+      "Sentence_cn": "我家的男人们手拿船篙蹚过被水淹没的草场，希望能够钩住筏子一角，将它拽出激流，拖回岸边。",
+      "Sentence": "The men of our family waded down through our flooded meadows with boathooks,in the hope of being able to grapple a corner of the raft and pull it out of the current towards our bank."
+    },
+    {
+      "voaid": "3056",
+      "EndTiming": "205.7",
+      "Paraid": "1",
+      "IdIndex": "33",
+      "Timing": "201.5",
+      "Sentence_cn": "他们终于成功了。至今我们仍认为这是个奇迹。",
+      "Sentence": "We still think it a miracle that they were able to do so."
+    }
+  ],
+  "size": 33,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14680,14681,14682,14683,14684",
+    "title_cn": "河流，我们的邻居",
+    "title": "Our neighbour, the river"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_56.mp3"
+}

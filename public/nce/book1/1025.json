@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "voaid": "1025",
+      "EndTiming": "5.4",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "史密斯太太的厨房",
+      "Sentence": "--- lesson 25  Mrs.smith's kitchen"
+    },
+    {
+      "voaid": "1025",
+      "EndTiming": "9.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.1",
+      "Sentence_cn": "史密斯夫人的厨房很小。",
+      "Sentence": "Mrs.Smith's kitchen is small."
+    },
+    {
+      "voaid": "1025",
+      "EndTiming": "13.9",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.3",
+      "Sentence_cn": "厨房里有个电冰箱。",
+      "Sentence": "There is a refrigerator in the kitchen."
+    },
+    {
+      "voaid": "1025",
+      "EndTiming": "17.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "14.8",
+      "Sentence_cn": "冰箱的颜色是白的。",
+      "Sentence": "The refrigerator is white."
+    },
+    {
+      "voaid": "1025",
+      "EndTiming": "20.3",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "18.3",
+      "Sentence_cn": "它位于房间右侧。",
+      "Sentence": "It is on the right."
+    },
+    {
+      "voaid": "1025",
+      "EndTiming": "24.7",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "21.2",
+      "Sentence_cn": "厨房里有个电灶。",
+      "Sentence": "There is an electric cooker in the kitchen."
+    },
+    {
+      "voaid": "1025",
+      "EndTiming": "27.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "25.6",
+      "Sentence_cn": "电灶的颜色是蓝的。",
+      "Sentence": "The cooker is blue."
+    },
+    {
+      "voaid": "1025",
+      "EndTiming": "30.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "28.4",
+      "Sentence_cn": "它位于房间左侧。",
+      "Sentence": "It is on the left."
+    },
+    {
+      "voaid": "1025",
+      "EndTiming": "35.2",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "31.2",
+      "Sentence_cn": "房间的中央有张桌子。",
+      "Sentence": "There is a table in the middle of the room."
+    },
+    {
+      "voaid": "1025",
+      "EndTiming": "38.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "35.9",
+      "Sentence_cn": "桌子上有个瓶子。",
+      "Sentence": "There is a bottle on the table."
+    },
+    {
+      "voaid": "1025",
+      "EndTiming": "41.7",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "39.3",
+      "Sentence_cn": "瓶子是空的。",
+      "Sentence": "The bottle is empty."
+    },
+    {
+      "voaid": "1025",
+      "EndTiming": "45.8",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "42.3",
+      "Sentence_cn": "桌子上还有一只杯子。",
+      "Sentence": "There is a cup on the table, too."
+    },
+    {
+      "voaid": "1025",
+      "EndTiming": "48.7",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "46.5",
+      "Sentence_cn": "杯子很干净。",
+      "Sentence": "The cup is clean."
+    }
+  ],
+  "size": 13,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14206",
+    "title_cn": "史密斯太太的厨房",
+    "title": "Mrs.smith's kitchen"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_25.mp3"
+}

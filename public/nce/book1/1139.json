@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "1139",
+      "EndTiming": "5.4",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "是你吗，约翰？",
+      "Sentence": "--- lesson 139  Is that you,John?"
+    },
+    {
+      "voaid": "1139",
+      "EndTiming": "8.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.2",
+      "Sentence_cn": "是你吗，约翰？",
+      "Sentence": "Is that you, John?"
+    },
+    {
+      "voaid": "1139",
+      "EndTiming": "10.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.6",
+      "Sentence_cn": "是我，请讲。",
+      "Sentence": "Yes, speaking."
+    },
+    {
+      "voaid": "1139",
+      "EndTiming": "14.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "10.7",
+      "Sentence_cn": "你告诉玛丽，今晚吃饭将晚到一会儿。",
+      "Sentence": "Tell Mary we'll be late for dinner this evening."
+    },
+    {
+      "voaid": "1139",
+      "EndTiming": "18.1",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "15.2",
+      "Sentence_cn": "恐怕我还不明白您的意思。",
+      "Sentence": "I'm afraid I don't understand."
+    },
+    {
+      "voaid": "1139",
+      "EndTiming": "20.8",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "18.8",
+      "Sentence_cn": "玛丽没有告诉你吗？",
+      "Sentence": "Hasn't Mary told you?"
+    },
+    {
+      "voaid": "1139",
+      "EndTiming": "25.8",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "21.6",
+      "Sentence_cn": "她邀请我和夏洛特今晚去吃饭。",
+      "Sentence": "She invited Charlotte and me to dinner this evening."
+    },
+    {
+      "voaid": "1139",
+      "EndTiming": "31.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "26.7",
+      "Sentence_cn": "我说过我6点到你家，",
+      "Sentence": "I said I would be at your house at six o'clock,"
+    },
+    {
+      "voaid": "1139",
+      "EndTiming": "35.6",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "31.8",
+      "Sentence_cn": "但老板要我加班。",
+      "Sentence": "but the boss wants me to do some extra work."
+    },
+    {
+      "voaid": "1139",
+      "EndTiming": "39.2",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "36.6",
+      "Sentence_cn": "我不得不留在办公室，",
+      "Sentence": "I'll have to stay at the office."
+    },
+    {
+      "voaid": "1139",
+      "EndTiming": "42.3",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "39.9",
+      "Sentence_cn": "不知道什么时候才能结束。",
+      "Sentence": "I don't know when I'll finish."
+    },
+    {
+      "voaid": "1139",
+      "EndTiming": "50.1",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "43.1",
+      "Sentence_cn": "喔，顺便问一问，我妻子想知道玛丽是否需要帮忙。",
+      "Sentence": "Oh, and by the way, my wife wants to know if Mary needs any help."
+    },
+    {
+      "voaid": "1139",
+      "EndTiming": "54.5",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "51.1",
+      "Sentence_cn": "我不知道您在说些什么。",
+      "Sentence": "I don't know what you're talking about."
+    },
+    {
+      "voaid": "1139",
+      "EndTiming": "58.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "55.4",
+      "Sentence_cn": "你是约翰.史密斯，对吗？",
+      "Sentence": "That is John Smith, isn't it?"
+    },
+    {
+      "voaid": "1139",
+      "EndTiming": "61.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "58.8",
+      "Sentence_cn": "是的，我是约翰.史密斯。",
+      "Sentence": "Yes, I'm John Smith."
+    },
+    {
+      "voaid": "1139",
+      "EndTiming": "66.4",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "61.8",
+      "Sentence_cn": "你是工程师约翰.史密斯，对吗？",
+      "Sentence": "You are John Smith,the engineer,aren't you? "
+    },
+    {
+      "voaid": "1139",
+      "EndTiming": "67.8",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "66.7",
+      "Sentence_cn": "对。",
+      "Sentence": "That's right."
+    },
+    {
+      "voaid": "1139",
+      "EndTiming": "74.1",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "68.7",
+      "Sentence_cn": "你在海外工程公司上班，是吗？",
+      "Sentence": "You work for the Overseas Engineering Company, don't you? "
+    },
+    {
+      "voaid": "1139",
+      "EndTiming": "79.6",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "74.5",
+      "Sentence_cn": "不，不是。我是电话工程师约翰.史密斯，",
+      "Sentence": "No, I don't. I'm John Smith the telephone engineer"
+    },
+    {
+      "voaid": "1139",
+      "EndTiming": "83.3",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "80.0",
+      "Sentence_cn": "我正在修理您的电话线。",
+      "Sentence": "and I'm repairing your telephone line."
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14341",
+    "title_cn": "是你吗，约翰？",
+    "title": "Is that you,John?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_139.mp3"
+}

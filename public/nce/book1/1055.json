@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "voaid": "1055",
+      "EndTiming": "4.8",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "索耶一家人",
+      "Sentence": "--- lesson 55  The Sawyer family"
+    },
+    {
+      "voaid": "1055",
+      "EndTiming": "9.6",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.5",
+      "Sentence_cn": "索耶一家住在国王街87号。",
+      "Sentence": "The Sawyers live at 87 King Street."
+    },
+    {
+      "voaid": "1055",
+      "EndTiming": "17.3",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.4",
+      "Sentence_cn": "早上，索耶先生去上班，孩子们去上学。",
+      "Sentence": "In the morning, Mr. Sawyer goes to work and the children go to school."
+    },
+    {
+      "voaid": "1055",
+      "EndTiming": "21.8",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "18.1",
+      "Sentence_cn": "父亲每天送孩子们去上学。",
+      "Sentence": "Their father takes them to school every day."
+    },
+    {
+      "voaid": "1055",
+      "EndTiming": "25.9",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "22.6",
+      "Sentence_cn": "索耶夫人每天呆在家里。",
+      "Sentence": "Mrs. Sawyer stays at home every day."
+    },
+    {
+      "voaid": "1055",
+      "EndTiming": "28.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "26.7",
+      "Sentence_cn": "她料理家务。",
+      "Sentence": "She does the housework."
+    },
+    {
+      "voaid": "1055",
+      "EndTiming": "32.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "29.3",
+      "Sentence_cn": "她总是在正午吃午饭。",
+      "Sentence": "She always eats her lunch at noon."
+    },
+    {
+      "voaid": "1055",
+      "EndTiming": "37.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "33.3",
+      "Sentence_cn": "下午，她总是会见她的朋友。",
+      "Sentence": "In the afternoon, she usually sees her friends."
+    },
+    {
+      "voaid": "1055",
+      "EndTiming": "40.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "38.4",
+      "Sentence_cn": "她们经常在一起喝茶。",
+      "Sentence": "They often drink tea together."
+    },
+    {
+      "voaid": "1055",
+      "EndTiming": "45.7",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "41.7",
+      "Sentence_cn": "傍晚，孩子们放学回家。",
+      "Sentence": "In the evening, the children come home from school."
+    },
+    {
+      "voaid": "1055",
+      "EndTiming": "48.7",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "46.5",
+      "Sentence_cn": "他们到家很早。",
+      "Sentence": "They arrive home early."
+    },
+    {
+      "voaid": "1055",
+      "EndTiming": "52.3",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "49.4",
+      "Sentence_cn": "索耶先生下班回家。",
+      "Sentence": "Mr. Sawyer comes home from work."
+    },
+    {
+      "voaid": "1055",
+      "EndTiming": "55.1",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "53.0",
+      "Sentence_cn": "他到家很晚。",
+      "Sentence": "He arrives home late."
+    },
+    {
+      "voaid": "1055",
+      "EndTiming": "59.9",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "55.9",
+      "Sentence_cn": "晚上，孩子们总是做作业，",
+      "Sentence": "At night, the children always do their homework."
+    },
+    {
+      "voaid": "1055",
+      "EndTiming": "62.4",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "60.5",
+      "Sentence_cn": "然后去睡觉。",
+      "Sentence": "Then they go to bed."
+    },
+    {
+      "voaid": "1055",
+      "EndTiming": "66.6",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "63.3",
+      "Sentence_cn": "索耶先生总是读报纸，",
+      "Sentence": "Mr. Sawyer usually reads his newspaper,"
+    },
+    {
+      "voaid": "1055",
+      "EndTiming": "71.1",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "67.3",
+      "Sentence_cn": "但有时和他的妻子一起看电视。",
+      "Sentence": "but sometimes he and his wife watch television."
+    }
+  ],
+  "size": 17,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14240",
+    "title_cn": "索耶一家人",
+    "title": "The Sawyer family"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_55.mp3"
+}

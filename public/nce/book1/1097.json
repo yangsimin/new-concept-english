@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "1097",
+      "EndTiming": "5.1",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "一只蓝色的小箱子",
+      "Sentence": "--- lesson 97  A small blue case"
+    },
+    {
+      "voaid": "1097",
+      "EndTiming": "10.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.8",
+      "Sentence_cn": "几天前我把一只手提箱忘在开往伦敦的火车上了。",
+      "Sentence": "I left a suitcase on the train to London the other day."
+    },
+    {
+      "voaid": "1097",
+      "EndTiming": "13.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "11.6",
+      "Sentence_cn": "先生，您能描述一下它是什么样子的吗？",
+      "Sentence": "Can you describe it, sir?"
+    },
+    {
+      "voaid": "1097",
+      "EndTiming": "19.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "14.5",
+      "Sentence_cn": "是只蓝色的小箱子，上面有拉链。",
+      "Sentence": "It's a small blue case and it's got a zip."
+    },
+    {
+      "voaid": "1097",
+      "EndTiming": "25.4",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "20.1",
+      "Sentence_cn": "箱把上有一标签，上面写着我的姓名和住址。",
+      "Sentence": "There's a label on the handle with my name and address on it."
+    },
+    {
+      "voaid": "1097",
+      "EndTiming": "28.3",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "26.2",
+      "Sentence_cn": "这箱子是您的吗？",
+      "Sentence": "Is this case yours?"
+    },
+    {
+      "voaid": "1097",
+      "EndTiming": "30.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "29.0",
+      "Sentence_cn": "不，那不是我的。",
+      "Sentence": "No, that's not mine."
+    },
+    {
+      "voaid": "1097",
+      "EndTiming": "33.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "31.6",
+      "Sentence_cn": "这只是不是？",
+      "Sentence": "What about this one?"
+    },
+    {
+      "voaid": "1097",
+      "EndTiming": "36.2",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "34.0",
+      "Sentence_cn": "这只箱子有张标签。",
+      "Sentence": "This one's got a label."
+    },
+    {
+      "voaid": "1097",
+      "EndTiming": "38.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "37.0",
+      "Sentence_cn": "让我看看。",
+      "Sentence": "Let me see it."
+    },
+    {
+      "voaid": "1097",
+      "EndTiming": "41.7",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "39.2",
+      "Sentence_cn": "您的姓名和住址？",
+      "Sentence": "What's your name and address?"
+    },
+    {
+      "voaid": "1097",
+      "EndTiming": "46.9",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "42.4",
+      "Sentence_cn": "大卫.霍尔，大桥路83号。",
+      "Sentence": "David Hall,83,Bridge Street."
+    },
+    {
+      "voaid": "1097",
+      "EndTiming": "53.5",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "47.6",
+      "Sentence_cn": "那就对了。D.N.霍尔，大桥路83号。",
+      "Sentence": "That's right. D.N. Hall, 83, Bridge Street."
+    },
+    {
+      "voaid": "1097",
+      "EndTiming": "57.1",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "54.2",
+      "Sentence_cn": "请付3英镑50便士。",
+      "Sentence": "Three pounds fifty pence,please."
+    },
+    {
+      "voaid": "1097",
+      "EndTiming": "59.0",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "57.8",
+      "Sentence_cn": "给您。",
+      "Sentence": "Here you are. "
+    },
+    {
+      "voaid": "1097",
+      "EndTiming": "60.2",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "59.6",
+      "Sentence_cn": "谢谢您。",
+      "Sentence": "Thank you."
+    },
+    {
+      "voaid": "1097",
+      "EndTiming": "61.6",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "60.9",
+      "Sentence_cn": "嗨！",
+      "Sentence": "Hey!"
+    },
+    {
+      "voaid": "1097",
+      "EndTiming": "63.3",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "62.2",
+      "Sentence_cn": "怎么回事？",
+      "Sentence": "What's the matter?"
+    },
+    {
+      "voaid": "1097",
+      "EndTiming": "67.1",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "64.1",
+      "Sentence_cn": "这箱子不是我的！",
+      "Sentence": "This case doesn't belong to me!"
+    },
+    {
+      "voaid": "1097",
+      "EndTiming": "70.5",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "67.9",
+      "Sentence_cn": "您给错了！",
+      "Sentence": "You've given me the wrong case!"
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14297",
+    "title_cn": "一只蓝色的小箱子",
+    "title": "A small blue case"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_97.mp3"
+}

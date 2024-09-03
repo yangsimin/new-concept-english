@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "voaid": "1042",
+      "EndTiming": "24.1",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "21.4",
+      "Sentence_cn": "这儿有护照吗？",
+      "Sentence": "Is there a passport here?"
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "28.6",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "24.2",
+      "Sentence_cn": "是的，有。桌子上有一个。",
+      "Sentence": "Yes, there is. There's one on the table."
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "34.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "31.8",
+      "Sentence_cn": "这儿有牛奶吗？",
+      "Sentence": "Is there any milk here?"
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "40.1",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "34.7",
+      "Sentence_cn": "是的，有。桌子上有。",
+      "Sentence": "Yes, there is. There's some on the table."
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "46.1",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "43.1",
+      "Sentence_cn": "这儿有勺吗？",
+      "Sentence": "Is there a spoon here?"
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "51.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "46.2",
+      "Sentence_cn": "是的，有。盘子里有一个。",
+      "Sentence": "Yes, there is. There's one on the plate."
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "69.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "64.1",
+      "Sentence_cn": "这儿有护照吗？",
+      "Sentence": "Is there a passport here?"
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "76.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "69.2",
+      "Sentence_cn": "是的，有。桌子上有一个。",
+      "Sentence": "Yes, there is. There's one on the table."
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "88.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "83.9",
+      "Sentence_cn": "这儿有牛奶吗？",
+      "Sentence": "Is there any milk here?"
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "94.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "88.2",
+      "Sentence_cn": "是的，有。桌子上有。",
+      "Sentence": "Yes, there is. There's some on the table."
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "102.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "98.4",
+      "Sentence_cn": "这儿有勺吗？",
+      "Sentence": "Is there a spoon here?"
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "109.7",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "102.7",
+      "Sentence_cn": "是的，有。盘子里有一个。",
+      "Sentence": "Yes, there is. There's one on the plate."
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "118.7",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "114.6",
+      "Sentence_cn": "这儿有领带吗？",
+      "Sentence": "Is there a tie here?"
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "125.3",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "118.8",
+      "Sentence_cn": "是的，有。椅子上有一个。",
+      "Sentence": "Yes, there is. There's one on the chair."
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "133.6",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "130.0",
+      "Sentence_cn": "这儿有面包吗？",
+      "Sentence": "Is there any bread here?"
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "140.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "133.7",
+      "Sentence_cn": "是的，有。桌子上有一些。",
+      "Sentence": "Yes, there is. There's some on the table."
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "148.1",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "144.0",
+      "Sentence_cn": "这儿有锤子吗？",
+      "Sentence": "Is there a hammer here?"
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "155.3",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "148.2",
+      "Sentence_cn": "是的，有。书架上有一个。",
+      "Sentence": "Yes, there is. There's one on the bookcase."
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "163.8",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "159.3",
+      "Sentence_cn": "这儿有茶叶吗？",
+      "Sentence": "Is there any tea here?"
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "170.4",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "163.9",
+      "Sentence_cn": "桌子上有一些。",
+      "Sentence": "Yes, there is. There's some on the table."
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "178.8",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "174.9",
+      "Sentence_cn": "这儿有花瓶吗？",
+      "Sentence": "Is there a vase here?"
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "185.6",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "178.9",
+      "Sentence_cn": "音响上有一个。",
+      "Sentence": "Yes, there is. There's one on the stereo."
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "195.4",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "191.2",
+      "Sentence_cn": "这儿有一套制服吗？",
+      "Sentence": "Is there a suit here?"
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "202.2",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "195.5",
+      "Sentence_cn": "是的，有。衣橱里有一套。",
+      "Sentence": "Yes, there is. There's one in the wardrobe."
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "211.9",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "207.3",
+      "Sentence_cn": "这儿有烟草吗？",
+      "Sentence": "Is there any tobacco here?"
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "218.4",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "212.0",
+      "Sentence_cn": "是的，有。罐子里有一些。",
+      "Sentence": "Yes, there is. There's some in the tin."
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "226.9",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "222.7",
+      "Sentence_cn": "这儿有巧克力吗？",
+      "Sentence": "Is there any chocolate here?"
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "233.7",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "227.0",
+      "Sentence_cn": "是的，有。桌子上有一些。",
+      "Sentence": "Yes, there is. There's some on the desk."
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "242.4",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "238.3",
+      "Sentence_cn": "这儿有一些奶酪吗？",
+      "Sentence": "Is there any cheese here?"
+    },
+    {
+      "voaid": "1042",
+      "EndTiming": "248.5",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "242.5",
+      "Sentence_cn": "是的，有。盘子里有一些。",
+      "Sentence": "Yes, there is. There's some on the plate."
+    }
+  ],
+  "size": 30,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14226",
+    "title_cn": "在那个……中/上有一个……吗？在那个……中/上有……吗？",
+    "title": "Is there a ... in /on that ...? Is there any ... in/on that ...?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_42.mp3"
+}

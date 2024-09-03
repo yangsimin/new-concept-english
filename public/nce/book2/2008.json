@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "voaid": "2008",
+      "EndTiming": "4.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "最好的和最差的",
+      "Sentence": "--- Lesson 8 The best and the worst"
+    },
+    {
+      "voaid": "2008",
+      "EndTiming": "10.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.3",
+      "Sentence_cn": "乔. 桑德斯拥有我们镇上最漂亮的花园。",
+      "Sentence": "Joe Sanders has the most beautiful garden in our town. "
+    },
+    {
+      "voaid": "2008",
+      "EndTiming": "16.8",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.7",
+      "Sentence_cn": "几乎每个人都参加每年举办的“最佳花园竞赛”，",
+      "Sentence": "Nearly everybody enters for 'The Nicest Garden Competition' each year, "
+    },
+    {
+      "voaid": "2008",
+      "EndTiming": "20.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "17.4",
+      "Sentence_cn": "而每次都是乔获胜。",
+      "Sentence": "but Joe wins every time. "
+    },
+    {
+      "voaid": "2008",
+      "EndTiming": "24.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "20.7",
+      "Sentence_cn": "比尔. 弗里斯的花园比乔的花园大，",
+      "Sentence": "Bill Frith's garden is larger than Joe's. "
+    },
+    {
+      "voaid": "2008",
+      "EndTiming": "29.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "24.6",
+      "Sentence_cn": "他比乔也更为勤奋，种植的花卉和蔬菜也更多，",
+      "Sentence": "Bill works harder than Joe and grows more flowers and vegetables, "
+    },
+    {
+      "voaid": "2008",
+      "EndTiming": "33.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "30.2",
+      "Sentence_cn": "但乔的花园更富有情趣。",
+      "Sentence": "but Joe's garden is more interesting. "
+    },
+    {
+      "voaid": "2008",
+      "EndTiming": "38.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "33.7",
+      "Sentence_cn": "他修筑了一条条整洁的小路，并在一个池塘上架了一座小木桥。",
+      "Sentence": "He has made neat paths and has built a wooden bridge over a pool. "
+    },
+    {
+      "voaid": "2008",
+      "EndTiming": "44.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "39.8",
+      "Sentence_cn": "我也喜欢花园，但我却不愿意辛勤劳动。",
+      "Sentence": "I like gardens too, but I do not like hard work. "
+    },
+    {
+      "voaid": "2008",
+      "EndTiming": "49.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "45.2",
+      "Sentence_cn": "每年的花园竞赛我也参加，",
+      "Sentence": "Every year I enter for the garden competition too, "
+    },
+    {
+      "voaid": "2008",
+      "EndTiming": "55.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "50.0",
+      "Sentence_cn": "但总因是镇上最劣的花园而获得一个小奖！",
+      "Sentence": "and I always win a little prize for the worst garden in the town!"
+    }
+  ],
+  "size": 11,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14363,14364",
+    "title_cn": "最好的和最差的",
+    "title": "The best and the worst"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_8.mp3"
+}

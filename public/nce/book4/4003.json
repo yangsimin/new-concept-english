@@ -1,0 +1,219 @@
+{
+  "data": [
+    {
+      "voaid": "4003",
+      "EndTiming": "8.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "课文3  马特霍恩山区人",
+      "Sentence": "--- Lesson 3 Matterhorn man"
+    },
+    {
+      "voaid": "4003",
+      "EndTiming": "13.9",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "9.9",
+      "Sentence_cn": "早期登山运动员的主要目标是什么?",
+      "Sentence": "What was the main objective of early mountain climbers?"
+    },
+    {
+      "voaid": "4003",
+      "EndTiming": "21.7",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "15.4",
+      "Sentence_cn": "现代登山运动员总想找一条能够给他们带来运动乐趣的路线来攀登山峰。",
+      "Sentence": "Modern alpinists try to climb mountains by a route which will give them good sport,"
+    },
+    {
+      "voaid": "4003",
+      "EndTiming": "26.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "22.0",
+      "Sentence_cn": "他们认为， 道路愈艰险愈带劲儿。",
+      "Sentence": "and the more difficult it is, the more highly it is regarded."
+    },
+    {
+      "voaid": "4003",
+      "EndTiming": "32.7",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "27.5",
+      "Sentence_cn": "然而，在登山运动的初期，全然不是这种情况。",
+      "Sentence": "In the pioneering days however, this was not the case at all."
+    },
+    {
+      "voaid": "4003",
+      "EndTiming": "41.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "33.7",
+      "Sentence_cn": "早期登山者所寻找的是通往山顶的最方便的途径，因为顶峰才是他们寻求的目标。",
+      "Sentence": "The early climbers were looking for the easiest way to the top because the summit was the prize they sought,"
+    },
+    {
+      "voaid": "4003",
+      "EndTiming": "45.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "42.0",
+      "Sentence_cn": "特别是前人未曾到过的顶峰。",
+      "Sentence": "especially if it had never been attained before."
+    },
+    {
+      "voaid": "4003",
+      "EndTiming": "54.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "46.4",
+      "Sentence_cn": "确实，在探险中他们经常遇到惊心动魄的困难和危险，",
+      "Sentence": "It is true that during their explorations they often faced difficulties and dangers of the most perilous nature,"
+    },
+    {
+      "voaid": "4003",
+      "EndTiming": "60.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "55.6",
+      "Sentence_cn": "而他们装备之简陋足以使现代登山者一想起来就胆战心惊。",
+      "Sentence": "equipped in a manner which would make a modern climber shudder at the thought,"
+    },
+    {
+      "voaid": "4003",
+      "EndTiming": "65.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "61.2",
+      "Sentence_cn": "但是，他们并非故意寻求这种刺激，",
+      "Sentence": "but they did not go out of their way to court such excitement."
+    },
+    {
+      "voaid": "4003",
+      "EndTiming": "71.3",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "66.0",
+      "Sentence_cn": "他们只有一个目标，唯一的目标 -- 顶峰！",
+      "Sentence": "They had a single aim, a solitary goal -- the top!"
+    },
+    {
+      "voaid": "4003",
+      "EndTiming": "78.5",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "72.7",
+      "Sentence_cn": "我们今天很难想像昔日的登山先驱们是多么艰苦。",
+      "Sentence": "It is hard for us to realize nowadays how difficult it was for the pioneers."
+    },
+    {
+      "voaid": "4003",
+      "EndTiming": "87.1",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "79.3",
+      "Sentence_cn": "除了泽曼特和夏蒙尼等一两个很快出了名的地方外，",
+      "Sentence": "Except for one or two places such as Zermatt and Chamonix, which had rapidly become popular."
+    },
+    {
+      "voaid": "4003",
+      "EndTiming": "95.3",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "87.4",
+      "Sentence_cn": "阿尔卑斯山山区的小村几乎全是高山环抱、与世隔绝的穷乡僻壤。",
+      "Sentence": "Alpine villages tended to be impoverished settlements cut off from civilization by the high mountains."
+    },
+    {
+      "voaid": "4003",
+      "EndTiming": "101.4",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "96.5",
+      "Sentence_cn": "那里的小客栈一般都很肮脏，而且跳蚤猖獗。",
+      "Sentence": "Such inns as there were were generally dirty and flea-ridden;"
+    },
+    {
+      "voaid": "4003",
+      "EndTiming": "107.7",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "102.1",
+      "Sentence_cn": "食物是当地的干酪和通常存放了一年之久的面包，",
+      "Sentence": "the food simply local cheese accompanied by bread often twelve months old,"
+    },
+    {
+      "voaid": "4003",
+      "EndTiming": "110.7",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "108.0",
+      "Sentence_cn": "人们就着劣酒吞下这种食物。",
+      "Sentence": "all washed down with coarse wine."
+    },
+    {
+      "voaid": "4003",
+      "EndTiming": "118.1",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "111.9",
+      "Sentence_cn": "山谷里常常没有小客栈，登山者只好随遇而安。",
+      "Sentence": "Often a valley boasted no inn at all, and climbers found shelter wherever they could --"
+    },
+    {
+      "voaid": "4003",
+      "EndTiming": "124.1",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "118.5",
+      "Sentence_cn": "有时同当地牧师 （他通常和他的教民一样穷）住在一起，",
+      "Sentence": "sometimes with the local priest (who was usually as poor as his parishioners),"
+    },
+    {
+      "voaid": "4003",
+      "EndTiming": "127.9",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "125.0",
+      "Sentence_cn": "有时同牧羊人或制乳酪的人住在一起。",
+      "Sentence": "sometimes with shepherds or cheese-makers."
+    },
+    {
+      "voaid": "4003",
+      "EndTiming": "136.3",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "128.8",
+      "Sentence_cn": "无论住在哪儿，情况都一样：肮脏、贫穷，极其不舒适。",
+      "Sentence": "Invariably the background was the same:dirt and poverty, and very uncomfortable."
+    },
+    {
+      "voaid": "4003",
+      "EndTiming": "144.2",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "137.2",
+      "Sentence_cn": "对于过惯了一顿饭吃7道菜、睡亚麻细布床单的人来说，",
+      "Sentence": "For men accustomed to eating seven-course dinners and sleeping between fine linen sheets at home,"
+    },
+    {
+      "voaid": "4003",
+      "EndTiming": "157.7",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "144.8",
+      "Sentence_cn": "变换一下生活环境来到阿尔卑斯山山区，那一定是很艰难的。",
+      "Sentence": "the change to the Alps must have been very hard indeed."
+    }
+  ],
+  "size": 23,
+  "title": {
+    "newCategoryid": 1154,
+    "newTitleId": "14704,14705,14706",
+    "title_cn": "马特霍恩山区人",
+    "title": "Matterhorn man"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/4_3.mp3"
+}

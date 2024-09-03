@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "voaid": "2060",
+      "EndTiming": "3.3",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "卜算未来",
+      "Sentence": "--- Lesson 60  The future"
+    },
+    {
+      "voaid": "2060",
+      "EndTiming": "10.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "3.9",
+      "Sentence_cn": "在一个乡村集市上，我决定去拜访一位称作别林斯夫人的算命人。",
+      "Sentence": "At a village fair, I decided to visit a fortune-teller called Madam Bellinsky."
+    },
+    {
+      "voaid": "2060",
+      "EndTiming": "14.9",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "11.0",
+      "Sentence_cn": "我走进她的帐篷，她叫我坐下。",
+      "Sentence": "I went into her tent and she told me to sit down."
+    },
+    {
+      "voaid": "2060",
+      "EndTiming": "21.5",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "15.0",
+      "Sentence_cn": "我给了她一些钱后，她便查看着一个水晶球说道：",
+      "Sentence": "After I had given her some money, she looked into a crystal ball and said:"
+    },
+    {
+      "voaid": "2060",
+      "EndTiming": "25.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "22.3",
+      "Sentence_cn": "“您的一个亲戚就要来看您了。",
+      "Sentence": "'A relation of yours is coming to see you."
+    },
+    {
+      "voaid": "2060",
+      "EndTiming": "31.3",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "26.1",
+      "Sentence_cn": "她将于今天傍晚到达，并准备住上几天。",
+      "Sentence": "She will be arriving this evening and intends to stay for a few days."
+    },
+    {
+      "voaid": "2060",
+      "EndTiming": "36.8",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "31.9",
+      "Sentence_cn": "您一走出这个帐篷，就会大吃一惊。",
+      "Sentence": "The moment you leave this tent, you will get a big surprise."
+    },
+    {
+      "voaid": "2060",
+      "EndTiming": "41.1",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "37.4",
+      "Sentence_cn": "一位您很熟悉的女人将向您冲来。",
+      "Sentence": "A woman you know well will rush towards you."
+    },
+    {
+      "voaid": "2060",
+      "EndTiming": "48.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "41.7",
+      "Sentence_cn": "她会对您说点什么，然后带您离开这个地方。就是这些。”",
+      "Sentence": "She will speak to you and then she will lead you away from this place. That is all.'"
+    },
+    {
+      "voaid": "2060",
+      "EndTiming": "57.3",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "49.0",
+      "Sentence_cn": "我一走出帐篷，就把别林斯基夫人给算卦的事忘得一干二净了，因为我的妻子正匆匆向我跑来。",
+      "Sentence": "As soon as I went outside, I forgot all about Madam Bellinsky because my wife hurried towards me."
+    },
+    {
+      "voaid": "2060",
+      "EndTiming": "62.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "58.0",
+      "Sentence_cn": "“你躲到哪儿去了？”她不耐烦地问，",
+      "Sentence": "'Where have you been hiding?' she asked impatiently."
+    },
+    {
+      "voaid": "2060",
+      "EndTiming": "69.8",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "63.2",
+      "Sentence_cn": "“再有不到一个小时你姐姐就要到这儿了，我们得去车站接她。",
+      "Sentence": "'Your sister will be here in less than an hour and we must be at the station to meet her."
+    },
+    {
+      "voaid": "2060",
+      "EndTiming": "71.9",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "70.4",
+      "Sentence_cn": "现在就已经晚了。”",
+      "Sentence": "We are late already.'"
+    },
+    {
+      "voaid": "2060",
+      "EndTiming": "76.4",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "72.0",
+      "Sentence_cn": "当她走开时，我也跟着她出了集市。",
+      "Sentence": "As she walked away, I followed her out of the fair."
+    }
+  ],
+  "size": 14,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14453",
+    "title_cn": "卜算未来",
+    "title": "The future"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_60.mp3"
+}

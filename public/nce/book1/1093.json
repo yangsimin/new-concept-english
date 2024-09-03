@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "voaid": "1093",
+      "EndTiming": "4.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "我们的新邻居",
+      "Sentence": "--- lesson 93  Our new neighbour"
+    },
+    {
+      "voaid": "1093",
+      "EndTiming": "8.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.3",
+      "Sentence_cn": "奈杰尔是我们新搬来的隔壁邻居。",
+      "Sentence": "Nigel is our new next-door neighbour."
+    },
+    {
+      "voaid": "1093",
+      "EndTiming": "11.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "9.5",
+      "Sentence_cn": "他是个飞行员。",
+      "Sentence": "He's a pilot."
+    },
+    {
+      "voaid": "1093",
+      "EndTiming": "14.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "11.7",
+      "Sentence_cn": "他曾在皇家空军任职。",
+      "Sentence": "He was in the R.A.F."
+    },
+    {
+      "voaid": "1093",
+      "EndTiming": "18.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "14.9",
+      "Sentence_cn": "下个月他将飞往纽约。",
+      "Sentence": "He will fly to New York next month."
+    },
+    {
+      "voaid": "1093",
+      "EndTiming": "22.8",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "18.9",
+      "Sentence_cn": "再下个月他将飞往东京。",
+      "Sentence": "The month after next he'll fly to Tokyo."
+    },
+    {
+      "voaid": "1093",
+      "EndTiming": "26.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "23.5",
+      "Sentence_cn": "现在他在马德里。",
+      "Sentence": "At the moment, he's in Madrid."
+    },
+    {
+      "voaid": "1093",
+      "EndTiming": "29.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "27.2",
+      "Sentence_cn": "他是一星期以前飞到西班牙的。",
+      "Sentence": "He flew to Spain a week ago."
+    },
+    {
+      "voaid": "1093",
+      "EndTiming": "34.8",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "30.7",
+      "Sentence_cn": "再下个星期他将返回伦敦。",
+      "Sentence": "He'll return to London the week after next."
+    },
+    {
+      "voaid": "1093",
+      "EndTiming": "38.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "35.6",
+      "Sentence_cn": "他只有41岁，",
+      "Sentence": "He's only forty-one years old,"
+    },
+    {
+      "voaid": "1093",
+      "EndTiming": "45.4",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "39.3",
+      "Sentence_cn": "但他却去过世界上几乎每一个国家。",
+      "Sentence": "and he has already been to nearly every country in the world."
+    },
+    {
+      "voaid": "1093",
+      "EndTiming": "49.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "46.2",
+      "Sentence_cn": "奈杰尔是个很幸运的人。",
+      "Sentence": "Nigel is a very lucky man."
+    },
+    {
+      "voaid": "1093",
+      "EndTiming": "55.7",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "49.8",
+      "Sentence_cn": "但他的妻子运气不很好。她总是呆在家里！",
+      "Sentence": "But his wife isn't very lucky. She usually stays at home!"
+    }
+  ],
+  "size": 13,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14290",
+    "title_cn": "我们的新邻居",
+    "title": "Our new neighbour"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_93.mp3"
+}

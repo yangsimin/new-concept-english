@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "voaid": "2065",
+      "EndTiming": "4.7",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "小象对警察",
+      "Sentence": "--- Lesson 65  Jumbo versus the police"
+    },
+    {
+      "voaid": "2065",
+      "EndTiming": "14.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.7",
+      "Sentence_cn": "去年圣诞节，马戏团老板吉米.盖茨决定送些礼物给儿童医院。",
+      "Sentence": "Last Christmas, the circus owner, Jimmy Gates, decided to take some presents to a children's hospital."
+    },
+    {
+      "voaid": "2065",
+      "EndTiming": "21.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "14.6",
+      "Sentence_cn": "他打扮成圣诞老人，在由6个漂亮姑娘组成的“仪仗队”的陪同下，",
+      "Sentence": "Dressed up as Father Christmas and accompanied by a 'guard of honour' of six pretty girls,"
+    },
+    {
+      "voaid": "2065",
+      "EndTiming": "28.2",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "21.6",
+      "Sentence_cn": "骑上一头名叫江伯的小象，沿着城里的主要街道出发了。",
+      "Sentence": "he set off down the main street of the city riding a baby elephant called Jumbo."
+    },
+    {
+      "voaid": "2065",
+      "EndTiming": "34.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "28.6",
+      "Sentence_cn": "他本该知道警察绝不会允许这类事情发生。",
+      "Sentence": "He should have known that the police would never allow this sort of thing."
+    },
+    {
+      "voaid": "2065",
+      "EndTiming": "43.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "34.7",
+      "Sentence_cn": "一个警察走过来告诉吉米，他应该走一条小路，因为江泊阻碍了交通。",
+      "Sentence": "A policeman approached Jimmy and told him he ought to have gone along a side street as Jumbo was holding up the traffic."
+    },
+    {
+      "voaid": "2065",
+      "EndTiming": "50.3",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "44.1",
+      "Sentence_cn": "虽然吉米同意马上就走，但江伯却拒绝移动。",
+      "Sentence": "Though Jimmy agreed to go at once, Jumbo refused to move."
+    },
+    {
+      "voaid": "2065",
+      "EndTiming": "55.8",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "50.3",
+      "Sentence_cn": "15个警察不得不用很大的力气把它推离主要街道。",
+      "Sentence": "Fifteen policemen had to push very hard to get him off the main street."
+    },
+    {
+      "voaid": "2065",
+      "EndTiming": "60.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "55.8",
+      "Sentence_cn": "警察虽然吃了苦头，但他们还是感到很有趣。",
+      "Sentence": "The police had a difficult time, but they were most amused."
+    },
+    {
+      "voaid": "2065",
+      "EndTiming": "67.2",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "61.6",
+      "Sentence_cn": "“江伯一定有好几吨重，”一个警察事后这样说，",
+      "Sentence": "'Jumbo must weigh a few tons,' said a policeman afterwards,"
+    },
+    {
+      "voaid": "2065",
+      "EndTiming": "71.6",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "67.7",
+      "Sentence_cn": "“值得庆幸的是它没让我们抬它走。",
+      "Sentence": "'so it was fortunate that we didn't have to carry him."
+    },
+    {
+      "voaid": "2065",
+      "EndTiming": "80.4",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "72.4",
+      "Sentence_cn": "当然，我们应该逮捕它，但由于它一贯表现很好，这次我们饶了它。”",
+      "Sentence": "Of course, we should arrest him, but as he has a good record, we shall let him off this time.'"
+    }
+  ],
+  "size": 12,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14461,14462",
+    "title_cn": "小象对警察",
+    "title": "Jumbo versus the police"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_65.mp3"
+}

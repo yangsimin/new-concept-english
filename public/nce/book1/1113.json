@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "1113",
+      "EndTiming": "4.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "零钱",
+      "Sentence": "--- lesson 113  Small change"
+    },
+    {
+      "voaid": "1113",
+      "EndTiming": "6.9",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.8",
+      "Sentence_cn": "请买票！",
+      "Sentence": "Fares, please!"
+    },
+    {
+      "voaid": "1113",
+      "EndTiming": "9.4",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "7.4",
+      "Sentence_cn": "请买一张到特拉法加广场的票。",
+      "Sentence": "Trafalgar Square,please."
+    },
+    {
+      "voaid": "1113",
+      "EndTiming": "15.9",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "9.9",
+      "Sentence_cn": "对不起，我找不开10英镑的钞票。",
+      "Sentence": "I'm sorry, sir. I can't change a ten-pound note."
+    },
+    {
+      "voaid": "1113",
+      "EndTiming": "19.7",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "16.5",
+      "Sentence_cn": "您没有零钱吗？",
+      "Sentence": "Haven't you got any small change?"
+    },
+    {
+      "voaid": "1113",
+      "EndTiming": "23.8",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "20.3",
+      "Sentence_cn": "恐怕我没有零钱。",
+      "Sentence": "I've got no small change, I am afraid."
+    },
+    {
+      "voaid": "1113",
+      "EndTiming": "27.3",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "24.7",
+      "Sentence_cn": "我来问问其他乘客。",
+      "Sentence": "I'll ask some of the passengers."
+    },
+    {
+      "voaid": "1113",
+      "EndTiming": "30.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "28.0",
+      "Sentence_cn": "先生，您有零钱吗？",
+      "Sentence": "Have you any small change, sir?"
+    },
+    {
+      "voaid": "1113",
+      "EndTiming": "34.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "31.5",
+      "Sentence_cn": "对不起，我没有。",
+      "Sentence": "I'm sorry. I've got none."
+    },
+    {
+      "voaid": "1113",
+      "EndTiming": "37.2",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "34.9",
+      "Sentence_cn": "我也没有。",
+      "Sentence": "I haven't got any either."
+    },
+    {
+      "voaid": "1113",
+      "EndTiming": "42.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "38.1",
+      "Sentence_cn": "夫人，您能把这10英镑的钞票换开吗？",
+      "Sentence": "Can you change this ten-pound note, madam?"
+    },
+    {
+      "voaid": "1113",
+      "EndTiming": "45.4",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "42.9",
+      "Sentence_cn": "恐怕不能。",
+      "Sentence": "I'm afraid I can't."
+    },
+    {
+      "voaid": "1113",
+      "EndTiming": "48.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "46.2",
+      "Sentence_cn": "我也不能。",
+      "Sentence": "Neither can I."
+    },
+    {
+      "voaid": "1113",
+      "EndTiming": "50.9",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "48.9",
+      "Sentence_cn": "非常抱歉，先生。",
+      "Sentence": "I'm very sorry, sir."
+    },
+    {
+      "voaid": "1113",
+      "EndTiming": "53.9",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "51.3",
+      "Sentence_cn": "您必须下车。",
+      "Sentence": "You must get off the bus."
+    },
+    {
+      "voaid": "1113",
+      "EndTiming": "58.8",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "54.6",
+      "Sentence_cn": "我们的乘客中没人能换开这张钞票。",
+      "Sentence": "None of our passengers can change this note."
+    },
+    {
+      "voaid": "1113",
+      "EndTiming": "61.7",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "59.6",
+      "Sentence_cn": "他们都是百万富翁！",
+      "Sentence": "They're all millionaires!"
+    },
+    {
+      "voaid": "1113",
+      "EndTiming": "64.1",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "62.4",
+      "Sentence_cn": "我们俩除外。",
+      "Sentence": "Except us."
+    },
+    {
+      "voaid": "1113",
+      "EndTiming": "67.4",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "64.9",
+      "Sentence_cn": "我有零钱。",
+      "Sentence": "I've got some small change."
+    },
+    {
+      "voaid": "1113",
+      "EndTiming": "69.5",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "68.2",
+      "Sentence_cn": "我也有。",
+      "Sentence": "So have I."
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14313",
+    "title_cn": "零钱",
+    "title": "Small changes"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_113.mp3"
+}

@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "voaid": "3010",
+      "EndTiming": "4.4",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "“泰坦尼克”号的沉没",
+      "Sentence": "--- lesson 10  The loss of the Titanic"
+    },
+    {
+      "voaid": "3010",
+      "EndTiming": "12.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.5",
+      "Sentence_cn": "巨轮“泰坦尼克”号1912年4月10日从南安普敦起锚驶向纽约。",
+      "Sentence": "The great ship, Titanic, sailed for New York from Southampton on April 10th, 1912."
+    },
+    {
+      "voaid": "3010",
+      "EndTiming": "21.3",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "13.0",
+      "Sentence_cn": "船上载有1,316名乘客与891名船员。",
+      "Sentence": "She was carrying 1,316 passengers and a crew of 891."
+    },
+    {
+      "voaid": "3010",
+      "EndTiming": "27.7",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "21.3",
+      "Sentence_cn": "即便用现代标准来衡量，46,000 吨的“泰坦尼克”号也算得上一艘巨轮了。",
+      "Sentence": "Even by modern standards, the 46,000 ton Titanic was a colossal ship."
+    },
+    {
+      "voaid": "3010",
+      "EndTiming": "34.1",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "27.7",
+      "Sentence_cn": "当时，这艘轮船不仅是造船史上建造的最大的一艘船，",
+      "Sentence": "At that time, however, she was not only the largest ship that had ever been built,"
+    },
+    {
+      "voaid": "3010",
+      "EndTiming": "41.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "34.2",
+      "Sentence_cn": "而且也被认为是不会沉没的。因为船由16个密封舱组成，",
+      "Sentence": "but was regarded as unsinkable, for she had sixteen watertight compartments."
+    },
+    {
+      "voaid": "3010",
+      "EndTiming": "45.8",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "41.1",
+      "Sentence_cn": "即使有两个舱进水，仍可漂浮在水面上。",
+      "Sentence": "Even if two of these were flooded, she would still be able to float."
+    },
+    {
+      "voaid": "3010",
+      "EndTiming": "56.5",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "46.2",
+      "Sentence_cn": "然而，这艘巨轮首航就下沉，造成大批人员死亡。人们将永远记着这艘巨轮的沉没惨剧。",
+      "Sentence": "The tragic sinking of this great liner will always be remembered, for she went down on her first voyage with heavy loss of life."
+    },
+    {
+      "voaid": "3010",
+      "EndTiming": "63.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "56.9",
+      "Sentence_cn": "“泰坦尼克”起航后的第4天，它正行驶在北大西洋冰冷的海面上。",
+      "Sentence": "Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic,"
+    },
+    {
+      "voaid": "3010",
+      "EndTiming": "68.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "63.9",
+      "Sentence_cn": "突然，瞭望员发现一座冰山。",
+      "Sentence": "a huge iceberg was suddenly spotted by a lookout."
+    },
+    {
+      "voaid": "3010",
+      "EndTiming": "75.4",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "68.8",
+      "Sentence_cn": "警报响过不久，巨轮急转弯，以避免与冰山正面相撞。",
+      "Sentence": "After the alarm had been given, the great ship turned sharply to avoid a direct collision."
+    },
+    {
+      "voaid": "3010",
+      "EndTiming": "87.3",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "75.4",
+      "Sentence_cn": "“泰坦尼克”这个弯拐得及时，紧贴着高出海面100英尺的巨大的冰墙擦过去。",
+      "Sentence": "The Titanic turned just in time, narrowly missing the immense wall of ice which rose over 100 feet out of the water beside her."
+    },
+    {
+      "voaid": "3010",
+      "EndTiming": "95.6",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "87.3",
+      "Sentence_cn": "突然，从船舱下部传来一声轻微的颤音，船长走下船舱去查看究竟。",
+      "Sentence": "Suddenly, there was a slight trembling sound from below, and the captain went down to see what had happened."
+    },
+    {
+      "voaid": "3010",
+      "EndTiming": "101.3",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "95.8",
+      "Sentence_cn": "由于这个声音非常轻，没人会想到船身已遭损坏。",
+      "Sentence": "The noise had been so faint that no one thought that the ship had been damaged."
+    },
+    {
+      "voaid": "3010",
+      "EndTiming": "108.4",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "101.9",
+      "Sentence_cn": "在下面，船长惊恐地发现“泰坦尼克”号正在急速下沉，",
+      "Sentence": "Below, the captain realized to his horror that the Titanic was sinking rapidly,"
+    },
+    {
+      "voaid": "3010",
+      "EndTiming": "114.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "108.4",
+      "Sentence_cn": "16个密封舱已有5个进水。",
+      "Sentence": "for five of her sixteen watertight compartments had already been flooded!"
+    },
+    {
+      "voaid": "3010",
+      "EndTiming": "120.9",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "114.4",
+      "Sentence_cn": "于是，他发出了弃船的命令，几百人跳进了冰冷刺骨的海水里。",
+      "Sentence": "The order to abandon ship was given and hundreds of people plunged into the icy water."
+    },
+    {
+      "voaid": "3010",
+      "EndTiming": "128.2",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "120.9",
+      "Sentence_cn": "由于没有足够的救生艇运载所有乘客，结果，1,500 人丧生。",
+      "Sentence": "As there were not enough lifeboats for everybody, 1,500 lives were lost."
+    }
+  ],
+  "size": 18,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14551,14552,14553",
+    "title_cn": "“泰坦尼克”号的沉没",
+    "title": "The loss of the Titanic"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_10.mp3"
+}

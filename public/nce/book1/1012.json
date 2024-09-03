@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "voaid": "1012",
+      "EndTiming": "22.1",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "20.3",
+      "Sentence_cn": "那个手提包是谁的？",
+      "Sentence": "Whose is that handbag?"
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "24.2",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "23.1",
+      "Sentence_cn": "是索菲的吗？",
+      "Sentence": "Is it Sophie's?　"
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "28.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "25.6",
+      "Sentence_cn": "不是索菲的。是斯特拉的。",
+      "Sentence": "It isn't Sophie's. It's Stella's.　"
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "33.9",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "32.3",
+      "Sentence_cn": "那台车是谁的？",
+      "Sentence": "Whose is that car?"
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "36.9",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "35.7",
+      "Sentence_cn": "是斯蒂文的吗？",
+      "Sentence": "Is it Steven's?　"
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "40.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "37.9",
+      "Sentence_cn": "不是斯蒂文的。是保罗的。",
+      "Sentence": "It isn't Steven's. It's Paul's.　"
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "46.3",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "45.1",
+      "Sentence_cn": "那件大衣是谁的？",
+      "Sentence": "Whose is that coat?　"
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "48.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "47.6",
+      "Sentence_cn": "是斯特拉的吗？",
+      "Sentence": "Is it Stella's?"
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "52.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "49.9",
+      "Sentence_cn": "不是斯特拉的。是索菲的。",
+      "Sentence": "It isn't Stella's. It's Sophie's.　"
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "115.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "114.3",
+      "Sentence_cn": "那把伞是谁的？",
+      "Sentence": "Whose is that umbrella?　"
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "118.3",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "116.9",
+      "Sentence_cn": "是保罗的吗？",
+      "Sentence": "Is it Paul's?　"
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "123.6",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "120.6",
+      "Sentence_cn": "不是保罗的。是斯蒂文的。",
+      "Sentence": "It isn't Paul's. It's Steven's.　"
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "132.7",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "131.2",
+      "Sentence_cn": "那支钢笔是谁的？",
+      "Sentence": "Whose is that pen?　"
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "135.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "133.5",
+      "Sentence_cn": "是你父亲的吗？",
+      "Sentence": "Is it your father's?　"
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "141.1",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "137.0",
+      "Sentence_cn": "不是我父亲的。是我儿子的。",
+      "Sentence": "It isn't my father's. It's my son's."
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "149.9",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "148.4",
+      "Sentence_cn": "那件连衣裙是谁的？",
+      "Sentence": "Whose is that dress?　 　"
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "152.5",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "151.3",
+      "Sentence_cn": "是你母亲的吗？",
+      "Sentence": "Is it your mother's?"
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "158.7",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "153.5",
+      "Sentence_cn": "不是我母亲的。是我女儿的。",
+      "Sentence": "It isn't my mother's. It's my daughter's."
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "167.2",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "165.8",
+      "Sentence_cn": "那件制服是谁的？",
+      "Sentence": "Whose is that suit?　"
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "170.3",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "168.2",
+      "Sentence_cn": "是你儿子的吗？",
+      "Sentence": "Is it your son's?　"
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "176.9",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "173.3",
+      "Sentence_cn": "不是我儿子的。是我父亲的。",
+      "Sentence": "It isn't my son's. It's my father's."
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "188.3",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "186.0",
+      "Sentence_cn": "那件裙子是谁的？",
+      "Sentence": "Whose is that skirt?　"
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "190.7",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "189.0",
+      "Sentence_cn": "是你女儿的吗？",
+      "Sentence": "Is it your daughter's?　"
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "197.5",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "193.8",
+      "Sentence_cn": "不是我女儿的。是我母亲的。",
+      "Sentence": "It isn't my daughter's. It's my mother's."
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "205.6",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "204.0",
+      "Sentence_cn": "那件女装衬衫是谁的？",
+      "Sentence": "Whose is that blouse?　"
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "208.1",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "206.9",
+      "Sentence_cn": "是你母亲的吗？",
+      "Sentence": "Is it your mother's?　"
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "214.2",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "210.1",
+      "Sentence_cn": "不是我母亲的，是我姐姐的。",
+      "Sentence": "It isn't my mother's. It's my sister's."
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "222.6",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "220.5",
+      "Sentence_cn": "那条领带是谁的？",
+      "Sentence": "Whose is that tie?　"
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "225.3",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "223.5",
+      "Sentence_cn": "是你父亲的吗？",
+      "Sentence": "Is it your father's?　"
+    },
+    {
+      "voaid": "1012",
+      "EndTiming": "231.7",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "228.2",
+      "Sentence_cn": "不是我父亲的，是我哥哥的。",
+      "Sentence": "It isn't my father's. It's my brother's."
+    }
+  ],
+  "size": 30,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14192",
+    "title_cn": "这……是谁的？这是我的/你的/他的/她的……那……是谁的？那是我的/你的/他的/她的……",
+    "title": "Whose is this…?This is my/your/his/her…Whose is that…?That is my/your/his/her..."
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_12.mp3"
+}

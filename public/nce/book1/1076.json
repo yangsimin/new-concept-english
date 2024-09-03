@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "1076",
+      "EndTiming": "18.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "11.4",
+      "Sentence_cn": "看图109。你什么时候看那张照片的？一个小时前。",
+      "Sentence": "Look at picture 109. When did you look at that photograph? An hour ago."
+    },
+    {
+      "voaid": "1076",
+      "EndTiming": "21.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "18.8",
+      "Sentence_cn": "我一个小时前看那张照片的。",
+      "Sentence": "I looked at that photograph an hour ago."
+    },
+    {
+      "voaid": "1076",
+      "EndTiming": "28.8",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "22.2",
+      "Sentence_cn": "看图116。他们什么时候看电视？",
+      "Sentence": "Look at picture 116. When did they watch television? Every day this week."
+    },
+    {
+      "voaid": "1076",
+      "EndTiming": "32.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "29.4",
+      "Sentence_cn": "这个星期的每一天。",
+      "Sentence": "They watched televion every day this week."
+    },
+    {
+      "voaid": "1076",
+      "EndTiming": "40.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "33.0",
+      "Sentence_cn": "看图120。他什么时候漆书架的？前年。",
+      "Sentence": "Look at picture 120. When did he paint that bookcase? The year before last."
+    },
+    {
+      "voaid": "1076",
+      "EndTiming": "44.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "40.8",
+      "Sentence_cn": "他前年漆的书架。",
+      "Sentence": "He painted that bookcase the year before last."
+    },
+    {
+      "voaid": "1076",
+      "EndTiming": "106.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "98.0",
+      "Sentence_cn": "看图110.　猫什么时候跳下墙的？一分钟前。",
+      "Sentence": "Look at picture 110. When did the cat jump off the wall? A minute ago."
+    },
+    {
+      "voaid": "1076",
+      "EndTiming": "113.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "110.0",
+      "Sentence_cn": "它一分钟前从墙上跳下的。",
+      "Sentence": "It jumped off the wall a minute ago."
+    },
+    {
+      "voaid": "1076",
+      "EndTiming": "124.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "115.5",
+      "Sentence_cn": "看图113.你什么时候在办公室工作的？前年。",
+      "Sentence": "Look at picture 113. When did you work in an office? The year before last."
+    },
+    {
+      "voaid": "1076",
+      "EndTiming": "130.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "126.8",
+      "Sentence_cn": "我前年在办公室工作。",
+      "Sentence": "I worked in an office the year before last."
+    },
+    {
+      "voaid": "1076",
+      "EndTiming": "141.2",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "131.6",
+      "Sentence_cn": "看图117.米尔斯太太什么时候和那个售货员说话的？上个月。",
+      "Sentence": "Look at picture 117. When did Mrs. Mills talk to the salesman? Last month."
+    },
+    {
+      "voaid": "1076",
+      "EndTiming": "147.8",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "144.7",
+      "Sentence_cn": "她上个月和那个售货员谈话的。",
+      "Sentence": "She talked to the salesman last month."
+    },
+    {
+      "voaid": "1076",
+      "EndTiming": "157.6",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "149.2",
+      "Sentence_cn": "看图119.　她什么时候扫橱柜上的灰的？三天前。",
+      "Sentence": "Look at picture 119. When did she dust the cupboard? Three days ago."
+    },
+    {
+      "voaid": "1076",
+      "EndTiming": "164.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "161.0",
+      "Sentence_cn": "她三天前扫掉橱柜上的灰的。",
+      "Sentence": "She dusted the cupboard three days ago."
+    },
+    {
+      "voaid": "1076",
+      "EndTiming": "176.8",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "166.2",
+      "Sentence_cn": "看图118.她什么时候谢她爸爸的？一个小时前。",
+      "Sentence": "Look at picture 118. When did she thank her father? An hour ago."
+    },
+    {
+      "voaid": "1076",
+      "EndTiming": "183.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "180.0",
+      "Sentence_cn": "她一个小时前谢她爸爸的。",
+      "Sentence": "She thanked her father an hour ago."
+    },
+    {
+      "voaid": "1076",
+      "EndTiming": "193.8",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "184.6",
+      "Sentence_cn": "看图115.她什么时候打那些信的?一个月前。",
+      "Sentence": "Look at picture 115. When did she type those letters? A month ago."
+    },
+    {
+      "voaid": "1076",
+      "EndTiming": "200.4",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "197.4",
+      "Sentence_cn": "她一个月前打那些信的。",
+      "Sentence": "She typed those letters a month ago."
+    },
+    {
+      "voaid": "1076",
+      "EndTiming": "210.2",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "201.6",
+      "Sentence_cn": "看图111.他什么时候穿过公园的？上星期。",
+      "Sentence": "Look at picture 111. When did he walk across the park? Last week."
+    },
+    {
+      "voaid": "1076",
+      "EndTiming": "217.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "214.6",
+      "Sentence_cn": "他上周穿过公园的。",
+      "Sentence": "He walked across the park last week."
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14266",
+    "title_cn": "你什么时候……？",
+    "title": "When did you...?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_76.mp3"
+}

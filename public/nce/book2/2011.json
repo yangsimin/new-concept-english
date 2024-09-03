@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "voaid": "2011",
+      "EndTiming": "5.3",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "礼尚往来",
+      "Sentence": "--- Lesson 11  One good turn deserves another"
+    },
+    {
+      "voaid": "2011",
+      "EndTiming": "10.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.0",
+      "Sentence_cn": "我正在一家饭馆吃饭，托尼.斯蒂尔走了进来。",
+      "Sentence": "I was having dinner at a restaurant when Tony Steele came in."
+    },
+    {
+      "voaid": "2011",
+      "EndTiming": "17.4",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "11.3",
+      "Sentence_cn": "托尼曾在一家律师事务所工作，而现在正在一家银行上班。",
+      "Sentence": "Tony worked in a lawyer's office years ago, but he is now working at a bank."
+    },
+    {
+      "voaid": "2011",
+      "EndTiming": "25.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "18.0",
+      "Sentence_cn": "他的薪水很高，但他却总是向朋友借钱，并且从来不还。",
+      "Sentence": "He gets a good salary, but he always borrows money from his friends and never pays it back."
+    },
+    {
+      "voaid": "2011",
+      "EndTiming": "29.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "26.0",
+      "Sentence_cn": "托尼看见了我，就走过来和我坐到一张桌子前。",
+      "Sentence": "Tony saw me and came and sat at the same table."
+    },
+    {
+      "voaid": "2011",
+      "EndTiming": "32.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "30.2",
+      "Sentence_cn": "他从未向我借过钱。",
+      "Sentence": "He has never borrowed money from me."
+    },
+    {
+      "voaid": "2011",
+      "EndTiming": "37.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "33.2",
+      "Sentence_cn": "当他吃饭时，我提出向他借20英镑。",
+      "Sentence": "While he was eating, I asked him to lend me twenty pounds."
+    },
+    {
+      "voaid": "2011",
+      "EndTiming": "42.5",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "38.3",
+      "Sentence_cn": "令我惊奇的是，他立刻把钱给了我。",
+      "Sentence": "To my surprise, he gave me the money immediately."
+    },
+    {
+      "voaid": "2011",
+      "EndTiming": "50.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "43.2",
+      "Sentence_cn": "“我还从未向你借过钱，”托尼说道，“所以现在你可以替我付饭钱了！”",
+      "Sentence": "'I have never borrowed any money from you,' Tony said, 'so now you can pay for my dinner!'"
+    }
+  ],
+  "size": 9,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14369,14370",
+    "title_cn": "礼尚往来",
+    "title": "One good turn deserves another"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_11.mp3"
+}

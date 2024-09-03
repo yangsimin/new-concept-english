@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "voaid": "2018",
+      "EndTiming": "4.1",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "他经常干这种事",
+      "Sentence": "--- Lesson 18  He often does this!"
+    },
+    {
+      "voaid": "2018",
+      "EndTiming": "10.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.0",
+      "Sentence_cn": "我在一家乡村小酒店吃过午饭后，就找我的提包。",
+      "Sentence": "After I had had lunch at a village pub, I looked for my bag."
+    },
+    {
+      "voaid": "2018",
+      "EndTiming": "16.8",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "11.5",
+      "Sentence_cn": "我曾把它放在门边的椅子上，可这会儿不见了！",
+      "Sentence": "I had left it on a chair beside the door and now it wasn't there!"
+    },
+    {
+      "voaid": "2018",
+      "EndTiming": "21.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "17.5",
+      "Sentence_cn": "当我正在寻找时，酒店老板走了进来。",
+      "Sentence": "As I was looking for it, the landlord came in."
+    },
+    {
+      "voaid": "2018",
+      "EndTiming": "25.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "22.1",
+      "Sentence_cn": "“您吃得好吗？”他问。",
+      "Sentence": "'Did you have a good meal?' he asked."
+    },
+    {
+      "voaid": "2018",
+      "EndTiming": "32.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "25.6",
+      "Sentence_cn": "“很好，谢谢。”我回答，“但我付不了帐，我的提包没有了。”",
+      "Sentence": "'Yes, thank you,' I answered, 'but I can't pay the bill. I haven't got my bag.'"
+    },
+    {
+      "voaid": "2018",
+      "EndTiming": "37.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "33.7",
+      "Sentence_cn": "酒店老板笑了笑，马上走了出去。",
+      "Sentence": "The landlord smiled and immediately went out."
+    },
+    {
+      "voaid": "2018",
+      "EndTiming": "43.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "38.2",
+      "Sentence_cn": "一会儿工夫他拿着我的提包回来了，把它还给了我。",
+      "Sentence": "In a few minutes he returned with my bag and gave it back to me."
+    },
+    {
+      "voaid": "2018",
+      "EndTiming": "52.6",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "44.2",
+      "Sentence_cn": "“实在抱歉，”他说，“我的狗把它弄到花园里去了，他常干这种事！”",
+      "Sentence": "'I'm very sorry,' he said. 'My dog had taken it into the garden. He often does this!'"
+    }
+  ],
+  "size": 9,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14382,14383",
+    "title_cn": "他经常干这种事",
+    "title": "He often does this!"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_18.mp3"
+}

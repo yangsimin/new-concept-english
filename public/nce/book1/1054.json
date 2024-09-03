@@ -1,0 +1,246 @@
+{
+  "data": [
+    {
+      "voaid": "1054",
+      "EndTiming": "21.6",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "18.1",
+      "Sentence_cn": "你从哪里来？你是澳大利亚人吗？",
+      "Sentence": "Where do you come from? Are you Australian?"
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "24.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "21.7",
+      "Sentence_cn": "是的，我来自澳大利亚。",
+      "Sentence": "Yes, I come from Australia."
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "28.7",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "24.8",
+      "Sentence_cn": "他从哪里来？他是奥地利人吗？",
+      "Sentence": "Where does he come from? Is he Austrian?"
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "32.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "28.8",
+      "Sentence_cn": "是的，他来自奥地利。",
+      "Sentence": "Yes, he comes from Austria."
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "35.9",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "32.4",
+      "Sentence_cn": "他从哪里来？他是加拿大人吗？",
+      "Sentence": "Where does he come from? Is he Canadian?"
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "39.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "36.0",
+      "Sentence_cn": "是的，他来自加拿大。",
+      "Sentence": "Yes, he comes from Canada."
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "50.2",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "44.9",
+      "Sentence_cn": "你从哪里来？你是澳大利亚人吗？",
+      "Sentence": "Where do you come from? Are you Australian?"
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "55.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "50.3",
+      "Sentence_cn": "是的，我来自澳大利亚。",
+      "Sentence": "Yes, I come from Australia."
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "60.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "55.7",
+      "Sentence_cn": "他从哪里来？他是奥地利人吗？",
+      "Sentence": "Where does he come from? Is he Austrian?"
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "65.6",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "60.6",
+      "Sentence_cn": "是的，他来自奥地利。",
+      "Sentence": "Yes, he comes from Austria."
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "70.4",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "65.7",
+      "Sentence_cn": "他从哪里来？他是加拿大人吗？",
+      "Sentence": "Where does he come from? Is he Canadian?"
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "75.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "70.5",
+      "Sentence_cn": "是的，他来自加拿大。",
+      "Sentence": "Yes, he comes from Canada."
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "81.1",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "75.1",
+      "Sentence_cn": "你们从哪里来？你们是中国人吗？",
+      "Sentence": "Where do you both come from? Are you both Chinese?"
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "85.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "81.2",
+      "Sentence_cn": "是的，我们来自中国。",
+      "Sentence": "Yes, we come from China."
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "91.7",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "85.9",
+      "Sentence_cn": "我从哪里来？我是芬兰人吗？",
+      "Sentence": "Where do I come from? Am I Finnish?"
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "96.3",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "91.8",
+      "Sentence_cn": "是的，你来自芬兰。",
+      "Sentence": "Yes, you come from Finland."
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "101.6",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "96.4",
+      "Sentence_cn": "她从哪里来？她是印度人吗？",
+      "Sentence": "Where does she come from? Is she Indian?"
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "106.5",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "101.7",
+      "Sentence_cn": "是的，她来自印度。",
+      "Sentence": "Yes, she comes from India."
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "113.1",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "106.7",
+      "Sentence_cn": "我们从哪里来？我们是日本人吗?",
+      "Sentence": "Where do we both come from? Are we both Japanese?"
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "118.2",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "113.2",
+      "Sentence_cn": "是的，我们来自日本。",
+      "Sentence": "Yes, you come from Japan."
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "124.1",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "118.3",
+      "Sentence_cn": "你们从哪里来？你是韩国人吗？",
+      "Sentence": "Where do you come from? Are you Korean?"
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "129.1",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "124.2",
+      "Sentence_cn": "是的，我来自韩国。",
+      "Sentence": "Yes, I came from Korea."
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "135.4",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "129.2",
+      "Sentence_cn": "你们从哪里来？你们是尼日利亚人吗？",
+      "Sentence": "Where do you both come from? Are you both Nigerian?"
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "140.0",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "135.5",
+      "Sentence_cn": "是的，我们来自尼日利亚。",
+      "Sentence": "Yes, we come from Nigeria."
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "145.1",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "140.1",
+      "Sentence_cn": "她从哪里来？她是土耳其人吗？",
+      "Sentence": "Where does she come from?  Is she Turkish?"
+    },
+    {
+      "voaid": "1054",
+      "EndTiming": "149.9",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "145.2",
+      "Sentence_cn": "是的，她来自土耳其。",
+      "Sentence": "Yes, she comes from Turkey."
+    }
+  ],
+  "size": 26,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14239",
+    "title_cn": "他们是哪国人？他们来自哪个国家？",
+    "title": "What nationality are they? Where do they come from?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_54.mp3"
+}

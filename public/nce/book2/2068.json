@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "voaid": "2068",
+      "EndTiming": "3.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "纠缠不休",
+      "Sentence": "--- Lesson 68  Persistent"
+    },
+    {
+      "voaid": "2068",
+      "EndTiming": "11.2",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.5",
+      "Sentence_cn": "我穿过马路以便避开他，但他看到我并朝我跑过来。",
+      "Sentence": "I crossed the street to avoid meeting him, but he saw me and came running towards me."
+    },
+    {
+      "voaid": "2068",
+      "EndTiming": "19.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "11.2",
+      "Sentence_cn": "若再装作没看见他已是没有用了，我只好向他招手。",
+      "Sentence": "It was no use pretending that I had not seen him, so I waved to him."
+    },
+    {
+      "voaid": "2068",
+      "EndTiming": "22.7",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "19.1",
+      "Sentence_cn": "我就怕遇到奈杰尔.戴克斯。",
+      "Sentence": "I never enjoy meeting Nigel Dykes."
+    },
+    {
+      "voaid": "2068",
+      "EndTiming": "26.8",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "23.0",
+      "Sentence_cn": "他从来都是无事可做，",
+      "Sentence": "He never has anything to do."
+    },
+    {
+      "voaid": "2068",
+      "EndTiming": "32.8",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "26.8",
+      "Sentence_cn": "不管你多忙，他总是坚持要跟你去。",
+      "Sentence": "No matter how busy you are, he always insists on coming with you."
+    },
+    {
+      "voaid": "2068",
+      "EndTiming": "39.2",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "32.8",
+      "Sentence_cn": "我得想办法不让他整个上午缠着我。",
+      "Sentence": "I had to think of a way of preventing him from following me around all morning."
+    },
+    {
+      "voaid": "2068",
+      "EndTiming": "44.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "39.2",
+      "Sentence_cn": "“你好，奈杰尔，想不到在这儿见到你。”我说。",
+      "Sentence": "'Hello, Nigel,' I said. 'Fancy meeting you here!'"
+    },
+    {
+      "voaid": "2068",
+      "EndTiming": "48.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "44.7",
+      "Sentence_cn": "“你好，伊丽莎白，”奈杰尔回答说，",
+      "Sentence": "'Hi, Elizabeth,' Nigel answered."
+    },
+    {
+      "voaid": "2068",
+      "EndTiming": "58.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "48.9",
+      "Sentence_cn": "“我正不知道怎么消磨这一上午呢，正好见到好。你不忙，是吗？”",
+      "Sentence": "'I was just wondering how to spend the morning -- until I saw you. You're not busy doing anything, are you?"
+    },
+    {
+      "voaid": "2068",
+      "EndTiming": "63.8",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "59.1",
+      "Sentence_cn": "“不，不忙，我打算去......”我回答。",
+      "Sentence": "'No, not at all,' I answered. 'I'm going to...'"
+    },
+    {
+      "voaid": "2068",
+      "EndTiming": "70.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "63.8",
+      "Sentence_cn": "“我跟你一道去行吗？”没等我说完话他就问道。",
+      "Sentence": "'Would you mind my coming with you?' he asked, before I had finished speaking."
+    },
+    {
+      "voaid": "2068",
+      "EndTiming": "76.2",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "70.2",
+      "Sentence_cn": "“没关系，但我准备去牙医那里。”我说了个谎。",
+      "Sentence": "'Not at all,' I lied, 'but I'm going to the dentist.'"
+    },
+    {
+      "voaid": "2068",
+      "EndTiming": "84.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "76.8",
+      "Sentence_cn": "“那我也跟你去，候诊室里总有很多东西可供阅读！”他回答。",
+      "Sentence": "'Then I'll come with you,' he answered. 'There's always plenty to read in the waiting room!'"
+    }
+  ],
+  "size": 14,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14466,14467",
+    "title_cn": "纠缠不休",
+    "title": "Persistent"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_68.mp3"
+}

@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "voaid": "2052",
+      "EndTiming": "3.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "漂亮的地毯",
+      "Sentence": "--- Lesson 52  A pretty carpet"
+    },
+    {
+      "voaid": "2052",
+      "EndTiming": "11.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.6",
+      "Sentence_cn": "我们刚刚搬进一所新房子，我辛辛苦苦地干了整整一个上午。",
+      "Sentence": "We have just moved into a new house and I have been working hard all morning."
+    },
+    {
+      "voaid": "2052",
+      "EndTiming": "15.9",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "12.0",
+      "Sentence_cn": "我试图把我的新房间收拾整齐，",
+      "Sentence": "I have been trying to get my new room in order."
+    },
+    {
+      "voaid": "2052",
+      "EndTiming": "22.1",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "16.6",
+      "Sentence_cn": "但这并不容易，因为我有1,000多本书。",
+      "Sentence": "This has not been easy because I own over a thousand books."
+    },
+    {
+      "voaid": "2052",
+      "EndTiming": "31.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "22.9",
+      "Sentence_cn": "更糟糕的是房间还非常小，所以我暂时把书放在了地板上。",
+      "Sentence": "To make matters worse, the room is rather small, so I have temporarily put my books on the floor."
+    },
+    {
+      "voaid": "2052",
+      "EndTiming": "42.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "32.1",
+      "Sentence_cn": "这会儿，书把地板的每一点空隙都占据了，我实际上是踩着这些书进出房间的。",
+      "Sentence": "At the moment, they cover every inch of floor space and I actually have to walk on them to get in or out of the room."
+    },
+    {
+      "voaid": "2052",
+      "EndTiming": "50.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "42.7",
+      "Sentence_cn": "几分钟前，我妹妹帮我把一个旧书橱抬上了楼。",
+      "Sentence": "A short while ago, my sister helped me to carry one of my old bookcases up the stairs."
+    },
+    {
+      "voaid": "2052",
+      "EndTiming": "58.5",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "51.1",
+      "Sentence_cn": "她走进我的房间，当她看到地板上的那些书时，大吃一惊。“",
+      "Sentence": "She went into my room and got a big surprise when she saw all those books on the floor."
+    },
+    {
+      "voaid": "2052",
+      "EndTiming": "64.8",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "59.2",
+      "Sentence_cn": "这是我见过的最漂亮的地毯，”她说。",
+      "Sentence": "'This is the prettiest carpet I have ever seen,' she said."
+    },
+    {
+      "voaid": "2052",
+      "EndTiming": "68.9",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "65.5",
+      "Sentence_cn": "她盯着“地毯”看了一会儿，又说：",
+      "Sentence": "She gazed at it for some time then added,"
+    },
+    {
+      "voaid": "2052",
+      "EndTiming": "77.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "69.5",
+      "Sentence_cn": "“你根本用不着书橱，空闲时你可以坐在这儿读地毯！”",
+      "Sentence": "'You don't need bookcases at all. You can sit here in your spare time and read the carpet!'"
+    }
+  ],
+  "size": 11,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14437,14438",
+    "title_cn": "漂亮的地毯",
+    "title": "A pretty carpet"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_52.mp3"
+}

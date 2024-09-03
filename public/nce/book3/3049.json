@@ -1,0 +1,336 @@
+{
+  "data": [
+    {
+      "voaid": "3049",
+      "EndTiming": "4.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "理想的仆人",
+      "Sentence": "--- lesson 49  The ideal servant"
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "8.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.0",
+      "Sentence_cn": "我的姑妈哈丽特好多年前就去世了，这倒是件好事。",
+      "Sentence": "It is a good thing my aunt Harriet died years ago."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "18.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.4",
+      "Sentence_cn": "如果她活到今天，她将不能就她热衷的话题“佣人”发表意见了。",
+      "Sentence": "If she were alive today she would not be able to air her views on her favourite topic of conversation: domestic servants."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "24.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "19.2",
+      "Sentence_cn": "哈丽特生活在一个悠闲的年代，家务事都由雇来的佣人代劳。",
+      "Sentence": "Aunt Harriet lived in that leisurely age when servants were employed to do housework."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "29.7",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "24.6",
+      "Sentence_cn": "她在乡下有一幢巨大杂乱的房子，叫作“山墙庄园”。",
+      "Sentence": "She had a huge, rambling country house called 'The Gables'."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "37.3",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "30.2",
+      "Sentence_cn": "她对这幢房子在感情上难舍难分。房子实在太大了，",
+      "Sentence": "She was sentimentally attached to this house, for even though it was far too big for her needs,"
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "41.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "37.6",
+      "Sentence_cn": "但在丈夫去世多年后，她仍然执意长年住在那儿。",
+      "Sentence": "she persisted in living there long after her husband's death."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "46.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "42.2",
+      "Sentence_cn": "哈丽特姑妈年轻时，喜欢大摆宴席，招待宾客。",
+      "Sentence": "Before she grew old, Aunt Harriet used to entertain lavishly."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "50.0",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "47.2",
+      "Sentence_cn": "我小时候常去“山墙庄园”作客。",
+      "Sentence": "I often visited The Gables when I was boy."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "56.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "50.0",
+      "Sentence_cn": "不管去多少宾客，大房子里总是收拾得干干净净。",
+      "Sentence": "No matter how many guests were present, the great house was always immaculate."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "59.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "56.9",
+      "Sentence_cn": "镶木地板洁如明镜，",
+      "Sentence": "The parquet floors shone like mirrors;"
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "64.7",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "59.5",
+      "Sentence_cn": "擦得发亮的银器陈列在明亮的玻璃柜里，",
+      "Sentence": "highly polished silver was displayed in gleaming glass cabinets;"
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "71.3",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "65.4",
+      "Sentence_cn": "连姑夫的大量藏书也保存得很好，奇迹般地一尘不染。",
+      "Sentence": "even my uncle's huge collection of books was kept miraculously free from dust."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "81.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "71.3",
+      "Sentence_cn": "哈丽特姑妈统率着一支看不见的佣人大军，他们不停地擦拭、清扫、刷洗。",
+      "Sentence": "Aunt Harriet presided over an invisible army of servants that continuously scrubbed, cleaned, and polished."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "86.1",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "81.5",
+      "Sentence_cn": "她称这些佣人叫“流动人口”，",
+      "Sentence": "She always referred to them as 'the shifting population',"
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "93.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "86.6",
+      "Sentence_cn": "因为他们来去匆匆，所以我甚至都没有机会知道他们的姓名。",
+      "Sentence": "for they came and went with such frequency that I never even got a chance to learn their names."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "107.6",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "93.2",
+      "Sentence_cn": "姑妈待佣人在当时算是开明的，从来不让佣人每天工作超过8小时，但他们很难使她称心如意。",
+      "Sentence": "Though my aunt pursued what was, in those days, an enlightened policy, in that she never allowed her domestic staff to work more than eight hours a day, she was extremely difficult to please."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "112.4",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "108.0",
+      "Sentence_cn": "她一方面总是批评人的本性朝三暮四，",
+      "Sentence": "While she always criticized the fickleness of human nature,"
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "123.9",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "112.8",
+      "Sentence_cn": "另一方面她又持之以恒地寻找一个理想的佣人。即使在贝西大大地伤她的心之后，她还在找，一直到她死去。",
+      "Sentence": "she carried on an unrelenting search for the ideal servant to the end of her days,even after she had been sadly disillusioned by Bessie."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "127.5",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "124.3",
+      "Sentence_cn": "贝西在哈丽特家干了3年。",
+      "Sentence": "Bessie worked for Aunt Harriet for three years."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "134.9",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "128.0",
+      "Sentence_cn": "在此期间，她赢得了姑母的赏识，甚至当上了大管家。",
+      "Sentence": "During that time she so gained my aunt's confidence, that she was put in charge of the domestic staff."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "141.8",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "135.6",
+      "Sentence_cn": "哈丽特不知该用什么言辞来赞扬贝西的勤奋与高效。",
+      "Sentence": "Aunt Harriet could not find words to praise Bessie's industriousness and efficiency."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "147.7",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "142.4",
+      "Sentence_cn": "贝西除了有各种本领以外，还是一个烹饪大师。",
+      "Sentence": "In addition to all her other qualifications, Bessie was an expert cook."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "155.8",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "147.7",
+      "Sentence_cn": "她担任“理想仆人”角色3年之后，哈丽特终于发现她有“小小的弱点”。",
+      "Sentence": "She acted the role of the perfect servant for three years before Aunt Harriet discovered her 'little weakness'."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "159.6",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "156.4",
+      "Sentence_cn": "一次，姑妈有一个星期没在“山墙庄园”住。",
+      "Sentence": "After being absent from The Gables for a week,"
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "167.1",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "159.7",
+      "Sentence_cn": "一天下午，她出其不意地回来了，带来一大批客人，吩咐贝西准备晚饭。",
+      "Sentence": "my aunt unexpectedly returned one afternoon with a party of guests and instructed Bessie to prepare dinner."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "175.3",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "167.1",
+      "Sentence_cn": "结果，不仅饭菜远不如平时做得好，而且贝西走起路来似乎东倒西歪。",
+      "Sentence": "Not only was the meal well below the usual standard, but Bessie seemed unable to walk steadily."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "179.9",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "175.7",
+      "Sentence_cn": "她撞到了家具上，嘴里还不断咕咕哝哝议论客人。",
+      "Sentence": "She bumped into the furniture and kept mumbling about the guests."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "186.6",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "180.5",
+      "Sentence_cn": "当她端着最后一道菜--一大盘布丁--走进屋来时，在地毯上绊了一跤。",
+      "Sentence": "When she came in with the last course -- a huge pudding -- she tripped on the carpet"
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "196.0",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "186.7",
+      "Sentence_cn": "布丁飞到半空，从姑母身边擦过，然后狠狠地砸在餐桌上。",
+      "Sentence": "and the pudding went flying through the air, narrowly missed my aunt, and crashed on the dining table with considerable force."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "202.8",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "196.2",
+      "Sentence_cn": "这件事引起了客人们的欢笑，但哈丽特却着实吓了一跳。",
+      "Sentence": "Though this caused great mirth among the guests, Aunt Harriet was horrified."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "207.5",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "203.4",
+      "Sentence_cn": "她不得不认定贝西是喝醉了。",
+      "Sentence": "She reluctantly came to the conclusion that Bessie was drunk."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "222.2",
+      "Paraid": "1",
+      "IdIndex": "33",
+      "Timing": "208.2",
+      "Sentence_cn": "客人们自然从贝西为他们开门那一刻起就看出来了，在好长一段时间里，即最后这个乱子发生前，他们努力克制才没笑出声来。",
+      "Sentence": "The guests had, of course, realized this from the moment Bessie opened the door for them and,long before the final catastrophe, had had a difficult time trying to conceal their amusement."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "225.9",
+      "Paraid": "1",
+      "IdIndex": "34",
+      "Timing": "222.8",
+      "Sentence_cn": "贝西当即被解雇了。",
+      "Sentence": "The poor girl was dismissed instantly."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "238.9",
+      "Paraid": "1",
+      "IdIndex": "35",
+      "Timing": "226.4",
+      "Sentence_cn": "贝西走后，哈丽特姑妈发现在贝西以前用过的衣柜里整整齐齐地放着一堆堆形状各异、大小不一的酒瓶子。",
+      "Sentence": "After her departure, Aunt Harriet discovered that there were piles of empty wine bottles of all shapes and sizes neatly stacked in what had once been Bessie's wardrobe."
+    },
+    {
+      "voaid": "3049",
+      "EndTiming": "243.5",
+      "Paraid": "1",
+      "IdIndex": "36",
+      "Timing": "239.0",
+      "Sentence_cn": "这些酒瓶神不知鬼不觉地从酒窖来到了这里。",
+      "Sentence": "They had mysteriously found their way there from the wine cellar!"
+    }
+  ],
+  "size": 36,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14656,14657,14658,14659",
+    "title_cn": "理想的仆人",
+    "title": "The ideal servant"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_49.mp3"
+}

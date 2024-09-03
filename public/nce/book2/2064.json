@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "voaid": "2064",
+      "EndTiming": "3.8",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "海峡隧道",
+      "Sentence": "--- Lesson 64  The Channel Tunnel"
+    },
+    {
+      "voaid": "2064",
+      "EndTiming": "16.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.5",
+      "Sentence_cn": "1858年，一位名叫埃梅.托梅.德.干蒙的法国工程师带着建造一条长21英里、穿越英吉利海陕的隧道计划到了英国。",
+      "Sentence": "In 1858, a French engineer, Aime Thome de Gamond, arrived in England with a plan for a twenty-one-mile tunnel under the English Channel."
+    },
+    {
+      "voaid": "2064",
+      "EndTiming": "22.9",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "17.4",
+      "Sentence_cn": "他说，可以在隧道中央建造一座平台，",
+      "Sentence": "He said that it would be possible to build a platform in the centre of the Channel."
+    },
+    {
+      "voaid": "2064",
+      "EndTiming": "28.2",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "23.7",
+      "Sentence_cn": "这座平台将用作码头和火车站。",
+      "Sentence": "This platform would serve as a port and a railway station."
+    },
+    {
+      "voaid": "2064",
+      "EndTiming": "34.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "28.9",
+      "Sentence_cn": "如果再建些伸出海面的高大的烟囱状通风管，隧道就具备了良好的通风条件。",
+      "Sentence": "The tunnel would be well-ventilated if tall chimneys were built above sea level."
+    },
+    {
+      "voaid": "2064",
+      "EndTiming": "42.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "35.3",
+      "Sentence_cn": "1860年，一位名叫威廉.洛的英国人提出了一项更好的计划。",
+      "Sentence": "In 1860, a better plan was put forward by an Englishman, William Low."
+    },
+    {
+      "voaid": "2064",
+      "EndTiming": "46.8",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "42.8",
+      "Sentence_cn": "他提议建一条双轨隧道，",
+      "Sentence": "He suggested that a double railway-tunnel should be built."
+    },
+    {
+      "voaid": "2064",
+      "EndTiming": "56.6",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "47.6",
+      "Sentence_cn": "这样就解决了通风问题。因为如果有列火车开进隧道，它就把新鲜空气随之抽进了隧道。",
+      "Sentence": "This would solve the problem of ventilation, for if a train entered this tunnel, it would draw in fresh air behind it."
+    },
+    {
+      "voaid": "2064",
+      "EndTiming": "61.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "57.5",
+      "Sentence_cn": "42年以后，隧道实际已经开始建了。",
+      "Sentence": "Forty-two years later a tunnel was actually begun."
+    },
+    {
+      "voaid": "2064",
+      "EndTiming": "69.3",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "62.2",
+      "Sentence_cn": "如果不是因为那时英国人害怕入侵，隧道早已建成了。",
+      "Sentence": "If, at the time, the British had not feared invasion, it would have been completed."
+    },
+    {
+      "voaid": "2064",
+      "EndTiming": "75.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "70.0",
+      "Sentence_cn": "世界不得不再等将近100年才看到海峡隧道竣工。",
+      "Sentence": "The world had to wait almost another 100 years for the Channel Tunnel."
+    },
+    {
+      "voaid": "2064",
+      "EndTiming": "85.2",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "76.2",
+      "Sentence_cn": "它于1994年3月7日正式开通，将英国与欧洲大陆连到了一起。",
+      "Sentence": "It was officially opened on March 7,1994, finally connecting Britain to the European continent."
+    }
+  ],
+  "size": 12,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14459,14460",
+    "title_cn": "海峡隧道",
+    "title": "The Channel Tunnel"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_64.mp3"
+}

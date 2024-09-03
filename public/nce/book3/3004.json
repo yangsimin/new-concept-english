@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "voaid": "3004",
+      "EndTiming": "4.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "阿尔弗雷德.布洛格斯的双重生活",
+      "Sentence": "--- lesson 4  The double life of Alfred Bloggs"
+    },
+    {
+      "voaid": "3004",
+      "EndTiming": "12.9",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.7",
+      "Sentence_cn": "如今，从事体力劳动的人的收入一般要比坐办公室的人高出许多。",
+      "Sentence": "These days, people who do manual work often receive far more money than people who work in offices."
+    },
+    {
+      "voaid": "3004",
+      "EndTiming": "25.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "13.6",
+      "Sentence_cn": "坐办公室的之所以常常被称作“白领工人”，就是因为他们通常是穿着硬领白衬衫，系着领带去上班。",
+      "Sentence": "People who work in offices are frequently referred to as 'white-collar workers' for the simple reason that they usually wear a collar and tie to go to work."
+    },
+    {
+      "voaid": "3004",
+      "EndTiming": "36.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "25.5",
+      "Sentence_cn": "许多人常常情愿放弃较高的薪水以换取做白领工人的殊荣，此乃人之常情。",
+      "Sentence": "Such is human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers."
+    },
+    {
+      "voaid": "3004",
+      "EndTiming": "48.3",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "37.0",
+      "Sentence_cn": "而这常常会引起种种奇怪的现象，在埃尔斯米尔公司当清洁工的艾尔弗雷德.布洛斯就是一个例子。",
+      "Sentence": "This can give rise to curious situations, as it did in the case of Alfred Bloggs who worked as a dustman for the Ellesmere Corporation."
+    },
+    {
+      "voaid": "3004",
+      "EndTiming": "55.2",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "49.0",
+      "Sentence_cn": "艾尔弗结婚时，感到非常难为情，而没有将自己的职业告诉妻子。",
+      "Sentence": "When he got married, Alf was too embarrassed to say anything to his wife about his job."
+    },
+    {
+      "voaid": "3004",
+      "EndTiming": "59.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "55.8",
+      "Sentence_cn": "他只说在埃尔斯米尔公司上班。",
+      "Sentence": "He simply told her that he worked for the Corporation."
+    },
+    {
+      "voaid": "3004",
+      "EndTiming": "64.1",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "59.7",
+      "Sentence_cn": "每天早晨，他穿上一身漂亮的黑色西装离家上班，",
+      "Sentence": "Every morning, he left home dressed in a smart black suit."
+    },
+    {
+      "voaid": "3004",
+      "EndTiming": "70.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "64.1",
+      "Sentence_cn": "然后换上工作服，当8个小时清洁工。",
+      "Sentence": "He then changed into overalls and spent the next eight hours as a dustman."
+    },
+    {
+      "voaid": "3004",
+      "EndTiming": "76.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "70.6",
+      "Sentence_cn": "晚上回家前，他洗个淋浴，重新换上那身黑色西服。",
+      "Sentence": "Before returning home at night, He took a shower and changed back into his suit."
+    },
+    {
+      "voaid": "3004",
+      "EndTiming": "83.7",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "76.7",
+      "Sentence_cn": "两年多以来，艾尔弗一直这样，他的同事也为他保守秘密。",
+      "Sentence": "Alf did this for over two years and his fellow dustmen kept his secret ."
+    },
+    {
+      "voaid": "3004",
+      "EndTiming": "89.5",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "83.7",
+      "Sentence_cn": "艾尔弗的妻子一直不知道她嫁给了一个清洁工，而且她永远也不会知道了，",
+      "Sentence": "Alf's wife has never discovered that she married a dustman and she never will,"
+    },
+    {
+      "voaid": "3004",
+      "EndTiming": "92.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "89.5",
+      "Sentence_cn": "因为艾尔弗已找到新职，",
+      "Sentence": "for Alf has just found another job."
+    },
+    {
+      "voaid": "3004",
+      "EndTiming": "94.8",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "92.0",
+      "Sentence_cn": "不久就要坐在办公室里工作了。",
+      "Sentence": "He will soon be working in an office."
+    },
+    {
+      "voaid": "3004",
+      "EndTiming": "105.1",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "94.8",
+      "Sentence_cn": "他将来挣的钱只有他现在的一半。不过他觉得，地位升高了，损失点儿钱也值得。",
+      "Sentence": "He will be earning only half as much as he used to, but he feels that his rise in status is well worth the loss of money."
+    },
+    {
+      "voaid": "3004",
+      "EndTiming": "113.7",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "105.1",
+      "Sentence_cn": "从此，艾尔弗可以一天到晚穿西服了。别人将称呼他为“布洛格斯先生”，而不再叫他“艾尔弗”了。",
+      "Sentence": "From now on, he will wear a suit all day and others will call him 'Mr. Bloggs', not 'Alf'."
+    }
+  ],
+  "size": 16,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14537,14538",
+    "title_cn": "阿尔弗雷德.布洛格斯的双重生活",
+    "title": "The double life of Alfred Bloggs"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_4.mp3"
+}

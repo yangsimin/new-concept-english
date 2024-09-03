@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "voaid": "1027",
+      "EndTiming": "5.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "史密斯太太的客厅",
+      "Sentence": "--- lesson 27  Mrs. Smith's living room"
+    },
+    {
+      "voaid": "1027",
+      "EndTiming": "10.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.4",
+      "Sentence_cn": "史密斯夫人的客厅很大。",
+      "Sentence": "Mrs. Smith's living room is large."
+    },
+    {
+      "voaid": "1027",
+      "EndTiming": "14.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.8",
+      "Sentence_cn": "客厅里有台电视机。",
+      "Sentence": "There is a television in the room."
+    },
+    {
+      "voaid": "1027",
+      "EndTiming": "18.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "14.7",
+      "Sentence_cn": "电视机靠近窗子。",
+      "Sentence": "The television is near the window."
+    },
+    {
+      "voaid": "1027",
+      "EndTiming": "23.3",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "19.1",
+      "Sentence_cn": "电视机上放着几本杂志。",
+      "Sentence": "There are some magazines on the television."
+    },
+    {
+      "voaid": "1027",
+      "EndTiming": "27.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "24.1",
+      "Sentence_cn": "客厅里有张桌子。",
+      "Sentence": "There is a table in the room."
+    },
+    {
+      "voaid": "1027",
+      "EndTiming": "31.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "27.9",
+      "Sentence_cn": "桌上放着几份报纸。",
+      "Sentence": "There are some newspapers on the table."
+    },
+    {
+      "voaid": "1027",
+      "EndTiming": "35.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "32.1",
+      "Sentence_cn": "客厅里有几把扶手椅。",
+      "Sentence": "There are some armchairs in the room."
+    },
+    {
+      "voaid": "1027",
+      "EndTiming": "39.2",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "36.1",
+      "Sentence_cn": "那些扶手椅靠近桌子。",
+      "Sentence": "The armchairs are near the table."
+    },
+    {
+      "voaid": "1027",
+      "EndTiming": "43.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "40.0",
+      "Sentence_cn": "客厅里有台立体声音响。",
+      "Sentence": "There is a stereo in the room."
+    },
+    {
+      "voaid": "1027",
+      "EndTiming": "47.2",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "43.2",
+      "Sentence_cn": "音响靠近门。",
+      "Sentence": "The stereo is near the door."
+    },
+    {
+      "voaid": "1027",
+      "EndTiming": "51.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "47.9",
+      "Sentence_cn": "音响上面有几本书。",
+      "Sentence": "There are some books on the stereo."
+    },
+    {
+      "voaid": "1027",
+      "EndTiming": "54.7",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "51.8",
+      "Sentence_cn": "客厅里有几幅画。",
+      "Sentence": "There are some pictures in the room."
+    },
+    {
+      "voaid": "1027",
+      "EndTiming": "58.3",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "55.6",
+      "Sentence_cn": "画挂在墙上。",
+      "Sentence": "The pictures are on the wall."
+    }
+  ],
+  "size": 14,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14208",
+    "title_cn": "史密斯太太的客厅",
+    "title": "Mrs.smith's living room"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_27.mp3"
+}

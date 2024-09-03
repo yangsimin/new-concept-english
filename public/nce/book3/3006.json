@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "voaid": "3006",
+      "EndTiming": "3.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "砸橱窗抢劫",
+      "Sentence": "--- lesson 6  Smash-and-grab"
+    },
+    {
+      "voaid": "3006",
+      "EndTiming": "9.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "3.5",
+      "Sentence_cn": "皮卡迪利大街附近的一条著名拱廊街道上，几家高档商店刚刚开始营业。",
+      "Sentence": "The expensive shops in a famous arcade near Piccadilly were just opening."
+    },
+    {
+      "voaid": "3006",
+      "EndTiming": "14.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.0",
+      "Sentence_cn": "在早晨的这个时候，拱廊街上几乎空无一人。",
+      "Sentence": "At this time of the morning, the arcade was almost empty."
+    },
+    {
+      "voaid": "3006",
+      "EndTiming": "20.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "15.0",
+      "Sentence_cn": "珠宝店主泰勒先生正在欣赏新布置的橱窗。",
+      "Sentence": "Mr. Taylor, the owner of a jewellery shop was admiring a new window display."
+    },
+    {
+      "voaid": "3006",
+      "EndTiming": "27.9",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "21.2",
+      "Sentence_cn": "他手下两名店员从早上8点就开始忙碌，这时刚刚布置完毕。",
+      "Sentence": "Two of his assistants had been working busily since eight o'clock and had only just finished."
+    },
+    {
+      "voaid": "3006",
+      "EndTiming": "35.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "28.5",
+      "Sentence_cn": "钻石项链、戒指漂亮地陈列在黑色丝绒上面。",
+      "Sentence": "Diamond necklaces and rings had been beautifully arranged on a background of black velvet."
+    },
+    {
+      "voaid": "3006",
+      "EndTiming": "41.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "35.8",
+      "Sentence_cn": "泰勒先生站在橱窗外凝神欣赏了几分钟就回到了店里。",
+      "Sentence": "After gazing at the display for several minutes, Mr. Taylor went back into his shop."
+    },
+    {
+      "voaid": "3006",
+      "EndTiming": "51.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "42.3",
+      "Sentence_cn": "宁静突然被打破，一辆大轿车亮着前灯，响着喇叭，呼啸着冲进了拱廊街，",
+      "Sentence": "The silence was suddenly broken when a large car, with its headlights on and its horn blaring, roared down the arcade."
+    },
+    {
+      "voaid": "3006",
+      "EndTiming": "55.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "51.3",
+      "Sentence_cn": "在珠宝店门口停了下来。",
+      "Sentence": "It came to a stop outside the jeweller's."
+    },
+    {
+      "voaid": "3006",
+      "EndTiming": "66.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "55.6",
+      "Sentence_cn": "一人留在驾驶座上，另外两个用黑色长筒丝袜蒙面的人跳下车来。他们用铁棒把商店橱窗的玻璃砸碎。",
+      "Sentence": "One man stayed at the wheel while two others with black stockings over their faces jumped out and smashed the window of the shop with iron bars."
+    },
+    {
+      "voaid": "3006",
+      "EndTiming": "70.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "66.7",
+      "Sentence_cn": "这一切发生时，泰勒先生正在楼上。",
+      "Sentence": "While this was going on, Mr. Taylor was upstairs."
+    },
+    {
+      "voaid": "3006",
+      "EndTiming": "79.8",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "70.5",
+      "Sentence_cn": "他与店员动手向窗外投掷家具，椅子，桌子飞落到拱廊街上。",
+      "Sentence": "He and his staff began throwing furniture out of the window. Chairs and tables went flying into the arcade."
+    },
+    {
+      "voaid": "3006",
+      "EndTiming": "89.3",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "80.5",
+      "Sentence_cn": "一个窃贼被一尊很重的雕像击中，但由于他忙着抢钻石首饰，竟连疼痛都顾不上了。",
+      "Sentence": "One of the thieves was struck by a heavy statue, but he was too busy helping himself to diamonds to notice any pain."
+    },
+    {
+      "voaid": "3006",
+      "EndTiming": "99.0",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "90.0",
+      "Sentence_cn": "这场抢劫只持续了3分钟，因为窃贼争先恐后地爬上轿车，以惊人的速度开跑了。",
+      "Sentence": "The raid was all over in three minutes, for the men scrambled back into the car and it moved off at a fantastic speed."
+    },
+    {
+      "voaid": "3006",
+      "EndTiming": "109.9",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "99.7",
+      "Sentence_cn": "就在轿车离开的时候，泰勒先生从店里冲了出来，跟在车后追赶，一边还往车上扔烟灰缸、花瓶。但他已无法抓住那些窃贼了。",
+      "Sentence": "Just as it was leaving, Mr. Taylor rushed out and ran after it throwing ashtrays and vases, but it was impossible to stop the thieves."
+    },
+    {
+      "voaid": "3006",
+      "EndTiming": "115.2",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "109.9",
+      "Sentence_cn": "他们已带着价值数千镑的首饰逃之夭夭了。",
+      "Sentence": "They had got away with thousands of pounds worth of diamonds."
+    }
+  ],
+  "size": 16,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14542,14543",
+    "title_cn": "砸橱窗抢劫",
+    "title": "Smash-and-grab"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_6.mp3"
+}

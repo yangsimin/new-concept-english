@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "voaid": "1053",
+      "EndTiming": "5.6",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.7",
+      "Sentence_cn": "有趣的气候",
+      "Sentence": "--- lesson 53  An interesting climate"
+    },
+    {
+      "voaid": "1053",
+      "EndTiming": "8.2",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "6.4",
+      "Sentence_cn": "你是哪国人？",
+      "Sentence": "Where do you come from?"
+    },
+    {
+      "voaid": "1053",
+      "EndTiming": "11.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.9",
+      "Sentence_cn": "我是英国人。",
+      "Sentence": "I come from England."
+    },
+    {
+      "voaid": "1053",
+      "EndTiming": "14.7",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "11.8",
+      "Sentence_cn": "你们国家的气候怎么样？",
+      "Sentence": "What's the climate like in your country?"
+    },
+    {
+      "voaid": "1053",
+      "EndTiming": "19.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "15.5",
+      "Sentence_cn": "气候温和，但也不总是宜人的。",
+      "Sentence": "It's mild, but it's not always pleasant."
+    },
+    {
+      "voaid": "1053",
+      "EndTiming": "26.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "20.4",
+      "Sentence_cn": "北部的天气常常寒冷，东部则常常利风。",
+      "Sentence": "The weather's often cold in North and windy in the East."
+    },
+    {
+      "voaid": "1053",
+      "EndTiming": "33.8",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "27.3",
+      "Sentence_cn": "西部常下雨，南部有时则很暖和。",
+      "Sentence": "It's often wet in the West and sometimes warm in the South."
+    },
+    {
+      "voaid": "1053",
+      "EndTiming": "37.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "34.5",
+      "Sentence_cn": "你最喜欢哪些季节？",
+      "Sentence": "Which seasons do you like best?"
+    },
+    {
+      "voaid": "1053",
+      "EndTiming": "40.6",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "38.2",
+      "Sentence_cn": "我最喜欢春季和夏季。",
+      "Sentence": "I like spring and summer."
+    },
+    {
+      "voaid": "1053",
+      "EndTiming": "46.2",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "41.5",
+      "Sentence_cn": "因为此时白天长而夜晚短，",
+      "Sentence": "The days are long and the nights are short."
+    },
+    {
+      "voaid": "1053",
+      "EndTiming": "50.8",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "47.0",
+      "Sentence_cn": "太阳升得早而落得晚。",
+      "Sentence": "The sun rises early and sets late."
+    },
+    {
+      "voaid": "1053",
+      "EndTiming": "54.5",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "51.6",
+      "Sentence_cn": "我不喜欢秋季和冬季。",
+      "Sentence": "I don't like autumn and winter."
+    },
+    {
+      "voaid": "1053",
+      "EndTiming": "60.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "55.4",
+      "Sentence_cn": "因为此时白天短而夜晚长，",
+      "Sentence": "The days are short and the nights are long."
+    },
+    {
+      "voaid": "1053",
+      "EndTiming": "65.2",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "60.8",
+      "Sentence_cn": "太阳升得迟而落得早。",
+      "Sentence": "The sun rises late and sets early."
+    },
+    {
+      "voaid": "1053",
+      "EndTiming": "68.7",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "65.9",
+      "Sentence_cn": "虽然我们国家的气候并不很好，",
+      "Sentence": "Our climate is not very good,"
+    },
+    {
+      "voaid": "1053",
+      "EndTiming": "72.1",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "69.3",
+      "Sentence_cn": "但又确实很有意思。",
+      "Sentence": "but it's certainly interesting."
+    },
+    {
+      "voaid": "1053",
+      "EndTiming": "76.5",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "72.9",
+      "Sentence_cn": "天气是我们最喜欢谈论的话题。",
+      "Sentence": "It's our favourite subject of conversation."
+    }
+  ],
+  "size": 17,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14238",
+    "title_cn": "有趣的气候",
+    "title": "An interesting climate"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_53.mp3"
+}

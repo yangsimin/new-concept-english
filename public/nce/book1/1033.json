@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "voaid": "1033",
+      "EndTiming": "4.3",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "晴天",
+      "Sentence": "--- lesson 33  A fine day"
+    },
+    {
+      "voaid": "1033",
+      "EndTiming": "7.6",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.1",
+      "Sentence_cn": "今天天气好。",
+      "Sentence": "It is a fine day today."
+    },
+    {
+      "voaid": "1033",
+      "EndTiming": "11.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.5",
+      "Sentence_cn": "天空中飘着几朵云，",
+      "Sentence": "There are some clouds in the sky,"
+    },
+    {
+      "voaid": "1033",
+      "EndTiming": "14.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "11.5",
+      "Sentence_cn": "但阳光灿烂。",
+      "Sentence": "but the sun is shining."
+    },
+    {
+      "voaid": "1033",
+      "EndTiming": "18.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "15.2",
+      "Sentence_cn": "琼斯先生同他的家人在一起。",
+      "Sentence": "Mr. Jones is with his family."
+    },
+    {
+      "voaid": "1033",
+      "EndTiming": "21.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "18.8",
+      "Sentence_cn": "他们正在过桥。",
+      "Sentence": "They are walking over the bridge."
+    },
+    {
+      "voaid": "1033",
+      "EndTiming": "25.1",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "22.2",
+      "Sentence_cn": "河上有几艘船。",
+      "Sentence": "There are some boats on the river."
+    },
+    {
+      "voaid": "1033",
+      "EndTiming": "29.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "25.6",
+      "Sentence_cn": "琼斯先生和他的妻子正在看这些船。",
+      "Sentence": "Mr. Jones and his wife are looking at them."
+    },
+    {
+      "voaid": "1033",
+      "EndTiming": "33.9",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "30.8",
+      "Sentence_cn": "莎莉正在观看一艘大船。",
+      "Sentence": "Sally is looking at a big ship."
+    },
+    {
+      "voaid": "1033",
+      "EndTiming": "37.9",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "34.2",
+      "Sentence_cn": "那船正从桥下驶过。",
+      "Sentence": "The ship is going under the bridge."
+    },
+    {
+      "voaid": "1033",
+      "EndTiming": "41.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "38.6",
+      "Sentence_cn": "蒂姆正望着一架飞机。",
+      "Sentence": "Tim is looking at an aeroplane."
+    },
+    {
+      "voaid": "1033",
+      "EndTiming": "46.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "42.4",
+      "Sentence_cn": "飞机正从河上飞过。",
+      "Sentence": "The aeroplane is flying over the river."
+    }
+  ],
+  "size": 12,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14214,14215",
+    "title_cn": "晴天",
+    "title": "A fine day"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_33.mp3"
+}

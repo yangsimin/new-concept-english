@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "voaid": "1066",
+      "EndTiming": "18.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "13.5",
+      "Sentence_cn": "看第一张图片。你应该几点回家？",
+      "Sentence": "Look at the 1st clock. When must you come home?"
+    },
+    {
+      "voaid": "1066",
+      "EndTiming": "20.7",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "18.5",
+      "Sentence_cn": "我应该一点回家。",
+      "Sentence": "I must come home at one o'clock."
+    },
+    {
+      "voaid": "1066",
+      "EndTiming": "26.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "21.4",
+      "Sentence_cn": "第二张图片。她应该几点去图书馆？",
+      "Sentence": "The 2nd clock.  When must she go to the library?"
+    },
+    {
+      "voaid": "1066",
+      "EndTiming": "30.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "26.5",
+      "Sentence_cn": "她应该在一点一刻去图书馆。",
+      "Sentence": "She must go to the library at a quarter past one."
+    },
+    {
+      "voaid": "1066",
+      "EndTiming": "36.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "30.9",
+      "Sentence_cn": "第十二张图片。你和汤姆应该什么时候去看牙医？",
+      "Sentence": "The 12th clock. When must you and Tom see the dentist?"
+    },
+    {
+      "voaid": "1066",
+      "EndTiming": "39.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "36.4",
+      "Sentence_cn": "我们必须3点45分去看牙医。",
+      "Sentence": "We must see the dentist at a quarter to four."
+    },
+    {
+      "voaid": "1066",
+      "EndTiming": "85.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "81.6",
+      "Sentence_cn": "第五张图片。你必须什么时候打这封信？",
+      "Sentence": "The 5th clock.  When must you type this letter?"
+    },
+    {
+      "voaid": "1066",
+      "EndTiming": "91.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "88.4",
+      "Sentence_cn": "我必须在两点钟打这封信。",
+      "Sentence": "I must type this letter at two o'clock."
+    },
+    {
+      "voaid": "1066",
+      "EndTiming": "97.2",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "92.2",
+      "Sentence_cn": "第三张图片。萨姆和彭妮应该什么时候见老板？",
+      "Sentence": "The 3rd clock.  When must Sam and Penny see the boss?"
+    },
+    {
+      "voaid": "1066",
+      "EndTiming": "103.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "100.7",
+      "Sentence_cn": "他们应该在一点半见老板。",
+      "Sentence": "They must see the boss at half past one."
+    },
+    {
+      "voaid": "1066",
+      "EndTiming": "109.8",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "104.7",
+      "Sentence_cn": "第十张图片。乔治必须几点吃药？",
+      "Sentence": "The 10th clock. When must George take his medicine?"
+    },
+    {
+      "voaid": "1066",
+      "EndTiming": "117.4",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "113.6",
+      "Sentence_cn": "他应该在三点一刻吃药。",
+      "Sentence": "He must take his medicine at a quarter past three."
+    },
+    {
+      "voaid": "1066",
+      "EndTiming": "122.6",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "118.1",
+      "Sentence_cn": "第七张图片。索菲亚应该什么时候开车去伦敦。",
+      "Sentence": "The 7th clock.  When must Sophie drive to London?"
+    },
+    {
+      "voaid": "1066",
+      "EndTiming": "129.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "126.0",
+      "Sentence_cn": "他应该在两点半开车去伦敦。",
+      "Sentence": "She must drive to London at half past two."
+    },
+    {
+      "voaid": "1066",
+      "EndTiming": "134.6",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "130.3",
+      "Sentence_cn": "第十一张图片。我应该什么时候赶公共汽车。",
+      "Sentence": "The 11th clock. When must I catch the bus?"
+    },
+    {
+      "voaid": "1066",
+      "EndTiming": "141.3",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "138.3",
+      "Sentence_cn": "你应该在三点半赶公共汽车。",
+      "Sentence": "You must catch the bus at half past three."
+    },
+    {
+      "voaid": "1066",
+      "EndTiming": "146.5",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "142.1",
+      "Sentence_cn": "第九张图片。你应该什么时候到那？",
+      "Sentence": "The 9th clock.When must you arrive there?"
+    },
+    {
+      "voaid": "1066",
+      "EndTiming": "153.4",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "150.6",
+      "Sentence_cn": "我应该在三点到那。",
+      "Sentence": "I must arrive there at three o'clock."
+    },
+    {
+      "voaid": "1066",
+      "EndTiming": "158.9",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "154.6",
+      "Sentence_cn": "第六张图片。他们应该几点到家。",
+      "Sentence": "The 6th clock. When must they come home?"
+    },
+    {
+      "voaid": "1066",
+      "EndTiming": "166.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "162.9",
+      "Sentence_cn": "他们应该两点一刻到家。",
+      "Sentence": "They must come home at a quarter past two."
+    },
+    {
+      "voaid": "1066",
+      "EndTiming": "171.4",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "167.0",
+      "Sentence_cn": "第四张图片。你应该什么时候去见汤姆？",
+      "Sentence": "The 4th clock. When must you meet Tom?"
+    },
+    {
+      "voaid": "1066",
+      "EndTiming": "178.6",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "175.1",
+      "Sentence_cn": "我应该在一点四十五去见汤姆。",
+      "Sentence": "I must meet Tom at a quarter to two."
+    },
+    {
+      "voaid": "1066",
+      "EndTiming": "184.0",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "179.6",
+      "Sentence_cn": "第八张图片。他应该什么时候给你打电话？",
+      "Sentence": "The 8th clock . When must he telephone you?"
+    },
+    {
+      "voaid": "1066",
+      "EndTiming": "191.2",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "187.5",
+      "Sentence_cn": "他应该在两点四十五给我打电话。",
+      "Sentence": "He must telephone me at a quarter to three."
+    }
+  ],
+  "size": 24,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14254",
+    "title_cn": "几点钟？",
+    "title": "What's the time?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_66.mp3"
+}

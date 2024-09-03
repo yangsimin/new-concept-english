@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "voaid": "2076",
+      "EndTiming": "4.8",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "愚人节",
+      "Sentence": "--- Lesson 76  April Fools' Day"
+    },
+    {
+      "voaid": "2076",
+      "EndTiming": "12.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.5",
+      "Sentence_cn": "“作为我们专题新闻节目的结尾，”电视广播员说，",
+      "Sentence": "'To end our special news bulletin,' said the voice of the television announcer,"
+    },
+    {
+      "voaid": "2076",
+      "EndTiming": "17.4",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "13.1",
+      "Sentence_cn": "“我们现在到克拉布利亚的通心粉田里。”",
+      "Sentence": "'we're going over to the macaroni fields of Calabria."
+    },
+    {
+      "voaid": "2076",
+      "EndTiming": "23.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "18.2",
+      "Sentence_cn": "通心粉在这个地区已经种植了600多年了。",
+      "Sentence": "Macaroni has been grown in this area for over six hundred years."
+    },
+    {
+      "voaid": "2076",
+      "EndTiming": "39.1",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "24.0",
+      "Sentence_cn": "两个主要种植者，朱塞皮.莫尔道瓦和里卡多.布拉班特告诉我，他们一直期待着今年获得一个大丰收，收割工作比往年开始得要早些。",
+      "Sentence": "Two of the leading growers, Giuseppe Moldova and Riccardo Brabante,tell me that they have been expecting a splendid crop this year and harvesting has begun earlier than usual."
+    },
+    {
+      "voaid": "2076",
+      "EndTiming": "50.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "39.8",
+      "Sentence_cn": "这里您可以看到两个工人，他们协力割下了3车金黄色的通心粉秸。",
+      "Sentence": "Here you can see two workers who, between them, have just finished cutting three cartloads of golden brown macaroni stalks."
+    },
+    {
+      "voaid": "2076",
+      "EndTiming": "61.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "51.8",
+      "Sentence_cn": "全村的人都日夜奋战，要赶在9月的雨季之前把今年的庄稼收获上来，打完场。",
+      "Sentence": "The whole village has been working day and night gathering and threshing this year's crop before the September rains."
+    },
+    {
+      "voaid": "2076",
+      "EndTiming": "71.0",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "62.2",
+      "Sentence_cn": "在屏幕的右侧，您可以看到布拉班特太太本人，她已经帮了她的丈夫30年了。",
+      "Sentence": "On the right, you can see Mrs. Brabante herself. She has been helping her husband for thirty years now."
+    },
+    {
+      "voaid": "2076",
+      "EndTiming": "78.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "71.9",
+      "Sentence_cn": "布拉班特太太现在正和负责通心粉加工的当地加工厂的经理交谈。",
+      "Sentence": "Mrs. Brabante is talking to the manager of the local factory where the crop is processed."
+    },
+    {
+      "voaid": "2076",
+      "EndTiming": "89.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "79.1",
+      "Sentence_cn": "这最后一个镜头向您展示了收获之后将发生的事情：著名的克拉布利亚人吃通心粉大赛！",
+      "Sentence": "This last scene shows you what will happen at the end of the harvest: the famous Calabrian macaroni-eating competition!"
+    },
+    {
+      "voaid": "2076",
+      "EndTiming": "97.3",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "89.9",
+      "Sentence_cn": "目前的冠军弗拉特里先生，自1991年以来，年年获胜。",
+      "Sentence": "Signor Fratelli, the present champion, has won it every year since 1991."
+    },
+    {
+      "voaid": "2076",
+      "EndTiming": "103.9",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "98.0",
+      "Sentence_cn": "今天 -- 4月1日，星期四 -- 的专题新闻节目到此结束。",
+      "Sentence": "And that ends our special bulletin for today, Thursday, April lst."
+    },
+    {
+      "voaid": "2076",
+      "EndTiming": "107.3",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "104.6",
+      "Sentence_cn": "现在我们回到电视演播室。”",
+      "Sentence": "We're now going back to the studio."
+    }
+  ],
+  "size": 13,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14478,14479",
+    "title_cn": "愚人节",
+    "title": "April Fools' Day"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_76.mp3"
+}

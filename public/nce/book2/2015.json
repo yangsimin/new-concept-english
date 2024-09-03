@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "voaid": "2015",
+      "EndTiming": "3.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "佳音",
+      "Sentence": "--- Lesson 15  Good news"
+    },
+    {
+      "voaid": "2015",
+      "EndTiming": "9.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.7",
+      "Sentence_cn": "秘书告诉我说哈姆斯沃斯先生要见我。",
+      "Sentence": "The secretary told me that Mr.Harmsworth would see me."
+    },
+    {
+      "voaid": "2015",
+      "EndTiming": "13.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "9.8",
+      "Sentence_cn": "我走进他的办公室，感到非常紧张。",
+      "Sentence": "I felt very nervous when I went into his office."
+    },
+    {
+      "voaid": "2015",
+      "EndTiming": "17.8",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "14.5",
+      "Sentence_cn": "我进去的时候，他连头也没抬。",
+      "Sentence": "He did not look up from his desk when I entered."
+    },
+    {
+      "voaid": "2015",
+      "EndTiming": "23.6",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "18.4",
+      "Sentence_cn": "待我坐下后，他说生意非常不景气。",
+      "Sentence": "After I had sat down, he said that business was very bad."
+    },
+    {
+      "voaid": "2015",
+      "EndTiming": "33.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "24.4",
+      "Sentence_cn": "他还告诉我，公司支付不起这么庞大的工资开支，有20个人已经离去。",
+      "Sentence": "He told me that the firm could not afford to pay such large salaries. Twenty people had already left."
+    },
+    {
+      "voaid": "2015",
+      "EndTiming": "36.6",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "34.2",
+      "Sentence_cn": "我知道这次该轮到我了。",
+      "Sentence": "I knew that my turn had come."
+    },
+    {
+      "voaid": "2015",
+      "EndTiming": "41.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "37.4",
+      "Sentence_cn": "“哈姆斯沃斯先生，”我无力地说。",
+      "Sentence": "'Mr.Harmsworth,' I said in a weak voice."
+    },
+    {
+      "voaid": "2015",
+      "EndTiming": "44.1",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "42.1",
+      "Sentence_cn": "“不要打断我的话，”他说。",
+      "Sentence": "'Don't interrupt,' he said."
+    },
+    {
+      "voaid": "2015",
+      "EndTiming": "51.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "44.8",
+      "Sentence_cn": "然后他微笑了一下告诉我说，我每年将得到1,000 英镑的额外收入。",
+      "Sentence": "Then he smiled and told me I would receive an extra thousand pounds a year!"
+    }
+  ],
+  "size": 10,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14376,14377",
+    "title_cn": "佳音",
+    "title": "Good news"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_15.mp3"
+}

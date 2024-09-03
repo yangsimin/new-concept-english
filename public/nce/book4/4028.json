@@ -1,0 +1,300 @@
+{
+  "data": [
+    {
+      "voaid": "4028",
+      "EndTiming": "7.4",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "课文28  病人与医生",
+      "Sentence": "--- Lesson 28 Patients and doctors"
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "12.6",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "7.4",
+      "Sentence_cn": "当病人去看医生时，他们在寻找什么?",
+      "Sentence": "What are patients looking for when they visit the doctor?"
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "16.7",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "14.9",
+      "Sentence_cn": "这是一个怀疑一切的时代，",
+      "Sentence": "This is a sceptical age,"
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "23.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "16.7",
+      "Sentence_cn": "可是虽然我们对我们祖先笃信的许多事物已不太相信，",
+      "Sentence": "but although our faith in many of the things in which our forefathers fervently believed has weakened,"
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "29.9",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "23.8",
+      "Sentence_cn": "我们对瓶装药品疗效的信心仍与祖辈一样坚定。",
+      "Sentence": "our confidence in the curative properties of the bottle of medicine remains the same as theirs."
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "34.2",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "30.7",
+      "Sentence_cn": "卫生部门的处度药费",
+      "Sentence": "This modern faith in medicines is proved by the fact"
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "40.3",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "34.3",
+      "Sentence_cn": "上升到了天文数字，并且目前尚无停止上升的迹象，",
+      "Sentence": "that the annual drug bill of the Health Services is mounting to astronomical figures."
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "44.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "40.3",
+      "Sentence_cn": "这个事实证实了现代人对药物的依赖。",
+      "Sentence": "and shows no signs at present of ceasing to rise."
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "51.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "45.4",
+      "Sentence_cn": "在医院门诊部看病的大多数人觉得，",
+      "Sentence": "The majority of the patients attending the medical out-patients departments of our hospitals feel that"
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "56.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "51.4",
+      "Sentence_cn": "他们认为没有得到充分的治疗除非带回家",
+      "Sentence": "they have not received adequate treatment unless they are able to carry home with them"
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "60.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "56.2",
+      "Sentence_cn": "一些看得见、摸得着的药物，",
+      "Sentence": "some tangible remedy in the shape of a bottle of medicine,"
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "63.5",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "60.4",
+      "Sentence_cn": "如一瓶药水，一盒药丸、一小瓶药膏。",
+      "Sentence": "a box of pills, or a small jar of ointment,"
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "70.2",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "63.5",
+      "Sentence_cn": "负责门诊的医生也非常乐意为前来看病的人提供他们想要得到的药物，",
+      "Sentence": "and the doctor in charge of the department is only too ready to provide them with these requirements."
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "76.9",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "71.1",
+      "Sentence_cn": "病人要什么就给什么，没有比这样处理病人更快的方法了。",
+      "Sentence": "There is no quicker method of disposing of patients than by giving them what they are asking for,"
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "81.3",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "77.4",
+      "Sentence_cn": "因为卫生部门的大多数医生超负荷工作，",
+      "Sentence": "and since most medical men in the Health Services are overworked"
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "89.3",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "81.7",
+      "Sentence_cn": "所以没有多少时间提出一些既费时而又不受人欢迎的忠告，比如注意饮食、",
+      "Sentence": "and have little time for offering time-consuming and little-appreciated advice on such subjects as diet,"
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "93.4",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "89.3",
+      "Sentence_cn": "生活有规律，需要克服坏习惯等等，",
+      "Sentence": "right living, and the need for abandoning bad habits etc.,"
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "99.3",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "94.0",
+      "Sentence_cn": "结果就是把瓶药、盒药、罐药开给看病的人而完事大吉。",
+      "Sentence": "the bottle, the box, and the jar are almost always granted them."
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "105.2",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "99.3",
+      "Sentence_cn": "并不只是那些无知和没受过良好教育的人才迷信药瓶子。",
+      "Sentence": "Nor is it only the ignorant and ill-educated person who has such faith in the bottle of medicine."
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "112.7",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "105.2",
+      "Sentence_cn": "据说托马斯.卡莱尔有过这么一件事：他听说朋友亨利.泰勒病了，",
+      "Sentence": "It is recounted of Thomas Carlyle that when he heard of the illness of his friend, Henry Taylor,"
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "115.6",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "113.0",
+      "Sentence_cn": "就立刻跑去看他，",
+      "Sentence": "he went off immediately to visit him,"
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "125.2",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "115.6",
+      "Sentence_cn": "衣袋里装上了他妻子不舒服时吃剩下的一瓶药。",
+      "Sentence": "carrying with him in his pocket what remained a bottle of medicine formerly prescribed for an indisposition of Mrs. Carlyle's."
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "131.0",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "126.2",
+      "Sentence_cn": "卡莱尔不知道药瓶子里装的是什么药，",
+      "Sentence": "Carlyle was entirely ignorant of what the bottle in his pocket contained,"
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "134.7",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "131.3",
+      "Sentence_cn": "不知道他的朋友得的是什么病，",
+      "Sentence": "of the nature of the illness from which his friend was suffering,"
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "138.2",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "135.1",
+      "Sentence_cn": "也不知道妻子以前得的是什么病，",
+      "Sentence": "and of what had previously been wrong with his wife,"
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "145.7",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "138.2",
+      "Sentence_cn": "只知道一种药对一种病有好处，肯定对另一种病也会有好处。",
+      "Sentence": "but a medicine that had worked so well in one form of illness would surely be of equal benefit in another,"
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "149.8",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "145.9",
+      "Sentence_cn": "想到能对朋友有所帮助，他感到很欣慰，",
+      "Sentence": "and comforted by the thought of the help he was bringing to his friend,"
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "153.0",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "150.2",
+      "Sentence_cn": "于是急急忙忙来到了亨利.泰勒的家里，",
+      "Sentence": "he hastened to Henry Taylor's house."
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "160.1",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "153.8",
+      "Sentence_cn": "他的朋友是否接受了他的药物治疗，历史没有记载，但很可能接受了。",
+      "Sentence": "History does not relate whether his friend accepted his medical help, but in all probability he did."
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "165.5",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "160.8",
+      "Sentence_cn": "服药的最大优点是：对服药人别无其他要求，",
+      "Sentence": "The great advantage of taking medicine is that it makes no demands on the taker"
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "169.6",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "165.7",
+      "Sentence_cn": "除了暂时忍受一下令人作呕的味道外。",
+      "Sentence": "beyond that of putting up for a moment with a disgusting taste,"
+    },
+    {
+      "voaid": "4028",
+      "EndTiming": "184.4",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "170.0",
+      "Sentence_cn": "这也正是病人对医生的要求 -- 病要治好，但不要太麻烦。",
+      "Sentence": "and that is what all patients demand of their doctors -- to be cured at no inconvenience to themselves."
+    }
+  ],
+  "size": 32,
+  "title": {
+    "newCategoryid": 1154,
+    "newTitleId": "14778,14779,14780,14781",
+    "title_cn": "病人与医生",
+    "title": "Patients and doctors"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/4_28.mp3"
+}

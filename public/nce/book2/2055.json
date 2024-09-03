@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "voaid": "2055",
+      "EndTiming": "4.4",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "并非金矿",
+      "Sentence": "--- Lesson 55  Not a gold mine"
+    },
+    {
+      "voaid": "2055",
+      "EndTiming": "10.0",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.1",
+      "Sentence_cn": "最近，找到失踪宝藏的梦想差一点儿变成现实。",
+      "Sentence": "Dreams of finding lost treasure almost came true recently."
+    },
+    {
+      "voaid": "2055",
+      "EndTiming": "21.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "10.8",
+      "Sentence_cn": "一种叫“探宝器”的新机器已经发明出来，并被人们用来探测地下埋藏的金子。",
+      "Sentence": "A new machine called 'The Revealer' has been invented and it has been used to detect gold which has been buried in the ground."
+    },
+    {
+      "voaid": "2055",
+      "EndTiming": "30.9",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "21.8",
+      "Sentence_cn": "在靠近海边的一个据说过去海盗常在里面藏金子的岩洞里，这种机器被派上了用场。",
+      "Sentence": "The machine was used in a cave near the seashore where -- it is said -- pirates used to hide gold."
+    },
+    {
+      "voaid": "2055",
+      "EndTiming": "37.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "31.4",
+      "Sentence_cn": "海盗们过去常把金子埋藏在那个洞里，可后来却没能取走。",
+      "Sentence": "The pirates would often bury gold in the cave and then fail to collect it."
+    },
+    {
+      "voaid": "2055",
+      "EndTiming": "45.1",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "37.9",
+      "Sentence_cn": "一支用这种新机器装备起来的探宝队进入了这个岩洞，希望找到埋藏着的金子。",
+      "Sentence": "Armed with the new machine, a search party went into the cave hoping to find buried treasure."
+    },
+    {
+      "voaid": "2055",
+      "EndTiming": "55.8",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "45.1",
+      "Sentence_cn": "当这个队的队长正在检查洞口附近的土壤时，那台机器显示出它的下面埋有金子。",
+      "Sentence": "The leader of the party was examining the soil near the entrance to the cave when the machine showed that there was gold under the ground."
+    },
+    {
+      "voaid": "2055",
+      "EndTiming": "61.5",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "56.5",
+      "Sentence_cn": "队员们异常激动，就地挖了一个两英尺深的坑，",
+      "Sentence": "Very excited, the party dug a hole two feet deep."
+    },
+    {
+      "voaid": "2055",
+      "EndTiming": "67.6",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "62.1",
+      "Sentence_cn": "但最后找到的是一枚几乎一钱不值的小金币。",
+      "Sentence": "They finally found a small gold coin which was almost worthless."
+    },
+    {
+      "voaid": "2055",
+      "EndTiming": "77.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "67.9",
+      "Sentence_cn": "队员们接着又把整个洞彻底搜寻了一遍，但除了一只空铁皮箱外什么也没找到。",
+      "Sentence": "The party then searched the whole cave thoroughly but did not find anything except an empty tin trunk."
+    },
+    {
+      "voaid": "2055",
+      "EndTiming": "88.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "78.2",
+      "Sentence_cn": "尽管如此，很多人仍然相信“探宝器”很快就会探出值钱的东西来。",
+      "Sentence": "In spite of this, many people are confident that'The Revealer'may reveal something of value fairly soon."
+    }
+  ],
+  "size": 11,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14443,14444",
+    "title_cn": "并非金矿",
+    "title": "Not a gold mine"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_55.mp3"
+}

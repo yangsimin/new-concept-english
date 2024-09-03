@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "3009",
+      "EndTiming": "3.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "飞猫",
+      "Sentence": "--- lesson 9  Flying cats"
+    },
+    {
+      "voaid": "3009",
+      "EndTiming": "7.8",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.4",
+      "Sentence_cn": "猫总能引起人们的极大兴趣。",
+      "Sentence": "Cats never fail to fascinate human beings."
+    },
+    {
+      "voaid": "3009",
+      "EndTiming": "15.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "7.8",
+      "Sentence_cn": "它们可以对人友好，充满柔情。但是，它们又有自己神秘的生活方式。",
+      "Sentence": "They can be friendly and affectionate towards humans, but they lead mysterious lives of their own as well."
+    },
+    {
+      "voaid": "3009",
+      "EndTiming": "19.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "16.0",
+      "Sentence_cn": "它们从不像狗和马一样变得那么顺从。",
+      "Sentence": "They never become submissive like dogs and horses."
+    },
+    {
+      "voaid": "3009",
+      "EndTiming": "24.7",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "19.4",
+      "Sentence_cn": "结果是人们已经学会尊重猫的独立性。",
+      "Sentence": "As a result, humans have learned to respect feline independence."
+    },
+    {
+      "voaid": "3009",
+      "EndTiming": "29.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "24.7",
+      "Sentence_cn": "在它们的一生中，大多数猫都对人存有戒心。",
+      "Sentence": "Most cats remain suspicious of humans all their lives."
+    },
+    {
+      "voaid": "3009",
+      "EndTiming": "37.5",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "30.3",
+      "Sentence_cn": "最使我们感兴趣的一件事情就是一种通俗的信念--猫有九条命。",
+      "Sentence": "One of the things that fascinates us most about cats is the popular belief that they have nine lives."
+    },
+    {
+      "voaid": "3009",
+      "EndTiming": "42.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "38.1",
+      "Sentence_cn": "显然，这种说法里面包含着许多真实性。",
+      "Sentence": "Apparently, there is a good deal of truth in this idea."
+    },
+    {
+      "voaid": "3009",
+      "EndTiming": "47.6",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "42.3",
+      "Sentence_cn": "猫在跌落时能够大难不死是有事实作为依据的。",
+      "Sentence": "A cat's ability to survive falls is based on fact."
+    },
+    {
+      "voaid": "3009",
+      "EndTiming": "57.9",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "48.3",
+      "Sentence_cn": "最近，纽约动物医疗中心对132只猫进行了为期5个月的综合研究。",
+      "Sentence": "Recently the New York Animal Medical Center made a study of 132 cats over a period of five months."
+    },
+    {
+      "voaid": "3009",
+      "EndTiming": "68.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "58.1",
+      "Sentence_cn": "所有这些猫都有一个共同的经历：它们都曾从高层建筑上摔下来过，但只有其中的8只猫死于震荡或跌伤。",
+      "Sentence": "All these cats had one experience in common: they had fallen off high buildings, yet only eight of them died from shock or injuries."
+    },
+    {
+      "voaid": "3009",
+      "EndTiming": "77.8",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "68.9",
+      "Sentence_cn": "当然，纽约是进行这种有趣的试验的一个理想的地方，因为那里根本不缺乏高楼大厦，",
+      "Sentence": "Of course, New York is the ideal place for such an interesting study, because there is no shortage of tall buildings."
+    },
+    {
+      "voaid": "3009",
+      "EndTiming": "82.1",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "77.8",
+      "Sentence_cn": "有的是高层的窗槛从上往下坠落。",
+      "Sentence": "There are plenty of high-rise windowsills to fall from!"
+    },
+    {
+      "voaid": "3009",
+      "EndTiming": "89.9",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "82.9",
+      "Sentence_cn": "有一只叫萨伯瑞娜的猫从32层楼上掉下来，但只摔断了一颗牙。",
+      "Sentence": "One cat, Sabrina, fell 32 storeys, yet only suffered from a broken tooth."
+    },
+    {
+      "voaid": "3009",
+      "EndTiming": "95.9",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "89.9",
+      "Sentence_cn": "“猫就像训练有素的跳伞队员，” 一位医生说。",
+      "Sentence": "'Cats behave like well-trained paratroopers.' a doctor said."
+    },
+    {
+      "voaid": "3009",
+      "EndTiming": "102.2",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "95.9",
+      "Sentence_cn": "看起来，猫跌落的距离越长，它们就越不会伤害自己。",
+      "Sentence": "It seems that the further cats fall, the less they are likely to injure themselves."
+    },
+    {
+      "voaid": "3009",
+      "EndTiming": "108.0",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "102.2",
+      "Sentence_cn": "在一个长长的跌落过程中，它们可以达到每小时60英里甚至更快的速度。",
+      "Sentence": "In a long drop, they reach speeds of 60 miles an hour and more."
+    },
+    {
+      "voaid": "3009",
+      "EndTiming": "112.7",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "108.0",
+      "Sentence_cn": "在高速下落中，猫有时间放松自己。",
+      "Sentence": "At high speeds, falling cats have time to relax."
+    },
+    {
+      "voaid": "3009",
+      "EndTiming": "116.9",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "112.7",
+      "Sentence_cn": "它们伸展四肢，就像飞行中的松鼠一样。",
+      "Sentence": "They stretch out their legs like flying squirrels."
+    },
+    {
+      "voaid": "3009",
+      "EndTiming": "124.1",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "117.3",
+      "Sentence_cn": "这样就加大了空气阻力，并减小了它们着地时冲击力带来的震动。",
+      "Sentence": "This increases their air-resistance and reduces the shock of impact when they hit the ground."
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1153,
+    "newTitleId": "14548,14549,14550",
+    "title_cn": "飞猫",
+    "title": "Flying cats"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/3_9.mp3"
+}

@@ -1,0 +1,462 @@
+{
+  "data": [
+    {
+      "voaid": "4044",
+      "EndTiming": "4.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.9",
+      "Sentence_cn": "课文44  文化的模式",
+      "Sentence": "--- Lesson 44 Patterns of culture"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "13.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.9",
+      "Sentence_cn": "从出生的那一刻起，什么影响着我们?  ",
+      "Sentence": "What influences us from the moment of birth?"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "20.4",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "15.6",
+      "Sentence_cn": "风俗一般未被认为是什么重要的课题。",
+      "Sentence": "Custom has not commonly been regarded as a subject of any great moment."
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "26.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "20.9",
+      "Sentence_cn": "我们觉得，只有我们大脑内部的活动情况才值得研究，",
+      "Sentence": "The inner workings of our own brains we feel to be uniquely worthy of investigation,"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "32.8",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "27.0",
+      "Sentence_cn": "至于风俗呢，只是些司空见惯的行为而已。",
+      "Sentence": "but custom, we have a way of thinking, is behaviour at is most commonplace."
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "36.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "33.4",
+      "Sentence_cn": "事实上，情况正好相反。",
+      "Sentence": "As a matter of fact, it is the other way around."
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "39.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "37.0",
+      "Sentence_cn": "从世界范围来看，",
+      "Sentence": "Traditional custom, taken the world over,"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "48.3",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "40.0",
+      "Sentence_cn": "传统风俗是由许多细节性的习惯行为组成，它比任何一个养成的行为都更加引人注目，",
+      "Sentence": "is a mass of detailed behaviour more astonishing than what any one person can ever evolve in individual actions,"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "50.3",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "48.6",
+      "Sentence_cn": "不管个人行为多么异常。",
+      "Sentence": "no matter how aberrant."
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "54.1",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "50.8",
+      "Sentence_cn": "这只是问题的一个次要的侧面。",
+      "Sentence": "Yet that is a rather trivial aspect of the matter."
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "62.0",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "54.8",
+      "Sentence_cn": "最重要的是，风俗在实践中和信仰上所起的举足轻重的作用，",
+      "Sentence": "The fact of first-rate importance is the predominant role that custom plays in experience and in belief,"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "65.8",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "62.0",
+      "Sentence_cn": "以及它所表现出来的极其丰富多采的形式。",
+      "Sentence": "and the very great varieties it may manifest."
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "71.1",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "67.3",
+      "Sentence_cn": "没有一个人是用纯洁而无偏见的眼光看待世界。",
+      "Sentence": "No man ever looks at the world with pristine eyes."
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "77.1",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "71.5",
+      "Sentence_cn": "人们所看到的是一个受特定风俗习惯、制度和思想方式剪辑过的世界。",
+      "Sentence": "He sees it edited by a definite set of customs and institutions and ways of thinking."
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "83.5",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "77.1",
+      "Sentence_cn": "甚至在哲学领域的探索中，人们也无法超越这此定型的框框。",
+      "Sentence": "Even in his philosophical probings he cannot go behind these stereotypes;"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "90.9",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "83.7",
+      "Sentence_cn": "人们关于真与伪的概念依然和特定的传统风俗有关。",
+      "Sentence": "his very concepts of the true and the false will still have reference to his particular traditional customs."
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "99.1",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "91.5",
+      "Sentence_cn": "约翰.杜威曾经非常严肃地指出：风俗在形成个人行为方面所起的作用",
+      "Sentence": "John Dewey has said in all seriousness that the part played by custom in shaping the behaviour of the individual,"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "103.2",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "99.4",
+      "Sentence_cn": "和一个对风俗的任何影响相比，",
+      "Sentence": "as against any way in which he can affect traditional custom,"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "108.2",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "103.7",
+      "Sentence_cn": "就好像他本国语言的总词汇量",
+      "Sentence": "is as the proportion of the total vocabulary of his mother tongue"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "114.8",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "108.2",
+      "Sentence_cn": "和自己咿呀学语时他家庭所接纳的他的词汇量之比。",
+      "Sentence": "against those words of his own baby talk that are taken up into the vernacular of his family."
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "123.2",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "116.3",
+      "Sentence_cn": "当一个人认真地研究自发形成的社会秩序时，",
+      "Sentence": "When one seriously studies the social orders that have had the opportunity to develop autonomously,"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "128.2",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "123.7",
+      "Sentence_cn": "杜威的比喻就是他实事求是观察得来的形象化的说法。",
+      "Sentence": "the figure becomes no more than an exact and matter-of-fact observation."
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "134.5",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "128.2",
+      "Sentence_cn": "个人的生活史首先是适应",
+      "Sentence": "The life history of the individual is first and foremost an accommodation"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "139.5",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "134.5",
+      "Sentence_cn": "他的社团世代相传形成的生活方式和准则。",
+      "Sentence": "to the patterns and standards traditionally handed down in his community."
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "142.1",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "140.2",
+      "Sentence_cn": "从他呱呱坠地的时刻起，",
+      "Sentence": "From the moment of his birth,"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "147.1",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "142.3",
+      "Sentence_cn": "他所生于其中的风俗就开始塑造他的经历和行为规范。",
+      "Sentence": "the customs into which he is born shape his experience and behaviour."
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "152.2",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "147.6",
+      "Sentence_cn": "到会说话时，他就是传统文化塑造的一个小孩子；",
+      "Sentence": "By the time he can talk, he is the little creature of his culture,"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "157.1",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "152.4",
+      "Sentence_cn": "等他长大了，能做各种事了，",
+      "Sentence": "and by the time he is grown and able to take part in its activities,"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "164.9",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "157.1",
+      "Sentence_cn": "他的社团的习惯就是他的习惯，他的社团的信仰就是他的信仰，他的社团不能做的事就是他不能做的事。",
+      "Sentence": "its habits are his habits, its beliefs his beliefs, its impossibilities his impossibilities."
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "169.9",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "165.7",
+      "Sentence_cn": "每一个和他诞生在同一个社团中的孩子和他一样具有相同的风俗；",
+      "Sentence": "Every child that is born into his group will share them with him,"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "177.2",
+      "Paraid": "1",
+      "IdIndex": "31",
+      "Timing": "170.6",
+      "Sentence_cn": "而在地球的另一边，诞生在另一个社团的孩子与他就是少有相同的风俗。",
+      "Sentence": "and no child born into one on the opposite side of the globe can ever achieve the thousandth part."
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "185.1",
+      "Paraid": "1",
+      "IdIndex": "32",
+      "Timing": "177.7",
+      "Sentence_cn": "没有任何一个社会问题比得上风俗的作用问题更要求我们对它理解。",
+      "Sentence": "There is no social problem it is more incumbent upon us to understand than this of the role of custom."
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "189.6",
+      "Paraid": "1",
+      "IdIndex": "33",
+      "Timing": "185.8",
+      "Sentence_cn": "直到我们理解了风俗的规律性和多样性，",
+      "Sentence": "Until we are intelligent as to its laws and varieties,"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "195.2",
+      "Paraid": "1",
+      "IdIndex": "34",
+      "Timing": "189.9",
+      "Sentence_cn": "我们才能明白人为生活中主要的复杂现象。",
+      "Sentence": "the main complicating facts of human life must remain unintelligible."
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "203.4",
+      "Paraid": "1",
+      "IdIndex": "35",
+      "Timing": "196.1",
+      "Sentence_cn": "对风俗的研究才是全面的，才会有收获，只有在某些基本的主张被接受下来、",
+      "Sentence": "The study of custom can be profitable only after certain preliminary propositions have been accepted,"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "207.6",
+      "Paraid": "1",
+      "IdIndex": "36",
+      "Timing": "203.8",
+      "Sentence_cn": "同时有些主张被激烈反对时。",
+      "Sentence": "and some of these propositions have been violently opposed."
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "213.3",
+      "Paraid": "1",
+      "IdIndex": "37",
+      "Timing": "208.6",
+      "Sentence_cn": "首先，任何科学研究都要求",
+      "Sentence": "In the first place, any scientific study requires that there be no"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "219.8",
+      "Paraid": "1",
+      "IdIndex": "38",
+      "Timing": "213.3",
+      "Sentence_cn": "人们对可供考虑的诸多因素不能厚此薄彼，偏向某一方面。",
+      "Sentence": "preferential weighting of one or another of the items in the series it selects for its consideration."
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "228.1",
+      "Paraid": "1",
+      "IdIndex": "39",
+      "Timing": "219.8",
+      "Sentence_cn": "在一切争议较小的领域里，如对仙人掌、白蚁或星云性质的研究，",
+      "Sentence": "In all the less controversial fields, like the study of cacti or termites or the nature of nebulae,"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "236.5",
+      "Paraid": "1",
+      "IdIndex": "40",
+      "Timing": "228.4",
+      "Sentence_cn": "应采取的研究方法是把有关各方面的材料汇集起来，同时注意任何可能出现的异常情况和条件。",
+      "Sentence": "the necessary method of study is to group the relevant material and to take note of all possible variant forms and conditions."
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "245.2",
+      "Paraid": "1",
+      "IdIndex": "41",
+      "Timing": "236.5",
+      "Sentence_cn": "例如，用这种方法，我们完全掌握了天文学的规律和昆虫群居的习性。",
+      "Sentence": "In this way, we have learned all that we know of the laws of astronomy, or of the habits of the social insects, let us say."
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "251.0",
+      "Paraid": "1",
+      "IdIndex": "42",
+      "Timing": "245.2",
+      "Sentence_cn": "只是在对人类自身的研究。主要的社会科学",
+      "Sentence": "It is only in the study of man himself that the major social sciences"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "257.2",
+      "Paraid": "1",
+      "IdIndex": "43",
+      "Timing": "251.0",
+      "Sentence_cn": "建立在本土变化，即西方文明上。",
+      "Sentence": "have substituted the study of one local variation, that of Western civilization."
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "261.4",
+      "Paraid": "1",
+      "IdIndex": "44",
+      "Timing": "258.3",
+      "Sentence_cn": "人类学按其定义来说就无法存在，",
+      "Sentence": "Anthropology was by definition impossible,"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "265.7",
+      "Paraid": "1",
+      "IdIndex": "45",
+      "Timing": "261.6",
+      "Sentence_cn": "只要我们同原始人，",
+      "Sentence": "as long as these distinctions between ourselves and the primitive,"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "272.4",
+      "Paraid": "1",
+      "IdIndex": "46",
+      "Timing": "265.7",
+      "Sentence_cn": "我们同野蛮人，我们同异教徒之间存有的区别在人的思想中占主工导地位。",
+      "Sentence": "ourselves and the barbarian, ourselves and the pagan, held sway over people's minds."
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "277.1",
+      "Paraid": "1",
+      "IdIndex": "47",
+      "Timing": "272.8",
+      "Sentence_cn": "我们首先需要达到这样一种成熟的程度：",
+      "Sentence": "It was necessary first to arrive at that degree of sophistication"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "281.9",
+      "Paraid": "1",
+      "IdIndex": "48",
+      "Timing": "277.5",
+      "Sentence_cn": "不用自己的信仰去反对我们邻居的迷信。",
+      "Sentence": "where we no longer set our own belief against our neighbour's superstition."
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "291.4",
+      "Paraid": "1",
+      "IdIndex": "49",
+      "Timing": "281.9",
+      "Sentence_cn": "必须认识到，这些建立在相同前提基础上的风俗，暂且可以说是超自然的东西，",
+      "Sentence": "It was necessary to recognize that these institutions which are based on the same premises, let us say the supernatural,"
+    },
+    {
+      "voaid": "4044",
+      "EndTiming": "303.0",
+      "Paraid": "1",
+      "IdIndex": "50",
+      "Timing": "291.7",
+      "Sentence_cn": "必须放在一起加以考虑，我们自己的风俗和其他民族的风俗都在其中。",
+      "Sentence": "must be considered together, our own among the rest."
+    }
+  ],
+  "size": 50,
+  "title": {
+    "newCategoryid": 1154,
+    "newTitleId": "14836,14837,14838,14839",
+    "title_cn": "文化的模式",
+    "title": "Patterns of culture"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/4_44.mp3"
+}

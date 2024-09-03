@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "voaid": "2044",
+      "EndTiming": "4.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.7",
+      "Sentence_cn": "穿过森林",
+      "Sentence": "--- Lesson 44  Through the forest"
+    },
+    {
+      "voaid": "2044",
+      "EndTiming": "13.1",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.1",
+      "Sentence_cn": "安.斯特林夫人在穿过森林追赶两个男人时，她并没有考虑到所冒的风险。",
+      "Sentence": "Mrs. Anne Sterling did not think of the risk she was taking when she ran through a forest after two men."
+    },
+    {
+      "voaid": "2044",
+      "EndTiming": "23.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "13.2",
+      "Sentence_cn": "刚才，当她和孩子们正在森林边上野餐的时候，这两个人冲到她跟前，企图抢走她的手提包。",
+      "Sentence": "They had rushed up to her while she was having a picnic at the edge of a forest with her children and tried to steal her handbag."
+    },
+    {
+      "voaid": "2044",
+      "EndTiming": "33.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "23.8",
+      "Sentence_cn": "在争抢中，手提包的带断了，包落入这两个人手里，他们拔腿跑进了树林。",
+      "Sentence": "In the struggle, the strap broke and, with the bag in their possession, both men started running through the trees."
+    },
+    {
+      "voaid": "2044",
+      "EndTiming": "38.8",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "34.1",
+      "Sentence_cn": "斯特林夫人非常气愤，向着他们追了过去。",
+      "Sentence": "Mrs. Sterling got so angry that she ran after them."
+    },
+    {
+      "voaid": "2044",
+      "EndTiming": "43.9",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "39.5",
+      "Sentence_cn": "只追了一会儿便上气不接下气了，但她还是继续追赶。",
+      "Sentence": "She was soon out of breath, but she continued to run."
+    },
+    {
+      "voaid": "2044",
+      "EndTiming": "52.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "44.6",
+      "Sentence_cn": "当她赶上他们时，发现他们已经坐了下来，正翻着包里的东西。",
+      "Sentence": "When she caught up with them, she saw that they had sat down and were going through the contents of the bag,"
+    },
+    {
+      "voaid": "2044",
+      "EndTiming": "55.2",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "52.9",
+      "Sentence_cn": "于是她直冲过去。",
+      "Sentence": "so she ran straight at them."
+    },
+    {
+      "voaid": "2044",
+      "EndTiming": "61.8",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "55.8",
+      "Sentence_cn": "这两个人吓了一跳，扔下提包逃跑了。",
+      "Sentence": "The men got such a fright that they dropped the bag and ran away."
+    },
+    {
+      "voaid": "2044",
+      "EndTiming": "66.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "62.0",
+      "Sentence_cn": "“这提包带需要修理，”斯特林夫人事后说道，",
+      "Sentence": "“The strap needs mending,”said Mrs. Sterling later,"
+    },
+    {
+      "voaid": "2044",
+      "EndTiming": "69.2",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "67.1",
+      "Sentence_cn": "“不过他们什么也没偷走。”",
+      "Sentence": "“but they did not steal anything.”"
+    }
+  ],
+  "size": 11,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14422,14423",
+    "title_cn": "穿过森林",
+    "title": "Through the forest"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_44.mp3"
+}

@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "voaid": "2057",
+      "EndTiming": "4.9",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.8",
+      "Sentence_cn": "你要买什么，夫人？",
+      "Sentence": "--- Lesson 57  Can I help you, madam?"
+    },
+    {
+      "voaid": "2057",
+      "EndTiming": "10.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.8",
+      "Sentence_cn": "一位穿着牛仔裤的妇女站在一家高档商店的橱窗前。",
+      "Sentence": "A woman in jeans stood at the window of an expensive shop."
+    },
+    {
+      "voaid": "2057",
+      "EndTiming": "19.5",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "11.0",
+      "Sentence_cn": "她虽然犹豫了片刻，但终于还是走进了商店，要求把陈列在橱窗里的一件衣服拿给她看。",
+      "Sentence": "Though she hesitated for a moment, she finally went in and asked to see a dress that was in the window."
+    },
+    {
+      "voaid": "2057",
+      "EndTiming": "24.7",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "20.1",
+      "Sentence_cn": "接待她的售货员不喜欢她的那副打扮，",
+      "Sentence": "The assistant who served her did not like the way she was dressed."
+    },
+    {
+      "voaid": "2057",
+      "EndTiming": "30.5",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "25.4",
+      "Sentence_cn": "轻蔑地看了她一眼后，便告诉她那件衣服已经卖出去了。",
+      "Sentence": "Glancing at her scornfully, he told her that the dress was sold."
+    },
+    {
+      "voaid": "2057",
+      "EndTiming": "37.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "31.1",
+      "Sentence_cn": "这位妇女怒气冲冲地走出了商店，决定第二天教训一下那个售货员。",
+      "Sentence": "The woman walked out of the shop angrily and decided to punish the assistant next day."
+    },
+    {
+      "voaid": "2057",
+      "EndTiming": "42.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "38.1",
+      "Sentence_cn": "第二天上午，她又来到这家商店，",
+      "Sentence": "She returned to the shop the following morning dressed in a fur coat,"
+    },
+    {
+      "voaid": "2057",
+      "EndTiming": "47.9",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "43.2",
+      "Sentence_cn": "穿了一件裘皮大衣，一只手拎着一只手提包，另一只手拿着一把长柄伞。",
+      "Sentence": "with a handbag in one hand and a long umbrella in the other."
+    },
+    {
+      "voaid": "2057",
+      "EndTiming": "53.7",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "48.6",
+      "Sentence_cn": "找到那个无礼的售货员后，她还要看昨天的那件衣服。",
+      "Sentence": "After seeking out the rude assistant, she asked for the same dress."
+    },
+    {
+      "voaid": "2057",
+      "EndTiming": "61.2",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "54.6",
+      "Sentence_cn": "那个售货员没有认出她是谁，这一回接待她的态度非常殷勤。",
+      "Sentence": "Not realizing who she was, the assistant was eager to serve her this time."
+    },
+    {
+      "voaid": "2057",
+      "EndTiming": "66.9",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "61.8",
+      "Sentence_cn": "费了好大劲儿，他爬进橱窗去取那件衣服。",
+      "Sentence": "With great difficulty, he climbed into the shop window to get the dress."
+    },
+    {
+      "voaid": "2057",
+      "EndTiming": "72.4",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "67.6",
+      "Sentence_cn": "这位妇女对那件衣服只看一眼，就说不喜欢。",
+      "Sentence": "As soon as she saw it, the woman said she did not like it."
+    },
+    {
+      "voaid": "2057",
+      "EndTiming": "83.3",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "73.1",
+      "Sentence_cn": "她开心地迫使那位售货员把橱窗里几乎所有的东西都拿了出来，最后才买下了她最先要看的那一件。",
+      "Sentence": "She enjoyed herself making the assistant bring almost everything in the window before finally buying the dress she had first asked for."
+    }
+  ],
+  "size": 13,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14447,14448",
+    "title_cn": "你要买什么，夫人？",
+    "title": "Can I help you, madam?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_57.mp3"
+}

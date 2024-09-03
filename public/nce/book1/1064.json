@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "voaid": "1064",
+      "EndTiming": "28.5",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "26.0",
+      "Sentence_cn": "不要吃阿司匹林！",
+      "Sentence": "Don't take any aspirins!"
+    },
+    {
+      "voaid": "1064",
+      "EndTiming": "34.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "30.5",
+      "Sentence_cn": "你不应该吃阿司匹林。",
+      "Sentence": "You mustn't take any aspirins."
+    },
+    {
+      "voaid": "1064",
+      "EndTiming": "38.0",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "34.6",
+      "Sentence_cn": "不要吃这种药。",
+      "Sentence": "Don't take this medicine!"
+    },
+    {
+      "voaid": "1064",
+      "EndTiming": "42.6",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "40.0",
+      "Sentence_cn": "你不应该吃这种药。",
+      "Sentence": "You mustn't take this medicine."
+    },
+    {
+      "voaid": "1064",
+      "EndTiming": "45.0",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "43.0",
+      "Sentence_cn": "不要叫医生！",
+      "Sentence": "Don't call the doctor!"
+    },
+    {
+      "voaid": "1064",
+      "EndTiming": "50.5",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "48.0",
+      "Sentence_cn": "你不应该叫医生。",
+      "Sentence": "You mustn't call the doctor."
+    },
+    {
+      "voaid": "1064",
+      "EndTiming": "54.0",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "51.5",
+      "Sentence_cn": "不要玩火柴！",
+      "Sentence": "Don't play with matches!"
+    },
+    {
+      "voaid": "1064",
+      "EndTiming": "59.5",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "57.0",
+      "Sentence_cn": "你不应该玩火柴。",
+      "Sentence": "You mustn't play with matches."
+    },
+    {
+      "voaid": "1064",
+      "EndTiming": "62.5",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "60.5",
+      "Sentence_cn": "不要在图书馆说话！",
+      "Sentence": "Don't talk in the library!"
+    },
+    {
+      "voaid": "1064",
+      "EndTiming": "69.5",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "67.0",
+      "Sentence_cn": "你不应该在图书馆说话。",
+      "Sentence": "You mustn't talk in the library."
+    },
+    {
+      "voaid": "1064",
+      "EndTiming": "72.5",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "70.5",
+      "Sentence_cn": "不要吵闹！",
+      "Sentence": "Don't make a noise!"
+    },
+    {
+      "voaid": "1064",
+      "EndTiming": "78.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "76.0",
+      "Sentence_cn": "你不准吵闹。",
+      "Sentence": "You mustn't make a noise."
+    },
+    {
+      "voaid": "1064",
+      "EndTiming": "81.0",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "79.0",
+      "Sentence_cn": "不要开得这么快！",
+      "Sentence": "Don't drive so quickly!"
+    },
+    {
+      "voaid": "1064",
+      "EndTiming": "86.5",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "84.0",
+      "Sentence_cn": "你不应该开得这么快。",
+      "Sentence": "You mustn't drive so quickly."
+    },
+    {
+      "voaid": "1064",
+      "EndTiming": "89.5",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "87.5",
+      "Sentence_cn": "不要把身体探出窗外！",
+      "Sentence": "Don't lean out of the window!"
+    },
+    {
+      "voaid": "1064",
+      "EndTiming": "96.0",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "93.0",
+      "Sentence_cn": "你不应该把身体探出窗外。",
+      "Sentence": "You mustn't lean out of the window."
+    },
+    {
+      "voaid": "1064",
+      "EndTiming": "98.5",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "96.5",
+      "Sentence_cn": "不要打碎花瓶！",
+      "Sentence": "Don't break that vase!"
+    },
+    {
+      "voaid": "1064",
+      "EndTiming": "704.0",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "102.0",
+      "Sentence_cn": "你不应该打碎花瓶。",
+      "Sentence": "You mustn't break that vase."
+    }
+  ],
+  "size": 18,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14251",
+    "title_cn": "不要……！你不应该……！",
+    "title": "Don't...! You mustn't...!"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_64.mp3"
+}

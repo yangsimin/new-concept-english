@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "voaid": "2091",
+      "EndTiming": "5.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "三人同篮",
+      "Sentence": "--- Lesson 91  Three men in a basket"
+    },
+    {
+      "voaid": "2091",
+      "EndTiming": "12.3",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.7",
+      "Sentence_cn": "一个飞行员发现了一只气球，它像是正飞往附近的一个皇家空军基地。",
+      "Sentence": "A pilot noticed a balloon which seemed to be making for a Royal Air Force Station nearby."
+    },
+    {
+      "voaid": "2091",
+      "EndTiming": "19.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "12.3",
+      "Sentence_cn": "他马上把情况报告了该基地，但那里的人没有一个能解释这到底是怎么回事。",
+      "Sentence": "He informed the station at once, but no one there was able to explain the mystery."
+    },
+    {
+      "voaid": "2091",
+      "EndTiming": "30.4",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "19.9",
+      "Sentence_cn": "控制塔上的官员得知这一消息后，非常气愤，因为气球有可能给飞机造成极大的危险。",
+      "Sentence": "The officer in the control tower was very angry when he heard the news, because balloons can be a great danger to aircraft."
+    },
+    {
+      "voaid": "2091",
+      "EndTiming": "39.1",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "30.6",
+      "Sentence_cn": "他说可能有人正对基地进行侦察，因此命令那个飞行员跟踪那个奇怪的飞行物。",
+      "Sentence": "He said that someone might be spying on the station and the pilot was ordered to keep track of the strange object."
+    },
+    {
+      "voaid": "2091",
+      "EndTiming": "43.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "39.4",
+      "Sentence_cn": "飞行员设法绕着气球飞了一阵。",
+      "Sentence": "The pilot managed to circle the balloon for some time."
+    },
+    {
+      "voaid": "2091",
+      "EndTiming": "51.2",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "44.3",
+      "Sentence_cn": "他看清了气球下面有3个人呆在一只筐里，其中一个举着望远镜。",
+      "Sentence": "He could make out three men in a basket under it and one of them was holding a pair of binoculars."
+    },
+    {
+      "voaid": "2091",
+      "EndTiming": "58.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "51.2",
+      "Sentence_cn": "当气球飞临基地上空时，飞行员看见有一个人在拍照。",
+      "Sentence": "When the balloon was over the station, the pilot saw one of the men taking photographs."
+    },
+    {
+      "voaid": "2091",
+      "EndTiming": "65.2",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "59.1",
+      "Sentence_cn": "不久，气球开始降落，在一个停机坪附近着了陆。",
+      "Sentence": "Soon afterwards, the balloon began to descend and it landed near an airfield."
+    },
+    {
+      "voaid": "2091",
+      "EndTiming": "70.2",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "65.6",
+      "Sentence_cn": "警察被召来了，但他们却不能逮捕任何人，",
+      "Sentence": "The police were called in, but they could not arrest anyone,"
+    },
+    {
+      "voaid": "2091",
+      "EndTiming": "76.9",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "70.5",
+      "Sentence_cn": "因为筐里是两名国会议员和一名基地的指挥官！",
+      "Sentence": "for the basket contained two Members of Parliament and the Commanding Officer of the station!"
+    },
+    {
+      "voaid": "2091",
+      "EndTiming": "85.8",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "77.5",
+      "Sentence_cn": "正如指挥官后来解释的那样，基地的这半边不知道那半边正在干什么！",
+      "Sentence": "As the Commanding Officer explained later, one half of the station did not know what the other half was doing!"
+    }
+  ],
+  "size": 12,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14507,14508",
+    "title_cn": "三人同篮",
+    "title": "Three men in a basket"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_91.mp3"
+}

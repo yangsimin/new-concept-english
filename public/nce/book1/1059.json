@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "voaid": "1059",
+      "EndTiming": "4.2",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.4",
+      "Sentence_cn": "就这些吗？",
+      "Sentence": "--- lesson 59  Is that all?"
+    },
+    {
+      "voaid": "1059",
+      "EndTiming": "8.1",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "5.0",
+      "Sentence_cn": "请给我拿几个信封。",
+      "Sentence": "I want some envelopes,please."
+    },
+    {
+      "voaid": "1059",
+      "EndTiming": "12.6",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.8",
+      "Sentence_cn": "您要大号的还是小号的？",
+      "Sentence": "Do you want the large size or the small size?"
+    },
+    {
+      "voaid": "1059",
+      "EndTiming": "15.7",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "13.3",
+      "Sentence_cn": "请拿大号的。",
+      "Sentence": "The large size, please."
+    },
+    {
+      "voaid": "1059",
+      "EndTiming": "19.2",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "16.5",
+      "Sentence_cn": "您有信纸吗？",
+      "Sentence": "Do you have any writing paper?"
+    },
+    {
+      "voaid": "1059",
+      "EndTiming": "21.0",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "19.8",
+      "Sentence_cn": "有。",
+      "Sentence": "Yes,we do."
+    },
+    {
+      "voaid": "1059",
+      "EndTiming": "24.9",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "21.8",
+      "Sentence_cn": "我没有小本的信纸，",
+      "Sentence": "I don't have any small pads."
+    },
+    {
+      "voaid": "1059",
+      "EndTiming": "28.1",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "25.7",
+      "Sentence_cn": "只有大本的。",
+      "Sentence": "I only have large ones."
+    },
+    {
+      "voaid": "1059",
+      "EndTiming": "30.8",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "28.9",
+      "Sentence_cn": "您要一本吗？",
+      "Sentence": "Do you want a pad?"
+    },
+    {
+      "voaid": "1059",
+      "EndTiming": "33.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "31.4",
+      "Sentence_cn": "好，请拿一本。",
+      "Sentence": "Yes, please."
+    },
+    {
+      "voaid": "1059",
+      "EndTiming": "36.1",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "33.7",
+      "Sentence_cn": "我还要些胶水。",
+      "Sentence": "And I want some glue."
+    },
+    {
+      "voaid": "1059",
+      "EndTiming": "38.5",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "36.9",
+      "Sentence_cn": "一瓶胶水。",
+      "Sentence": "A bottle of glue."
+    },
+    {
+      "voaid": "1059",
+      "EndTiming": "43.7",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "39.4",
+      "Sentence_cn": "我还要一大盒粉笔。",
+      "Sentence": "And I want a large box of chalk, too."
+    },
+    {
+      "voaid": "1059",
+      "EndTiming": "47.2",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "44.5",
+      "Sentence_cn": "我只有小盒的。",
+      "Sentence": "I only have small boxes."
+    },
+    {
+      "voaid": "1059",
+      "EndTiming": "48.9",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "47.7",
+      "Sentence_cn": "您要一盒吗？",
+      "Sentence": "Do you want one?"
+    },
+    {
+      "voaid": "1059",
+      "EndTiming": "50.5",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "49.4",
+      "Sentence_cn": "不了，谢谢。",
+      "Sentence": "No, thank you."
+    },
+    {
+      "voaid": "1059",
+      "EndTiming": "52.3",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "51.2",
+      "Sentence_cn": "就要这些吗？",
+      "Sentence": "Is that all?"
+    },
+    {
+      "voaid": "1059",
+      "EndTiming": "54.9",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "52.8",
+      "Sentence_cn": "就这些，谢谢。",
+      "Sentence": "That's all, thank you."
+    },
+    {
+      "voaid": "1059",
+      "EndTiming": "57.1",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "55.5",
+      "Sentence_cn": "您还要什么吗？",
+      "Sentence": "What else do you want?"
+    },
+    {
+      "voaid": "1059",
+      "EndTiming": "60.3",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "57.8",
+      "Sentence_cn": "我要找的零钱。",
+      "Sentence": "I want my change."
+    }
+  ],
+  "size": 20,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14244",
+    "title_cn": "就这些吗？",
+    "title": "Is that all?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_59.mp3"
+}

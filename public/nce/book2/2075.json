@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "voaid": "2075",
+      "EndTiming": "4.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.5",
+      "Sentence_cn": "呼救信号",
+      "Sentence": "--- Lesson 75  SOS"
+    },
+    {
+      "voaid": "2075",
+      "EndTiming": "9.2",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.0",
+      "Sentence_cn": "不久前，一架轻型客机偏离了航线，",
+      "Sentence": "When a light passenger plane flew off course some time ago,"
+    },
+    {
+      "voaid": "2075",
+      "EndTiming": "14.4",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "9.2",
+      "Sentence_cn": "在山区坠毁，飞行员丧生。",
+      "Sentence": "it crashed in the mountains and its pilot was killed."
+    },
+    {
+      "voaid": "2075",
+      "EndTiming": "22.2",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "14.4",
+      "Sentence_cn": "机上仅有的乘客，一位年轻的妇女和她的两个女婴却平安无事。",
+      "Sentence": "The only passengers, a young woman and her two baby daughters, were unhurt."
+    },
+    {
+      "voaid": "2075",
+      "EndTiming": "24.9",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "23.0",
+      "Sentence_cn": "此时正值隆冬季节，",
+      "Sentence": "It was the middle of winter."
+    },
+    {
+      "voaid": "2075",
+      "EndTiming": "28.4",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "25.5",
+      "Sentence_cn": "地上积着厚厚的雪。",
+      "Sentence": "Snow lay thick on the ground."
+    },
+    {
+      "voaid": "2075",
+      "EndTiming": "33.4",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "29.0",
+      "Sentence_cn": "这位妇女知道，即使最近的村庄也有数英里远。",
+      "Sentence": "The woman knew that the nearest village was miles away."
+    },
+    {
+      "voaid": "2075",
+      "EndTiming": "41.7",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "34.1",
+      "Sentence_cn": "天黑下来的时候，她把提箱当作小床，把两个孩子放了进去，",
+      "Sentence": "When it grew dark, she turned a suitcase into a bed and put the children inside it,"
+    },
+    {
+      "voaid": "2075",
+      "EndTiming": "45.7",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "42.1",
+      "Sentence_cn": "又把所有能找到的衣服都盖在了孩子们身上。",
+      "Sentence": "covering them with all the clothes she could find."
+    },
+    {
+      "voaid": "2075",
+      "EndTiming": "49.8",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "46.3",
+      "Sentence_cn": "夜里，天冷得厉害。",
+      "Sentence": "During the night, it got terribly cold."
+    },
+    {
+      "voaid": "2075",
+      "EndTiming": "58.4",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "50.4",
+      "Sentence_cn": "这位妇女尽可能地靠近孩子，甚至自己也想钻进箱子里去，",
+      "Sentence": "The woman kept as near as she could to the children and even tried to get into the case herself,"
+    },
+    {
+      "voaid": "2075",
+      "EndTiming": "61.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "58.9",
+      "Sentence_cn": "只是箱子太小了。",
+      "Sentence": "but it was too small."
+    },
+    {
+      "voaid": "2075",
+      "EndTiming": "69.2",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "61.7",
+      "Sentence_cn": "第二天一大早，她听到头顶上有飞机飞过，但不知道怎样才能发个信号。",
+      "Sentence": "Early next morning, she heard planes passing overhead and wondered how she could send a signal."
+    },
+    {
+      "voaid": "2075",
+      "EndTiming": "71.9",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "69.9",
+      "Sentence_cn": "后来她有了一个主意。",
+      "Sentence": "Then she had an idea."
+    },
+    {
+      "voaid": "2075",
+      "EndTiming": "77.7",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "72.4",
+      "Sentence_cn": "她在雪地上踩出了“SOS”这3个字母。",
+      "Sentence": "She stamped out the letters 'SOS' in the snow."
+    },
+    {
+      "voaid": "2075",
+      "EndTiming": "85.8",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "78.3",
+      "Sentence_cn": "幸运得很，一位飞行员看到这个信号，用无线电给最近的城镇发了报。",
+      "Sentence": "Fortunately, a pilot saw the signal and sent a message by radio to the nearest town."
+    },
+    {
+      "voaid": "2075",
+      "EndTiming": "94.5",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "86.4",
+      "Sentence_cn": "不久，一架直升飞机飞抵飞机失事现场，来搭救这几个幸存者。",
+      "Sentence": "It was not long before a helicopter arrived on the scene to rescue the survivors of the plane crash."
+    }
+  ],
+  "size": 17,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14476,14477",
+    "title_cn": "呼救信号",
+    "title": "SOS"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_75.mp3"
+}

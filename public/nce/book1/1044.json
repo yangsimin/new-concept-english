@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "voaid": "1044",
+      "EndTiming": "21.6",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "18.9",
+      "Sentence_cn": "这儿有面包吗？",
+      "Sentence": "Is there any bread here?"
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "26.4",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "21.7",
+      "Sentence_cn": "是的，有。桌子上有一些。",
+      "Sentence": "Yes, there is. There's some on the table."
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "33.1",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "29.7",
+      "Sentence_cn": "这儿有些锤子吗？",
+      "Sentence": "Are there any hammers here?"
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "38.3",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "33.2",
+      "Sentence_cn": "那个盒子后面有一些。",
+      "Sentence": "Yes, there are. There are some behind that box."
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "44.9",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "41.6",
+      "Sentence_cn": "这儿有一些牛奶吗？",
+      "Sentence": "Is there any milk here?"
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "50.2",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "45.0",
+      "Sentence_cn": "是的，有。门前面有一些。",
+      "Sentence": "Yes, there is. There's some in front of the door."
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "65.7",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "61.5",
+      "Sentence_cn": "这儿有面包吗？",
+      "Sentence": "Is there any bread here?"
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "71.4",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "65.8",
+      "Sentence_cn": "是的，有。桌子上有一些。",
+      "Sentence": "Yes, there is. There's some on the table."
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "80.4",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "75.7",
+      "Sentence_cn": "这儿有些锤子吗？",
+      "Sentence": "Are there any hammers here?"
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "87.4",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "80.5",
+      "Sentence_cn": "那个盒子后面有一些。",
+      "Sentence": "Yes, there are. There are some behind that box."
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "95.7",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "91.1",
+      "Sentence_cn": "这儿有一些牛奶吗？",
+      "Sentence": "Is there any milk here?"
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "103.0",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "95.8",
+      "Sentence_cn": "是的，有。门前面有一些。",
+      "Sentence": "Yes, there is. There's some in front of the door."
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "113.1",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "109.0",
+      "Sentence_cn": "这儿有一些香皂吗？",
+      "Sentence": "Is there any soap here?"
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "120.2",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "113.2",
+      "Sentence_cn": "是的，有。碗橱里有一些。",
+      "Sentence": "Yes, there is. There's some on the cupboard."
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "130.6",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "126.2",
+      "Sentence_cn": "这儿有一些报纸吗？",
+      "Sentence": "Are there any newspapers here?"
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "137.6",
+      "Paraid": "1",
+      "IdIndex": "16",
+      "Timing": "130.7",
+      "Sentence_cn": "是的，有。那个花瓶后面有一些。",
+      "Sentence": "Yes, there are. There are some behind that vase."
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "146.6",
+      "Paraid": "1",
+      "IdIndex": "17",
+      "Timing": "142.4",
+      "Sentence_cn": "这儿有一些水吗？",
+      "Sentence": "Is there any water here?"
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "153.2",
+      "Paraid": "1",
+      "IdIndex": "18",
+      "Timing": "146.7",
+      "Sentence_cn": "是的，有。那些玻璃瓶里有一些。",
+      "Sentence": "Yes, there is. There's some in those glasses."
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "162.2",
+      "Paraid": "1",
+      "IdIndex": "19",
+      "Timing": "158.1",
+      "Sentence_cn": "这儿有一些茶叶吗？",
+      "Sentence": "Is there any tea here?"
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "169.0",
+      "Paraid": "1",
+      "IdIndex": "20",
+      "Timing": "162.3",
+      "Sentence_cn": "是的，有。那些茶杯里有一些。",
+      "Sentence": "Yes, there is. There's some in those cups."
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "178.3",
+      "Paraid": "1",
+      "IdIndex": "21",
+      "Timing": "174.1",
+      "Sentence_cn": "这儿有一些茶杯吗？",
+      "Sentence": "Are there any cups here?"
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "185.3",
+      "Paraid": "1",
+      "IdIndex": "22",
+      "Timing": "178.4",
+      "Sentence_cn": "是的，有。那个瓶子前面有一些。",
+      "Sentence": "Yes, there are. There are some in front of that kettle."
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "194.9",
+      "Paraid": "1",
+      "IdIndex": "23",
+      "Timing": "191.1",
+      "Sentence_cn": "这儿有一些巧克力吗？",
+      "Sentence": "Is there any chocolate here?"
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "201.4",
+      "Paraid": "1",
+      "IdIndex": "24",
+      "Timing": "195.0",
+      "Sentence_cn": "是的，有。那本书后面有一些。",
+      "Sentence": "Yes, there is. There's some behind that book."
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "211.5",
+      "Paraid": "1",
+      "IdIndex": "25",
+      "Timing": "207.1",
+      "Sentence_cn": "这儿有一些茶壶吗？",
+      "Sentence": "Are there any teapots here?"
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "217.9",
+      "Paraid": "1",
+      "IdIndex": "26",
+      "Timing": "211.6",
+      "Sentence_cn": "是的，有。碗橱里有一些。",
+      "Sentence": "Yes, there are. There are some in the cupboard."
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "227.1",
+      "Paraid": "1",
+      "IdIndex": "27",
+      "Timing": "222.6",
+      "Sentence_cn": "这儿有一些小汽车吗？",
+      "Sentence": "Are there any cars here?"
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "234.7",
+      "Paraid": "1",
+      "IdIndex": "28",
+      "Timing": "227.2",
+      "Sentence_cn": "是的，有。那栋大楼的前面有一些。",
+      "Sentence": "Yes, there are. There are some in front of that building."
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "242.6",
+      "Paraid": "1",
+      "IdIndex": "29",
+      "Timing": "239.1",
+      "Sentence_cn": "这儿有一些咖啡吗？",
+      "Sentence": "Is there any coffee here?"
+    },
+    {
+      "voaid": "1044",
+      "EndTiming": "248.3",
+      "Paraid": "1",
+      "IdIndex": "30",
+      "Timing": "242.7",
+      "Sentence_cn": "是的，有。桌子上有一些。",
+      "Sentence": "Yes, there is. There's some on the table."
+    }
+  ],
+  "size": 30,
+  "title": {
+    "newCategoryid": 1151,
+    "newTitleId": "14228",
+    "title_cn": "有……吗？有……吗？",
+    "title": "Are there any ...? Is there any ...?"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/1_44.mp3"
+}

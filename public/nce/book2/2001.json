@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "voaid": "2001",
+      "EndTiming": "4.0",
+      "Paraid": "1",
+      "IdIndex": "1",
+      "Timing": "0.6",
+      "Sentence_cn": "私人谈话",
+      "Sentence": "--- lesson 1 A private conversation"
+    },
+    {
+      "voaid": "2001",
+      "EndTiming": "7.5",
+      "Paraid": "1",
+      "IdIndex": "2",
+      "Timing": "4.7",
+      "Sentence_cn": "上星期我去看戏。",
+      "Sentence": "Last week I went to the theatre. "
+    },
+    {
+      "voaid": "2001",
+      "EndTiming": "10.3",
+      "Paraid": "1",
+      "IdIndex": "3",
+      "Timing": "8.2",
+      "Sentence_cn": "我的座位很好，",
+      "Sentence": "I had a very good seat. "
+    },
+    {
+      "voaid": "2001",
+      "EndTiming": "13.0",
+      "Paraid": "1",
+      "IdIndex": "4",
+      "Timing": "10.8",
+      "Sentence_cn": "戏很有意思，",
+      "Sentence": "The play was very interesting. "
+    },
+    {
+      "voaid": "2001",
+      "EndTiming": "15.4",
+      "Paraid": "1",
+      "IdIndex": "5",
+      "Timing": "13.8",
+      "Sentence_cn": "但我却无法欣赏。",
+      "Sentence": "I did not enjoy it. "
+    },
+    {
+      "voaid": "2001",
+      "EndTiming": "22.6",
+      "Paraid": "1",
+      "IdIndex": "6",
+      "Timing": "16.1",
+      "Sentence_cn": "一青年男子与一青年女子坐在我的身后，大声地说着话。",
+      "Sentence": "A young man and a young woman were sitting behind me. They were talking loudly. "
+    },
+    {
+      "voaid": "2001",
+      "EndTiming": "25.3",
+      "Paraid": "1",
+      "IdIndex": "7",
+      "Timing": "23.2",
+      "Sentence_cn": "我非常生气，",
+      "Sentence": "I got very angry. "
+    },
+    {
+      "voaid": "2001",
+      "EndTiming": "28.5",
+      "Paraid": "1",
+      "IdIndex": "8",
+      "Timing": "26.0",
+      "Sentence_cn": "因为我听不见演员在说什么。",
+      "Sentence": "I could not hear the actors. "
+    },
+    {
+      "voaid": "2001",
+      "EndTiming": "34.8",
+      "Paraid": "1",
+      "IdIndex": "9",
+      "Timing": "29.2",
+      "Sentence_cn": "我回过头去怒视着那一男一女，",
+      "Sentence": "I turned round. I looked at the man and the woman angrily. "
+    },
+    {
+      "voaid": "2001",
+      "EndTiming": "38.0",
+      "Paraid": "1",
+      "IdIndex": "10",
+      "Timing": "35.5",
+      "Sentence_cn": "他们却毫不理会。",
+      "Sentence": "They did not pay any attention. "
+    },
+    {
+      "voaid": "2001",
+      "EndTiming": "42.2",
+      "Paraid": "1",
+      "IdIndex": "11",
+      "Timing": "38.7",
+      "Sentence_cn": "最后，我忍不住了，",
+      "Sentence": "In the end, I could not bear it. "
+    },
+    {
+      "voaid": "2001",
+      "EndTiming": "44.6",
+      "Paraid": "1",
+      "IdIndex": "12",
+      "Timing": "43.0",
+      "Sentence_cn": "又一次回过头去，",
+      "Sentence": "I turned round again. "
+    },
+    {
+      "voaid": "2001",
+      "EndTiming": "50.5",
+      "Paraid": "1",
+      "IdIndex": "13",
+      "Timing": "45.4",
+      "Sentence_cn": "生气地说：“我一个字也听不见了！”",
+      "Sentence": "'I can't hear a word!' I said angrily. "
+    },
+    {
+      "voaid": "2001",
+      "EndTiming": "56.1",
+      "Paraid": "1",
+      "IdIndex": "14",
+      "Timing": "51.3",
+      "Sentence_cn": "“不关你的事，”那男的毫不客气地说，",
+      "Sentence": "'It's none of your business, ' the young man said rudely. "
+    },
+    {
+      "voaid": "2001",
+      "EndTiming": "59.6",
+      "Paraid": "1",
+      "IdIndex": "15",
+      "Timing": "56.8",
+      "Sentence_cn": "“这是私人间的谈话！”",
+      "Sentence": "'This is a private conversation!'"
+    }
+  ],
+  "size": 15,
+  "title": {
+    "newCategoryid": 1152,
+    "newTitleId": "14351,14352",
+    "title_cn": "私人谈话",
+    "title": "A private conversation"
+  },
+  "audio_us": "https://static.aienglish.com/static2/newconcept/2_1.mp3"
+}
