@@ -6,6 +6,7 @@ import { storageKeyChoice } from '~/constants'
 const router = useRouter()
 const sentencesWritingRef = ref<InstanceType<typeof SentencesWriting>>()
 const markedSentences = useLocalStorage<SentenceInfo[]>(storageKeyChoice, [])
+const { paginatedSentences, pagination, onPageChange } = usePagination()
 
 updateCache()
 
@@ -22,9 +23,6 @@ function updateCache() {
       }
       return false
     })
-    if (cacheItem && !cacheItem.audioUrl) {
-      cacheItem.audioUrl = latestItem.audioUrl
-    }
     return cacheItem || latestItem
   })
 }
@@ -63,8 +61,31 @@ function onMarkClick({ sentence, isMarked }: { sentence: Sentence, isMarked: boo
   setLocalStorageJson(storageKey, { formData: sentenceInfoList })
 }
 
-function shuffle() {
-  markedSentences.value = markedSentences.value.sort(() => Math.random() - 0.5)
+function usePagination() {
+  const itemsPerPage = 20
+  const currentPage = ref(1)
+
+  const paginatedSentences = computed(() => {
+    const start = (currentPage.value - 1) * itemsPerPage
+    const end = start + itemsPerPage
+    return markedSentences.value.slice(start, end)
+  })
+
+  const pagination = computed(() => ({
+    page: currentPage.value,
+    totalItems: markedSentences.value.length,
+    itemsPerPage,
+  }))
+
+  function onPageChange(page: number) {
+    currentPage.value = page
+  }
+
+  return {
+    paginatedSentences,
+    pagination,
+    onPageChange,
+  }
 }
 </script>
 
@@ -80,12 +101,12 @@ function shuffle() {
       <LessonWritingModeSentences
         v-if="markedSentences.length"
         ref="sentencesWritingRef"
-        v-model="markedSentences"
+        v-model="paginatedSentences"
         @mark-click="onMarkClick"
       >
         <template #index="{ sentenceInfo, index }">
           <span class="mr-2">
-            {{ index + 1 }}.
+            {{ pagination.itemsPerPage * (pagination.page - 1) + 1 + index }}.
             <NuxtLink
               :to="`/nce/?book=${Math.floor(sentenceInfo.sentence.lessonId / 1000)}&lessonId=${sentenceInfo.sentence.lessonId}`"
               class="underline hover:text-primary-500"
@@ -97,6 +118,18 @@ function shuffle() {
       </LessonWritingModeSentences>
       <UAlert v-else icon="i-heroicons-information-circle" color="primary" variant="subtle" title="快去添加句子吧~" />
     </UCard>
+    <UPagination
+      :model-value="pagination.page"
+      class="justify-center"
+      :page-count="pagination.itemsPerPage"
+      :total="pagination.totalItems"
+      size="lg"
+      :inactive-button="{ color: 'gray' }"
+      :prev-button="{ color: 'gray' }"
+      :next-button="{ color: 'gray' }"
+      :max="12"
+      @update:model-value="onPageChange($event)"
+    />
     <template v-if="markedSentences.length && sentencesWritingRef">
       <div class="my-8">
         <div class="flex justify-center gap-2">
@@ -112,10 +145,6 @@ function shuffle() {
             <UIcon name="i-heroicons-arrow-path" class="mr-1" />
             重置
           </UButton>
-          <!-- <UButton class="w-32" block variant="outline" @click="shuffle">
-              <UIcon name="i-heroicons-arrow-path-rounded-square" class="mr-1" />
-              乱序
-            </UButton> -->
         </div>
       </div>
     </template>
