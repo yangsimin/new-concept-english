@@ -9,7 +9,7 @@ export default defineAppConfig({
       },
       color: {
         gray: {
-          ghost: 'hover:bg-[#00000011] dark:hover:bg-[#ffffff11]',
+          ghost: 'hover:bg-[#00000008] dark:hover:bg-[#ffffff11]',
         },
       },
     },
