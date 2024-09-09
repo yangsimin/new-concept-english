@@ -105,7 +105,7 @@ function usePagination() {
         @mark-click="onMarkClick"
       >
         <template #index="{ sentenceInfo, index }">
-          <span class="mr-2">
+          <span class="mr-2 whitespace-nowrap">
             {{ pagination.itemsPerPage * (pagination.page - 1) + 1 + index }}.
             <NuxtLink
               :to="`/nce/?book=${Math.floor(sentenceInfo.sentence.lessonId / 1000)}&lessonId=${sentenceInfo.sentence.lessonId}`"
