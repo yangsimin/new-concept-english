@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import type { Lesson, Sentence } from '~/types/lesson'
-import { HOST, storageKeyLastLesson, storageKeyListenMode } from '~/constants'
+import { HOST, storageKeyLastLesson, storageKeyLessonMode } from '~/constants'
 
 const route = useRoute()
 const router = useRouter()
@@ -9,8 +9,7 @@ const bookId = ref(1)
 const lessonId = ref(1001)
 const lessonIdList = ref<number[]>([])
 const currentLesson = ref<Lesson | undefined>()
-
-const isListeningMode = useLocalStorage(storageKeyListenMode, true)
+const { selectedMode, modeOptions, defaultModeIndex, onModeChange } = useMode()
 
 watchEffect(async () => {
   if (!Array.isArray(route.query.book)) {
@@ -106,6 +105,29 @@ function selectLesson(lessonId: number) {
     },
   })
 }
+
+function useMode() {
+  const modeOptions = [
+    { label: '听力模式', value: 'listening', icon: 'material-symbols:headphones-outline-rounded' },
+    { label: '写作模式', value: 'writing', icon: 'material-symbols:edit-outline' },
+    { label: '打字模式', value: 'typing', icon: 'material-symbols:keyboard' },
+  ] as const
+
+  // 从本地存储中获取上次使用的模式，如果没有则默认为'listening'
+  const selectedMode = useLocalStorage<typeof modeOptions[number]['value']>(storageKeyLessonMode, 'typing')
+  const defaultModeIndex = modeOptions.findIndex(mode => mode.value === selectedMode.value)
+
+  const onModeChange = (modeIndex: number) => {
+    selectedMode.value = modeOptions[modeIndex].value
+  }
+
+  return {
+    selectedMode,
+    modeOptions,
+    defaultModeIndex,
+    onModeChange,
+  }
+}
 </script>
 
 <template>
@@ -118,9 +140,20 @@ function selectLesson(lessonId: number) {
           <br> {{ currentLesson?.titleZh }}
         </div>
       </h4>
-      <UTooltip :text="isListeningMode ? '翻译模式' : '听力模式'">
-        <UButton :icon="isListeningMode ? 'material-symbols:edit-outline' : 'material-symbols:headphones-outline-rounded'" @click="() => isListeningMode = !isListeningMode" />
-      </UTooltip>
+
+      <!-- 将选择器替换为标签组件 -->
+      <UTabs
+        :items="(modeOptions as any)"
+        :model-value="defaultModeIndex"
+        :ui="{
+          list: {
+            background: 'bg-[rgb(var(--color-primary-50))]',
+            marker: { background: 'bg-[rgb(var(--color-primary-200))]' },
+          },
+        }"
+        @update:model-value="onModeChange"
+      />
+
       <LessonMenu
         :current-lesson-id="lessonId"
         :lesson-id-list="lessonIdList"
@@ -131,21 +164,25 @@ function selectLesson(lessonId: number) {
         </UTooltip>
       </LessonMenu>
     </header>
-    <main v-if="currentLesson" class="mt-8">
+    <section v-if="currentLesson" class="mt-8">
       <LessonListeningMode
-        v-if="isListeningMode"
+        v-if="selectedMode === 'listening'"
         :current-lesson="currentLesson"
         @next-lesson="stepLesson(1)"
         @prev-lesson="stepLesson(-1)"
       />
       <LessonWritingMode
-        v-else
+        v-else-if="selectedMode === 'writing'"
         :key="currentLesson.id"
         :current-lesson="currentLesson"
         @next-lesson="stepLesson(1)"
         @prev-lesson="stepLesson(-1)"
       />
-    </main>
+      <LessonTypingMode
+        v-else-if="selectedMode === 'typing'"
+        :sentences="currentLesson.sentences"
+      />
+    </section>
   </div>
 </template>
 
