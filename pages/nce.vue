@@ -109,7 +109,7 @@ function selectLesson(lessonId: number) {
 function useMode() {
   const modeOptions = [
     { label: '听力模式', value: 'listening', icon: 'material-symbols:headphones-outline-rounded' },
-    { label: '写作模式', value: 'writing', icon: 'material-symbols:edit-outline' },
+    { label: '翻译模式', value: 'writing', icon: 'material-symbols:edit-outline' },
     { label: '打字模式', value: 'typing', icon: 'material-symbols:keyboard' },
   ] as const
 
@@ -151,6 +151,7 @@ function useMode() {
             marker: { background: 'bg-[rgb(var(--color-primary-200))]' },
           },
         }"
+        :content="false"
         @update:model-value="onModeChange"
       />
 
@@ -160,7 +161,7 @@ function useMode() {
         @select-lesson-id="selectLesson($event)"
       >
         <UTooltip text="课程目录">
-          <UButton icon="material-symbols:menu-book-outline" />
+          <UButton size="md" icon="material-symbols:menu-book-outline" class="ml-2" />
         </UTooltip>
       </LessonMenu>
     </header>
@@ -181,6 +182,7 @@ function useMode() {
       <LessonTypingMode
         v-else-if="selectedMode === 'typing'"
         :sentences="currentLesson.sentences"
+        @next-lesson="stepLesson(1)"
       />
     </section>
   </div>
