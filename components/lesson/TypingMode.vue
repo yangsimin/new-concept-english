@@ -10,13 +10,12 @@ const emit = defineEmits(['nextLesson'])
 const typedText = ref(props.sentences.map(() => ''))
 const currentSentenceIndex = ref(0)
 const { isCompletedDialogOpen, openCompletedDialog, closeCompletedDialog } = useCompletedDialog()
+const sentenceRefs = ref<HTMLElement[]>([])
 
 watchEffect(() => {
   if (!props.sentences) { return }
 
-  typedText.value = props.sentences.map(() => '')
-  currentSentenceIndex.value = 0
-  closeCompletedDialog()
+  restartTyping()
 })
 
 useEventListener('keydown', handleKeyPress)
@@ -53,9 +52,26 @@ function isInputCorrect(key: string, expected: string) {
 function moveToNextSentence() {
   if (currentSentenceIndex.value < props.sentences.length - 1) {
     currentSentenceIndex.value++
+    nextTick(() => {
+      scrollToCurrentSentence()
+    })
   }
   else {
     openCompletedDialog()
+  }
+}
+
+function scrollToCurrentSentence() {
+  const currentSentenceElement = sentenceRefs.value[currentSentenceIndex.value]
+  if (currentSentenceElement) {
+    const rect = currentSentenceElement.getBoundingClientRect()
+    const viewportHeight = window.innerHeight
+    const scrollThreshold = viewportHeight * 0.7 // 当句子在视口底部 70% 以下时滚动
+
+    if (rect.bottom > scrollThreshold) {
+      const scrollAmount = rect.top - viewportHeight * 0.3 // 滚动到视口 30% 的位置
+      window.scrollBy({ top: scrollAmount, behavior: 'smooth' })
+    }
   }
 }
 
@@ -63,6 +79,9 @@ function restartTyping() {
   typedText.value = props.sentences.map(() => '')
   currentSentenceIndex.value = 0
   closeCompletedDialog()
+  nextTick(() => {
+    window.scrollTo({ top: 0, behavior: 'smooth' })
+  })
 }
 
 function goToNextLesson() {
@@ -85,7 +104,11 @@ function useCompletedDialog() {
 
 <template>
   <div class="flex flex-col gap-8 text-base font-mono my-8">
-    <div v-for="(sentence, index) in sentences" :key="index">
+    <div
+      v-for="(sentence, index) in sentences"
+      :key="index"
+      :ref="el => { if (el) sentenceRefs[index] = el as HTMLElement }"
+    >
       <p>{{ sentence.zh }}</p>
       <div class="whitespace-pre-wrap relative">
         <span
