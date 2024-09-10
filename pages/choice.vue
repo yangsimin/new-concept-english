@@ -87,6 +87,13 @@ function usePagination() {
     onPageChange,
   }
 }
+
+function goBack() {
+  if (router.options.history.state.back) {
+    return router.back()
+  }
+  router.push('/')
+}
 </script>
 
 <template>
@@ -95,7 +102,7 @@ function usePagination() {
       <h1 class="text-2xl font-bold">
         精选句子练习
       </h1>
-      <UButton icon="i-heroicons-arrow-left" label="返回" @click="router.go(-1)" />
+      <UButton icon="i-heroicons-arrow-left" label="返回" @click="goBack" />
     </div>
     <UCard class="my-8">
       <LessonWritingModeSentences
