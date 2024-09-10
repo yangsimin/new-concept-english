@@ -114,54 +114,55 @@ function handleSentenceClick(index: number) {
 </script>
 
 <template>
-  <div class="flex flex-col gap-8 text-base font-mono my-8">
-    <div
-      v-for="(sentence, index) in sentences"
-      :key="index"
-      :ref="el => { if (el) sentenceRefs[index] = el as HTMLElement }"
-      class="cursor-pointer"
-      @click="handleSentenceClick(index)"
-    >
-      <p>{{ sentence.zh }}</p>
-      <div class="whitespace-pre-wrap relative">
-        <span
-          v-for="(char, charIndex) in sentence.en"
-          :key="charIndex"
-          :class="{
-            'text-[rgb(var(--color-primary-500))]': charIndex < typedText[index].length,
-            'text-black/20 dark:text-white/20': charIndex >= typedText[index].length,
-          }"
-          class="transition-colors duration-100"
-        >{{ char }}</span>
-        <span
-          v-if="index === currentSentenceIndex && !isCompletedDialogOpen"
-          class="absolute top-0 w-0.5 h-5 bg-[rgb(var(--color-primary-500))] animate-blink"
-          :style="{ left: `${typedText[index].length * 0.6}em` }"
-        />
+  <UCard>
+    <div class="flex flex-col gap-8 text-base font-mono">
+      <div
+        v-for="(sentence, index) in sentences"
+        :key="index"
+        :ref="el => { if (el) sentenceRefs[index] = el as HTMLElement }"
+        class="cursor-pointer"
+        @click="handleSentenceClick(index)"
+      >
+        <p>{{ sentence.zh }}</p>
+        <div class="whitespace-pre-wrap relative">
+          <span
+            v-for="(char, charIndex) in sentence.en"
+            :key="charIndex"
+            :class="{
+              'text-[rgb(var(--color-primary-500))]': charIndex < typedText[index].length,
+              'text-black/20 dark:text-white/20': charIndex >= typedText[index].length,
+            }"
+            class="transition-colors duration-100"
+          >{{ char }}</span>
+          <span
+            v-if="index === currentSentenceIndex && !isCompletedDialogOpen"
+            class="absolute top-0 w-0.5 h-5 bg-[rgb(var(--color-primary-500))] animate-blink"
+            :style="{ left: `${typedText[index].length * 0.6}em` }"
+          />
+        </div>
       </div>
     </div>
-
-    <UModal v-model="isCompletedDialogOpen">
-      <UCard>
-        <template #header>
-          <div class="text-xl font-bold">
-            恭喜完成！
-          </div>
-        </template>
-        <p>您已经完成了所有句子的输入。接下来您想要：</p>
-        <template #footer>
-          <div class="flex justify-end gap-4">
-            <UButton @click="restartTyping">
-              重新开始
-            </UButton>
-            <UButton color="primary" tabindex="1" @click="goToNextLesson">
-              下一课
-            </UButton>
-          </div>
-        </template>
-      </UCard>
-    </UModal>
-  </div>
+  </UCard>
+  <UModal v-model="isCompletedDialogOpen">
+    <UCard>
+      <template #header>
+        <div class="text-xl font-bold">
+          恭喜完成！
+        </div>
+      </template>
+      <p>您已经完成了所有句子的输入。接下来您想要：</p>
+      <template #footer>
+        <div class="flex justify-end gap-4">
+          <UButton @click="restartTyping">
+            重新开始
+          </UButton>
+          <UButton color="primary" tabindex="1" @click="goToNextLesson">
+            下一课
+          </UButton>
+        </div>
+      </template>
+    </UCard>
+  </UModal>
 </template>
 
 <style scoped>
