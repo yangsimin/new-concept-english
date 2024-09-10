@@ -26,3 +26,8 @@ body {
   color: rgb(var(--ui-foreground) / var(--tw-text-opacity));
   font-family: NotoSansSC, DM Sans, "DM Sans Fallback: Arial",  ui-sans-serif, system-ui, sans-serif;
 }
+
+/* 解决滚动条抖动问题 */
+:root {
+  overflow-y: scroll;
+}
