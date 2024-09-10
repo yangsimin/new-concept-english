@@ -28,7 +28,7 @@ function updateCache() {
 }
 
 function queryMarkedSentences(): SentenceInfo[] {
-  const lessonKeys = Object.keys(localStorage).filter(key => key.startsWith('nce-lesson'))
+  const lessonKeys = Object.keys(localStorage).filter(key => key.startsWith('nce-lessonId-'))
   return lessonKeys.map((key) => {
     const cache = getLocalStorageJson<any>(key)
     if (!cache) {
