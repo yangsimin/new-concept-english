@@ -1,17 +1,7 @@
-FROM node:20
+FROM node:20-alpine
 
 WORKDIR /app
 
-COPY . .
+COPY .output .
 
-RUN npm install
-RUN npm run build
-
-CMD node ./.output/server/index.mjs
-
-# FROM nginx:latest
-# COPY --from=0 /app/.output /usr/share/nginx/html
-
-# EXPOSE 8080
-
-# CMD nginx -g daemon off;
+CMD node server/index.mjs
