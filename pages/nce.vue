@@ -109,8 +109,8 @@ function selectLesson(lessonId: number) {
 function useMode() {
   const modeOptions = [
     { label: '听力模式', value: 'listening', icon: 'material-symbols:headphones-outline-rounded' },
-    { label: '翻译模式', value: 'writing', icon: 'material-symbols:edit-outline' },
-    { label: '打字模式', value: 'typing', icon: 'material-symbols:keyboard' },
+    { label: '翻译模式', value: 'writing', icon: 'ri:translate' },
+    { label: '打字模式', value: 'typing', icon: 'material-symbols:keyboard-outline' },
   ] as const
 
   // 从本地存储中获取上次使用的模式，如果没有则默认为'listening'
@@ -149,6 +149,10 @@ function useMode() {
           list: {
             background: 'bg-[rgb(var(--color-primary-50))]',
             marker: { background: 'bg-[rgb(var(--color-primary-200))]' },
+            tab: {
+              icon: 'mr-0 scale-[1.2]',
+              size: 'text-[0px]',
+            },
           },
         }"
         :content="false"
@@ -160,9 +164,7 @@ function useMode() {
         :lesson-id-list="lessonIdList"
         @select-lesson-id="selectLesson($event)"
       >
-        <UTooltip text="课程目录">
-          <UButton size="md" icon="material-symbols:menu-book-outline" class="ml-2" />
-        </UTooltip>
+        <UButton size="md" icon="material-symbols:menu-book-outline" class="ml-2" />
       </LessonMenu>
     </header>
     <section v-if="currentLesson" class="mt-8">

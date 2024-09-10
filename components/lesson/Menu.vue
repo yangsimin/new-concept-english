@@ -18,16 +18,16 @@ function onSelectLesson(id: number) {
 </script>
 
 <template>
-  <div>
-    <div @click="isMenuOpen = true">
+  <UPopover mode="hover" :popper="{ placement: 'top-end' }">
+    <template #default>
       <slot />
-    </div>
-    <UModal v-model="isMenuOpen">
-      <UCard :ui="{ ring: '', divide: 'divide-y divide-gray-100 dark:divide-gray-800' }">
+    </template>
+    <template #panel>
+      <UCard :ui="{ ring: '', divide: 'divide-y divide-gray-100 dark:divide-gray-800' }" class="max-w-[560px] w-[90vw]">
         <template #header>
-          <div class="text-center text-xl font-bold">
+          <h3 class="text-center text-lg font-bold">
             选择课程
-          </div>
+          </h3>
         </template>
         <div class="grid w-full grid-cols-[repeat(auto-fill,minmax(2.5rem,1fr))] grid-rows-[repeat(auto-fill,minmax(2.5rem,1fr))] place-items-center gap-2 overflow-y-auto p-4">
           <UButton
@@ -41,8 +41,8 @@ function onSelectLesson(id: number) {
           </UButton>
         </div>
       </UCard>
-    </UModal>
-  </div>
+    </template>
+  </UPopover>
 </template>
 
 <style scoped>
