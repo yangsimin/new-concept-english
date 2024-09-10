@@ -9,6 +9,15 @@ const props = defineProps<{
 const typedText = ref(props.sentences.map(() => ''))
 const currentSentenceIndex = ref(0)
 
+watchEffect(() => {
+  if (!props.sentences) { return }
+
+  typedText.value = props.sentences.map(() => '')
+  currentSentenceIndex.value = 0
+})
+
+useEventListener('keydown', handleKeyPress)
+
 function handleKeyPress(event: KeyboardEvent) {
   event.preventDefault() // 防止空格键滚动页面
   const currentSentence = props.sentences[currentSentenceIndex.value]
@@ -19,7 +28,7 @@ function handleKeyPress(event: KeyboardEvent) {
   }
   else if (event.key.length === 1) {
     const expectedChar = currentSentence.en[currentTyped.length]
-    if (event.key === expectedChar) {
+    if (isInputCorrect(event.key, expectedChar)) {
       typedText.value[currentSentenceIndex.value] += event.key
 
       // 检查是否需要移动到下一句
@@ -31,19 +40,16 @@ function handleKeyPress(event: KeyboardEvent) {
   }
 }
 
+// 检查输入是否正确，忽略大小写
+function isInputCorrect(key: string, expected: string) {
+  return new RegExp(expected, 'i').test(key)
+}
+
 function moveToNextSentence() {
   if (currentSentenceIndex.value < props.sentences.length - 1) {
     currentSentenceIndex.value++
   }
 }
-
-onMounted(() => {
-  window.addEventListener('keydown', handleKeyPress)
-})
-
-onUnmounted(() => {
-  window.removeEventListener('keydown', handleKeyPress)
-})
 </script>
 
 <template>
