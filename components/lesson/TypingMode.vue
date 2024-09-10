@@ -12,11 +12,11 @@ const currentSentenceIndex = ref(0)
 const { isCompletedDialogOpen, openCompletedDialog, closeCompletedDialog } = useCompletedDialog()
 const sentenceRefs = ref<HTMLElement[]>([])
 
-watchEffect(() => {
+watch(() => props.sentences, () => {
   if (!props.sentences) { return }
 
   restartTyping()
-})
+}, { immediate: true })
 
 useEventListener('keydown', handleKeyPress)
 
@@ -30,6 +30,9 @@ function handleKeyPress(event: KeyboardEvent) {
   if (event.key === 'Backspace') {
     typedText.value[currentSentenceIndex.value] = currentTyped.slice(0, -1)
   }
+  else if (event.key === 'Enter') {
+    moveToNextSentence()
+  }
   else if (event.key.length === 1) {
     const expectedChar = currentSentence.en[currentTyped.length]
     if (isInputCorrect(event.key, expectedChar)) {
@@ -40,7 +43,6 @@ function handleKeyPress(event: KeyboardEvent) {
         moveToNextSentence()
       }
     }
-    // 如果输入错误，不做任何操作
   }
 }
 
@@ -63,15 +65,15 @@ function moveToNextSentence() {
 
 function scrollToCurrentSentence() {
   const currentSentenceElement = sentenceRefs.value[currentSentenceIndex.value]
-  if (currentSentenceElement) {
-    const rect = currentSentenceElement.getBoundingClientRect()
-    const viewportHeight = window.innerHeight
-    const scrollThreshold = viewportHeight * 0.7 // 当句子在视口底部 70% 以下时滚动
+  if (!currentSentenceElement) { return }
 
-    if (rect.bottom > scrollThreshold) {
-      const scrollAmount = rect.top - viewportHeight * 0.3 // 滚动到视口 30% 的位置
-      window.scrollBy({ top: scrollAmount, behavior: 'smooth' })
-    }
+  const rect = currentSentenceElement.getBoundingClientRect()
+  const viewportHeight = window.innerHeight
+  const scrollThreshold = viewportHeight * 0.7 // 当句子在视口底部 70% 以下时滚动
+
+  if (rect.bottom > scrollThreshold) {
+    const scrollAmount = rect.top - viewportHeight * 0.3 // 滚动到视口 30% 的位置
+    window.scrollBy({ top: scrollAmount, behavior: 'smooth' })
   }
 }
 
@@ -100,6 +102,15 @@ function useCompletedDialog() {
     closeCompletedDialog,
   }
 }
+
+function handleSentenceClick(index: number) {
+  currentSentenceIndex.value = index
+  // 重置从点击的句子开始的所有输入
+  typedText.value[currentSentenceIndex.value] = ''
+  nextTick(() => {
+    scrollToCurrentSentence()
+  })
+}
 </script>
 
 <template>
@@ -108,6 +119,8 @@ function useCompletedDialog() {
       v-for="(sentence, index) in sentences"
       :key="index"
       :ref="el => { if (el) sentenceRefs[index] = el as HTMLElement }"
+      class="cursor-pointer"
+      @click="handleSentenceClick(index)"
     >
       <p>{{ sentence.zh }}</p>
       <div class="whitespace-pre-wrap relative">
@@ -116,7 +129,7 @@ function useCompletedDialog() {
           :key="charIndex"
           :class="{
             'text-[rgb(var(--color-primary-500))]': charIndex < typedText[index].length,
-            'text-black/15 dark:text-white/20': charIndex >= typedText[index].length,
+            'text-black/20 dark:text-white/20': charIndex >= typedText[index].length,
           }"
           class="transition-colors duration-100"
         >{{ char }}</span>
