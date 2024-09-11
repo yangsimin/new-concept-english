@@ -1,0 +1,22 @@
+version: '3'
+name: nce-app
+
+services:
+  app:
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile
+    image: simonyang1993/nce:latest
+    environment:
+      - HOST=0.0.0.0
+    ports:
+      - "3000:3000"
+  
+  nginx:
+    image: nginx:alpine
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - app
