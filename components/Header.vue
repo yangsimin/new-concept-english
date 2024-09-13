@@ -31,5 +31,7 @@
     />
 
     <HeaderCacheManager />
+
+    <HeaderSettings />
   </header>
 </template>
