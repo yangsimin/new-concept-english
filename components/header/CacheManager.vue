@@ -46,41 +46,23 @@ function handleExportCache() {
 </script>
 
 <template>
-  <header class="container h-[var(--header-height)] flex items-center justify-end gap-2 text-xl">
+  <UTooltip text="导出精选句子">
     <UButton
-      color="primary"
-      size="xl"
-      class="mr-auto font-bold"
-      @click="$router.push('/')"
-    >
-      New Concept English
-    </UButton>
-    <NuxtLink to="/choice">
-      <UTooltip text="精选句子练习">
-        <UButton icon="ph:list-star-duotone" />
-      </UTooltip>
-    </NuxtLink>
-    <LayoutColorPicker />
-    <LayoutDarkToggle />
-    <UButton
-      icon="simple-icons-github"
-      to="https://github.com/yangsimin/new-concept-english-web-app"
-      target="_blank"
-      title="Github"
+      icon="uil-export"
+      @click="handleExportCache"
     />
-    <UTooltip text="导出精选句子">
-      <UButton
-        icon="uil-export"
-        @click="handleExportCache"
-      />
-    </UTooltip>
-    <UTooltip text="导入精选句子">
-      <UButton class="px-1.5">
-        <label class="cursor-pointer h-5">
-          <UIcon name="uil-import" class="w-5 h-5" />
-          <input type="file" accept=".json" class="hidden" @change="handleImportCache">
-        </label>
-      </UButton>
-    </UTooltip>
-  </header>
+  </UTooltip>
+
+  <UTooltip text="导入精选句子">
+    <UButton class="px-1.5">
+      <label class="cursor-pointer h-5">
+        <UIcon name="uil-import" class="w-5 h-5" />
+        <input type="file" accept=".json" class="hidden" @change="handleImportCache">
+      </label>
+    </UButton>
+  </UTooltip>
 </template>
+
+<style scoped>
+
+</style>
