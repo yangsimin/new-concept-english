@@ -125,7 +125,7 @@ function calculateCursorPosition(index: number): number {
 
 <template>
   <UCard>
-    <div class="flex flex-col gap-8 text-base">
+    <div class="flex flex-col gap-8 text-base font-mono">
       <div
         v-for="(sentence, index) in sentences"
         :key="index"

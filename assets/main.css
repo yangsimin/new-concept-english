@@ -7,11 +7,6 @@
   src: url("./fonts/DMSans-VariableFont_opsz,wght.ttf");
 }
 
-@font-face {
-  font-family: Comic Mono;
-  src: url("./fonts/ComicMono.ttf");
-}
-
 :root {
   scroll-behavior: smooth;
   --header-height: 4rem;
@@ -29,7 +24,7 @@ body {
   background-color: rgb(var(--ui-background) / var(--tw-bg-opacity));
   --tw-text-opacity: 1;
   color: rgb(var(--ui-foreground) / var(--tw-text-opacity));
-  font-family: Comic Mono, NotoSansSC, "DM Sans Fallback: Arial",  ui-sans-serif, system-ui, sans-serif;
+  font-family: NotoSansSC, DM Sans, "DM Sans Fallback: Arial",  ui-sans-serif, system-ui, sans-serif;
 }
 
 /* 解决滚动条抖动问题 */

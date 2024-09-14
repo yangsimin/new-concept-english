@@ -176,7 +176,7 @@ defineExpose({
 </script>
 
 <template>
-  <article class="flex flex-col mx-auto min-w-[36rem] w-full gap-4 text-base">
+  <article class="flex flex-col mx-auto min-w-[36rem] w-full gap-4 text-base font-mono">
     <div v-for="(eachItem, index) of formData" :key="eachItem.sentence.startAt">
       <div class="flex items-center justify-between">
         <slot name="index" :index="index" :sentence-info="eachItem">
