@@ -7,10 +7,12 @@ const props = defineProps<{
 
 const emit = defineEmits(['nextLesson'])
 
-const typedText = ref(props.sentences.map(() => ''))
+const typedText = ref<string[]>([])
+
 const currentSentenceIndex = ref(0)
 const { isCompletedDialogOpen, openCompletedDialog, closeCompletedDialog } = useCompletedDialog()
 const sentenceRefs = ref<HTMLElement[]>([])
+const hiddenSpanRef = ref<HTMLSpanElement | null>(null)
 
 watch(() => props.sentences, () => {
   if (!props.sentences) { return }
@@ -111,6 +113,14 @@ function handleSentenceClick(index: number) {
     scrollToCurrentSentence()
   })
 }
+
+function calculateCursorPosition(index: number): number {
+  if (!hiddenSpanRef.value) { return 0 }
+
+  const currentTypedText = typedText.value[index] || ''
+  hiddenSpanRef.value.textContent = currentTypedText
+  return hiddenSpanRef.value.offsetWidth
+}
 </script>
 
 <template>
@@ -137,10 +147,20 @@ function handleSentenceClick(index: number) {
           <span
             v-if="index === currentSentenceIndex && !isCompletedDialogOpen"
             class="absolute top-0 w-0.5 h-5 bg-[rgb(var(--color-primary-500))] animate-blink"
-            :style="{ left: `${typedText[index].length * 0.6}em` }"
+            :style="{ left: `${calculateCursorPosition(index)}px` }"
           />
         </div>
       </div>
+      <!-- 添加一个隐藏的 span 用于计算文本宽度 -->
+      <span
+        ref="hiddenSpanRef"
+        class="absolute opacity-0 pointer-events-none whitespace-pre"
+        :style="{
+          font: 'inherit',
+          fontSize: 'inherit',
+          lineHeight: 'inherit',
+        }"
+      />
     </div>
   </UCard>
   <UModal v-model="isCompletedDialogOpen">
@@ -156,7 +176,7 @@ function handleSentenceClick(index: number) {
           <UButton @click="restartTyping">
             重新开始
           </UButton>
-          <UButton color="primary" tabindex="1" @click="goToNextLesson">
+          <UButton color="primary" tabindex="1" variant="solid" @click="goToNextLesson">
             下一课
           </UButton>
         </div>
