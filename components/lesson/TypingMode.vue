@@ -176,7 +176,7 @@ function calculateCursorPosition(index: number): number {
           <UButton @click="restartTyping">
             重新开始
           </UButton>
-          <UButton color="primary" tabindex="1" @click="goToNextLesson">
+          <UButton color="primary" tabindex="1" variant="solid" @click="goToNextLesson">
             下一课
           </UButton>
         </div>
