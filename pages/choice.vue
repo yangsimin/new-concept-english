@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import type { Sentence, SentenceInfo } from '~/types/lesson'
 import type SentencesWriting from '~/components/lesson/WritingModeSentences.vue'
-import { storageKeyChoice } from '~/constants'
+import { storageKeyChoice, storageKeyChoicePage } from '~/constants'
 
 const router = useRouter()
 const sentencesWritingRef = ref<InstanceType<typeof SentencesWriting>>()
@@ -63,7 +63,7 @@ function onMarkClick({ sentence, isMarked }: { sentence: Sentence, isMarked: boo
 
 function usePagination() {
   const itemsPerPage = 20
-  const currentPage = ref(1)
+  const currentPage = useLocalStorage(storageKeyChoicePage, 1)
 
   const paginatedSentences = computed(() => {
     const start = (currentPage.value - 1) * itemsPerPage

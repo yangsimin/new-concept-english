@@ -5,6 +5,7 @@ export const storageKeyLessonMode = 'nce-lesson-mode'
 export const storageKeyLastLesson = 'nce-last-lesson'
 export const storageKeyAiPrompt = 'nce-ai-prompt'
 export const storageKeyChoice = 'nce-choice'
+export const storageKeyChoicePage = 'nce-choice-page'
 export const HOST = 'http://139.159.153.45:3004'
 
 export const defaultPrompt = `你扮演一位资深的雅思培训老师，请看下面三段文字：
