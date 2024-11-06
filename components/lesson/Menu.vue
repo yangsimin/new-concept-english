@@ -18,7 +18,7 @@ function onSelectLesson(id: number) {
 </script>
 
 <template>
-  <UPopover mode="hover" :popper="{ placement: 'top-end' }">
+  <UPopover mode="hover" :popper="{ placement: 'top-end' }" :close-delay="300">
     <template #default>
       <slot />
     </template>

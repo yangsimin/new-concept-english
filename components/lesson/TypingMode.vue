@@ -12,7 +12,6 @@ const typedText = ref<string[]>([])
 const currentSentenceIndex = ref(0)
 const { isCompletedDialogOpen, openCompletedDialog, closeCompletedDialog } = useCompletedDialog()
 const sentenceRefs = ref<HTMLElement[]>([])
-const hiddenSpanRef = ref<HTMLSpanElement | null>(null)
 
 watch(() => props.sentences, () => {
   if (!props.sentences) { return }
@@ -114,13 +113,43 @@ function handleSentenceClick(index: number) {
   })
 }
 
-function calculateCursorPosition(index: number): number {
-  if (!hiddenSpanRef.value) { return 0 }
+function calculateCursorPosition(index: number) {
+  const currentSentenceElement = sentenceRefs.value[index]
+  const sentenceTextElement = currentSentenceElement?.querySelector('.sentence-text')
+  if (!currentSentenceElement || !sentenceTextElement) {
+    return { left: 0, top: 0 }
+  }
 
-  const currentTypedText = typedText.value[index] || ''
-  hiddenSpanRef.value.textContent = currentTypedText
-  return hiddenSpanRef.value.offsetWidth
+  const charElements = Array.from(sentenceTextElement.querySelectorAll('.char'))
+  const currentTypedLength = typedText.value[index]?.length || 0
+
+  if (currentTypedLength === 0) {
+    return { left: 0, top: 0 }
+  }
+
+  const firstTypedChar = charElements[0]
+  const lastTypedChar = charElements[currentTypedLength - 1]
+  if (!firstTypedChar || !lastTypedChar) {
+    return { left: 0, top: 0 }
+  }
+
+  const firstCharRect = firstTypedChar.getBoundingClientRect()
+  const lastCharRect = lastTypedChar.getBoundingClientRect()
+  const containerRect = currentSentenceElement.getBoundingClientRect()
+
+  const firstBaseline = firstCharRect.bottom - (firstCharRect.height * 0.2) // 调整基线位置
+  const lastBaseline = lastCharRect.bottom - (lastCharRect.height * 0.2)
+
+  return {
+    left: lastCharRect.right - containerRect.left,
+    top: lastBaseline - firstBaseline, // 向上偏移以对齐文本
+  }
 }
+
+// 移除未使用的计算属性
+const cursorPosition = computed(() => {
+  return calculateCursorPosition(currentSentenceIndex.value)
+})
 </script>
 
 <template>
@@ -134,7 +163,7 @@ function calculateCursorPosition(index: number): number {
         @click="handleSentenceClick(index)"
       >
         <p>{{ sentence.zh }}</p>
-        <div class="whitespace-pre-wrap relative">
+        <div class="whitespace-pre-wrap relative sentence-text">
           <span
             v-for="(char, charIndex) in sentence.en"
             :key="charIndex"
@@ -142,25 +171,18 @@ function calculateCursorPosition(index: number): number {
               'text-[rgb(var(--color-primary-500))]': charIndex < typedText[index].length,
               'text-black/20 dark:text-white/20': charIndex >= typedText[index].length,
             }"
-            class="transition-colors duration-100"
+            class="char transition-colors duration-100"
           >{{ char }}</span>
           <span
             v-if="index === currentSentenceIndex && !isCompletedDialogOpen"
-            class="absolute top-0 w-0.5 h-5 bg-[rgb(var(--color-primary-500))] animate-blink"
-            :style="{ left: `${calculateCursorPosition(index)}px` }"
+            class="absolute w-0.5 h-5 bg-[rgb(var(--color-primary-500))] animate-blink"
+            :style="{
+              left: `${cursorPosition.left}px`,
+              top: `${cursorPosition.top}px`,
+            }"
           />
         </div>
       </div>
-      <!-- 添加一个隐藏的 span 用于计算文本宽度 -->
-      <span
-        ref="hiddenSpanRef"
-        class="absolute opacity-0 pointer-events-none whitespace-pre"
-        :style="{
-          font: 'inherit',
-          fontSize: 'inherit',
-          lineHeight: 'inherit',
-        }"
-      />
     </div>
   </UCard>
   <UModal v-model="isCompletedDialogOpen">
