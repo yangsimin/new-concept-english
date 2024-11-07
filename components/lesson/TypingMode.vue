@@ -128,21 +128,21 @@ function calculateCursorPosition(index: number) {
   }
 
   const firstTypedChar = charElements[0]
-  const lastTypedChar = charElements[currentTypedLength - 1]
-  if (!firstTypedChar || !lastTypedChar) {
-    return { left: 0, top: 0 }
-  }
+  const nextTypedChar = charElements[currentTypedLength]
 
   const firstCharRect = firstTypedChar.getBoundingClientRect()
-  const lastCharRect = lastTypedChar.getBoundingClientRect()
+  const nextCharRect = nextTypedChar.getBoundingClientRect()
   const containerRect = currentSentenceElement.getBoundingClientRect()
 
   const firstBaseline = firstCharRect.bottom - (firstCharRect.height * 0.2) // 调整基线位置
-  const lastBaseline = lastCharRect.bottom - (lastCharRect.height * 0.2)
+  const nextBaseline = nextCharRect.bottom - (nextCharRect.height * 0.2)
+
+  const left = nextCharRect.left - containerRect.left
+  const top = nextBaseline - firstBaseline
 
   return {
-    left: lastCharRect.right - containerRect.left,
-    top: lastBaseline - firstBaseline, // 向上偏移以对齐文本
+    left,
+    top,
   }
 }
 
