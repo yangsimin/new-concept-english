@@ -130,6 +130,8 @@ function calculateCursorPosition(index: number) {
   const firstTypedChar = charElements[0]
   const nextTypedChar = charElements[currentTypedLength]
 
+  if (!nextTypedChar) { return }
+
   const firstCharRect = firstTypedChar.getBoundingClientRect()
   const nextCharRect = nextTypedChar.getBoundingClientRect()
   const containerRect = currentSentenceElement.getBoundingClientRect()
@@ -174,7 +176,7 @@ const cursorPosition = computed(() => {
             class="char transition-colors duration-100"
           >{{ char }}</span>
           <span
-            v-if="index === currentSentenceIndex && !isCompletedDialogOpen"
+            v-if="index === currentSentenceIndex && !isCompletedDialogOpen && cursorPosition"
             class="absolute w-0.5 h-5 bg-[rgb(var(--color-primary-500))] animate-blink"
             :style="{
               left: `${cursorPosition.left}px`,
