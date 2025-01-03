@@ -8,3 +8,9 @@
 - [x] 使用 Git Action 自动部署
 - [ ] 配置 SSR 渲染
 - [ ] 完善 Server 逻辑; 处理异常请求
+
+## 构建 Docker Image
+```shell
+cd deploy
+docker-compose build
+```
