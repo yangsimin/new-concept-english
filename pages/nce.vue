@@ -167,7 +167,7 @@ function useMode() {
         <UButton size="md" icon="material-symbols:menu-book-outline" class="ml-2" />
       </LessonMenu>
     </header>
-    <section v-if="currentLesson" class="mt-8 w-screen ml-[50%] translate-x-[-50%] lg:px-8">
+    <section v-if="currentLesson" class="mt-8 xl:w-screen xl:ml-[50%] xl:translate-x-[-50%] xl:px-12">
       <LessonListeningMode
         v-if="selectedMode === 'listening'"
         :current-lesson="currentLesson"
