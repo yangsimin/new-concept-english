@@ -10,7 +10,7 @@
 - [ ] 完善 Server 逻辑; 处理异常请求
 
 ## 构建 Docker Image
+
 ```shell
-cd deploy
-docker-compose build
+pnpm deploy
 ```

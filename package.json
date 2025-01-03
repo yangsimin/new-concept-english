@@ -13,7 +13,9 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
     "lint": "eslint",
-    "lint:fix": "eslint . --fix"
+    "lint:fix": "eslint . --fix",
+    "docker:build": "cd deploy && docker-compose build && cd ..",
+    "deploy": "pnpm build && pnpm docker:build"
   },
   "dependencies": {
     "diff": "^5.2.0"
