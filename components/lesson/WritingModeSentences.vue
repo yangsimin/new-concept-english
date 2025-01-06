@@ -71,7 +71,7 @@ onUnmounted(() => {
 function submitSingle(i: SentenceInfo) {
   // FIXME: 解决重复问题，需要加上索引判断
   formData.value = formData.value.map((item) => {
-    if (i.sentence.zh === item.sentence.zh) {
+    if (i.sentence.index === item.sentence.index) {
       item.diffChanges = checkResult(item)
       item.isAnswerVisible = true
     }
@@ -90,7 +90,7 @@ function submit() {
 
 function clearSingle(i: SentenceInfo) {
   formData.value = formData.value.map((item) => {
-    if (i.sentence.zh === item.sentence.zh) {
+    if (i.sentence.index === item.sentence.index) {
       item.inputText = ''
       item.diffChanges = []
       item.isAnswerVisible = false

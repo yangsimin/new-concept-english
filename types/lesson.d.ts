@@ -12,6 +12,7 @@ export interface Sentence {
   stopAt: number
   en: string
   zh: string
+  index: number
 }
 
 export interface SentenceInfo {

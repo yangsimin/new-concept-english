@@ -47,9 +47,18 @@ if (!formData.value.length) {
       isMarked: false,
       inputText: '',
       sentence,
-      audioUrl: currentLesson.value.audioUrl,
+      // audioUrl: currentLesson.value.audioUrl,
     }
   })
+}
+else {
+  // TODO: 兼容 sentence 不含 index 的情况，后续可以删除
+  const hasIndex = formData.value.every(s => s.sentence.index)
+  if (!hasIndex) {
+    formData.value.forEach((s, index) => {
+      s.sentence.index = index
+    })
+  }
 }
 </script>
 

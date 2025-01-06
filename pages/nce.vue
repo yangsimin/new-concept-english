@@ -65,13 +65,14 @@ async function requestLesson(book: number, lessonId: number): Promise<Lesson | n
       id: lessonId,
       titleEn: lesson.title.title,
       titleZh: lesson.title.title_cn,
-      sentences: lesson.data.slice(1).map((s: any) => ({
+      sentences: lesson.data.slice(1).map((s: any, index: number) => ({
         startAt: Number(s.Timing),
         stopAt: Number(s.EndTiming),
         en: s.Sentence,
         zh: s.Sentence_cn,
         lessonId,
         sentenceId: s.IdIndex,
+        index,
       } satisfies Sentence)),
     } satisfies Lesson),
   })
