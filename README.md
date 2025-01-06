@@ -12,5 +12,5 @@
 ## 构建 Docker Image
 
 ```shell
-pnpm deploy
+pnpm run deploy
 ```
