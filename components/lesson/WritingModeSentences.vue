@@ -221,10 +221,10 @@ defineExpose({
           @keydown.stop.exact
           @keydown.enter.shift.prevent="keyFnMap['shift+enter'].fn"
           @keydown.esc.exact="($event.target as HTMLElement).blur()"
-          @keydown.r.ctrl="clearSingle(eachItem)"
-          @keydown.m.ctrl="handleMarkClick(eachItem)"
-          @keydown.p.ctrl="copySentencePrompt(eachItem)"
-          @keydown.s.ctrl="playSound(eachItem)"
+          @keydown.r.ctrl.prevent="clearSingle(eachItem)"
+          @keydown.m.ctrl.prevent="handleMarkClick(eachItem)"
+          @keydown.p.ctrl.prevent="copySentencePrompt(eachItem)"
+          @keydown.s.ctrl.prevent="playSound(eachItem)"
         />
       </div>
       <div class="pl-1 pr-20" :class="[eachItem.isAnswerVisible ? 'opacity-100' : 'opacity-0'] ">
