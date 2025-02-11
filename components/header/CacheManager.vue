@@ -38,7 +38,12 @@ function handleImportCache(event: Event) {
 function handleExportCache() {
   const keys = Object.keys(localStorage).filter(key => key.startsWith('nce'))
   const cache = keys.reduce((obj, key) => {
-    obj[key] = JSON.parse(localStorage[key])
+    try {
+      obj[key] = JSON.parse(localStorage[key])
+    } 
+    catch {
+      obj[key] = localStorage[key]
+    }
     return obj
   }, {} as any)
   downloadJson(cache)
